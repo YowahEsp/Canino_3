@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>El Mundo Canino — edición digital</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;0,600;0,900;1,500&family=Newsreader:ital,wght@0,400;0,500;1,400&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --paper: #F0E9D6;
+  --paper-card: #F8F4E8;
+  --ink: #241C15;
+  --ink-soft: #5B5142;
+  --ink-faint: #6B6150;
+  --forest: #2E4A38;
+  --forest-dark: #16241B;
+  --rule: #C9BCA0;
+  --gold: #8C6A1E;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: 'Newsreader', Georgia, serif;
+  font-size: 17px;
+  line-height: 1.55;
+  padding-bottom: 60px;
+}
+a { color: inherit; }
+img { max-width: 100%; }
+
+/* ---------- Masthead ---------- */
+.masthead { max-width: 1100px; margin: 0 auto; padding: 48px 24px 0; text-align: center; }
+.masthead-eyebrow {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.72rem; letter-spacing: 0.16em; text-transform: uppercase;
+  color: var(--ink-faint); margin-bottom: 10px;
+}
+.masthead-title {
+  font-family: 'Fraunces', serif; font-weight: 900;
+  font-size: clamp(2.6rem, 7vw, 4.8rem);
+  letter-spacing: -0.01em; line-height: 1;
+}
+.masthead-tagline { font-style: italic; font-size: 1.05rem; color: var(--ink-soft); margin-top: 14px; }
+.masthead-rules { max-width: 720px; margin: 26px auto 0; }
+.masthead-rules .thick { height: 3px; background: var(--ink); }
+.masthead-rules .thin { height: 1px; background: var(--ink); margin-top: 4px; }
+
+.edition-bar {
+  max-width: 720px; margin: 0 auto; padding: 14px 24px 20px;
+  display: flex; align-items: center; justify-content: space-between;
+  flex-wrap: wrap; gap: 10px;
+}
+.edition-switch { display: flex; gap: 24px; }
+.edition-btn {
+  font-family: 'IBM Plex Mono', monospace; font-size: 0.78rem;
+  letter-spacing: 0.06em; text-transform: uppercase;
+  background: none; border: none; cursor: pointer; color: var(--ink-faint);
+  padding: 4px 0 6px; border-bottom: 2px solid transparent;
+  transition: color .2s, border-color .2s;
+}
+.edition-btn[aria-selected="true"] { color: var(--forest); border-color: var(--forest); }
+.edition-btn:hover { color: var(--forest-dark); }
+.edition-date { font-family: 'IBM Plex Mono', monospace; font-size: 0.76rem; color: var(--ink-faint); }
+
+/* ---------- Edition section ---------- */
+.edition { max-width: 1100px; margin: 0 auto; padding: 32px 24px 0; }
+.edition + .edition { margin-top: 8px; border-top: 4px double var(--ink); padding-top: 44px; }
+.edition-label {
+  font-family: 'IBM Plex Mono', monospace; font-size: 0.72rem;
+  letter-spacing: 0.14em; text-transform: uppercase; color: var(--gold);
+  border: 1px solid var(--gold); display: inline-block; padding: 3px 10px;
+  margin-bottom: 20px; border-radius: 2px;
+}
+
+/* ---------- Hero ---------- */
+.hero { display: grid; grid-template-columns: 1fr; gap: 20px; padding-bottom: 30px; }
+@media (min-width: 760px) { .hero { grid-template-columns: 1.05fr 1fr; align-items: start; gap: 40px; } }
+.hero-media { position: relative; overflow: hidden; background: var(--paper-card); }
+.hero-media img { width: 100%; height: 320px; object-fit: cover; display: block; }
+.hero-media::after {
+  content: ""; position: absolute; bottom: 0; right: 0; width: 0; height: 0;
+  border-style: solid; border-width: 0 0 46px 46px;
+  border-color: transparent transparent var(--paper) transparent;
+  filter: drop-shadow(-2px -2px 4px rgba(36,28,21,0.3));
+}
+.hero-headline { font-family: 'Fraunces', serif; font-weight: 600; font-size: clamp(1.6rem, 3.2vw, 2.3rem); line-height: 1.14; margin-bottom: 14px; }
+.hero-excerpt { color: var(--ink-soft); font-size: 1.06rem; margin-bottom: 18px; }
+.hero-byline {
+  font-family: 'IBM Plex Mono', monospace; font-size: 0.78rem; color: var(--ink-faint);
+  display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+  padding-top: 14px; border-top: 1px solid var(--rule);
+}
+.hero-byline a { font-weight: 600; text-decoration: none; color: var(--forest); }
+.hero-byline a:hover { text-decoration: underline; }
+
+.section-rule { height: 1px; background: var(--rule); margin: 2px 0 26px; }
+
+/* ---------- Briefs grid ---------- */
+.briefs-grid { display: grid; grid-template-columns: 1fr; column-gap: 34px; border-top: 1px solid var(--rule); }
+@media (min-width: 640px) { .briefs-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 980px) { .briefs-grid { grid-template-columns: repeat(3, 1fr); } }
+.brief { display: flex; gap: 14px; padding: 18px 0; border-bottom: 1px solid var(--rule); }
+.brief-thumb { flex: none; width: 84px; height: 84px; object-fit: cover; background: var(--paper-card); }
+.brief-body { flex: 1; min-width: 0; }
+.brief-headline { font-family: 'Fraunces', serif; font-weight: 600; font-size: 1.02rem; line-height: 1.25; margin-bottom: 6px; }
+.brief-excerpt {
+  font-size: 0.87rem; color: var(--ink-soft); margin-bottom: 8px;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.brief-byline { font-family: 'IBM Plex Mono', monospace; font-size: 0.7rem; color: var(--ink-faint); display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+.brief-byline a { text-decoration: none; color: var(--forest); }
+.brief-byline a:hover { text-decoration: underline; }
+
+/* ---------- Buttons ---------- */
+.translate-btn {
+  font-family: 'IBM Plex Mono', monospace; font-size: 0.72rem; background: none; border: none;
+  color: var(--forest); cursor: pointer; padding: 0; text-decoration: underline; text-underline-offset: 2px;
+}
+.translate-btn:disabled { color: var(--ink-faint); cursor: default; text-decoration: none; }
+
+.load-more-wrap { text-align: center; margin: 44px 0 0; }
+.load-more-btn {
+  font-family: 'IBM Plex Mono', monospace; font-size: 0.82rem; letter-spacing: 0.08em; text-transform: uppercase;
+  background: var(--paper); border: 1.5px solid var(--ink); color: var(--ink);
+  padding: 12px 32px; cursor: pointer; transition: background .2s, color .2s;
+}
+.load-more-btn:hover { background: var(--ink); color: var(--paper); }
+.load-more-btn:disabled { opacity: 0.45; cursor: default; }
+
+.loading-msg, .empty-msg {
+  font-family: 'IBM Plex Mono', monospace; font-size: 0.85rem; color: var(--ink-faint);
+  text-align: center; padding: 50px 20px;
+}
+
+.site-footer {
+  max-width: 680px; margin: 56px auto 0; padding: 20px 24px 0; border-top: 1px solid var(--rule);
+  font-size: 0.78rem; color: var(--ink-faint); text-align: center;
+}
+
+/* Foco visible para accesibilidad de teclado */
+button:focus-visible, a:focus-visible { outline: 2px solid var(--forest); outline-offset: 2px; }
+
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <p class="masthead-eyebrow">Edición digital · perros, razas y cuidado</p>
+  <h1 class="masthead-title">El Mundo Canino</h1>
+  <p class="masthead-tagline">Las últimas noticias sobre perros, razas, cuidados y entrenamiento</p>
+  <div class="masthead-rules"><div class="thick"></div><div class="thin"></div></div>
+</header>
+
+<nav class="edition-bar" aria-label="Elegir edición">
+  <div class="edition-switch" role="tablist">
+    <button class="edition-btn" role="tab" data-mode="es" aria-selected="true">Edición ES</button>
+    <button class="edition-btn" role="tab" data-mode="en" aria-selected="false">Edición EN</button>
+    <button class="edition-btn" role="tab" data-mode="both" aria-selected="false">Ambas ediciones</button>
+  </div>
+  <span class="edition-date" id="edition-date"></span>
+</nav>
+
+<main id="editions">
+  <p class="loading-msg">Cargando la edición de hoy…</p>
+</main>
+
+<div class="load-more-wrap">
+  <button id="load-more" class="load-more-btn" style="display:none">Cargar más noticias</button>
+</div>
+
+<footer class="site-footer">
+  <p>El Mundo Canino es un proyecto personal sin fines comerciales. Fuentes: Newsdata.io, TheNewsAPI, Currents, Mediastack, y los RSS de srperro.com y dogster.com. Los datos se actualizan mediante una GitHub Action programada.</p>
+</footer>
+
+<script>
+const PAGE_SIZE = 9;
+const DOG_IMGS = [
+  'https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=400&h=250&fit=crop&auto=format&q=80',
+  'https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=400&h=250&fit=crop&auto=format&q=80',
+  'https://images.unsplash.com/photo-1552053831-71594a27632d?w=400&h=250&fit=crop&auto=format&q=80',
+];
+let imgIdx = 0;
+const dogImg = () => DOG_IMGS[imgIdx++ % DOG_IMGS.length];
+
+let newsData = { es: [], en: [] };
+let viewMode = 'es';
+const revealed = { es: 0, en: 0 }; // nº de breves revelados, sin contar el hero
+
+const mainEl = document.getElementById('editions');
+const loadMoreBtn = document.getElementById('load-more');
+const editionDateEl = document.getElementById('edition-date');
+
+function escapeHtml(s) {
+  return (s || '').replace(/[&<>]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
+}
+function escapeAttr(s) {
+  return escapeHtml(s).replace(/"/g, '&quot;');
+}
+function formatDate(iso, lang) {
+  try { return new Date(iso).toLocaleDateString(lang === 'es' ? 'es-ES' : 'en-US', { dateStyle: 'long' }); }
+  catch { return ''; }
+}
+
+function heroTemplate(art, lang) {
+  const fallback = dogImg();
+  const img = art.urlToImage || fallback;
+  const translateBtn = lang === 'en'
+    ? `<button class="translate-btn" data-title="${escapeAttr(art.title)}" data-desc="${escapeAttr(art.description)}">traducir</button>`
+    : '';
+  return `
+    <article class="hero" data-id="${escapeAttr(art.id)}">
+      <div class="hero-media">
+        <img src="${escapeAttr(img)}" alt="${escapeAttr(art.title)}" loading="lazy"
+             onerror="this.onerror=null;this.src='${fallback}'">
+      </div>
+      <div class="hero-copy">
+        <h2 class="hero-headline">${escapeHtml(art.title)}</h2>
+        ${art.description ? `<p class="hero-excerpt">${escapeHtml(art.description)}</p>` : ''}
+        <div class="hero-byline">
+          <span>${escapeHtml(art.sourceName)}</span>
+          <span>${formatDate(art.publishedAt, lang)}</span>
+          ${translateBtn}
+          <a href="${escapeAttr(art.url)}" target="_blank" rel="noopener noreferrer">Leer más →</a>
+        </div>
+      </div>
+    </article>`;
+}
+
+function briefTemplate(art, lang) {
+  const fallback = dogImg();
+  const img = art.urlToImage || fallback;
+  const translateBtn = lang === 'en'
+    ? `<button class="translate-btn" data-title="${escapeAttr(art.title)}" data-desc="${escapeAttr(art.description)}">traducir</button>`
+    : '';
+  return `
+    <div class="brief" data-id="${escapeAttr(art.id)}">
+      <img class="brief-thumb" src="${escapeAttr(img)}" alt="" loading="lazy"
+           onerror="this.onerror=null;this.src='${fallback}'">
+      <div class="brief-body">
+        <h3 class="brief-headline">${escapeHtml(art.title)}</h3>
+        ${art.description ? `<p class="brief-excerpt">${escapeHtml(art.description)}</p>` : ''}
+        <div class="brief-byline">
+          <span>${escapeHtml(art.sourceName)}</span>
+          ${translateBtn}
+          <a href="${escapeAttr(art.url)}" target="_blank" rel="noopener noreferrer">Leer más</a>
+        </div>
+      </div>
+    </div>`;
+}
+
+function renderEdition(lang) {
+  const arr = newsData[lang] || [];
+  const section = document.createElement('section');
+  section.className = 'edition';
+  section.dataset.lang = lang;
+
+  const label = document.createElement('div');
+  label.className = 'edition-label';
+  label.textContent = lang === 'es' ? 'Portada · Español' : 'Front page · English';
+  section.appendChild(label);
+
+  if (arr.length === 0) {
+    const empty = document.createElement('p');
+    empty.className = 'empty-msg';
+    empty.textContent = 'No hay noticias disponibles ahora mismo para esta edición.';
+    section.appendChild(empty);
+    return section;
+  }
+
+  section.insertAdjacentHTML('beforeend', heroTemplate(arr[0], lang));
+  if (arr.length > 1) {
+    section.insertAdjacentHTML('beforeend', '<div class="section-rule"></div>');
+    const grid = document.createElement('div');
+    grid.className = 'briefs-grid';
+    grid.id = 'briefs-' + lang;
+    section.appendChild(grid);
+    for (let i = 1; i <= revealed[lang]; i++) {
+      grid.insertAdjacentHTML('beforeend', briefTemplate(arr[i], lang));
+    }
+  }
+  return section;
+}
+
+function activeLangs() {
+  return viewMode === 'both' ? ['es', 'en'] : [viewMode];
+}
+
+function renderAll() {
+  mainEl.innerHTML = '';
+  activeLangs().forEach(lang => mainEl.appendChild(renderEdition(lang)));
+  updateLoadMoreButton();
+}
+
+function revealMore() {
+  activeLangs().forEach(lang => {
+    const arr = newsData[lang] || [];
+    const grid = document.getElementById('briefs-' + lang);
+    if (!grid || arr.length <= 1) return;
+    const start = revealed[lang] + 1;
+    const end = Math.min(revealed[lang] + PAGE_SIZE, arr.length - 1);
+    for (let i = start; i <= end; i++) grid.insertAdjacentHTML('beforeend', briefTemplate(arr[i], lang));
+    revealed[lang] = end;
+  });
+  updateLoadMoreButton();
+}
+
+function updateLoadMoreButton() {
+  const canLoadMore = activeLangs().some(lang => {
+    const total = (newsData[lang] || []).length;
+    return revealed[lang] < total - 1;
+  });
+  loadMoreBtn.style.display = canLoadMore ? 'inline-block' : 'none';
+}
+
+async function handleTranslateClick(event) {
+  const btn = event.target.closest('.translate-btn');
+  if (!btn) return;
+  const wrap = btn.closest('.hero, .brief');
+  if (!wrap) return;
+  const headlineEl = wrap.querySelector('.hero-headline, .brief-headline');
+  const excerptEl = wrap.querySelector('.hero-excerpt, .brief-excerpt');
+  btn.disabled = true;
+  btn.textContent = 'traduciendo…';
+  try {
+    const text = btn.dataset.title + ' ||| ' + btn.dataset.desc;
+    const res = await fetch('https://api.mymemory.translated.net/get?q=' + encodeURIComponent(text) + '&langpair=en|es');
+    const data = await res.json();
+    const parts = data.responseData.translatedText.split('|||').map(s => s.trim());
+    if (headlineEl && parts[0]) headlineEl.textContent = parts[0];
+    if (excerptEl && parts[1]) excerptEl.textContent = parts[1];
+    btn.textContent = 'traducido';
+  } catch (e) {
+    btn.textContent = 'error — reintentar';
+    btn.disabled = false;
+  }
+}
+
+document.querySelectorAll('.edition-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    viewMode = btn.dataset.mode;
+    document.querySelectorAll('.edition-btn').forEach(b => b.setAttribute('aria-selected', String(b === btn)));
+    renderAll();
+  });
+});
+loadMoreBtn.addEventListener('click', revealMore);
+mainEl.addEventListener('click', handleTranslateClick);
+
+async function init() {
+  try {
+    const res = await fetch('noticias.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    newsData = await res.json();
+  } catch (e) {
+    mainEl.innerHTML = '<p class="empty-msg">No se ha podido cargar noticias.json. Comprueba que la GitHub Action ya se haya ejecutado al menos una vez y que el fichero esté en la misma carpeta que esta página.</p>';
+    console.error(e);
+    return;
+  }
+
+  ['es', 'en'].forEach(lang => {
+    const len = (newsData[lang] || []).length;
+    revealed[lang] = Math.min(PAGE_SIZE, Math.max(len - 1, 0));
+  });
+
+  if (newsData.generatedAt) {
+    try {
+      editionDateEl.textContent = 'Actualizado: ' + new Date(newsData.generatedAt).toLocaleString('es-ES', { dateStyle: 'long', timeStyle: 'short' });
+    } catch {}
+  }
+
+  renderAll();
+}
+
+document.addEventListener('DOMContentLoaded', init);
+</script>
+</body>
+</html>
