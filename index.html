@@ -4,9 +4,10 @@
 <meta charset="UTF-8">
 <title>El Mundo Canino — edición digital</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;0,600;0,900;1,500&family=Newsreader:ital,wght@0,400;0,500;1,400&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+<!-- Sin dependencias externas: tipografías del sistema (Georgia / mono) con
+     degradación elegante. Si tienes Fraunces / Newsreader / IBM Plex Mono
+     instaladas en el equipo, se usarán automáticamente; si no, se ven bien
+     igualmente y NO se hace ninguna petición a Google. -->
 <style>
 :root {
   --paper: #F0E9D6;
@@ -35,12 +36,12 @@ img { max-width: 100%; }
 /* ---------- Masthead ---------- */
 .masthead { max-width: 1100px; margin: 0 auto; padding: 48px 24px 0; text-align: center; }
 .masthead-eyebrow {
-  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace;
   font-size: 0.72rem; letter-spacing: 0.16em; text-transform: uppercase;
   color: var(--ink-faint); margin-bottom: 10px;
 }
 .masthead-title {
-  font-family: 'Fraunces', serif; font-weight: 900;
+  font-family: 'Fraunces', Georgia, 'Times New Roman', serif; font-weight: 900;
   font-size: clamp(2.6rem, 7vw, 4.8rem);
   letter-spacing: -0.01em; line-height: 1;
 }
@@ -56,7 +57,7 @@ img { max-width: 100%; }
 }
 .edition-switch { display: flex; gap: 24px; }
 .edition-btn {
-  font-family: 'IBM Plex Mono', monospace; font-size: 0.78rem;
+  font-family: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace; font-size: 0.78rem;
   letter-spacing: 0.06em; text-transform: uppercase;
   background: none; border: none; cursor: pointer; color: var(--ink-faint);
   padding: 4px 0 6px; border-bottom: 2px solid transparent;
@@ -64,13 +65,13 @@ img { max-width: 100%; }
 }
 .edition-btn[aria-selected="true"] { color: var(--forest); border-color: var(--forest); }
 .edition-btn:hover { color: var(--forest-dark); }
-.edition-date { font-family: 'IBM Plex Mono', monospace; font-size: 0.76rem; color: var(--ink-faint); }
+.edition-date { font-family: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace; font-size: 0.76rem; color: var(--ink-faint); }
 
 /* ---------- Edition section ---------- */
 .edition { max-width: 1100px; margin: 0 auto; padding: 32px 24px 0; }
 .edition + .edition { margin-top: 8px; border-top: 4px double var(--ink); padding-top: 44px; }
 .edition-label {
-  font-family: 'IBM Plex Mono', monospace; font-size: 0.72rem;
+  font-family: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace; font-size: 0.72rem;
   letter-spacing: 0.14em; text-transform: uppercase; color: var(--gold);
   border: 1px solid var(--gold); display: inline-block; padding: 3px 10px;
   margin-bottom: 20px; border-radius: 2px;
@@ -87,10 +88,10 @@ img { max-width: 100%; }
   border-color: transparent transparent var(--paper) transparent;
   filter: drop-shadow(-2px -2px 4px rgba(36,28,21,0.3));
 }
-.hero-headline { font-family: 'Fraunces', serif; font-weight: 600; font-size: clamp(1.6rem, 3.2vw, 2.3rem); line-height: 1.14; margin-bottom: 14px; }
+.hero-headline { font-family: 'Fraunces', Georgia, 'Times New Roman', serif; font-weight: 600; font-size: clamp(1.6rem, 3.2vw, 2.3rem); line-height: 1.14; margin-bottom: 14px; }
 .hero-excerpt { color: var(--ink-soft); font-size: 1.06rem; margin-bottom: 18px; }
 .hero-byline {
-  font-family: 'IBM Plex Mono', monospace; font-size: 0.78rem; color: var(--ink-faint);
+  font-family: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace; font-size: 0.78rem; color: var(--ink-faint);
   display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
   padding-top: 14px; border-top: 1px solid var(--rule);
 }
@@ -106,25 +107,25 @@ img { max-width: 100%; }
 .brief { display: flex; gap: 14px; padding: 18px 0; border-bottom: 1px solid var(--rule); }
 .brief-thumb { flex: none; width: 84px; height: 84px; object-fit: cover; background: var(--paper-card); }
 .brief-body { flex: 1; min-width: 0; }
-.brief-headline { font-family: 'Fraunces', serif; font-weight: 600; font-size: 1.02rem; line-height: 1.25; margin-bottom: 6px; }
+.brief-headline { font-family: 'Fraunces', Georgia, 'Times New Roman', serif; font-weight: 600; font-size: 1.02rem; line-height: 1.25; margin-bottom: 6px; }
 .brief-excerpt {
   font-size: 0.87rem; color: var(--ink-soft); margin-bottom: 8px;
   display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
 }
-.brief-byline { font-family: 'IBM Plex Mono', monospace; font-size: 0.7rem; color: var(--ink-faint); display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+.brief-byline { font-family: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace; font-size: 0.7rem; color: var(--ink-faint); display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
 .brief-byline a { text-decoration: none; color: var(--forest); }
 .brief-byline a:hover { text-decoration: underline; }
 
 /* ---------- Buttons ---------- */
 .translate-btn {
-  font-family: 'IBM Plex Mono', monospace; font-size: 0.72rem; background: none; border: none;
+  font-family: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace; font-size: 0.72rem; background: none; border: none;
   color: var(--forest); cursor: pointer; padding: 0; text-decoration: underline; text-underline-offset: 2px;
 }
 .translate-btn:disabled { color: var(--ink-faint); cursor: default; text-decoration: none; }
 
 .load-more-wrap { text-align: center; margin: 44px 0 0; }
 .load-more-btn {
-  font-family: 'IBM Plex Mono', monospace; font-size: 0.82rem; letter-spacing: 0.08em; text-transform: uppercase;
+  font-family: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace; font-size: 0.82rem; letter-spacing: 0.08em; text-transform: uppercase;
   background: var(--paper); border: 1.5px solid var(--ink); color: var(--ink);
   padding: 12px 32px; cursor: pointer; transition: background .2s, color .2s;
 }
@@ -132,7 +133,7 @@ img { max-width: 100%; }
 .load-more-btn:disabled { opacity: 0.45; cursor: default; }
 
 .loading-msg, .empty-msg {
-  font-family: 'IBM Plex Mono', monospace; font-size: 0.85rem; color: var(--ink-faint);
+  font-family: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace; font-size: 0.85rem; color: var(--ink-faint);
   text-align: center; padding: 50px 20px;
 }
 
@@ -179,10 +180,40 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--forest); outlin
 
 <script>
 const PAGE_SIZE = 9;
+// Reservas 100% locales (SVG en data-URI). Sin dependencias remotas: si una
+// noticia no trae imagen, o la suya falla, se muestra un motivo del periódico.
+const svgUri = svg => 'data:image/svg+xml,' +
+  encodeURIComponent(svg.trim().replace(/\s+/g, ' ')).replace(/'/g, '%27').replace(/"/g, '%22');
 const DOG_IMGS = [
-  'https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=400&h=250&fit=crop&auto=format&q=80',
-  'https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=400&h=250&fit=crop&auto=format&q=80',
-  'https://images.unsplash.com/photo-1552053831-71594a27632d?w=400&h=250&fit=crop&auto=format&q=80',
+  // Huella
+  svgUri(`<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 250'>
+    <rect width='400' height='250' fill='#F0E9D6'/>
+    <g fill='#C9BCA0'>
+      <ellipse cx='200' cy='158' rx='46' ry='38'/>
+      <ellipse cx='150' cy='104' rx='18' ry='23'/>
+      <ellipse cx='183' cy='84' rx='18' ry='23'/>
+      <ellipse cx='217' cy='84' rx='18' ry='23'/>
+      <ellipse cx='250' cy='104' rx='18' ry='23'/>
+    </g></svg>`),
+  // Hueso
+  svgUri(`<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 250'>
+    <rect width='400' height='250' fill='#F0E9D6'/>
+    <g fill='#C9BCA0'>
+      <rect x='150' y='117' width='100' height='18' rx='9'/>
+      <circle cx='150' cy='116' r='14'/><circle cx='150' cy='136' r='14'/>
+      <circle cx='250' cy='116' r='14'/><circle cx='250' cy='136' r='14'/>
+    </g></svg>`),
+  // Perro (silueta simple)
+  svgUri(`<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 250'>
+    <rect width='400' height='250' fill='#F0E9D6'/>
+    <g fill='#C9BCA0'>
+      <ellipse cx='200' cy='150' rx='58' ry='50'/>
+      <path d='M150 118 q-14 -40 6 -46 q16 -4 20 34 z'/>
+      <path d='M250 118 q14 -40 -6 -46 q-16 -4 -20 34 z'/>
+      <circle cx='182' cy='146' r='7' fill='#F0E9D6'/>
+      <circle cx='218' cy='146' r='7' fill='#F0E9D6'/>
+      <ellipse cx='200' cy='170' rx='11' ry='8' fill='#8C6A1E'/>
+    </g></svg>`),
 ];
 let imgIdx = 0;
 const dogImg = () => DOG_IMGS[imgIdx++ % DOG_IMGS.length];
@@ -206,12 +237,20 @@ function formatDate(iso, lang) {
   catch { return ''; }
 }
 
+// Botón "traducir": si la Action ya incrustó la traducción (title_es/
+// description_es), se añaden como data-* para aplicarla al instante sin red.
+function translateBtnHtml(art, lang) {
+  if (lang !== 'en') return '';
+  const pre = (art.title_es || art.description_es)
+    ? ` data-title-es="${escapeAttr(art.title_es || '')}" data-desc-es="${escapeAttr(art.description_es || '')}"`
+    : '';
+  return `<button class="translate-btn" data-title="${escapeAttr(art.title)}" data-desc="${escapeAttr(art.description)}"${pre}>traducir</button>`;
+}
+
 function heroTemplate(art, lang) {
   const fallback = dogImg();
   const img = art.urlToImage || fallback;
-  const translateBtn = lang === 'en'
-    ? `<button class="translate-btn" data-title="${escapeAttr(art.title)}" data-desc="${escapeAttr(art.description)}">traducir</button>`
-    : '';
+  const translateBtn = translateBtnHtml(art, lang);
   return `
     <article class="hero" data-id="${escapeAttr(art.id)}">
       <div class="hero-media">
@@ -234,9 +273,7 @@ function heroTemplate(art, lang) {
 function briefTemplate(art, lang) {
   const fallback = dogImg();
   const img = art.urlToImage || fallback;
-  const translateBtn = lang === 'en'
-    ? `<button class="translate-btn" data-title="${escapeAttr(art.title)}" data-desc="${escapeAttr(art.description)}">traducir</button>`
-    : '';
+  const translateBtn = translateBtnHtml(art, lang);
   return `
     <div class="brief" data-id="${escapeAttr(art.id)}">
       <img class="brief-thumb" src="${escapeAttr(img)}" alt="" loading="lazy"
@@ -324,6 +361,17 @@ async function handleTranslateClick(event) {
   if (!wrap) return;
   const headlineEl = wrap.querySelector('.hero-headline, .brief-headline');
   const excerptEl = wrap.querySelector('.hero-excerpt, .brief-excerpt');
+
+  // Traducción ya incrustada por la Action: instantánea y sin red.
+  if (btn.dataset.titleEs || btn.dataset.descEs) {
+    if (headlineEl && btn.dataset.titleEs) headlineEl.textContent = btn.dataset.titleEs;
+    if (excerptEl && btn.dataset.descEs) excerptEl.textContent = btn.dataset.descEs;
+    btn.textContent = 'traducido';
+    btn.disabled = true;
+    return;
+  }
+
+  // Reserva: traducción bajo demanda vía MyMemory (único punto con red).
   btn.disabled = true;
   btn.textContent = 'traduciendo…';
   try {
