@@ -1,0 +1,48 @@
+name: Actualizar noticias caninas
+
+on:
+  schedule:
+    # Cada 30 min (:00 y :30). Ya NO genera un commit en cada ejecución:
+    # el script solo reescribe noticias.json cuando cambia el contenido,
+    # así que el historial no se infla aunque el cron sea frecuente.
+    - cron: '*/30 * * * *'
+  workflow_dispatch: {}
+    # Lanzar a mano desde la pestaña "Actions" (útil para el primer arranque).
+
+# Evita que dos ejecuciones se solapen (p.ej. un run manual mientras corre
+# el cron). La nueva espera a que termine la anterior en vez de pisarla.
+concurrency:
+  group: fetch-news
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Obtener y normalizar noticias
+        run: node scripts/fetch-news.js
+        env:
+          NEWSDATA_KEY:   ${{ secrets.NEWSDATA_KEY }}
+          THENEWSAPI_KEY: ${{ secrets.THENEWSAPI_KEY }}
+          CURRENTS_KEY:   ${{ secrets.CURRENTS_KEY }}
+          MEDIASTACK_KEY: ${{ secrets.MEDIASTACK_KEY }}
+          # Opcional: sube el cupo diario de traducción de MyMemory.
+          # Si no defines el secret, se traduce igual con el cupo anónimo.
+          MYMEMORY_EMAIL: ${{ secrets.MYMEMORY_EMAIL }}
+
+      - name: Guardar noticias.json si ha cambiado
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Actualiza noticias.json'
+          file_pattern: 'noticias.json'
