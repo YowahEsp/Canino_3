@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T20:51:02.228Z",
+  "generatedAt": "2026-07-06T22:11:19.465Z",
   "es": [
     {
       "id": "es-0",
@@ -176,6 +176,39 @@
   "en": [
     {
       "id": "en-0",
+      "title": "A howling good time: Wayne 4-H dog project happenings",
+      "description": "Youth exhibitors participated in clinics to prepare for showmanship, obedience and rally events.",
+      "url": "https://www.the-daily-record.com/story/lifestyle/columns/2026/07/06/dog-projects-growing-for-4-h/90786564007/",
+      "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2026/07/02/NDAR/90786735007-screenshot-20260702-at-22921-pm.png?auto=webp&crop=987,555,x0,y42&format=pjpg&width=1200",
+      "publishedAt": "2026-07-06 09:03:17",
+      "sourceName": "the_daily_record",
+      "title_es": "Un buen momento: Wayne 4-H Dog Project Happings",
+      "description_es": "Expositores juveniles participaron en clínicas para prepararse para espectáculos, obediencia y eventos de rally."
+    },
+    {
+      "id": "en-1",
+      "title": "No bones about it: Here are the 10 top dog names in Kentucky",
+      "description": "Sniffspot data reveals the most popular dog names in Kentucky and how they compare to national trends.",
+      "url": "https://www.courier-journal.com/story/life/pets/2026/07/06/most-popular-dog-names-in-kentucky-in-2026/90524053007/",
+      "urlToImage": "https://www.courier-journal.com/gcdn/authoring/authoring-images/2025/12/02/PLOU/87569476007-may-ksp-dog-ju-01.jpg?crop=4922,2769,x0,y0&width=1600&height=800&format=pjpg&auto=webp",
+      "publishedAt": "2026-07-06 09:02:55",
+      "sourceName": "courierjournal",
+      "title_es": "Sin rodeos: estos son los 10 mejores nombres de perros en Kentucky",
+      "description_es": "Los datos de Sniffspot revelan los nombres de perros más populares en Kentucky y cómo se comparan con las tendencias nacionales."
+    },
+    {
+      "id": "en-2",
+      "title": "Why do dogs spin before lying down? The surprising reason has nothing to do with comfort but ancient survival instincts",
+      "description": "Dogs spin in circles before lying down for a reason, not by accident. Animal behavior experts say this common dog habit comes from wild ancestors that flattened grass, checked for predators, and chose safe sleeping spots",
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-do-dogs-spin-before-lying-down-the-surprising-reason-has-nothing-to-do-with-comfort-but-ancient-survival-instincts/articleshow/132165563.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-132165723,resizemode-4,width-1200,height-900,imgsize-2911412,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-06 09:02:10",
+      "sourceName": "economictimes_indiatimes",
+      "title_es": "¿Por qué los perros giran antes de acostarse? La sorprendente razón no tiene nada que ver con la comodidad, sino con los antiguos instintos de supervivencia",
+      "description_es": "Los perros giran en círculos antes de acostarse por una razón, no por accidente. Los expertos en comportamiento animal dicen que este hábito común de los perros proviene de antepasados salvajes que aplanaron el pasto, revisaron a los depredadores y eligieron lugares seguros para dormir"
+    },
+    {
+      "id": "en-3",
       "title": "In 2014, a neuroscientist named Gregory Berns trained a group of dogs to lie completely still inside a functional MRI scanner and measured what happened in their brains when they smelled their owners — and the reward centers of the dogs’ brains lit up more brightly for their owners than for any other scent, including the scent of other dogs in their own households",
       "description": "In March 2014, in the specific issue of the peer-reviewed academic journal Behavioural Processes published in that month, three American researchers — the Emory University neuroscientist Gregory Berns, his Emory postdoct",
       "url": "https://spacedaily.com/d-in-2014-a-neuroscientist-named-gregory-berns-trained-a-group-of-dogs-to-lie-completely-still-inside-a-functional-mri-scanner-and-measured-what-happened-in-their-brains-when-they-smelled-their-owners/",
@@ -184,7 +217,7 @@
       "sourceName": "spacedaily"
     },
     {
-      "id": "en-1",
+      "id": "en-4",
       "title": "'I was a hairdresser but I prefer styling pets'",
       "description": "The skills for dog grooming are similar to hairdressing, Allie Underhill from Stoke-on-Trent says.",
       "url": "https://www.bbc.co.uk/news/articles/crm01e38zxvo",
@@ -193,7 +226,7 @@
       "sourceName": "bbc"
     },
     {
-      "id": "en-2",
+      "id": "en-5",
       "title": "Luna, an energetic 3-year-old mixed breed, is searching for her perfect match",
       "description": "Luna, an energetic 3-year-old mixed breed, is ready to find her people.",
       "url": "https://www.wmur.com/article/new-hampshire-dog-adoption-luna/71794635",
@@ -202,7 +235,7 @@
       "sourceName": "wmur"
     },
     {
-      "id": "en-3",
+      "id": "en-6",
       "title": "Four-legged rescue dogs lead search efforts after Venezuela earthquakes",
       "description": "In the shattered concrete and twisted steel left by Venezuela’s twin earthquakes, Sisu works with the single-minded drive of a dog chasing her favorite prize: an orange and blue ball. Strapped into a blue harness, the re",
       "url": "https://axadletimes.com/ax-world/four-legged-rescue-dogs-lead-search-efforts-venezu.html5",
@@ -211,7 +244,7 @@
       "sourceName": "axadletimes"
     },
     {
-      "id": "en-4",
+      "id": "en-7",
       "title": "From stray to top dog: Noah thriving at Christchurch Airport",
       "description": "Noah went from living on the streets to sniffing out food as a proud member of the canine biosecurity task force at Christchurch Airport. Photo: Supplied via RNZ A stray dog has gone from rags to riches, securing a job a",
       "url": "https://www.odt.co.nz/star-news/star-christchurch/stray-top-dog-noah-thriving-christchurch-airport-rnz",
@@ -220,7 +253,7 @@
       "sourceName": "odt"
     },
     {
-      "id": "en-5",
+      "id": "en-8",
       "title": "Noah the former stray thriving as sniffer dog at Christchurch Airport",
       "description": "Noah went from living on the streets to sniffing out food as a proud member of the canine biosecurity task force at Christchurch Airport. Photo: Supplied via RNZ A stray dog has gone from rags to riches, securing a job a",
       "url": "https://www.odt.co.nz/news/national/noah-former-stray-thriving-sniffer-dog-christchurch-airport-rnz",
@@ -229,7 +262,7 @@
       "sourceName": "odt"
     },
     {
-      "id": "en-6",
+      "id": "en-9",
       "title": "Unwrapping the Perfect Gift: Celebrating Dog Lovers’ Birthdays with Tail-Wagging Joy",
       "description": "Discover the ideal dog‐lover birthday gift with our top picks, tips, and heart‐warming ideas that guarantee tail‐wagging joy. The post Unwrapping the Perfect Gift: Celebrating Dog Lovers’ Birthdays with Tail-Wagging Joy ",
       "url": "https://filmdaily.co/lifestyle/unwrapping-the-perfect-giftdog-lovers-birthdays-with-tail-wagging-joy/",
@@ -238,7 +271,7 @@
       "sourceName": "filmdaily"
     },
     {
-      "id": "en-7",
+      "id": "en-10",
       "title": "Dog trainer issues alert for households leaving pet home alone",
       "description": "Dogs are naturally social animals, so it's entirely normal for them to feel anxious when left by themselves. Now one dog trainer revealed what to do when leaving your pet home alone",
       "url": "https://www.walesonline.co.uk/lifestyle/dog-trainer-issues-alert-households-34234107",
@@ -247,7 +280,7 @@
       "sourceName": "walesonline"
     },
     {
-      "id": "en-8",
+      "id": "en-11",
       "title": "Tales for Tails: An evening with author David Rosenfelt, benefitting Old Dogs New Digs",
       "description": "Join bestselling mystery author David Rosenfelt for a special evening benefiting Old Dogs New Digs as we celebrate our 10th anniversary of rescuing senior dogs and cats. The evening will feature a hearty small-plate buff",
       "url": "https://www.mainepublic.org/community-calendar/event/tales-for-tails-an-evening-with-author-david-rosenfelt-benefitting-old-dogs-new-digs-06-07-2026-09-38-12",
@@ -256,7 +289,16 @@
       "sourceName": "mainepublic_org"
     },
     {
-      "id": "en-9",
+      "id": "en-12",
+      "title": "New Memoir “Ocho corazones y un cielo” Explores the Transformative Power of Pet Adoption and Loss",
+      "description": "Silvia Abercrombie’s emotional journey with her eight beloved dogs offers comfort and hope to anyone navigating the profound grief of losing a pet.",
+      "url": "https://www.einpresswire.com/article/924810624/new-memoir-ocho-corazones-y-un-cielo-explores-the-transformative-power-of-pet-adoption-and-loss",
+      "urlToImage": "https://img.einnews.com/ampsize/1146309/ocho-corazones-y-un-cielo-boo.jpeg",
+      "publishedAt": "2026-07-06 00:00:00",
+      "sourceName": "einpresswire"
+    },
+    {
+      "id": "en-13",
       "title": "Rescue dogs guide search efforts after powerful earthquakes strike Venezuela",
       "description": "In the shattered remains of Venezuela’s quake-ravaged buildings, Sisu works with the same single-minded drive she brings to chasing her favorite toy — an orange and blue ball. Strapped into her blue harness, the restless",
       "url": "https://jowhar.com/rescue-dogs-guide-search-efforts-after-powerful-earthquakes-strike-venezuela/",
@@ -265,7 +307,7 @@
       "sourceName": "jowhar"
     },
     {
-      "id": "en-10",
+      "id": "en-14",
       "title": "Scotland's 'Disneyland for dogs' is looking for a new owner",
       "description": "",
       "url": "https://www.dailyrecord.co.uk/scotland-now/scotlands-disneyland-dogs-looking-new-37384525",
@@ -274,7 +316,7 @@
       "sourceName": "dailyrecord"
     },
     {
-      "id": "en-11",
+      "id": "en-15",
       "title": "Boneless chicken, eggs, fruits: Kolkata Police plans specialised menu for dog squad",
       "description": "Boneless chicken, eggs, fruits: Kolkata Police plans specialised menu for dog squad",
       "url": "https://timesofindia.indiatimes.com/city/kolkata/boneless-chicken-eggs-fruits-kolkata-police-plans-specialised-menu-for-dog-squad/articleshow/132201534.cms",
@@ -283,7 +325,7 @@
       "sourceName": "toi"
     },
     {
-      "id": "en-12",
+      "id": "en-16",
       "title": "Four-legged rescuers lead way after Venezuela quakes",
       "description": "11 days after one of Latin America's worst earthquake disasters killed nearly 3,000 people, international teams are winding up their missions with little hope of finding more people alive. But dogs played a key role.",
       "url": "https://www.rte.ie/news/2026/0705/1581887-venezuela-dogs/",
@@ -292,7 +334,7 @@
       "sourceName": "rte_ie"
     },
     {
-      "id": "en-13",
+      "id": "en-17",
       "title": "New charity dog show set to make its debut in Ludgershall",
       "description": "A brand new charity dog show is set to take place in Ludgershall.",
       "url": "https://www.andoveradvertiser.co.uk/news/26250176.ludgershall-event-support-dogs-needing-forever-homes/",
@@ -301,25 +343,7 @@
       "sourceName": "andoveradvertiser"
     },
     {
-      "id": "en-14",
-      "title": "Top 5 most active dog breeds",
-      "description": "Here are five dog breeds that are known for their endless enthusiasm and active nature.",
-      "url": "https://timesofindia.indiatimes.com/etimes/animals/top-5-most-active-dog-breeds/photostory/132197058.cms",
-      "urlToImage": "https://static.toiimg.com/photo/https://static.toiimg.com/thumb/msid-132197068,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-05 14:14:55",
-      "sourceName": "toi"
-    },
-    {
-      "id": "en-15",
-      "title": "Canine charity show is all fur a good paws",
-      "description": "The Lochaber and District Canine Society’s annual charity Companion Dog Show returns to the Nevis Centre on July 21.",
-      "url": "https://www.westcoasttoday.co.uk/news/canine-charity-show-is-all-fur-a-good-paws",
-      "urlToImage": null,
-      "publishedAt": "2026-07-05 14:00:00",
-      "sourceName": "westcoasttoday_uk"
-    },
-    {
-      "id": "en-16",
+      "id": "en-18",
       "title": "Canine cardio? How a mobile dog gym keeps your pup healthy",
       "description": "Waggin' Wheels is a mobile dog gym in Halifax that comes right to your door. The business helps dogs exercise safely in the heat of summer or in the dead of win...",
       "url": "https://www.cbc.ca/player/play/video/9.6888463?cmp=rss",
@@ -328,7 +352,7 @@
       "sourceName": "cbc.ca"
     },
     {
-      "id": "en-17",
+      "id": "en-19",
       "title": "Truck Swerves To Hit Dog, Misses, Then Crushes Pregnant Canine In 2nd Try",
       "description": "A heart-wrenching video from Jaipur shows a pickup truck swerving to allegedly try and run over a dog and then crushing another pregnant canine to death.",
       "url": "https://www.ndtv.com/india-news/jaipur-truck-swerves-to-hit-dog-crushes-pregnant-canine-when-1st-attempt-fails-8181842",
@@ -337,7 +361,7 @@
       "sourceName": "ndtv.com"
     },
     {
-      "id": "en-18",
+      "id": "en-20",
       "title": "Madras Canine Club’s dog shows draw to a close",
       "description": "All Breeds Championship dog shows by Madras Canine Club conclude with German Shepherds and Doberman winning top prizes.",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-dog-shows-draw-to-a-close/article69116790.ece",
@@ -346,7 +370,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-19",
+      "id": "en-21",
       "title": "Is dog perfume necessary for your canine companion?",
       "description": "Luxury fashion house Dolce & Gabbana has unveiled a new dog perfume named \"Fefé.\"",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/is-dog-perfume-necessary-for-your-canine-companion/",
@@ -355,7 +379,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-20",
+      "id": "en-22",
       "title": "Recognising signs of canine asthma in your Dog",
       "description": "Asthma in dogs is an allergic disease characterised by inflammation and constriction of the small airways in the lungs...",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/recognising-signs-of-canine-asthma-in-your-dog/",
@@ -364,7 +388,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-21",
+      "id": "en-23",
       "title": "Taiwan to soon welcome its first indigenous dog as a police canine",
       "description": "",
       "url": "https://focustaiwan.tw/society/202404200004",
@@ -373,7 +397,7 @@
       "sourceName": "focustaiwan.tw"
     },
     {
-      "id": "en-22",
+      "id": "en-24",
       "title": "Detroit TSA canine handler suspended over video of him pulling dog",
       "description": "A TSA canine handler was suspended from his duties after a viral video captured him aggressively yanking a bomb-detecting dog in a busy airport.",
       "url": "https://nypost.com/2023/05/08/detroit-tsa-worker-suspended-over-video-of-him-pulling-dog/",
@@ -382,7 +406,7 @@
       "sourceName": "nypost.com"
     },
     {
-      "id": "en-23",
+      "id": "en-25",
       "title": "Curtains come down on Madras Canine Club’s dog shows",
       "description": "570 dogs belonging to 69 breeds participated in the two-day event",
       "url": "https://www.thehindu.com/news/cities/chennai/curtains-come-down-on-madras-canine-clubs-dog-shows/article65880058.ece",
@@ -391,7 +415,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-24",
+      "id": "en-26",
       "title": "Madras Canine Club’s All Breeds Championship Dog Shows begin",
       "description": "Over 570 canines from 69 different breeds have registered this year",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-all-breeds-championship-dog-shows-begin/article65875162.ece",
