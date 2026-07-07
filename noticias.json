@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-07-07T22:37:05.543Z",
+  "generatedAt": "2026-07-07T23:55:21.965Z",
   "es": [
     {
       "id": "es-0",
+      "title": "Raül Aranda y Júlia Autonell, educadores caninos: \"Cuando atribuimos cualidades humanas a los animales es cuando empiezan los problemas\"",
+      "description": "Cada vez es más habitual ver animales de compañía que llevan prendas de ropa hechas a medida, que son paseados en cochecitos o a los que sus dueños hablan como si fueran bebés de pocos años. ¿Se está humanizando d",
+      "url": "https://www.elperiodico.com/es/sociedad/20260707/raul-aranda-julia-autonell-educadores-caninos-problemas-cualidads-humanas-animales-dv-et-132209469",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/5a0dd41e-fc14-4e0b-b381-04ffd96f72d0_16-9-discover-aspect-ratio_default_0_x440y165.jpg",
+      "publishedAt": "2026-07-07 10:49:13",
+      "sourceName": "elperiodico_es"
+    },
+    {
+      "id": "es-1",
       "title": "El gran error que han cometido casi todos los dueños de perros cuando eran cachorros que también le pasó a esta veterinaria",
       "description": "Una veterinaria española con más de 632.000 seguidores en TikTok publicó un video en el que repasa los errores que cometió con su perro Murphy cuando era cachorro, antes de formarse como profesional. En el video, la ",
       "url": "https://okdiario.com/mascotas/gran-error-que-han-cometido-casi-todos-duenos-perros-cuando-eran-cachorros-que-tambien-paso-esta-veterinaria-18786981",
@@ -11,7 +20,7 @@
       "sourceName": "okdiario"
     },
     {
-      "id": "es-1",
+      "id": "es-2",
       "title": "El auge de los 'dog-sitters' y los riesgos de cuidar sin preparación",
       "description": "Ser dog sitter no equivale a ser educador canino, pero sí requiere nociones básicas sobre lenguaje, paseos, seguridad y manejo responsable.",
       "url": "https://www.20minutos.es/animaleros/perros/auge-los-dog-sitters-los-riesgos-cuidar-sin-preparacion_6966706_0.html",
@@ -20,7 +29,7 @@
       "sourceName": "minutos20"
     },
     {
-      "id": "es-2",
+      "id": "es-3",
       "title": "Un estudio con 43.517 perros revela que más del 80% muestra signos de miedo o ansiedad",
       "description": "A pesar de la alta prevalencia de miedo y ansiedad, el estudio señala que el comportamiento no suele formar parte en la atención veterinaria.",
       "url": "https://www.20minutos.es/animaleros/perros/un-estudio-con-43-517-perros-revela-que-mas-80-muestra-signos-miedo-ansiedad_6972794_0.html",
@@ -29,7 +38,7 @@
       "sourceName": "minutos20"
     },
     {
-      "id": "es-3",
+      "id": "es-4",
       "title": "Refuerza Centro de Bienestar Animal protocolos de adopciones, ante caso de maltratador de perros registrado en Saltillo",
       "description": "A raíz del caso del presunto maltratador de perros identificado como León “N” registrado en Saltillo, el Centro de Bienestar Animal del municipio ha reforzado los protocolos de adopción de los animales que se entregan",
       "url": "https://elheraldodesaltillo.mx/2026/07/06/refuerza-centro-de-bienestar-animal-protocolos-de-adopciones-ante-caso-de-maltratador-de-perros-registrado-en-saltillo/",
@@ -38,7 +47,7 @@
       "sourceName": "elheraldodesaltillo_mx"
     },
     {
-      "id": "es-4",
+      "id": "es-5",
       "title": "Las mejores playas pet friendly cerca de CDMX para viajar con tu peludo",
       "description": "¿Quieres llevar a tu perrito al mar? Descubre las playas pet friendly más cercanas a la CDMX para disfrutar de unas vacaciones.",
       "url": "https://www.excelsior.com.mx/estilo-de-vida/playas-pet-friendly-cerca-cdmx",
@@ -47,7 +56,7 @@
       "sourceName": "excelsior"
     },
     {
-      "id": "es-5",
+      "id": "es-6",
       "title": "Abandonaron a un beagle sin comida porque creían que así cazaría mejor, pero una joven lo encontró a tiempo y conmovió a todos",
       "description": "El perro fue privado de comida intencionalmente bajo la falsa creencia de que el hambre aumenta el instinto de caza, una práctica ilegal de maltrato animal.",
       "url": "https://www.losandes.com.ar/mundo/abandonaron-un-beagle-comida-porque-creian-que-asi-cazaria-mejor-pero-una-joven-lo-encontro-tiempo-y-conmovio-todos-n5997515",
@@ -56,7 +65,7 @@
       "sourceName": "losandes"
     },
     {
-      "id": "es-6",
+      "id": "es-7",
       "title": "Cómo entrenar a un perro para que sea guardián de tu hogar",
       "description": "Descubre los pasos esenciales y las técnicas de adiestramiento canino para transformar a tu mascota en un protector leal y equilibrado para toda la familia",
       "url": "https://www.informador.mx/estilo/como-entrenar-a-un-perro-para-que-sea-guardian-de-tu-hogar-20260706-0076.html",
@@ -65,7 +74,7 @@
       "sourceName": "informador_mx"
     },
     {
-      "id": "es-7",
+      "id": "es-8",
       "title": "Los veterinarios expertos coinciden: si tu perro te acompaña al baño no es porque te quiera, sino que es una señal de alarma por fuerte estrés y ansiedad",
       "description": "Resulta curioso que tu perro casi nunca entre al cuarto de baño cuando tú no estás. Sin embargo, en cuanto decides entrar, es muy probable que te siga, se siente junto a ti y espere pacientemente hasta que salgas. Muc",
       "url": "https://okdiario.com/mascotas/veterinarios-expertos-coinciden-si-tu-perro-te-acompana-bano-no-porque-te-quiera-sino-que-senal-alarma-fuerte-estres-ansiedad-18936751",
@@ -74,7 +83,7 @@
       "sourceName": "okdiario"
     },
     {
-      "id": "es-8",
+      "id": "es-9",
       "title": "Melgar de Abajo acoge la primera exhibición de perros pastores de Óscar Murguía en Valladolid",
       "description": "El 13 veces campeón de España y dos veces subcampeón de Europa, llevó a cabo distintas pruebas de habilidad con sus Border Collie, usando ovejas, patos y ocas",
       "url": "https://www.elnortedecastilla.es/valladolid/provincia/melgar-abajo-acoge-primera-exhibicion-perros-pastores-20260706155926-nt.html",
@@ -83,7 +92,7 @@
       "sourceName": "elnortedecastilla"
     },
     {
-      "id": "es-9",
+      "id": "es-10",
       "title": "Nutrición personalizada y hábitos adecuados, claves para mejorar la calidad de vida de los perros",
       "description": "Especialista destaca la importancia de adaptar la alimentación a las necesidades de cada mascota",
       "url": "https://heraldodemexico.com.mx/estilo-de-vida/2026/7/6/nutricion-personalizada-habitos-adecuados-claves-para-mejorar-la-calidad-de-vida-de-los-perros-824352.html",
@@ -92,7 +101,7 @@
       "sourceName": "heraldodemexico"
     },
     {
-      "id": "es-10",
+      "id": "es-11",
       "title": "Más que rescatistas: así ayudaron cuatro perros colombianos condecorados a salvar vidas tras el terremoto en Venezuela",
       "description": "El Gobierno de Venezuela los condecoró por su ardua labor salvando vidas.",
       "url": "https://www.semana.com/4patas/perros/articulo/mas-que-rescatistas-asi-ayudaron-cuatro-perros-colombianos-condecorados-a-salvar-vidas-tras-el-terremoto-en-venezuela/202635/",
@@ -101,7 +110,7 @@
       "sourceName": "semana"
     },
     {
-      "id": "es-11",
+      "id": "es-12",
       "title": "Enrique Molina, adiestrador canino: \"No debemos dormir con nuestro perro, porque invade un espacio muy personal del dueño\"",
       "description": "Enrique Molina es un conocido adiestrador canino que ayuda a dueños de perros a saber cómo educar a su mascota para que sepa comportarse en casa, entre otras ...",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260510/1004181518/enrique-molina-adiestrador-canino-no-debemos-dormir-nuestro-perro-invade-espacio-personal-dueno-dct.html",
@@ -110,7 +119,7 @@
       "sourceName": "mundodeportivo.com"
     },
     {
-      "id": "es-12",
+      "id": "es-13",
       "title": "Alan Peiró, adiestrador canino: “Cuando un perro se muestra agresivo, lo hace por miedo”",
       "description": "El experto en comportamiento animal brindó consejos para tratar las reacciones violentas de las mascotas.",
       "url": "https://tn.com.ar/mascotas/2026/03/27/alan-peiro-adiestrador-canino-cuando-un-perro-se-muestra-agresivo-lo-hace-por-miedo/",
@@ -119,7 +128,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-13",
+      "id": "es-14",
       "title": "Juan Cervantes, adiestrador canino: “Al volver a tu casa debés ignorar al perro por 5 minutos”",
       "description": "Un experto en mascotas explicó por qué no saludar a tu mascota al regresar al hogar y las consecuencias que eso genera.",
       "url": "https://tn.com.ar/sociedad/2026/03/20/juan-cervantes-adiestrador-canino-al-volver-a-tu-casa-debes-ignorar-al-perro-por-5-minutos/",
@@ -128,7 +137,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-14",
+      "id": "es-15",
       "title": "Juan Cervantes, adiestrador canino: “Cuanto más llames a tu perro por su nombre, menos caso te hace”",
       "description": "El experto influencer explicó el motivo por el que utilizar esta técnica no es la mejor forma para llamar la atención de tu mascota.",
       "url": "https://tn.com.ar/sociedad/2026/03/19/juan-cervantes-adiestrador-canino-cuanto-mas-llames-a-tu-perro-por-su-nombre-menos-caso-te-hace/",
@@ -137,7 +146,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-15",
+      "id": "es-16",
       "title": "Qué siente tu perro cuando sale a pasear, según expertos en comportamiento canino",
       "description": "Ese momento cotidiano es mucho más importante de lo que parece. La ciencia del comportamiento canino explica cómo impacta en el equilibrio emocional, la condu...",
       "url": "https://tn.com.ar/sociedad/2026/02/22/que-siente-tu-perro-cuando-sale-a-pasear-segun-expertos-en-comportamiento-canino/",
@@ -146,7 +155,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-16",
+      "id": "es-17",
       "title": "Qué siente tu perro cuando le gritás, según expertos en comportamiento canino",
       "description": "El tono de voz humano tiene un impacto directo en las emociones de los animales.",
       "url": "https://tn.com.ar/sociedad/2026/02/16/que-siente-tu-perro-cuando-le-gritas-segun-expertos-en-comportamiento-canino/",
@@ -155,7 +164,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-17",
+      "id": "es-18",
       "title": "Alan Peiró, adiestrador canino: “Dormir con tu perro no es un problema en sí mismo”",
       "description": "“Lo importante aquí es, ¿el perro puede dormir solo sin ansiedad? ¿Tiene autonomía emocional?“, planteó el especialista, en relación con la mascota.",
       "url": "https://tn.com.ar/sociedad/2026/01/18/alan-peiro-adiestrador-canino-dormir-con-tu-perro-no-es-un-problema-en-si-mismo/",
@@ -164,7 +173,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-18",
+      "id": "es-19",
       "title": "Por qué no hay que saludar al perro al llegar a casa, según un entrenador canino",
       "description": "Víctor Mañero, reconocido adiestrador canino, reveló el motivo por el cual esta acción puede generarles a los animales gran estrés y ansiedad; qué dijo - ...",
       "url": "https://www.lanacion.com.ar/lifestyle/mascotas/por-que-no-hay-que-saludar-al-perro-al-llegar-a-casa-segun-un-entrenador-canino-nid02052025/",
@@ -173,7 +182,7 @@
       "sourceName": "lanacion.com.ar"
     },
     {
-      "id": "es-19",
+      "id": "es-20",
       "title": "“Perro gay”: ovacionan a un canino en marcha LGBT+ de Guadalajara",
       "description": "El divertido y controversial momento sucedió cuando su cuidadora lo alzó y todos los asistentes no dudaron en gritar y aclamarlo mientras él sacaba su lengua...",
       "url": "https://www.infobae.com/america/entretenimiento/2022/06/19/perro-gay-ovacionan-a-un-canino-en-marcha-lgbt-de-guadalajara/",
@@ -185,6 +194,116 @@
   "en": [
     {
       "id": "en-0",
+      "title": "10 dog breeds with the most powerful sniffing instincts: From Bloodhound to Redbone Coonhound",
+      "description": "10 dog breeds with the most powerful sniffing instincts: From Bloodhound to Redbone Coonhound",
+      "url": "https://timesofindia.indiatimes.com/etimes/animals/10-dog-breeds-with-the-most-powerful-sniffing-instincts-from-bloodhound-to-redbone-coonhound/articleshow/132238635.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132238712/132238712.jpg",
+      "publishedAt": "2026-07-07 11:48:57",
+      "sourceName": "toi",
+      "title_es": "10 razas de perros con los instintos de olfateo más poderosos: desde Bloodhound hasta Redbone Coonhound",
+      "description_es": "10 razas de perros con los instintos de olfateo más poderosos: desde Bloodhound hasta Redbone Coonhound"
+    },
+    {
+      "id": "en-1",
+      "title": "Amit Rai’s ‘Ohh My Dog’ set for July 31 release",
+      "description": "Director Amit Rai, who directed ‘Oh My God 2’, is coming back with a new family film, ‘Ohh My Dog’. The film will be released in theatres on July 31. The makers also released the film’s teaser today. The teaser gives a g",
+      "url": "https://www.indianbroadcastingworld.com/amit-rais-ohh-my-dog-set-for-july/",
+      "urlToImage": "https://www.indianbroadcastingworld.com/wp-content/uploads/2026/07/oh-my-dog.png",
+      "publishedAt": "2026-07-07 11:48:25",
+      "sourceName": "indianbroadcastingworld",
+      "title_es": "‘Ohh My Dog‘ de Amit Rai se estrenará el 31 de julio",
+      "description_es": "El director Amit Rai, que dirigió ‘Oh My God 2’, regresa con una nueva película familiar, ‘Ohh My Dog’. La película se estrenará en los cines el 31 de julio. Los realizadores también lanzaron hoy el teaser de la película. El teaser da una g"
+    },
+    {
+      "id": "en-2",
+      "title": "German Shepherd vs King Shepherd: Understanding the differences between these similar-looking dogs",
+      "description": "German Shepherd vs King Shepherd: Understanding the differences between these similar-looking dogs",
+      "url": "https://timesofindia.indiatimes.com/etimes/animals/german-shepherd-vs-king-shepherd-understanding-the-differences-between-these-similar-looking-dogs/articleshow/132238478.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132238520/132238520.jpg",
+      "publishedAt": "2026-07-07 11:35:50",
+      "sourceName": "toi",
+      "title_es": "Pastor Alemán vs Rey Pastor: Entendiendo las diferencias entre estos perros de aspecto similar",
+      "description_es": "Pastor Alemán vs Rey Pastor: Entendiendo las diferencias entre estos perros de aspecto similar"
+    },
+    {
+      "id": "en-3",
+      "title": "Lanarkshire dog abandoned in field during freezing winter finds forever home",
+      "description": "Ginny was taken into the charity's care after being found abandoned on top of a duvet in a field this winter.",
+      "url": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-dog-abandoned-field-during-34249432",
+      "urlToImage": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34249663.ece/ALTERNATES/s615/0_unnamed-20.jpg",
+      "publishedAt": "2026-07-07 11:19:36",
+      "sourceName": "glasgowlive",
+      "title_es": "El perro de Lanarkshire abandonado en el campo durante el frío invierno encuentra un hogar para siempre",
+      "description_es": "Ginny fue llevada al cuidado de la organización benéfica después de ser encontrada abandonada encima de un edredón en un campo este invierno."
+    },
+    {
+      "id": "en-4",
+      "title": "Why CPT Training Is Recommended for Professional Dog Training in Sandy Springs",
+      "description": "Professional training creates a strong foundation for lifelong communication between dogs and their owners. Many families choose dog training in Sandy Springs because structured programs help improve behavior, confidence",
+      "url": "https://techbullion.com/why-cpt-training-is-recommended-for-professional-dog-training-in-sandy-springs/",
+      "urlToImage": "https://techbullion.com/wp-content/uploads/2026/07/vv-14.png",
+      "publishedAt": "2026-07-07 11:14:35",
+      "sourceName": "techbullion",
+      "title_es": "Por qué se recomienda el entrenamiento CPT para el entrenamiento profesional de perros en Sandy Springs",
+      "description_es": "El entrenamiento profesional crea una base sólida para la comunicación de por vida entre los perros y sus dueños. Muchas familias eligen el entrenamiento canino en Sandy Springs porque los programas estructurados ayudan a mejorar el comportamiento y la confianza"
+    },
+    {
+      "id": "en-5",
+      "title": "Pankaj Tripathi Starrer Ohh My Dog To Feature More Than 250 Dogs; Teaser Out - Watch",
+      "description": "Pankaj Tripathi's upcoming film 'Ohh MY Dog', directed by Oh My God 2 filmmaker Amit Rai, will release in theatres on July 31. The teaser, unveiled on Tuesday, highlights the unconditional bond between humans and dogs wh",
+      "url": "https://www.freepressjournal.in/entertainment/pankaj-tripathi-starrer-ohh-my-dog-to-feature-more-than-250-dogs-teaser-out-watch",
+      "urlToImage": "https://media.assettype.com/freepressjournal/2024-01/d27e7957-865a-47d7-8872-f154732b50e4/PANKAJ_.jpg",
+      "publishedAt": "2026-07-07 11:13:44",
+      "sourceName": "freepressjournal",
+      "title_es": "Pankaj Tripathi Starrer Ohh My Dog To Feature More Than 250 Dogs; Teaser Out - Watch",
+      "description_es": "La próxima película de Pankaj Tripathi 'Ohh MY Dog', dirigida por el cineasta de Oh My God 2, Amit Rai, se estrenará en los cines el 31 de julio. El teaser, presentado el martes, destaca el vínculo incondicional entre humanos y perros"
+    },
+    {
+      "id": "en-6",
+      "title": "Amit Rai’s ‘Ohh My Dog’ Teaser Unleashed: Pankaj Tripathi Leads an Emotional Tale of Love, Loyalty and 250 Dogs",
+      "description": "After winning hearts with the socially relevant drama OMG 2, filmmaker Amit Rai is back with his next cinematic offering, titled ‘Ohh My Dog’. The teaser of the upcoming film has been released, creating excitement... The",
+      "url": "https://www.socialnews.xyz/2026/07/07/amit-rais-ohh-my-dog-teaser-unleashed-pankaj-tripathi-leads-an-emotional-tale-of-love-loyalty-and-250-dogs/",
+      "urlToImage": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/07/07/screenshot-2026-07-07-at-3-23-31-pm9224091.jpg?fit=900%2C600&quality=80&zoom=1&ssl=1?v=1783422848",
+      "publishedAt": "2026-07-07 11:06:12",
+      "sourceName": "socialnews",
+      "title_es": "Teaser de Amit Rai ‘Ohh My Dog’ Unleashed: Pankaj Tripathi Lidera una Historia Emocional de Amor, Lealtad y 250 Perros",
+      "description_es": "Después de ganar corazones con el drama socialmente relevante OMG 2, el cineasta Amit Rai está de vuelta con su próxima oferta cinematográfica, titulada ‘Ohh My Dog’. El teaser de la próxima película ha sido lanzado, creando emoción..."
+    },
+    {
+      "id": "en-7",
+      "title": "The dog days of summer aren't so bad at Rochester eateries",
+      "description": "Ice cream, you scream, your dog howls for pup cups in the drive-thru.",
+      "url": "https://www.postbulletin.com/business/the-dog-days-of-summer-arent-so-bad-at-rochester-eateries",
+      "urlToImage": "https://cdn.forumcomm.com/dims4/default/d789df4/2147483647/resize/800x/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F55%2Ffa%2F4b74ab3b430aa18a6478f3e1aa31%2Fpickles-loves-ice-cream-1.jpeg",
+      "publishedAt": "2026-07-07 11:00:00",
+      "sourceName": "postbulletin",
+      "title_es": "Los días de perros del verano no son tan malos en los restaurantes de Rochester",
+      "description_es": "Helado, gritas, tu perro aúlla por tazas de cachorros en el drive-thru."
+    },
+    {
+      "id": "en-8",
+      "title": "Vet nurse dog owners to stop letting pets drink from one risky place in heatwave",
+      "description": "A veterinary nurse has issued a stark warning to dog owners about the health risks of letting their pets drink from particular water bowls - as they can spread diseases including kennel cough and leptospirosis",
+      "url": "https://www.mirror.co.uk/lifestyle/vet-nurse-dog-owners-stop-37397769",
+      "urlToImage": "https://i2-prod.mirror.co.uk/lifestyle/article37397768.ece/ALTERNATES/s615/0_Beautiful-dog-drinking-water-from-the-portable-bowl-while-out-during-walk.jpg",
+      "publishedAt": "2026-07-07 10:54:18",
+      "sourceName": "mirroruk",
+      "title_es": "Los dueños de perros veterinarios deben dejar de dejar que las mascotas beban de un lugar peligroso en la ola de calor",
+      "description_es": "Una enfermera veterinaria ha emitido una advertencia severa a los dueños de perros sobre los riesgos para la salud de dejar que sus mascotas beban de tazones de agua particulares, ya que pueden propagar enfermedades como la tos de las perreras y la leptospirosis"
+    },
+    {
+      "id": "en-9",
+      "title": "Vet urges owners to stop letting dogs drink from 1 risky place",
+      "description": "A veterinary nurse has issued a stark warning to dog owners about letting their pets drink from these particular vessels - as they can carry dangerous pathogens",
+      "url": "https://www.express.co.uk/life-style/life/2226217/vet-nurse-warns-dog-owners-about-communal-water-bowl-risks-pets",
+      "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/130/590x/2226217_1.jpg",
+      "publishedAt": "2026-07-07 10:54:00",
+      "sourceName": "expresscouk",
+      "title_es": "El veterinario insta a los propietarios a que dejen de permitir que los perros beban de un lugar peligroso",
+      "description_es": "Una enfermera veterinaria ha emitido una dura advertencia a los propietarios de perros sobre dejar que sus mascotas beban de estos recipientes en particular, ya que pueden transportar patógenos peligrosos"
+    },
+    {
+      "id": "en-10",
       "title": "Ohh My dog' teaser uses Amitabh Bachchan's 'Mere Paas Aao' song, hits nostalgia",
       "description": "Amit rai's 'Ohh My Dog' teaser is out now. This film is set to release in theatres on 31st July: Starring Pankaj Tripathi, Pawan Malhotra, Maahi Rai, Rajesh Kumar and others.",
       "url": "https://zeenews.india.com/bollywood/ohh-my-dog-teaser-uses-amitabh-bachchans-mere-paas-aao-song-hits-nostalgia-3059749.html",
@@ -195,7 +314,7 @@
       "description_es": "Amit rai's 'Ohh My Dog' teaser is out now. Esta película se estrenará en los cines el 31 de julio: protagonizada por Pankaj Tripathi, Pawan Malhotra, Maahi Rai, Rajesh Kumar y otros."
     },
     {
-      "id": "en-1",
+      "id": "en-11",
       "title": "Amit Rai's Upcoming Film 'Oh My Dog' Explores Heartwarming Bonds",
       "description": "Amit Rai's new film 'Oh My Dog' is set to captivate audiences with its touching narrative about the bond between humans and dogs. The teaser, featuring Amitabh Bachchan's nostalgic song, hints at a story filled with love",
       "url": "https://gyanhigyan.com/entertainment/amit-rais-upcoming-film-oh-my-dog-explores-heartwarming/cid18948803.htm",
@@ -206,7 +325,7 @@
       "description_es": "La nueva película de Amit Rai 'Oh My Dog' cautivará al público con su conmovedora narrativa sobre el vínculo entre humanos y perros. El teaser, con la canción nostálgica de Amitabh Bachchan, insinúa una historia llena de amor"
     },
     {
-      "id": "en-2",
+      "id": "en-12",
       "title": "Ohh My Dog Teaser: Pankaj Tripathi’s Heartwarming Human-Dog Bond Wins Hearts",
       "description": "Ohh My Dog Teaser: \"Ohh My God 2\" director Amit Rai is now ready to entertain audiences with his new film, \"Ohh My Dog.\" The film's teaser has been released, offering a glimpse into an emotional story based on the uncond",
       "url": "https://bollyy.com/latest-news/ohh-my-dog-teaser-pankaj-tripathis-heartwarming-human-dog-bond-wins-hearts-12142003",
@@ -217,7 +336,7 @@
       "description_es": "Ohh My Dog Teaser: \"Ohh My God 2\" el director Amit Rai ahora está listo para entretener al público con su nueva película, \"Ohh My Dog.\" Se ha lanzado el teaser de la película, que ofrece una visión de una historia emocional basada en lo incondicional"
     },
     {
-      "id": "en-3",
+      "id": "en-13",
       "title": "Abandoned lurcher with limp found on duvet in field on Valentine’s Day",
       "description": "The dog, named Ginny, was found by a member of the public in Crawford, South Lanarkshire",
       "url": "https://news.stv.tv/west-central/abandoned-lurcher-with-limp-found-on-duvet-in-field-on-valentines-day",
@@ -228,7 +347,7 @@
       "description_es": "La perra, llamada Ginny, fue encontrada por un miembro del público en Crawford, South Lanarkshire"
     },
     {
-      "id": "en-4",
+      "id": "en-14",
       "title": "Why does your dog follow you everywhere? Experts explain when it's a sweet sign of love — and when it could signal something more",
       "description": "Why does your dog follow you everywhere? It may look cute. But this common dog behavior can reveal more than simple loyalty. Veterinarians and animal behavior experts say most dogs stay close because they trust their own",
       "url": "https://economictimes.indiatimes.com/news/international/us/why-does-your-dog-follow-you-everywhere-experts-explain-when-its-a-sweet-sign-of-love-and-when-it-could-signal-something-more/articleshow/132240545.cms",
@@ -239,144 +358,70 @@
       "description_es": "¿Por qué tu perro te sigue a todas partes? Puede parecer bonito. Pero este comportamiento común de los perros puede revelar algo más que una simple lealtad. Los veterinarios y los expertos en comportamiento animal dicen que la mayoría de los perros se mantienen cerca porque confían en los suyos"
     },
     {
-      "id": "en-5",
+      "id": "en-15",
       "title": "DogHood Unveils Major Update as Community Engagement Doubles",
       "description": "/PRNewswire-PRWeb/ -- DogHood, a community app built exclusively for dog parents, has organically grown to more than 18,000 registered dog parents across 400+...",
       "url": "https://www.prweb.com/releases/doghood-unveils-major-update-as-community-engagement-doubles-302816592.html",
       "urlToImage": "https://mmx.prnewswire.com/media/MS1875082/MEDIUM.jpg?id=OA2744434",
       "publishedAt": "2026-07-07 09:57:00",
-      "sourceName": "prweb",
-      "title_es": "DogHood presenta una importante actualización a medida que se duplica la participación de la comunidad",
-      "description_es": "/PRNewswire-PRWeb/ -- DogHood, una aplicación comunitaria creada exclusivamente para padres de perros, ha crecido orgánicamente a más de 18,000 padres de perros registrados en más de 400..."
+      "sourceName": "prweb"
     },
     {
-      "id": "en-6",
+      "id": "en-16",
       "title": "Hypothyroidism In Dogs: Causes, Symptoms And Treatment",
       "description": "",
       "url": "https://www.forbes.com/advisor/pet-insurance/pet-care/hypothyroidism-in-dogs/",
       "urlToImage": null,
       "publishedAt": "2026-07-07 08:42:35",
-      "sourceName": "forbes",
-      "title_es": "Hipotiroidismo en perros: causas, síntomas y tratamiento",
-      "description_es": ""
+      "sourceName": "forbes"
     },
     {
-      "id": "en-7",
+      "id": "en-17",
       "title": "Pet Care E-commerce Market Report 2026",
       "description": "The pet care e-commerce market offers diverse opportunities driven by increased pet ownership, e-commerce growth, and rising demand for premium products. Key trends include D2C model expansion, AI-driven personalization,",
       "url": "https://www.globenewswire.com/fr/news-release/2026/07/07/3322935/28124/en/Pet-Care-E-commerce-Market-Report-2026.html",
       "urlToImage": null,
       "publishedAt": "2026-07-07 08:39:00",
-      "sourceName": "globenewswire_fr",
-      "title_es": "Informe del mercado de comercio electrónico de cuidado de mascotas 2026",
-      "description_es": "El mercado de comercio electrónico de cuidado de mascotas ofrece diversas oportunidades impulsadas por el aumento de la propiedad de mascotas, el crecimiento del comercio electrónico y la creciente demanda de productos premium. Las tendencias clave incluyen la expansión del modelo D2C, la personalización impulsada por la IA,"
+      "sourceName": "globenewswire_fr"
     },
     {
-      "id": "en-8",
+      "id": "en-18",
       "title": "Amit Rai’s Ohh My Dog Teaser Revives Amitabh Bachchan’s Iconic Mere Paas Aao Mere Dosto",
       "description": "Mumbai: The makers of the upcoming film Ohh My Dog have unveiled the much-awaited teaser on social media. The teaser opened with megastar Amitabh Bachchan’s iconic song Mere Paas Aao...",
       "url": "https://www.swapupdate.in/amit-rais-ohh-my-dog-teaser-revives-amitabh-bachchans-iconic-mere-paas-aao-mere-dosto/",
       "urlToImage": "https://c.ndtvimg.com/2026-07/ht7s51m8_amitabh_625x300_07_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
       "publishedAt": "2026-07-07 08:37:16",
-      "sourceName": "swapupdate",
-      "title_es": "El teaser Ohh My Dog de Amit Rai revive el icónico Mere Paas Aao Mere Dosto de Amitabh Bachchan",
-      "description_es": "Mumbai: Los creadores de la próxima película Ohh My Dog han presentado el tan esperado teaser en las redes sociales. El teaser se abrió con la icónica canción de la megaestrella Amitabh Bachchan, Mere Paas Aao..."
+      "sourceName": "swapupdate"
     },
     {
-      "id": "en-9",
+      "id": "en-19",
       "title": "Amit Rai’s ‘Ohh My Dog’ teaser brings back nostalgia with Amitabh Bachchan’s classic song",
       "description": "Mumbai, July 7, 2026 The makers of the upcoming film “Ohh My Dog” have unveiled the much-awaited teaser on social media. The teaser opened with megastar Amitabh Bachchan’s iconic song “Mere Paas Aao Mere Dosto, Ek Kissa ",
       "url": "https://yespunjab.com/amit-rais-ohh-my-dog-teaser-brings-back-nostalgia-with-amitabh-bachchans-classic-song/",
       "urlToImage": "https://yespunjab.com/wp-content/uploads/2026/07/Amit-Rais-Ohh-My-Dog.jpg",
       "publishedAt": "2026-07-07 08:34:45",
-      "sourceName": "yespunjab",
-      "title_es": "El teaser \"Ohh My Dog\" de Amit Rai trae de vuelta la nostalgia con la canción clásica de Amitabh Bachchan",
-      "description_es": "Mumbai, 7 de julio de 2026 Los creadores de la próxima película \"Ohh My Dog\" han presentado el tan esperado teaser en las redes sociales. El teaser se abrió con la icónica canción de la megaestrella Amitabh Bachchan \"Mere Paas Aao Mere Dosto, Ek Kissa"
+      "sourceName": "yespunjab"
     },
     {
-      "id": "en-10",
+      "id": "en-20",
       "title": "The NOAH Center breaks ground on multimillion dollar remodel",
       "description": "Construction should finish before winter, upgrading the center’s wellness area, clinic and dog suite.",
       "url": "https://www.heraldnet.com/2026/07/07/the-noah-center-breaks-ground-on-multimillion-dollar-remodel/",
       "urlToImage": "https://www.heraldnet.com/wp-content/uploads/sites/8/2026/07/42714951_web1_241216-Impress-EDH-NOAHAdoption-_1.jpg",
       "publishedAt": "2026-07-07 08:30:00",
-      "sourceName": "heraldnet",
-      "title_es": "El Centro NOAH inicia la remodelación multimillonaria",
-      "description_es": "La construcción debería terminar antes del invierno, mejorando el área de bienestar, la clínica y la suite para perros del centro."
+      "sourceName": "heraldnet"
     },
     {
-      "id": "en-11",
+      "id": "en-21",
       "title": "Pankaj Tripathi’s ‘Ohh My Dog’ tells emotional tale of child, her dog, set for July 31 release",
       "description": "“Ohh My Dog”, a new film starring Pankaj Tripathi and directed by “Oh My God 2” helmer Amit Rai, is set to release in theatres on July 31. The makers of the movie released the film’s teaser on Tuesday, which celebrates t",
       "url": "https://www.tribuneindia.com/news/entertainment/pankaj-tripathis-ohh-my-dog-tells-emotional-tale-of-child-her-dog-set-for-july-31-release",
       "urlToImage": null,
       "publishedAt": "2026-07-07 08:00:29",
-      "sourceName": "tribuneindia",
-      "title_es": "\"Ohh My Dog\" de Pankaj Tripathi cuenta la emotiva historia de Child, su perro, que se estrenará el 31 de julio",
-      "description_es": "\"Ohh My Dog\", una nueva película protagonizada por Pankaj Tripathi y dirigida por el director de \"Oh My God 2\", Amit Rai, se estrenará en los cines el 31 de julio. Los creadores de la película lanzaron el teaser de la película el martes, que celebra el"
+      "sourceName": "tribuneindia"
     },
     {
-      "id": "en-12",
-      "title": "Mumbai: Stranded Dog Rescued At Sanjay Gandhi National Park In Borivali; Fire Brigade, Cops Save Canine After 2-Hour-Long Operation",
-      "description": "Mumbai Fire Brigade and Kasturba Marg Police rescued a dog trapped in a river near Sanjay Gandhi National Park after heavy rainfall. A resident spotted the animal struggling to escape and alerted authorities, who complet",
-      "url": "https://www.freepressjournal.in/mumbai/mumbai-stranded-dog-rescued-at-sanjay-gandhi-national-park-in-borivali-fire-brigade-cops-save-canine-after-2-hour-long-operation",
-      "urlToImage": "https://media.assettype.com/freepressjournal/2026-07-07/um5ytgx7/Untitled-design-2026-07-07T111608.724.jpg",
-      "publishedAt": "2026-07-07 06:16:12",
-      "sourceName": "freepressjournal",
-      "title_es": "Bombay: rescatan a un perro varado en el Parque Nacional Sanjay Gandhi en Borivali; bomberos y policías salvan a un perro después de una operación de 2 horas",
-      "description_es": "Los bomberos de Bombay y la policía de Kasturba Marg rescataron a un perro atrapado en un río cerca del Parque Nacional Sanjay Gandhi después de fuertes lluvias. Un residente vio al animal luchando por escapar y alertó a las autoridades, que completaron"
-    },
-    {
-      "id": "en-13",
-      "title": "Jamberoo Embarks On New Era With Dog Park",
-      "description": "Jamberoo's new fenced off-leash area was officially opened on Tuesday with the local canine community wagging their tails in delight to give the park",
-      "url": "https://www.miragenews.com/jamberoo-embarks-on-new-era-with-dog-park-1705759/",
-      "urlToImage": "https://www.kiama.nsw.gov.au/files/sharedassets/public/v/1/news/jamberoo-dog-park/img_6895.jpg?w=1200",
-      "publishedAt": "2026-07-07 05:14:33",
-      "sourceName": "miragenews",
-      "title_es": "Jamberoo se embarca en una nueva era con un parque para perros",
-      "description_es": "La nueva zona vallada sin correa de Jamberoo se inauguró oficialmente el martes con la comunidad canina local moviendo el rabo con deleite para regalar el parque"
-    },
-    {
-      "id": "en-14",
-      "title": "Trainer says there are 4 signs your dog is ready to be left out the crate",
-      "description": "A dog trainer told Newsweek the key milestones owners should see before giving their canines more freedom around the house.",
-      "url": "https://us.headtopics.com/news/trainer-says-there-are-4-signs-your-dog-is-ready-to-be-left-85305036",
-      "urlToImage": "https://i.headtopics.com/images/2026/7/7/newsweek/trainer-says-there-are-4-signs-your-dog-is-ready-t-trainer-says-there-are-4-signs-your-dog-is-ready-t-ABBF5FD724936949CB59F554105AD01C.webp",
-      "publishedAt": "2026-07-07 04:06:56",
-      "sourceName": "headtopics",
-      "title_es": "El entrenador dice que hay 4 señales de que tu perro está listo para ser dejado fuera de la jaula",
-      "description_es": "Un entrenador de perros le dijo a Newsweek los hitos clave que los propietarios deben ver antes de darles a sus caninos más libertad en la casa."
-    },
-    {
-      "id": "en-15",
-      "title": "Transparency row puts Thiruvanthapuram corp’s stray dog management under scanner",
-      "description": "Latha Indira of PFA said the organisation had repeatedly sought details of the shelters from the corporation, Mayor and ABC nodal officer, but had received no response.",
-      "url": "https://www.newindianexpress.com/cities/thiruvananthapuram/2026/Jul/07/transparency-row-puts-thiruvanthapuram-corps-stray-dog-management-under-scanner",
-      "urlToImage": "https://cf-images.assettype.com/newindianexpress/2026-07-06/ai1547pt/Transparency-r.jpg",
-      "publishedAt": "2026-07-07 02:42:29",
-      "sourceName": "newindianexpress"
-    },
-    {
-      "id": "en-16",
-      "title": "🐶 Playful, Gentle & Loyal Dogs Ready for Adoption in Windsor",
-      "description": "Looking for a furry friend to brighten your days? These wonderful dogs in Windsor, CO are waiting at Big Bones Canine Rescue for their forever homes. Each",
-      "url": "https://www.newsbreak.com/severance-co-daily-brief-373178019/4755529661445-playful-gentle-loyal-dogs-ready-for-adoption-in-windsor",
-      "urlToImage": "https://img.particlenews.com/img/id/2VnNLJ_1D3meA3j00",
-      "publishedAt": "2026-07-07 00:00:00",
-      "sourceName": "newsbreak"
-    },
-    {
-      "id": "en-17",
-      "title": "Pet Treats Market 2026, Expectations & Growth, Trends Highlighted Until 2031",
-      "description": "Pet Treats Market (2021 - 2031) Trend Analysis Report, by Pet Type (Dog, Cat, Others), by Form (Organic, Conventional), by Sales Channel (Online, Offline)",
-      "url": "https://www.einpresswire.com/article/924943148/pet-treats-market-2026-expectations-growth-trends-highlighted-until-2031",
-      "urlToImage": "https://img.einnews.com/ampsize/379615/pet-treats-market.png",
-      "publishedAt": "2026-07-07 00:00:00",
-      "sourceName": "einpresswire"
-    },
-    {
-      "id": "en-18",
+      "id": "en-22",
       "title": "Canine cardio? How a mobile dog gym keeps your pup healthy",
       "description": "Waggin' Wheels is a mobile dog gym in Halifax that comes right to your door. The business helps dogs exercise safely in the heat of summer or in the dead of win...",
       "url": "https://www.cbc.ca/player/play/video/9.6888463?cmp=rss",
@@ -385,7 +430,7 @@
       "sourceName": "cbc.ca"
     },
     {
-      "id": "en-19",
+      "id": "en-23",
       "title": "Truck Swerves To Hit Dog, Misses, Then Crushes Pregnant Canine In 2nd Try",
       "description": "A heart-wrenching video from Jaipur shows a pickup truck swerving to allegedly try and run over a dog and then crushing another pregnant canine to death.",
       "url": "https://www.ndtv.com/india-news/jaipur-truck-swerves-to-hit-dog-crushes-pregnant-canine-when-1st-attempt-fails-8181842",
@@ -394,7 +439,7 @@
       "sourceName": "ndtv.com"
     },
     {
-      "id": "en-20",
+      "id": "en-24",
       "title": "Madras Canine Club’s dog shows draw to a close",
       "description": "All Breeds Championship dog shows by Madras Canine Club conclude with German Shepherds and Doberman winning top prizes.",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-dog-shows-draw-to-a-close/article69116790.ece",
@@ -403,7 +448,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-21",
+      "id": "en-25",
       "title": "Is dog perfume necessary for your canine companion?",
       "description": "Luxury fashion house Dolce & Gabbana has unveiled a new dog perfume named \"Fefé.\"",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/is-dog-perfume-necessary-for-your-canine-companion/",
@@ -412,7 +457,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-22",
+      "id": "en-26",
       "title": "Recognising signs of canine asthma in your Dog",
       "description": "Asthma in dogs is an allergic disease characterised by inflammation and constriction of the small airways in the lungs...",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/recognising-signs-of-canine-asthma-in-your-dog/",
@@ -421,7 +466,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-23",
+      "id": "en-27",
       "title": "Taiwan to soon welcome its first indigenous dog as a police canine",
       "description": "",
       "url": "https://focustaiwan.tw/society/202404200004",
@@ -430,7 +475,7 @@
       "sourceName": "focustaiwan.tw"
     },
     {
-      "id": "en-24",
+      "id": "en-28",
       "title": "Detroit TSA canine handler suspended over video of him pulling dog",
       "description": "A TSA canine handler was suspended from his duties after a viral video captured him aggressively yanking a bomb-detecting dog in a busy airport.",
       "url": "https://nypost.com/2023/05/08/detroit-tsa-worker-suspended-over-video-of-him-pulling-dog/",
@@ -439,7 +484,7 @@
       "sourceName": "nypost.com"
     },
     {
-      "id": "en-25",
+      "id": "en-29",
       "title": "Curtains come down on Madras Canine Club’s dog shows",
       "description": "570 dogs belonging to 69 breeds participated in the two-day event",
       "url": "https://www.thehindu.com/news/cities/chennai/curtains-come-down-on-madras-canine-clubs-dog-shows/article65880058.ece",
@@ -448,7 +493,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-26",
+      "id": "en-30",
       "title": "Madras Canine Club’s All Breeds Championship Dog Shows begin",
       "description": "Over 570 canines from 69 different breeds have registered this year",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-all-breeds-championship-dog-shows-begin/article65875162.ece",
