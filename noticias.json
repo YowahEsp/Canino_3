@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-07-09T15:44:06.087Z",
+  "generatedAt": "2026-07-09T17:53:15.726Z",
   "es": [
     {
       "id": "es-0",
+      "title": "Por qué algunos perros saltan como gacelas cuando corren entre la hierba alta",
+      "description": "Se trata de un gesto único que puede mezclar juego, excitación, búsqueda y adaptación al terreno.",
+      "url": "https://www.20minutos.es/animaleros/perros/por-que-algunos-perros-saltan-como-gacelas-cuando-corren-entre-hierba-alta_6976337_0.html",
+      "urlToImage": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/05/28/6a1833ccd74a94-79577231.jpeg",
+      "publishedAt": "2026-07-09 05:21:31",
+      "sourceName": "minutos20"
+    },
+    {
+      "id": "es-1",
+      "title": "De bombero en Murcia al terremoto de Venezuela: \"En una emergencia real no hay horarios ni protocolos contra el calor\"",
+      "description": "Juan Antonio Pastor es bombero y guía canino en Murcia. Hace apenas unas semanas, una llamada le cambió los planes de la noche a la mañana: la Dirección General de Emergencias solicitaba su Unidad Canina para viajar ",
+      "url": "https://www.laopiniondemurcia.es/comunidad/2026/07/09/bombero-murcia-terremoto-venezuela-emergencia-132262670.html",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/d160b667-4cf3-4b7f-aa4f-19e17b625e6e_16-9-aspect-ratio_default_0_x1024y512.jpg",
+      "publishedAt": "2026-07-09 04:01:19",
+      "sourceName": "laopiniondemucria"
+    },
+    {
+      "id": "es-2",
       "title": "Apareció 'Guaro', así fue como el actor Jorge Hugo Marín recuperó a su perro robado por delincuentes en su vivienda: 'Ya lo tengo, ya está en casa'",
       "description": "El canino logró escaparse de sus captores a pocas cuadras del lugar del robo. Así fue el emotivo encuentro entre ambos.",
       "url": "https://www.eltiempo.com/bogota/aparecio-guaro-asi-fue-como-el-actor-jorge-hugo-marin-recupero-a-su-perro-robado-por-delincuentes-en-su-vivienda-ya-lo-tengo-esta-ya-en-casa-3570009",
@@ -11,7 +29,7 @@
       "sourceName": "eltiempocl"
     },
     {
-      "id": "es-1",
+      "id": "es-3",
       "title": "Expertos en comportamiento canino coinciden: qué siente tu perro cuando lo sacás a pasear y por qué es bueno hacerlo seguido",
       "description": "Aunque muchos creen que salir a caminar solo sirve para que haga sus necesidades, esta rutina también le da mejor calidad de vida.",
       "url": "https://tn.com.ar/sociedad/2026/07/08/expertos-en-comportamiento-canino-coinciden-que-siente-tu-perro-cuando-lo-sacas-a-pasear-y-por-que-es-bueno-hacerlo-seguido/",
@@ -20,7 +38,7 @@
       "sourceName": "tn"
     },
     {
-      "id": "es-2",
+      "id": "es-4",
       "title": "Mascotas en casa, fauna silvestre a salvo",
       "description": "Los perros y gatos que deambulan libres pueden incrementar las interacciones perjudiciales con la fauna silvestre, que incluyen ataques, depredación y transmisión de enfermedades. Restringir el libre movimiento, recoge",
       "url": "https://www.cronica.com.mx/academia/2026/07/08/mascotas-en-casa-fauna-silvestre-a-salvo/",
@@ -29,7 +47,7 @@
       "sourceName": "cronica_mx"
     },
     {
-      "id": "es-3",
+      "id": "es-5",
       "title": "El perro Júpiter podrá subir al ascensor: la Corte Constitucional ordena a los conjuntos residenciales permitir el tránsito de mascotas por las zonas comunes",
       "description": "El alto tribunal considera que cualquier restricción a la movilidad de los animales de compañía vulnera los derechos fundamentales al libre desarrollo de la personalidad y a la intimidad familiar y personal",
       "url": "https://elpais.com/america-colombia/2026-07-08/el-perro-jupiter-podra-subir-al-ascensor-la-corte-constitucional-ordena-a-los-conjuntos-residenciales-permitir-el-transito-de-mascotas-por-las-zonas-comunes.html",
@@ -38,7 +56,7 @@
       "sourceName": "elpais"
     },
     {
-      "id": "es-4",
+      "id": "es-6",
       "title": "3 tipos de perros guardianes que aportan seguridad a tu hogar",
       "description": "Conoce las razas caninas más recomendadas por expertos en redes sociales para disuadir intrusos y mantener a tu familia a salvo en todo momento",
       "url": "https://www.informador.mx/estilo/3-tipos-de-perros-guardianes-que-aportan-seguridad-a-tu-hogar-20260708-0104.html",
@@ -47,7 +65,7 @@
       "sourceName": "informador_mx"
     },
     {
-      "id": "es-5",
+      "id": "es-7",
       "title": "Fundaciones animalistas de Venezuela buscan recursos para seguir rescatando a las mascotas víctimas de los terremotos",
       "description": "Perros, gatos y aves quedaron en situación de calle. Las organizaciones buscan a sus familias, hogares de paso y recursos para albergarlos en sus instalaciones.",
       "url": "https://www.semana.com/4patas/articulo/fundaciones-animalistas-de-venezuela-buscan-recursos-para-seguir-rescatando-a-las-mascotas-victimas-de-los-terremotos/202603/",
@@ -56,7 +74,7 @@
       "sourceName": "semana"
     },
     {
-      "id": "es-6",
+      "id": "es-8",
       "title": "Pickles, el perrito que resolvió uno de los robos más famosos en la historia de los Mundiales",
       "description": "La Copa del Mundo estuvo perdida, hasta que un olfato canino lo cambió todo",
       "url": "https://oem.com.mx/elsoldelcentro/tendencias/pickles-el-perrito-que-resolvio-uno-de-los-robos-mas-famosos-en-la-historia-de-los-mundiales-31020094",
@@ -65,7 +83,7 @@
       "sourceName": "elsoldelcentro_mx"
     },
     {
-      "id": "es-7",
+      "id": "es-9",
       "title": "Unidad canina de PC Aragua ejecutó maniobras de rescate en Mariño",
       "description": "Tras los recientes terremotos que afectaron a la entidad aragüeña, la unidad canina de Protección Civil (PC) Aragua demostró su alto nivel de preparación en el urbanismo Bosque Lindo de Turmero, Santigo Mariño, don",
       "url": "https://elaragueno.com.ve/unidad-canina-de-pc-aragua-ejecuto-maniobras-de-rescate-en-marino/",
@@ -74,7 +92,7 @@
       "sourceName": "elaragueno"
     },
     {
-      "id": "es-8",
+      "id": "es-10",
       "title": "GPS, aire acondicionado y monitorización: así es la nueva furgoneta de los perros de rescate de la DPH",
       "description": "El vehículo, adaptado para transportar hasta tres canes, incorpora jaulas climatizadas, seguimiento en tiempo real y un puesto de mando móvil para mejorar la eficacia",
       "url": "https://www.diariodelaltoaragon.es/noticias/comarcas/2026/07/08/gps-aire-acondicionado-monitorizacion-asi-es-nueva-furgoneta-los-perros-rescate-dph-2035544.html",
@@ -83,7 +101,7 @@
       "sourceName": "diariodelaltoaragon"
     },
     {
-      "id": "es-9",
+      "id": "es-11",
       "title": "Aprenderán más rápido que otras razas: estos perros son conocidos por ser los más limpios",
       "description": "Adoptar un perro es una decisión que transforma por completo la dinámica de cualquier hogar. Entre las principales preocupaciones de los futuros propietarios, especialmente aquellos que viven en pisos o apartamentos pe",
       "url": "https://www.eleconomista.es/actualidad/noticias/13996839/07/26/aprenderan-mas-rapido-que-otras-razas-estos-perros-son-conocidos-por-ser-los-mas-limpios.html",
@@ -92,7 +110,7 @@
       "sourceName": "eleconomista_es"
     },
     {
-      "id": "es-10",
+      "id": "es-12",
       "title": "8 maneras en que tu perro muestra que confía completamente en ti",
       "description": "Estos comportamientos respaldados por expertos, desde seguir tu rutina hasta dormir cerca, revelan cuán fuerte es realmente tu vínculo.",
       "url": "https://es.qz.com/-seales-de-que-tu-perro-realmente-confa-en-ti-lectores-digest",
@@ -101,7 +119,7 @@
       "sourceName": "qz_es"
     },
     {
-      "id": "es-11",
+      "id": "es-13",
       "title": "Alberto Sanz, adiestrador canino: \"El transportín no es una jaula ni un castigo, es el sitio del perro dentro del coche\"",
       "description": "Tener un perro requiere de una responsabilidad que no solo incluye cubrir sus necesidades básicas de alimentación, sino también intentar entender qué es lo que necesita en cada momento y cómo podemos ayudarles a mej",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260708/1004204124/alberto-sanz-adiestrador-canino-transportin-no-jaula-castigo-sitio-perro-coche-pjm-dct.html",
@@ -110,7 +128,7 @@
       "sourceName": "mundodeportivo"
     },
     {
-      "id": "es-12",
+      "id": "es-14",
       "title": "Terrorista de Hezbollah asesina a un canino del ejército israelí y muere abatido en el Líbano",
       "description": "Un operativo del grupo terrorista chií Hezbollah, que mató a un perro de la unidad Oketz de las Fuerzas de Defensa de Israel (FDI), ayer, en la localidad de Bint Jbeil, en el sur del Líbano, fue abatido por la joven c",
       "url": "https://www.aurora-israel.co.il/terrorista-de-hezbollah-asesina-a-un-canino-del-ejercito-israeli-y-muere-abatido-en-el-libano/",
@@ -119,7 +137,7 @@
       "sourceName": "aurora_israel"
     },
     {
-      "id": "es-13",
+      "id": "es-15",
       "title": "¿Lo reconoces? Buscan a familia de perrito que llegó a resguardarse a la estación de Bomberos de Valsequillo",
       "description": "Un perro de gran tamaño llegó por cuenta propia esta noche a la estación de Bomberos de Valsequillo, donde fue resguardado luego de aparecer completamente mojado y aparentemente desorientado. Ahora, elementos de la co",
       "url": "https://www.diariocambio.com.mx/2026/puebla/lo-reconoces-buscan-a-familia-de-perrito-que-llego-a-resguardarse-a-la-estacion-de-bomberos-de-valsequillo/",
@@ -128,7 +146,7 @@
       "sourceName": "diariocambio"
     },
     {
-      "id": "es-14",
+      "id": "es-16",
       "title": "¿Qué música es buena para que escuchen los perros?",
       "description": "La relación de los perros y la música funciona distinta a la de las personas principalmente por temas anatómicos y la forma en la que procesan los sonidos",
       "url": "https://www.informador.mx/estilo/que-musica-es-buena-para-que-escuchen-los-perros-20260707-0162.html",
@@ -137,7 +155,7 @@
       "sourceName": "informador_mx"
     },
     {
-      "id": "es-15",
+      "id": "es-17",
       "title": "Irresponsabilidad humana y el trasfondo de los ataques caninos en Tehuacán",
       "description": "Cada vez se han vuelto más recurrentes los ataques por parte de caninos en las calles, esta es una responsabilidad compartida, de los propietarios de ...",
       "url": "https://www.meganoticias.mx/tehuacan/noticia/irresponsabilidad-humana-y-el-trasfondo-de-los-ataques-caninos-en-tehuac%C3%A1n/749652",
@@ -146,7 +164,7 @@
       "sourceName": "meganoticias_mx"
     },
     {
-      "id": "es-16",
+      "id": "es-18",
       "title": "La emoción excesiva de tu perro al verte no es felicidad, sino un síntoma de ansiedad por separación que puede dañar su corazón; según expertos, así es como debes cambiar tus rutinas para corregir su comportamiento",
       "description": "Una bienvenida desproporcionada con ladridos, saltos o nerviosismo extremo no siempre es sinónimo de felicidad, sino una señal de estrés que daña la salud de tu mascota.",
       "url": "https://www.elimparcial.com/locurioso/2026/07/07/la-emocion-excesiva-de-tu-perro-al-verte-no-es-felicidad-sino-un-sintoma-de-ansiedad-por-separacion-que-puede-danar-su-corazon-segun-expertos-asi-es-como-debes-cambiar-tus-rutinas-para-corregir-su-comportamiento/",
@@ -155,7 +173,7 @@
       "sourceName": "elimparcial"
     },
     {
-      "id": "es-17",
+      "id": "es-19",
       "title": "CEJUM implementa acompañamiento con perros como estrategia de atención psicológica a víctimas de violencia",
       "description": "Toña, Dora y Vera, tres binomios caninos ayudan a menores de edad a reducir ansiedad durante terapias y procesos judiciales.",
       "url": "https://www.elimparcial.com/mxl/mexicali/2026/07/07/cejum-implementa-acompanamiento-con-perros-como-estrategia-de-atencion-psicologica-a-victimas-de-violencia/",
@@ -164,7 +182,7 @@
       "sourceName": "elimparcial"
     },
     {
-      "id": "es-18",
+      "id": "es-20",
       "title": "Piden campañas para difundir sanciones por tener perros en azoteas o amarrados",
       "description": "Las sanciones incluyen multas que van desde los 32 mil a más de 54 mil pesos y arrestos administrativos de 24 a 36 horas y penas de 6 meses a varios años de prisión dependiendo del daño",
       "url": "https://www.cronica.com.mx/metropoli/2026/07/07/piden-campanas-para-difundir-sanciones-por-tener-perros-en-azoteas-o-amarrados/",
@@ -173,31 +191,13 @@
       "sourceName": "cronica_mx"
     },
     {
-      "id": "es-19",
+      "id": "es-21",
       "title": "Por qué los perros te piden comida en la mesa y qué quieren decirte",
       "description": "Muchos perros miran fijamente a sus dueños durante el almuerzo o la cena, una conducta que suele interpretarse como una señal de hambre.",
       "url": "https://www.losandes.com.ar/por-las-redes/por-que-los-perros-te-piden-comida-la-mesa-y-que-quieren-decirte-n5997653",
       "urlToImage": "https://media.losandes.com.ar/p/91a4004ff22146851499d435415c9d91/adjuntos/368/imagenes/100/727/0100727779/1200x675/smart/perro-comida-significado.jpg",
       "publishedAt": "2026-07-07 18:20:00",
       "sourceName": "losandes"
-    },
-    {
-      "id": "es-20",
-      "title": "Youtuber es condenado a ocho meses en prisión por cocinar un perro callejero",
-      "description": "Youtuber es condenado a ocho meses en prisión por cocinar un perro callejero alorenzo Mar, 07/07/2026 - 12:40",
-      "url": "https://www.critica.com.pa/insolitas/youtuber-es-condenado-ocho-meses-en-prision-por-cocinar-un-perro-callejero-512370",
-      "urlToImage": "https://www.critica.com.pa/sites/default/files/styles/slider_notas/public/imagenes/2026/07/07/ayoub-nsns-recogiendo-cadaver-perro-callejero_70.webp?itok=Ht1kwIUx",
-      "publishedAt": "2026-07-07 17:40:42",
-      "sourceName": "critica"
-    },
-    {
-      "id": "es-21",
-      "title": "Razas de perros que expertos desaconsejan si nunca has tenido uno",
-      "description": "Conoce por qué el Husky Siberiano o el Border Collie pueden convertirse en un desafío inmanejable para quienes adoptan un can por primera vez en su vida",
-      "url": "https://www.informador.mx/estilo/razas-de-perros-que-los-expertos-desaconsejan-si-nunca-has-tenido-mascota-20260707-0087.html",
-      "urlToImage": "https://www.informador.mx/__export/1783445625669/sites/elinformador/img/2026/07/07/web_canva-6-_version1783445606065.png_1452927591.png",
-      "publishedAt": "2026-07-07 17:33:00",
-      "sourceName": "informador_mx"
     },
     {
       "id": "es-22",
@@ -284,6 +284,39 @@
   "en": [
     {
       "id": "en-0",
+      "title": "Himalayan Gaddi Dogs Get Official Kennel Club Recognition",
+      "description": "A proud moment for India's indigenous canine heritage has finally arrived. The registration of Scooby and Putty is being celebrated as a landmark step towards preserving the rare Himalayan Gaddi Dog.",
+      "url": "https://www.thestatesman.com/cities/shimla/himalayan-gaddi-dog-registration-indian-national-kennel-club-scooby-putty-indigenous-dog-breed-1503614635.html",
+      "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2026/07/Himalayan-Gaddi-Dogs-Get-Official-Kennel-Club-Recognition.webp",
+      "publishedAt": "2026-07-09 05:26:01",
+      "sourceName": "thestatesman",
+      "title_es": "Los perros Gaddi del Himalaya obtienen el reconocimiento oficial del Kennel Club",
+      "description_es": "Por fin ha llegado un momento de orgullo para el patrimonio canino indígena de la India. El registro de Scooby and Putty se celebra como un paso histórico para preservar el raro perro Gaddi del Himalaya."
+    },
+    {
+      "id": "en-1",
+      "title": "Dog owner wants change after plant poisoning",
+      "description": "A Tamworth woman wants mandatory labels on plants after her dog nearly died from eating one.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyllk9rke8o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/57ec/live/55ef6c80-7943-11f1-bfee-d367081f1131.jpg",
+      "publishedAt": "2026-07-09 05:09:10",
+      "sourceName": "bbc",
+      "title_es": "El dueño del perro quiere un cambio después de una intoxicación por plantas",
+      "description_es": "Una mujer de Tamworth quiere etiquetas obligatorias en las plantas después de que su perro casi muere por comer una."
+    },
+    {
+      "id": "en-2",
+      "title": "Cocoa Police to Honor Retiring K-9 Copper With Community Celebration at Riverfront Park Set for Sept. 17",
+      "description": "Beloved therapy and tracking K-9 served the Cocoa community for nearly a decade and received the prestigious American Kennel Club Award for Canine Excellence [...] The post Cocoa Police to Honor Retiring K-9 Copper With ",
+      "url": "https://spacecoastdaily.com/2026/07/cocoa-police-department-to-honor-retiring-k-9-copper-with-community-celebration-at-riverfront-park-set-for-sept-17/",
+      "urlToImage": "https://spacecoastdaily.com/wp-content/uploads/2026/07/k-9.jpg",
+      "publishedAt": "2026-07-09 04:00:40",
+      "sourceName": "spacecoastdaily",
+      "title_es": "Cocoa Police honrará el retiro de K-9 Copper con una celebración comunitaria en Riverfront Park programada para el 17 de septiembre",
+      "description_es": "La querida terapia y seguimiento de K-9 sirvió a la comunidad de Cocoa durante casi una década y recibió el prestigioso Premio American Kennel Club a la Excelencia Canina [...] The Post Cocoa Police honrará el retiro de K-9 Copper con"
+    },
+    {
+      "id": "en-3",
       "title": "Tiruchy: Stray dog's head stuck in metal pot; saved after hours",
       "description": "The incident came to light when residents spotted the distressed animal frantically running around, disoriented and unable to breathe properly.",
       "url": "https://www.dtnext.in/news/tamilnadu/tiruchy-stray-dogs-head-stuck-in-metal-pot-saved-after-hours",
@@ -294,7 +327,7 @@
       "description_es": "El incidente salió a la luz cuando los residentes vieron al animal angustiado corriendo frenéticamente, desorientado e incapaz de respirar adecuadamente."
     },
     {
-      "id": "en-1",
+      "id": "en-4",
       "title": "Owners Leave Chained Dog to Burn, But These Heroes Saved It",
       "description": "Officers risk their lives to save imperiled pooch. The post Owners Leave Chained Dog to Burn, But These Heroes Saved It appeared first on Mandatory .",
       "url": "https://www.mandatory.com/living/1808083-chained-dog-wildfire-saved-cops-greece-thessaloniki-fire",
@@ -305,7 +338,7 @@
       "description_es": "Los oficiales arriesgan sus vidas para salvar a un perro en peligro. La publicación Los propietarios dejan quemar al perro encadenado, pero estos héroes lo guardaron apareció primero en Obligatorio ."
     },
     {
-      "id": "en-2",
+      "id": "en-5",
       "title": "Four Seasons Hotel Bengaluru to Host Pet-Friendly Staycation",
       "description": "",
       "url": "https://hospitalitynews.in/news/four-seasons-hotel-bengaluru-to-host-pet-friendly-staycation-for-international-dog-day",
@@ -316,7 +349,7 @@
       "description_es": ""
     },
     {
-      "id": "en-3",
+      "id": "en-6",
       "title": "Rusk County prison dog training program expands to include service dogs",
       "description": "Bella is the program’s newest service dog candidate and is being trained with the goal of serving a military veteran.",
       "url": "https://www.ktre.com/2026/07/08/rusk-county-prison-dog-training-program-expands-include-service-dogs/",
@@ -327,7 +360,7 @@
       "description_es": "Bella es la nueva candidata a perro de servicio del programa y está siendo entrenada con el objetivo de servir a un veterano militar."
     },
     {
-      "id": "en-4",
+      "id": "en-7",
       "title": "Best dog food toppers for picky eaters",
       "description": "We tested 30 dog food toppers to find the best wet, fresh, and freeze-dried raw options for your dog.",
       "url": "https://www.businessinsider.com/guides/pets/best-dog-food-toppers",
@@ -338,7 +371,7 @@
       "description_es": "Probamos 30 toppers de comida para perros para encontrar las mejores opciones crudas húmedas, frescas y liofilizadas para tu perro."
     },
     {
-      "id": "en-5",
+      "id": "en-8",
       "title": "How a couple of B.C. rescue dogs became heroes in Venezuela",
       "description": "'Our dogs finding that person is what kept the site from being left behind,' says Burnaby Urban Search and Rescue member Ryan Berry",
       "url": "https://vancouversun.com/news/bc-rescue-dogs-became-heroes-venezuela-earthquake",
@@ -349,7 +382,7 @@
       "description_es": "'Nuestros perros que encontraron a esa persona es lo que evitó que el sitio se quedara atrás', dice Ryan Berry, miembro de Burnaby Urban Search and Rescue"
     },
     {
-      "id": "en-6",
+      "id": "en-9",
       "title": "Mérida Veterinary Clinics on High Alert Over Canine Screwworm Case",
       "description": "The municipal government of Mérida, operating through its Environmental and Animal Welfare Unit (UMABA), has activated strict sanitary response protocols following the... The post Mérida Veterinary Clinics on High Aler",
       "url": "https://theyucatantimes.com/2026/07/merida-veterinary-clinics-on-high-alert-over-canine-screwworm-case/",
@@ -360,7 +393,7 @@
       "description_es": "El gobierno municipal de Mérida, que opera a través de su Unidad de Medio Ambiente y Bienestar Animal (UMABA), ha activado estrictos protocolos de respuesta sanitaria siguiendo el... The post Clínicas veterinarias de Mérida en alerta máxima"
     },
     {
-      "id": "en-7",
+      "id": "en-10",
       "title": "4 dogs return to Stockton after Humboldt County animal rescue tragedy",
       "description": "Four dogs, previously in the care of Miranda’s Rescue Animal Sanctuary, were returned to the Stockton Animal Shelter this week.",
       "url": "https://www.recordnet.com/story/news/crime/2026/07/08/4-stockton-dogs-recovered-from-mirandas-rescue-after-mass-grave-find/90851174007/",
@@ -371,7 +404,7 @@
       "description_es": "Cuatro perros, anteriormente bajo el cuidado del Santuario de Animales de Rescate de Miranda, fueron devueltos al Refugio de Animales de Stockton esta semana."
     },
     {
-      "id": "en-8",
+      "id": "en-11",
       "title": "Pet Treats Market to Reach $58.71 Billion by 2031, Growing at a CAGR of 8.9%",
       "description": "",
       "url": "https://www.rdrnews.com/online_features/press_releases/pet-treats-market-to-reach-58-71-billion-by-2031-growing-at-a-cagr-of/article_6857583f-5770-525a-850f-660af84fbede.html",
@@ -382,7 +415,7 @@
       "description_es": ""
     },
     {
-      "id": "en-9",
+      "id": "en-12",
       "title": "Calgary police officer cleared of wrongdoing in suspect chase that resulted in dog bite",
       "description": "A Calgary Police Service officer has been cleared of any wrongdoing in an incident that saw a police dog bite a suspect, giving them a one-inch cut on their neck.",
       "url": "https://www.ctvnews.ca/calgary/article/calgary-police-officer-cleared-of-wrongdoing-in-suspect-chase-that-resulted-in-dog-bite/",
@@ -393,7 +426,7 @@
       "description_es": "Un oficial del Servicio de Policía de Calgary fue absuelto de cualquier delito en un incidente en el que un perro de la policía mordió a un sospechoso, dándole un corte de una pulgada en el cuello."
     },
     {
-      "id": "en-10",
+      "id": "en-13",
       "title": "'My family is gone': Woman says truck hit her and 4 dogs, leaving service dog and companion dead",
       "description": "A woman with a hearing disability in California is mourning the loss of her two dogs after a truck struck them.",
       "url": "https://www.koco.com/article/woman-loses-service-dog-truck-crash-california/71872887",
@@ -404,7 +437,7 @@
       "description_es": "Una mujer con discapacidad auditiva en California está de luto por la pérdida de sus dos perros después de que un camión los golpeara."
     },
     {
-      "id": "en-11",
+      "id": "en-14",
       "title": "More than doggy day care",
       "description": "On July 1, Prophetess Hayden, a devoted educator, launched Canines on the Prairie Preschool and the Summer Canine Leadership Academy at Peaceful Rest Ranch in Weatherford. Inspired by her ...",
       "url": "https://www.community-news.com/stories/more-than-doggy-day-care,174034",
@@ -415,40 +448,34 @@
       "description_es": "El 1 de julio, la profetisa Hayden, una educadora devota, lanzó Canines on the Prairie Preschool y la Academia de Liderazgo Canino de Verano en Peaceful Rest Ranch en Weatherford. Inspirado por ella ..."
     },
     {
-      "id": "en-12",
+      "id": "en-15",
       "title": "'My family is gone': California woman says truck hit her and 4 dogs, leaving service dog and companion dead",
       "description": "A woman with a hearing disability in California is mourning the loss of her two dogs after a truck struck them.",
       "url": "https://www.wbaltv.com/article/woman-loses-service-dog-truck-crash-california/71872887",
       "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/3ba487cd-dcfb-48fc-b58a-6dbb1abf8691.jpg?crop=1.00xw:0.753xh;0,0.156xh&resize=1200:*",
       "publishedAt": "2026-07-08 19:39:57",
-      "sourceName": "wbaltv",
-      "title_es": "'Mi familia se ha ido': una mujer de California dice que un camión la golpeó a ella y a 4 perros, dejando muertos al perro de servicio y a su compañero",
-      "description_es": "Una mujer con discapacidad auditiva en California está de luto por la pérdida de sus dos perros después de que un camión los golpeara."
+      "sourceName": "wbaltv"
     },
     {
-      "id": "en-13",
+      "id": "en-16",
       "title": "UW discloses use of Ridglan Farms dogs in 2023 anesthesia study",
       "description": "Editor’s note: A UW student who provides comment in this article requested to remain anonymous based on concerns for their position at the university. Certain members of The Badger Herald staff are aware of the source’s ",
       "url": "https://badgerherald.com/news/campus/2026/07/08/uw-discloses-use-of-ridglan-farms-dogs-in-2023-anesthesia-study/",
       "urlToImage": "https://badgerherald.com/wp-content/uploads/2026/04/IMG_6516.jpg",
       "publishedAt": "2026-07-08 19:17:43",
-      "sourceName": "badgerherald",
-      "title_es": "UW divulga el uso de perros Ridglan Farms en el estudio de anestesia de 2023",
-      "description_es": "Nota del editor: Un estudiante de UW que proporciona comentarios en este artículo solicitó permanecer en el anonimato en función de las preocupaciones por su posición en la universidad. Ciertos miembros del personal de The Badger Herald son conscientes de que la fuente"
+      "sourceName": "badgerherald"
     },
     {
-      "id": "en-14",
+      "id": "en-17",
       "title": "Family dog saves young boy from charging bear: 'DIDN'T GET ME'",
       "description": "The boy had been playing in his front yard while his dad was in the garage loading the car when Tazzara heard a commotion",
       "url": "https://ca.news.yahoo.com/family-dog-saves-young-boy-190742615.html",
       "urlToImage": "https://media.zenfs.com/en/toronto_sun_articles_263/03f9883aab45e2b7705022280d5ef492",
       "publishedAt": "2026-07-08 19:07:42",
-      "sourceName": "yahoo",
-      "title_es": "El perro de la familia salva al niño de cargar al oso: \"NO ME ATRAPÓ\"",
-      "description_es": "El niño había estado jugando en su patio delantero mientras su padre estaba en el garaje cargando el auto cuando Tazzara escuchó una conmoción"
+      "sourceName": "yahoo"
     },
     {
-      "id": "en-15",
+      "id": "en-18",
       "title": "Denis Villeneuve's 'The Dog Stars' Adaptation Sparks Debate Over Dog Breed Change",
       "description": "Denis Villeneuve's film adaptation of Peter Heller's novel 'The Dog Stars' faces controversy over changing the protagonist's dog breed from a Blue Heeler to a Belgian Malinois. The film, starring Jacob Elordi, Josh Broli",
       "url": "https://us.headtopics.com/news/denis-villeneuve-s-the-dog-stars-adaptation-sparks-debate-85378040",
@@ -457,7 +484,7 @@
       "sourceName": "headtopics"
     },
     {
-      "id": "en-16",
+      "id": "en-19",
       "title": "Why Custom Canine Unlimited Is a Trusted Choice for Dog Boarding and Training in Gainesville",
       "description": "Choosing the right care for a dog requires confidence in the experience and professionalism of the provider. Many pet owners rely on dog boarding and training in Gainesville to ensure their companions receive attentive c",
       "url": "https://techbullion.com/why-custom-canine-unlimited-is-a-trusted-choice-for-dog-boarding-and-training-in-gainesville/",
@@ -466,25 +493,7 @@
       "sourceName": "techbullion"
     },
     {
-      "id": "en-17",
-      "title": "In HelloNation, Pet Care Expert Ian Dollman Outlines What to Pack for Your Dog's First Boarding Stay",
-      "description": "The article explains how thoughtful preparation and familiar items help dogs adjust to their first boarding experience. ZIONSVILLE, Pa., July 8, 2026 /PRNewswire/ -- What should dog owners bring when preparing their pet ",
-      "url": "https://www.prnewswire.com/news-releases/in-hellonation-pet-care-expert-ian-dollman-outlines-what-to-pack-for-your-dogs-first-boarding-stay-302821055.html",
-      "urlToImage": null,
-      "publishedAt": "2026-07-08 17:30:00",
-      "sourceName": "cision"
-    },
-    {
-      "id": "en-18",
-      "title": "Why does your dog press its back against you while sleeping? Is it love, trust, or something more? Experts explain what this comforting habit may really mean",
-      "description": "Why does your dog always sleep with its back against you? This common dog sleeping behavior often means more than simple comfort. Veterinary behavior experts say dogs choose trusted people when they feel safe enough to s",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-does-your-dog-press-its-back-against-you-while-sleeping-is-it-love-trust-or-something-more-experts-explain-what-this-comforting-habit-may-really-mean/articleshow/132266378.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132266505,resizemode-4,width-1200,height-900,imgsize-2065789,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-08 17:03:39",
-      "sourceName": "economictimes_indiatimes"
-    },
-    {
-      "id": "en-19",
+      "id": "en-20",
       "title": "Canine cardio? How a mobile dog gym keeps your pup healthy",
       "description": "Waggin' Wheels is a mobile dog gym in Halifax that comes right to your door. The business helps dogs exercise safely in the heat of summer or in the dead of win...",
       "url": "https://www.cbc.ca/player/play/video/9.6888463?cmp=rss",
@@ -493,7 +502,7 @@
       "sourceName": "cbc.ca"
     },
     {
-      "id": "en-20",
+      "id": "en-21",
       "title": "Truck Swerves To Hit Dog, Misses, Then Crushes Pregnant Canine In 2nd Try",
       "description": "A heart-wrenching video from Jaipur shows a pickup truck swerving to allegedly try and run over a dog and then crushing another pregnant canine to death.",
       "url": "https://www.ndtv.com/india-news/jaipur-truck-swerves-to-hit-dog-crushes-pregnant-canine-when-1st-attempt-fails-8181842",
@@ -502,7 +511,7 @@
       "sourceName": "ndtv.com"
     },
     {
-      "id": "en-21",
+      "id": "en-22",
       "title": "Madras Canine Club’s dog shows draw to a close",
       "description": "All Breeds Championship dog shows by Madras Canine Club conclude with German Shepherds and Doberman winning top prizes.",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-dog-shows-draw-to-a-close/article69116790.ece",
@@ -511,7 +520,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-22",
+      "id": "en-23",
       "title": "Is dog perfume necessary for your canine companion?",
       "description": "Luxury fashion house Dolce & Gabbana has unveiled a new dog perfume named \"Fefé.\"",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/is-dog-perfume-necessary-for-your-canine-companion/",
@@ -520,7 +529,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-23",
+      "id": "en-24",
       "title": "Recognising signs of canine asthma in your Dog",
       "description": "Asthma in dogs is an allergic disease characterised by inflammation and constriction of the small airways in the lungs...",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/recognising-signs-of-canine-asthma-in-your-dog/",
@@ -529,7 +538,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-24",
+      "id": "en-25",
       "title": "Taiwan to soon welcome its first indigenous dog as a police canine",
       "description": "",
       "url": "https://focustaiwan.tw/society/202404200004",
@@ -538,7 +547,7 @@
       "sourceName": "focustaiwan.tw"
     },
     {
-      "id": "en-25",
+      "id": "en-26",
       "title": "Detroit TSA canine handler suspended over video of him pulling dog",
       "description": "A TSA canine handler was suspended from his duties after a viral video captured him aggressively yanking a bomb-detecting dog in a busy airport.",
       "url": "https://nypost.com/2023/05/08/detroit-tsa-worker-suspended-over-video-of-him-pulling-dog/",
@@ -547,7 +556,7 @@
       "sourceName": "nypost.com"
     },
     {
-      "id": "en-26",
+      "id": "en-27",
       "title": "Curtains come down on Madras Canine Club’s dog shows",
       "description": "570 dogs belonging to 69 breeds participated in the two-day event",
       "url": "https://www.thehindu.com/news/cities/chennai/curtains-come-down-on-madras-canine-clubs-dog-shows/article65880058.ece",
@@ -556,7 +565,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-27",
+      "id": "en-28",
       "title": "Madras Canine Club’s All Breeds Championship Dog Shows begin",
       "description": "Over 570 canines from 69 different breeds have registered this year",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-all-breeds-championship-dog-shows-begin/article65875162.ece",
