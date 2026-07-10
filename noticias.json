@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-07-10T15:54:03.976Z",
+  "generatedAt": "2026-07-10T17:45:33.418Z",
   "es": [
     {
       "id": "es-0",
+      "title": "No todos los pedigrís son iguales: qué significan LOE, LOCE y otras siglas que generan confusión",
+      "description": "Muchos cachorros vendidos como de raza pura jamás podrían competir ni criar oficialmente por la documentación que los acompaña.",
+      "url": "https://www.20minutos.es/animaleros/perros/no-todos-los-pedigris-son-iguales-que-significan-loe-loce-otras-siglas-que-generan-confusion_6975009_0.html",
+      "urlToImage": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/05/26/6a15450c0d7925-36128983.png",
+      "publishedAt": "2026-07-10 05:29:49",
+      "sourceName": "minutos20"
+    },
+    {
+      "id": "es-1",
       "title": "Rescatan a perro que era asfixiado; detienen a hombre",
       "description": "Según el parte policiaco, los hechos ocurrieron en un domicilio ubicado en la colonia Paseos de Camino Real, donde policías municipales observaron a un hombre que mantenía el pie sobre el cuello de un perro",
       "url": "https://eldiariodechihuahua.mx/local/2026/jul/09/rescatan-a-perro-que-era-asfixiado-detienen-a-hombre-816108.html",
@@ -11,7 +20,7 @@
       "sourceName": "eldiariodechihuahua"
     },
     {
-      "id": "es-1",
+      "id": "es-2",
       "title": "Venezuela regala perrita rescatista a México por apoyo tras sismos",
       "description": "Venezuela regala un cachorro al Ejército Mexicano tras el apoyo por sismos. El cargo Venezuela regala perrita rescatista a México por apoyo tras sismos apareció primero en Tribuna de México .",
       "url": "https://tribunademexico.com/venezuela-perrita-rescatista/",
@@ -20,7 +29,16 @@
       "sourceName": "tribunademexico"
     },
     {
-      "id": "es-2",
+      "id": "es-3",
+      "title": "El riesgo detrás de una mordedura canina, importancia de la responsabilidad humana",
+      "description": "Con la incidencia de mordeduras caninas, es indispensable que la ciudadanía sea consciente sobre como atender esta emergencia médica, pero también com...",
+      "url": "https://www.meganoticias.mx/tehuacan/noticia/el-riesgo-detr%C3%A1s-de-una-mordedura-canina-importancia-de-la-responsabilidad-humana/750187",
+      "urlToImage": "https://www.meganoticias.mx/uploads/noticias/el-riesgo-detr%C3%A1s-de-una-mordedura-canina-importancia-de-la-responsabilidad-humana-750187.jpg",
+      "publishedAt": "2026-07-10 00:00:00",
+      "sourceName": "meganoticias_mx"
+    },
+    {
+      "id": "es-4",
       "title": "Protectora de Trelew pidió ser querellante y cuestionó que \"Perejil\" sea el perro involucrado",
       "description": "Integrantes del Refugio de los Callejeros solicitaron intervenir en la causa como representantes del perro judicializado y pidieron su traslado a un refugio. Además, los abogados que patrocinan tanto a la protectora com",
       "url": "https://www.diariocronica.com.ar/noticias/2026/07/09/153922-protectora-de-trelew-pidio-ser-querellante-y-cuestiono-que-perejil-sea-el-perro-involucrado",
@@ -29,7 +47,7 @@
       "sourceName": "diariocronica_ar"
     },
     {
-      "id": "es-3",
+      "id": "es-5",
       "title": "Por qué la euforia de tu perro al regresar a casa puede ser una señal de alerta",
       "description": "Aunque ver a tu mascota saltar y ladrar descontroladamente suele interpretarse como una recibida llena de amor, los especialistas advierten lo contrario",
       "url": "https://www.lanacion.com.ar/lifestyle/mascotas/por-que-la-euforia-de-tu-perro-al-regresar-a-casa-puede-ser-una-senal-de-alerta-nid09072026/",
@@ -38,7 +56,7 @@
       "sourceName": "lanacion"
     },
     {
-      "id": "es-4",
+      "id": "es-6",
       "title": "Por qué los veterinarios recomiendan dejar que tu perro huela durante el paseo",
       "description": "El olfato es clave para que los perros entiendan el mundo. Permitirles explorar aromas puede reducir ansiedad y frustración.",
       "url": "https://www.clarin.com/internacional/veterinarios-recomiendan-dejar-perro-huela-paseo_0_DBWS0gKNET.html",
@@ -47,7 +65,7 @@
       "sourceName": "clarin"
     },
     {
-      "id": "es-5",
+      "id": "es-7",
       "title": "Venezuela dona una perrita al Ejército Mexicano y envía dos binomios caninos para recibir adiestramiento en México",
       "description": "Venezuela entregó una perrita al Gobierno de México como muestra de agradecimiento por la labor humanitaria realizada por el Ejército Mexicano tras los terremotos ocurridos el pasado 24 de junio",
       "url": "https://www.merca20.com/venezuela-dona-una-perrita-al-ejercito-mexicano-y-envia-dos-binomios-caninos-para-recibir-adiestramiento-en-mexico/",
@@ -56,7 +74,7 @@
       "sourceName": "merca20"
     },
     {
-      "id": "es-6",
+      "id": "es-8",
       "title": "Corte Constitucional levanta restricciones para mascotas en conjuntos residenciales",
       "description": "El origen de la decisión está en una tutela de una mujer a la que no le permitían llevar a su perro en el ascensor de su edificio.",
       "url": "https://www.elespectador.com/judicial/corte-constitucional-levanta-restricciones-para-mascotas-en-conjuntos-residenciales/",
@@ -65,7 +83,7 @@
       "sourceName": "elespectador"
     },
     {
-      "id": "es-7",
+      "id": "es-9",
       "title": "Cómo decorar una casa con mascotas y que parezca de revista: materiales resistentes, orden y textiles antimanchas",
       "description": "Decorativas, funcionales y realmente geniales: así son las sugerencias que aportamos hoy para casas con mascotas. Revísalas y elige tus favoritas.",
       "url": "https://www.hola.com/decoracion/20260709909244/ideas-casas-mascotas/",
@@ -74,7 +92,7 @@
       "sourceName": "hola"
     },
     {
-      "id": "es-8",
+      "id": "es-10",
       "title": "El infalible truco para saber si tu perro es guardián o no",
       "description": "Descubre la diferencia clave entre un perro protector por apego y un verdadero can de seguridad con este sencillo método de observación diaria en tu hogar",
       "url": "https://www.informador.mx/estilo/el-infalible-truco-para-saber-si-tu-perro-es-guardian-o-no-20260709-0033.html",
@@ -83,7 +101,7 @@
       "sourceName": "informador_mx"
     },
     {
-      "id": "es-9",
+      "id": "es-11",
       "title": "Los educadores caninos coinciden: sacar a pasear a tu perro 20 minutos al día puede ser «una bomba de relojería»",
       "description": "El paseo de un perro es uno de los momentos más importantes del día para el animal. Por ello, el educador canino, Hugo Fernández, enfatiza que un paseo de 20 minutos no puede cubrir las necesidades al completo porque ",
       "url": "https://okdiario.com/mascotas/educadores-caninos-coinciden-sacar-pasear-tu-perro-20-minutos-dia-puede-ser-bomba-relojeria-18960613",
@@ -92,7 +110,7 @@
       "sourceName": "okdiario"
     },
     {
-      "id": "es-10",
+      "id": "es-12",
       "title": "Una agresión sexual y dos mordeduras de perros, incidentes más graves sufridos por peregrinos en Zamora en 2025",
       "description": "Una agresión sexual cometida contra una mujer fue el hecho delictivo más grave identificado en el Camino de Santiago a su paso por la provincia de Zamora, seis rutas por las que transitan en torno a 4.500 personas al a",
       "url": "https://www.laopiniondezamora.es/zamora/2026/07/09/agresion-sexual-mordeduras-perros-incidentes-132283402.html",
@@ -101,7 +119,7 @@
       "sourceName": "laopiniondezamora"
     },
     {
-      "id": "es-11",
+      "id": "es-13",
       "title": "Natasha Olby, veterinaria neuróloga: “La zancada de un perro mayor puede avisar de deterioro cognitivo”",
       "description": "La forma de caminar también puede revelar cómo envejece el cerebro canino: pasos más cortos, desorientación y cambios de rutina merecen consulta. Más información: Marruecos da una lección a España: restaura más ",
       "url": "https://www.elespanol.com/ciencia/20260709/natasha-olby-veterinaria-neurologa-zancada-perro-mayor-puede-avisar-deterioro-cognitivo/1003744313866_0.html",
@@ -110,7 +128,7 @@
       "sourceName": "elespanol"
     },
     {
-      "id": "es-12",
+      "id": "es-14",
       "title": "Málaga celebra este sábado el primer concierto para perros en Andalucía: música suave de piano en Dog City",
       "description": "Dog City, el primer hotel para perros de Málaga, celebra este próximo sábado 11 de julio a partir de las 10.30 horas el primer concierto diseñado específicamente para perros que se celebra en Andalucía. La iniciati",
       "url": "https://www.laopiniondemalaga.es/malaga/2026/07/09/malaga-celebra-primer-concierto-musica-perros-andalucia-dog-city-132284088.html",
@@ -119,7 +137,7 @@
       "sourceName": "laopiniondemalaga"
     },
     {
-      "id": "es-13",
+      "id": "es-15",
       "title": "Investigadores explican qué modo de hablar funciona para que tu perro te entienda mejor",
       "description": "El tono de voz importa a la hora de hablar a tu mascota para que preste atención y la mantenga",
       "url": "https://www.infobae.com/espana/2026/07/09/investigadores-explican-que-modo-de-hablar-funciona-para-que-tu-perro-te-entienda-mejor/",
@@ -128,7 +146,7 @@
       "sourceName": "infobae"
     },
     {
-      "id": "es-14",
+      "id": "es-16",
       "title": "5 cosas que tu perro realmente quiere de ti",
       "description": "Descubre cinco formas simples de hacer más feliz a tu cachorro, fortalecer vuestro vínculo y comprender mejor las necesidades de tu perro.",
       "url": "https://es.qz.com/cosas-que-tu-perro-realmente-quiere-de-ti---readers-digest",
@@ -137,7 +155,7 @@
       "sourceName": "qz_es"
     },
     {
-      "id": "es-15",
+      "id": "es-17",
       "title": "¿Reconocen los perros a sus madres después de años sin verlas? Los veterinarios lo confirman",
       "description": "Desde su nacimiento hasta que cumplen dos meses es el tiempo mínimo que, por lo general, un cachorro de perro pasa con su madre. Muchos de los cachorros no vuelven a ver a sus progenitoras hasta después de mucho tiempo",
       "url": "https://okdiario.com/mascotas/reconocen-perros-sus-madres-despues-anos-sin-verlas-veterinarios-lo-confirman-18959659",
@@ -146,7 +164,7 @@
       "sourceName": "okdiario"
     },
     {
-      "id": "es-16",
+      "id": "es-18",
       "title": "¿Vacaciones con perro? Estas playas petfriendly están a un paso de Zaragoza y son perfectas para él",
       "description": "Tanto en la Comunidad Valenciana como en Cataluña existen numerosas playas para perros cerca de Zaragoza, algunas a menos de tres horas de viaje",
       "url": "https://www.aragondigital.es/articulo/sociedad/consejos-veterinarios-proteger-mascota-calor-senales-alerta-como-actuar/20260625115241992164.html",
@@ -155,7 +173,7 @@
       "sourceName": "aragaondigital"
     },
     {
-      "id": "es-17",
+      "id": "es-19",
       "title": "Los veterinarios coinciden: que tu perro se alegre de que vuelvas a casa no es por felicidad",
       "description": "La reacción de la mascota cuando el dueño regresa a casa puede revelar más sobre su bienestar de lo que parece",
       "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-07-09/perros-alegria-volver-a-casa-ansiedad-1qrt_4386643/",
@@ -164,7 +182,7 @@
       "sourceName": "elconfidencial"
     },
     {
-      "id": "es-18",
+      "id": "es-20",
       "title": "Por qué algunos perros saltan como gacelas cuando corren entre la hierba alta",
       "description": "Se trata de un gesto único que puede mezclar juego, excitación, búsqueda y adaptación al terreno.",
       "url": "https://www.20minutos.es/animaleros/perros/por-que-algunos-perros-saltan-como-gacelas-cuando-corren-entre-hierba-alta_6976337_0.html",
@@ -173,7 +191,7 @@
       "sourceName": "minutos20"
     },
     {
-      "id": "es-19",
+      "id": "es-21",
       "title": "De bombero en Murcia al terremoto de Venezuela: \"En una emergencia real no hay horarios ni protocolos contra el calor\"",
       "description": "Juan Antonio Pastor es bombero y guía canino en Murcia. Hace apenas unas semanas, una llamada le cambió los planes de la noche a la mañana: la Dirección General de Emergencias solicitaba su Unidad Canina para viajar ",
       "url": "https://www.laopiniondemurcia.es/comunidad/2026/07/09/bombero-murcia-terremoto-venezuela-emergencia-132262670.html",
@@ -182,31 +200,13 @@
       "sourceName": "laopiniondemucria"
     },
     {
-      "id": "es-20",
+      "id": "es-22",
       "title": "Creyó criar un perro... pero era un coyote",
       "description": "La Fiscalía General del Estado de Michoacán (FGE) aseguró un ejemplar de coyote mexicano que permanecía en un domicilio del municipio de Numarán, lueg...",
       "url": "https://www.meganoticias.mx/morelia/noticia/crey%C3%B3-criar-un-perro-pero-era-un-coyote/749930",
       "urlToImage": "https://www.meganoticias.mx/uploads/noticias/crey%C3%B3-criar-un-perro-pero-era-un-coyote-749930.jpg",
       "publishedAt": "2026-07-09 00:00:00",
       "sourceName": "meganoticias_mx"
-    },
-    {
-      "id": "es-21",
-      "title": "Agresividad canina: reflejo del entorno y falta de bienestar animal",
-      "description": "Las mordeduras de caninos suelen ser reacciones impulsivas por miedo, falta de socialización, malestar físico o estrés por encierro, situación por mal...",
-      "url": "https://www.meganoticias.mx/tehuacan/noticia/agresividad-canina-reflejo-del-entorno-y-falta-de-bienestar-animal/750029",
-      "urlToImage": "https://www.meganoticias.mx/uploads/noticias/agresividad-canina-reflejo-del-entorno-y-falta-de-bienestar-animal-750029.jpg",
-      "publishedAt": "2026-07-09 00:00:00",
-      "sourceName": "meganoticias_mx"
-    },
-    {
-      "id": "es-22",
-      "title": "Apareció 'Guaro', así fue como el actor Jorge Hugo Marín recuperó a su perro robado por delincuentes en su vivienda: 'Ya lo tengo, ya está en casa'",
-      "description": "El canino logró escaparse de sus captores a pocas cuadras del lugar del robo. Así fue el emotivo encuentro entre ambos.",
-      "url": "https://www.eltiempo.com/bogota/aparecio-guaro-asi-fue-como-el-actor-jorge-hugo-marin-recupero-a-su-perro-robado-por-delincuentes-en-su-vivienda-ya-lo-tengo-esta-ya-en-casa-3570009",
-      "urlToImage": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/08/6a4ed80b64eeb.jpeg",
-      "publishedAt": "2026-07-08 23:22:56",
-      "sourceName": "eltiempocl"
     },
     {
       "id": "es-23",
