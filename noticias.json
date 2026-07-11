@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-07-11T16:28:46.476Z",
+  "generatedAt": "2026-07-11T17:31:47.549Z",
   "es": [
     {
       "id": "es-0",
+      "title": "El motivo por el que los perros encogen el cuello cuando les acaricias la cabeza: muchos dueños no lo saben",
+      "description": "Según la «Estadística Nacional sobre la Protección Animal», presentada por el Ministerio de Derechos Sociales, Consumo y Agenda 2030, «los perros siguen siendo el animal de compañía más habitual en España. Con 7.5",
+      "url": "https://okdiario.com/mascotas/motivo-que-perros-encogen-cuello-cuando-les-acaricias-cabeza-muchos-duenos-no-lo-saben-18971126",
+      "urlToImage": "https://okdiario.com/img/2026/07/10/el-motivo-por-el-que-los-perros-encogen-el-cuello-cuando-les-acaricias-la-cabeza-muchos-duenos-no-lo-saben-.jpg",
+      "publishedAt": "2026-07-11 05:00:04",
+      "sourceName": "okdiario"
+    },
+    {
+      "id": "es-1",
+      "title": "Adriana Ugarte, actriz: “Mi primer amor fue mi perro Curro; luego desarrollé un amor incondicional por todos los animales del planeta”",
+      "description": "La actriz, popular por 'La señora' o 'El tiempo entre costuras', nos habla de su gran familia animal, de la importancia de educar a perros y humanos, o del Proyecto Pituli que rescata a gatos de las calles de Tánger",
+      "url": "https://www.lavanguardia.com/mascotas/20260711/11589037/adriana-ugarte-actriz-mi-primer-amor-mi-perro-curro-luego-desarrolle-amor-incondicional-todos-animales-planeta.html",
+      "urlToImage": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/10/6a50c3ced4b3c.r_d.793-430-0.jpeg",
+      "publishedAt": "2026-07-11 05:00:00",
+      "sourceName": "lavanguardia"
+    },
+    {
+      "id": "es-2",
       "title": "Laika, la cachorra belga malinois donada por Venezuela, llegó hoy a México como agradecimiento por la ayuda brindada tras los sismos del 24 de junio",
       "description": "La perrita fue enviada por Delcy Rodríguez como agradecimiento al Agrupamiento de Ayuda Humanitaria “Yumare”, que participó en labores de búsqueda, rescate y asistencia en territorio venezolano.",
       "url": "https://www.elimparcial.com/mexico/2026/07/10/laika-la-cachorra-belga-malinois-donada-por-venezuela-llego-hoy-a-mexico-como-agradecimiento-por-la-ayuda-brindada-tras-los-sismos-del-24-de-junio/",
@@ -11,7 +29,7 @@
       "sourceName": "elimparcial"
     },
     {
-      "id": "es-1",
+      "id": "es-3",
       "title": "Dictan prisión preventiva a hombre que golpeó y mató con un bate a un perro en Veracruz",
       "description": "Gustavo Adolfo 'N' fue detenido tras golpear y matar a un perro pitbull en Veracruz; le imputan el delito de maltrato y crueldad animal.",
       "url": "https://www.zocalo.com.mx/dictan-prision-preventiva-a-hombre-que-golpeo-y-mato-con-un-bate-a-un-perro-en-veracruz/",
@@ -20,7 +38,7 @@
       "sourceName": "zocalo"
     },
     {
-      "id": "es-2",
+      "id": "es-4",
       "title": "Conmovió a todo Illapel: Valiente superó sus heridas y hoy disfruta de un nuevo hogar",
       "description": "El perro, bautizado por la comunidad como Valiente tras sobrevivir a un brutal ataque con agua hirviendo, comenzará una nueva vida junto a su familia adoptiva, culminando un proceso de recuperación impulsado por la Mun",
       "url": "https://www.diarioeldia.cl/noticias/2026/07/10/144394-conmovio-a-todo-illapel-valiente-supero-sus-heridas-y-hoy-disfruta-de-un-nuevo-hogar",
@@ -29,7 +47,7 @@
       "sourceName": "diarioeldia"
     },
     {
-      "id": "es-3",
+      "id": "es-5",
       "title": "No, tu perro no te lame porque te quiere... Esta es la verdadera razón y no es cariño",
       "description": "Para millones de personas, llegar a casa y recibir una lluvia de lamidos por parte de su perro es una de las mayores muestras de amor y fidelidad . Sin embargo, especialistas en comportamiento canino advierten que esta c",
       "url": "https://vanguardia.com.mx/informacion/no-tu-perro-no-te-lame-porque-te-quiere-esta-es-la-verdadera-razon-y-no-es-carino-PF22057932",
@@ -38,7 +56,7 @@
       "sourceName": "vanguardia"
     },
     {
-      "id": "es-4",
+      "id": "es-6",
       "title": "Ponen en marcha la campaña “No dejes huella, usa la botella” para seguir fomentando una Huelva más limpia",
       "description": "Pilar Miranda destaca que “entre todos podemos conseguir que se deje de culpar a nuestras mascotas de ensuciar la ciudad”, apelando a la colaboración ciudadana para cuidar el espacio público",
       "url": "https://www.lanocion.es/huelva/20260710/ponen-en-marcha-la-campanya-no-dejes-huella-ccc1c.html",
@@ -47,7 +65,7 @@
       "sourceName": "lanocino"
     },
     {
-      "id": "es-5",
+      "id": "es-7",
       "title": "Víctor Padilla, educador canino: \"Cada perro tiene una historia, unas experiencias previas, unas capacidades determinadas y una mochila emocional diferente\"",
       "description": "Alba Fernández y Víctor Padilla, educadores caninos, han presentado en ' Mundo Deportivo ' su nueva publicación, ' Tu perro habla. Aprende a entenderlo '. Además, son fundadores de la escuela 'Olfateando el mundo', a",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260710/1004205180/victor-padilla-educador-canino-perro-historia-experiencias-previas-capacidades-determinadas-mochila-emocional-diferente-expt-dct.html",
@@ -56,7 +74,7 @@
       "sourceName": "mundodeportivo"
     },
     {
-      "id": "es-6",
+      "id": "es-8",
       "title": "Rescatan a dos perros tras pelea mortal en Quito",
       "description": "Un perro pitbull murió tras una pelea en San Antonio, Quito. La UBA rescató a otros canes involucrados el 8 de julio.",
       "url": "https://www.elcomercio.com/actualidad/quito/rescatan-dos-perros-pelea-mortal-quito/",
@@ -65,7 +83,7 @@
       "sourceName": "elcomercio_com"
     },
     {
-      "id": "es-7",
+      "id": "es-9",
       "title": "De perro rescatado a rescatista: la historia de Milo",
       "description": "El perro rescatado que se convirtió en héroe guiado por su olfato al encontrar a tres sobrevivientes tras el terremoto La entrada De perro rescatado a rescatista: la historia de Milo se publicó primero en Últimas Not",
       "url": "https://ultimasnoticias.com.ve/tu-mascota/historias-de-mascotas/de-perro-rescatado-a-rescatista-la-historia-de-milo/",
@@ -74,7 +92,7 @@
       "sourceName": "ultimasnoticias"
     },
     {
-      "id": "es-8",
+      "id": "es-10",
       "title": "No fue nuevo, \"Ventaneando\" y su historial de dichos contra perros",
       "description": "",
       "url": "https://www.eluniversal.com.mx/espectaculos/no-fue-nuevo-ventaneando-y-su-historial-de-dichos-contra-perros/",
@@ -83,7 +101,7 @@
       "sourceName": "eluniversal"
     },
     {
-      "id": "es-9",
+      "id": "es-11",
       "title": "Si tu perro es mayor y da pasos más cortos al caminar, un estudio revela que podría estar relacionado con el deterioro cognitivo",
       "description": "Investigadores identifican un cambio en la forma de caminar de algunos perros mayores que podría ayudar a detectar antes el deterioro cognitivo, una especie de equivalente al Alzheimer en perros.Cuando un perro envejece",
       "url": "https://expertoanimal.elperiodico.com/si-tu-perro-es-mayor-y-da-pasos-mas-cortos-al-caminar-un-estudio-revela-que-podria-estar-relacionado-con-el-deterioro-cognitivo-28486.html",
@@ -92,7 +110,7 @@
       "sourceName": "laopiniondezamora"
     },
     {
-      "id": "es-10",
+      "id": "es-12",
       "title": "\"Lo empujó\": acusan a Pedro Sola de presunto maltrato contra el perrito Pay de Limón en Ventaneando",
       "description": "El canino fue rescatado en 2011 de un grupo criminal que lo torturó y mutiló",
       "url": "https://www.milenio.com/espectaculos/famosos/denuncian-pedro-sola-presunto-maltrato-perro-pay-de-limon-ventaneando",
@@ -101,7 +119,7 @@
       "sourceName": "milenio"
     },
     {
-      "id": "es-11",
+      "id": "es-13",
       "title": "Ya ha entrado en vigor en toda Europa: se prohíbe que las mascotas viajen sin que sus dueños las hayan registrado previamente",
       "description": "Desde el pasado 22 de abril , las normas para viajar con mascotas por todo el territorio europeo han cambiado significativamente. Si bien no ha entrado en vigor una nueva ley, sí se han intensificado los controles para ",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260710/1004205092/entrado-vigor-toda-europa-prohibe-mascotas-viajen-duenos-hayan-registrado-previamente-pjm-dct.html",
@@ -110,7 +128,7 @@
       "sourceName": "mundodeportivo"
     },
     {
-      "id": "es-12",
+      "id": "es-14",
       "title": "Así trabajan los perros que buscan supervivientes bajo los escombros: \"Ellos toman sus propias decisiones\"",
       "description": "Los perros de rescate desempeñan un papel decisivo en las grandes catástrofes. Tras los devastadores terremotos de Venezuela, donde los equipos de emergencia continúan buscando supervivientes entre los escombros, el b",
       "url": "https://www.ondacero.es/noticias/sociedad/asi-trabajan-perros-que-buscan-supervivientes-escombros-ellos-toman-sus-propias-decisiones_202607106a50d798c48a78681b7faca6.html",
@@ -119,7 +137,7 @@
       "sourceName": "ondacero"
     },
     {
-      "id": "es-13",
+      "id": "es-15",
       "title": "Arranca en Huelva la campaña ‘No dejes huella, usa la botella’ dirigida a propietarios de perros",
       "description": "Pilar Miranda apela a la colaboración ciudadana para cuidar el espacio público de la ciudad Controles en Huelva: días y calles en los que multarán por exceso de velocidad, alcohol y drogas",
       "url": "https://www.huelvainformacion.es/huelva/arranca-huelva-campana-no-dejes_0_2007388286.html",
@@ -128,7 +146,7 @@
       "sourceName": "huelvainformacion_es"
     },
     {
-      "id": "es-14",
+      "id": "es-16",
       "title": "\"Me lamía cuando me desmayaba\": un joven sobrevivió 14 días bajo los escombros gracias a su perro en La Guaira",
       "description": "Un joven rescatado entre los escombros de un edificio en Catia La Mar grabó un video en el que mostró la compañía de su mascota, clave para mantenerse con vida.",
       "url": "https://www.lagaceta.com.ar/nota/1144916/mundo/me-lamia-cuando-me-desmayaba-joven-sobrevivio-14-dias-bajo-escombros-gracias-perro-guaira.html",
@@ -137,7 +155,7 @@
       "sourceName": "lagaceta_ar"
     },
     {
-      "id": "es-15",
+      "id": "es-17",
       "title": "No todos los pedigrís son iguales: qué significan LOE, LOCE y otras siglas que generan confusión",
       "description": "Muchos cachorros vendidos como de raza pura jamás podrían competir ni criar oficialmente por la documentación que los acompaña.",
       "url": "https://www.20minutos.es/animaleros/perros/no-todos-los-pedigris-son-iguales-que-significan-loe-loce-otras-siglas-que-generan-confusion_6975009_0.html",
@@ -146,7 +164,7 @@
       "sourceName": "minutos20"
     },
     {
-      "id": "es-16",
+      "id": "es-18",
       "title": "Rescatan a perro que era asfixiado; detienen a hombre",
       "description": "Según el parte policiaco, los hechos ocurrieron en un domicilio ubicado en la colonia Paseos de Camino Real, donde policías municipales observaron a un hombre que mantenía el pie sobre el cuello de un perro",
       "url": "https://eldiariodechihuahua.mx/local/2026/jul/09/rescatan-a-perro-que-era-asfixiado-detienen-a-hombre-816108.html",
@@ -155,7 +173,7 @@
       "sourceName": "eldiariodechihuahua"
     },
     {
-      "id": "es-17",
+      "id": "es-19",
       "title": "Venezuela regala perrita rescatista a México por apoyo tras sismos",
       "description": "Venezuela regala un cachorro al Ejército Mexicano tras el apoyo por sismos. El cargo Venezuela regala perrita rescatista a México por apoyo tras sismos apareció primero en Tribuna de México .",
       "url": "https://tribunademexico.com/venezuela-perrita-rescatista/",
@@ -164,7 +182,7 @@
       "sourceName": "tribunademexico"
     },
     {
-      "id": "es-18",
+      "id": "es-20",
       "title": "El riesgo detrás de una mordedura canina, importancia de la responsabilidad humana",
       "description": "Con la incidencia de mordeduras caninas, es indispensable que la ciudadanía sea consciente sobre como atender esta emergencia médica, pero también com...",
       "url": "https://www.meganoticias.mx/tehuacan/noticia/el-riesgo-detr%C3%A1s-de-una-mordedura-canina-importancia-de-la-responsabilidad-humana/750187",
@@ -173,7 +191,7 @@
       "sourceName": "meganoticias_mx"
     },
     {
-      "id": "es-19",
+      "id": "es-21",
       "title": "Protectora de Trelew pidió ser querellante y cuestionó que \"Perejil\" sea el perro involucrado",
       "description": "Integrantes del Refugio de los Callejeros solicitaron intervenir en la causa como representantes del perro judicializado y pidieron su traslado a un refugio. Además, los abogados que patrocinan tanto a la protectora com",
       "url": "https://www.diariocronica.com.ar/noticias/2026/07/09/153922-protectora-de-trelew-pidio-ser-querellante-y-cuestiono-que-perejil-sea-el-perro-involucrado",
@@ -182,7 +200,7 @@
       "sourceName": "diariocronica_ar"
     },
     {
-      "id": "es-20",
+      "id": "es-22",
       "title": "Por qué la euforia de tu perro al regresar a casa puede ser una señal de alerta",
       "description": "Aunque ver a tu mascota saltar y ladrar descontroladamente suele interpretarse como una recibida llena de amor, los especialistas advierten lo contrario",
       "url": "https://www.lanacion.com.ar/lifestyle/mascotas/por-que-la-euforia-de-tu-perro-al-regresar-a-casa-puede-ser-una-senal-de-alerta-nid09072026/",
@@ -191,7 +209,7 @@
       "sourceName": "lanacion"
     },
     {
-      "id": "es-21",
+      "id": "es-23",
       "title": "Por qué los veterinarios recomiendan dejar que tu perro huela durante el paseo",
       "description": "El olfato es clave para que los perros entiendan el mundo. Permitirles explorar aromas puede reducir ansiedad y frustración.",
       "url": "https://www.clarin.com/internacional/veterinarios-recomiendan-dejar-perro-huela-paseo_0_DBWS0gKNET.html",
@@ -200,7 +218,7 @@
       "sourceName": "clarin"
     },
     {
-      "id": "es-22",
+      "id": "es-24",
       "title": "Venezuela dona una perrita al Ejército Mexicano y envía dos binomios caninos para recibir adiestramiento en México",
       "description": "Venezuela entregó una perrita al Gobierno de México como muestra de agradecimiento por la labor humanitaria realizada por el Ejército Mexicano tras los terremotos ocurridos el pasado 24 de junio",
       "url": "https://www.merca20.com/venezuela-dona-una-perrita-al-ejercito-mexicano-y-envia-dos-binomios-caninos-para-recibir-adiestramiento-en-mexico/",
@@ -209,7 +227,7 @@
       "sourceName": "merca20"
     },
     {
-      "id": "es-23",
+      "id": "es-25",
       "title": "Enrique Molina, adiestrador canino: \"No debemos dormir con nuestro perro, porque invade un espacio muy personal del dueño\"",
       "description": "Enrique Molina es un conocido adiestrador canino que ayuda a dueños de perros a saber cómo educar a su mascota para que sepa comportarse en casa, entre otras ...",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260510/1004181518/enrique-molina-adiestrador-canino-no-debemos-dormir-nuestro-perro-invade-espacio-personal-dueno-dct.html",
@@ -218,7 +236,7 @@
       "sourceName": "mundodeportivo.com"
     },
     {
-      "id": "es-24",
+      "id": "es-26",
       "title": "Alan Peiró, adiestrador canino: “Cuando un perro se muestra agresivo, lo hace por miedo”",
       "description": "El experto en comportamiento animal brindó consejos para tratar las reacciones violentas de las mascotas.",
       "url": "https://tn.com.ar/mascotas/2026/03/27/alan-peiro-adiestrador-canino-cuando-un-perro-se-muestra-agresivo-lo-hace-por-miedo/",
@@ -227,7 +245,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-25",
+      "id": "es-27",
       "title": "Juan Cervantes, adiestrador canino: “Al volver a tu casa debés ignorar al perro por 5 minutos”",
       "description": "Un experto en mascotas explicó por qué no saludar a tu mascota al regresar al hogar y las consecuencias que eso genera.",
       "url": "https://tn.com.ar/sociedad/2026/03/20/juan-cervantes-adiestrador-canino-al-volver-a-tu-casa-debes-ignorar-al-perro-por-5-minutos/",
@@ -236,7 +254,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-26",
+      "id": "es-28",
       "title": "Juan Cervantes, adiestrador canino: “Cuanto más llames a tu perro por su nombre, menos caso te hace”",
       "description": "El experto influencer explicó el motivo por el que utilizar esta técnica no es la mejor forma para llamar la atención de tu mascota.",
       "url": "https://tn.com.ar/sociedad/2026/03/19/juan-cervantes-adiestrador-canino-cuanto-mas-llames-a-tu-perro-por-su-nombre-menos-caso-te-hace/",
@@ -245,7 +263,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-27",
+      "id": "es-29",
       "title": "Qué siente tu perro cuando sale a pasear, según expertos en comportamiento canino",
       "description": "Ese momento cotidiano es mucho más importante de lo que parece. La ciencia del comportamiento canino explica cómo impacta en el equilibrio emocional, la condu...",
       "url": "https://tn.com.ar/sociedad/2026/02/22/que-siente-tu-perro-cuando-sale-a-pasear-segun-expertos-en-comportamiento-canino/",
@@ -254,7 +272,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-28",
+      "id": "es-30",
       "title": "Qué siente tu perro cuando le gritás, según expertos en comportamiento canino",
       "description": "El tono de voz humano tiene un impacto directo en las emociones de los animales.",
       "url": "https://tn.com.ar/sociedad/2026/02/16/que-siente-tu-perro-cuando-le-gritas-segun-expertos-en-comportamiento-canino/",
@@ -263,7 +281,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-29",
+      "id": "es-31",
       "title": "Alan Peiró, adiestrador canino: “Dormir con tu perro no es un problema en sí mismo”",
       "description": "“Lo importante aquí es, ¿el perro puede dormir solo sin ansiedad? ¿Tiene autonomía emocional?“, planteó el especialista, en relación con la mascota.",
       "url": "https://tn.com.ar/sociedad/2026/01/18/alan-peiro-adiestrador-canino-dormir-con-tu-perro-no-es-un-problema-en-si-mismo/",
@@ -272,7 +290,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-30",
+      "id": "es-32",
       "title": "Por qué no hay que saludar al perro al llegar a casa, según un entrenador canino",
       "description": "Víctor Mañero, reconocido adiestrador canino, reveló el motivo por el cual esta acción puede generarles a los animales gran estrés y ansiedad; qué dijo - ...",
       "url": "https://www.lanacion.com.ar/lifestyle/mascotas/por-que-no-hay-que-saludar-al-perro-al-llegar-a-casa-segun-un-entrenador-canino-nid02052025/",
@@ -281,7 +299,7 @@
       "sourceName": "lanacion.com.ar"
     },
     {
-      "id": "es-31",
+      "id": "es-33",
       "title": "“Perro gay”: ovacionan a un canino en marcha LGBT+ de Guadalajara",
       "description": "El divertido y controversial momento sucedió cuando su cuidadora lo alzó y todos los asistentes no dudaron en gritar y aclamarlo mientras él sacaba su lengua...",
       "url": "https://www.infobae.com/america/entretenimiento/2022/06/19/perro-gay-ovacionan-a-un-canino-en-marcha-lgbt-de-guadalajara/",
