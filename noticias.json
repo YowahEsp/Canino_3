@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-07-12T18:02:40.197Z",
+  "generatedAt": "2026-07-12T19:37:39.747Z",
   "es": [
     {
       "id": "es-0",
+      "title": "Buscan familia para Milos, el perro escapista y maltratado que deambuló durante un año por Bembibre",
+      "description": "Actualmente vive en el albergue canino de la Asociación Protectora de Animales 'Peludines sin Suerte'",
+      "url": "https://www.elbierzonoticias.com/bierzo/buscan-familia-milos-perro-escapista-maltratado-deambulo-20260719093236-nt.html",
+      "urlToImage": "https://s3.ppllstatics.com/elbierzonoticias/www/multimedia/externo/2026/07/08/MILOS%201-kU9G-U306155664022aB-1200x840@Leonoticias-Leonoticias.jpg",
+      "publishedAt": "2026-07-12 07:32:37",
+      "sourceName": "leonoticias"
+    },
+    {
+      "id": "es-1",
+      "title": "¿Escapada a la playa con tu perro? Las zonas más cerca de León y el peligro de multas de 3.000 euros",
+      "description": "Estos arenales son un ejemplo de la tendencia responsable con los animales domésticos",
+      "url": "https://www.leonoticias.com/comarcas/escapada-playa-perro-zonas-cerca-leon-peligro-20260710093213-nt.html",
+      "urlToImage": "https://s2.ppllstatics.com/leonoticias/www/multimedia/local/2026/07/01/perro-kWZC-U30588796138KnE-1200x840@Leonoticias.jpeg",
+      "publishedAt": "2026-07-12 07:32:13",
+      "sourceName": "leonoticias"
+    },
+    {
+      "id": "es-2",
+      "title": "El thai ridgeback: un antiguo perro tailandés con una inconfundible cresta sobre el lomo",
+      "description": "Se encuentra clasificado en el Grupo 5, Sección 7 de la FCI, que incluye perros tipo primitivo y perros de caza.",
+      "url": "https://www.20minutos.es/animaleros/perros/thai-ridgeback-un-antiguo-perro-tailandes-con-una-inconfundible-cresta-sobre-lomo_7012142_0.html",
+      "urlToImage": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/08/6a4e289ce88fd7-29646182.jpeg",
+      "publishedAt": "2026-07-12 06:53:50",
+      "sourceName": "minutos20"
+    },
+    {
+      "id": "es-3",
+      "title": "Rescata Fiscalía Nayarit 4 \"lomitos\" por presunto maltrato en Las Conchas",
+      "description": "La Fiscalía General del Estado de Nayarit rescató cuatro perros más durante un operativo realizado en un domicilio de la colonia Las Conchas, en Tepic...",
+      "url": "https://www.meganoticias.mx/tepic/noticia/rescata-fiscal%C3%ADa-nayarit-4-lomitos-por-presunto-maltrato-en-las-conchas/750654",
+      "urlToImage": "https://www.meganoticias.mx/uploads/noticias/rescata-fiscal%C3%ADa-nayarit-4-lomitos-por-presunto-maltrato-en-las-conchas-750654.jpg",
+      "publishedAt": "2026-07-12 00:00:00",
+      "sourceName": "meganoticias_mx"
+    },
+    {
+      "id": "es-4",
       "title": "Las mejores razas de perros guardianes para departamentos",
       "description": "Las manchas blancas en las paredes no siempre son hongos o pintura dañada. Descubre qué es el salitre, por qué aparece, cuáles son sus riesgos y cómo eliminarlo correctamente",
       "url": "https://www.informador.mx/estilo/las-mejores-razas-de-perros-guardianes-para-departamentos-20260708-0145.html",
@@ -11,7 +47,7 @@
       "sourceName": "informador_mx"
     },
     {
-      "id": "es-1",
+      "id": "es-5",
       "title": "Los veterinarios lo tienen claro: este es el error más común al intentar refrescar a tu perro en verano",
       "description": "Las altas temperaturas golpean con más fuerza que nunca. Mini ventiladores portátiles, abanicos y mucho aire acondicionado marcan el día a día de la mayoría de españoles que tratan de sobrevivir a las persistentes ",
       "url": "https://www.lne.es/vida-y-estilo/2026/07/11/veterinarios-claro-error-comun-refrescar-132362078.html",
@@ -20,7 +56,7 @@
       "sourceName": "lne"
     },
     {
-      "id": "es-2",
+      "id": "es-6",
       "title": "¿Por qué tratamos a los perros como humanos?",
       "description": "Descubre los mecanismos biológicos y neurológicos que explican por qué el vínculo con nuestros canes se asemeja tanto a las relaciones humanas, según las últimas investigaciones científicas",
       "url": "https://www.informador.mx/estilo/por-que-tratamos-a-los-perros-como-humanos-20260707-0105.html",
@@ -29,7 +65,7 @@
       "sourceName": "informador_mx"
     },
     {
-      "id": "es-3",
+      "id": "es-7",
       "title": "¿Cada cuánto se debe bañar a un perro?",
       "description": "Descubre la frecuencia ideal para bañar a tu mascota según los expertos, y aprende a proteger su salud dermatológica evitando los peligros del exceso de higiene",
       "url": "https://www.informador.mx/estilo/cada-cuanto-se-debe-banar-a-un-perro-20260706-0097.html",
@@ -38,7 +74,7 @@
       "sourceName": "informador_mx"
     },
     {
-      "id": "es-4",
+      "id": "es-8",
       "title": "Los veterinarios coinciden: nunca le des ibuprofeno ni paracetamol a tu perro porque pueden ser mortales",
       "description": "El uso de naproxeno o ibuprofeno en animales puede provocar insuficiencia renal fulminante o úlceras de estómago con tan solo una ingesta mínima de uso humano.",
       "url": "https://www.losandes.com.ar/por-las-redes/los-veterinarios-coinciden-nunca-le-des-ibuprofeno-ni-paracetamol-tu-perro-porque-pueden-ser-mortales-n5997781",
@@ -47,7 +83,7 @@
       "sourceName": "losandes"
     },
     {
-      "id": "es-5",
+      "id": "es-9",
       "title": "De pintxos y paseos con tu perro: la guía definitiva para exprimir una Donostia cada vez más 'dog-friendly'",
       "description": "Donostia cuenta ya con más de 15.000 perros censados, transformando la fisonomía de nuestros barrios. Y al mismo tiempo, muchos de los visitantes que eligen la capital guipuzcoana para disfrutar de las vacaciones lo ha",
       "url": "https://www.noticiasdegipuzkoa.eus/mascotas/2026/07/11/pintxos-paseos-perro-guia-san-sebastian-pet-friendly-11305773.html",
@@ -56,7 +92,7 @@
       "sourceName": "noticiasdegipuzkoa"
     },
     {
-      "id": "es-6",
+      "id": "es-10",
       "title": "Raül Aranda y Júlia Autonell, educadores caninos: \"Los problemas empiezan cuando atribuimos cualidades humanas a los animales\"",
       "description": "Cada vez es más habitual ver animales de compañía que llevan prendas de ropa hechas a medida, que son paseados en cochecitos o a los que sus dueños hablan como si fueran bebés de pocos años. ¿Se está humanizando d",
       "url": "https://www.elperiodico.com/es/sociedad/20260711/raul-aranda-julia-autonell-educadores-caninos-problemas-cualidads-humanas-animales-dv-et-132209469",
@@ -65,7 +101,7 @@
       "sourceName": "elperiodico_es"
     },
     {
-      "id": "es-7",
+      "id": "es-11",
       "title": "El motivo por el que los perros encogen el cuello cuando les acaricias la cabeza: muchos dueños no lo saben",
       "description": "Según la «Estadística Nacional sobre la Protección Animal», presentada por el Ministerio de Derechos Sociales, Consumo y Agenda 2030, «los perros siguen siendo el animal de compañía más habitual en España. Con 7.5",
       "url": "https://okdiario.com/mascotas/motivo-que-perros-encogen-cuello-cuando-les-acaricias-cabeza-muchos-duenos-no-lo-saben-18971126",
@@ -74,7 +110,7 @@
       "sourceName": "okdiario"
     },
     {
-      "id": "es-8",
+      "id": "es-12",
       "title": "Adriana Ugarte, actriz: “Mi primer amor fue mi perro Curro; luego desarrollé un amor incondicional por todos los animales del planeta”",
       "description": "La actriz, popular por 'La señora' o 'El tiempo entre costuras', nos habla de su gran familia animal, de la importancia de educar a perros y humanos, o del Proyecto Pituli que rescata a gatos de las calles de Tánger",
       "url": "https://www.lavanguardia.com/mascotas/20260711/11589037/adriana-ugarte-actriz-mi-primer-amor-mi-perro-curro-luego-desarrolle-amor-incondicional-todos-animales-planeta.html",
@@ -83,7 +119,7 @@
       "sourceName": "lavanguardia"
     },
     {
-      "id": "es-9",
+      "id": "es-13",
       "title": "Rescatan perrito atrapado en casa abandonada en colonia oriental de Tepic",
       "description": "Un perro que permanecía atrapado al interior de una vivienda abandonada en la colonia Oriental de Tepic fue rescatado por autoridades de la Fiscalía G...",
       "url": "https://www.meganoticias.mx/tepic/noticia/rescatan-perrito-atrapado-en-casa-abandonada-en-colonia-oriental-de-tepic/750505",
@@ -92,7 +128,7 @@
       "sourceName": "meganoticias_mx"
     },
     {
-      "id": "es-10",
+      "id": "es-14",
       "title": "Laika, la cachorra belga malinois donada por Venezuela, llegó hoy a México como agradecimiento por la ayuda brindada tras los sismos del 24 de junio",
       "description": "La perrita fue enviada por Delcy Rodríguez como agradecimiento al Agrupamiento de Ayuda Humanitaria “Yumare”, que participó en labores de búsqueda, rescate y asistencia en territorio venezolano.",
       "url": "https://www.elimparcial.com/mexico/2026/07/10/laika-la-cachorra-belga-malinois-donada-por-venezuela-llego-hoy-a-mexico-como-agradecimiento-por-la-ayuda-brindada-tras-los-sismos-del-24-de-junio/",
@@ -101,7 +137,7 @@
       "sourceName": "elimparcial"
     },
     {
-      "id": "es-11",
+      "id": "es-15",
       "title": "Dictan prisión preventiva a hombre que golpeó y mató con un bate a un perro en Veracruz",
       "description": "Gustavo Adolfo 'N' fue detenido tras golpear y matar a un perro pitbull en Veracruz; le imputan el delito de maltrato y crueldad animal.",
       "url": "https://www.zocalo.com.mx/dictan-prision-preventiva-a-hombre-que-golpeo-y-mato-con-un-bate-a-un-perro-en-veracruz/",
@@ -110,7 +146,7 @@
       "sourceName": "zocalo"
     },
     {
-      "id": "es-12",
+      "id": "es-16",
       "title": "Enrique Molina, adiestrador canino: \"No debemos dormir con nuestro perro, porque invade un espacio muy personal del dueño\"",
       "description": "Enrique Molina es un conocido adiestrador canino que ayuda a dueños de perros a saber cómo educar a su mascota para que sepa comportarse en casa, entre otras ...",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260510/1004181518/enrique-molina-adiestrador-canino-no-debemos-dormir-nuestro-perro-invade-espacio-personal-dueno-dct.html",
@@ -119,7 +155,7 @@
       "sourceName": "mundodeportivo.com"
     },
     {
-      "id": "es-13",
+      "id": "es-17",
       "title": "Alan Peiró, adiestrador canino: “Cuando un perro se muestra agresivo, lo hace por miedo”",
       "description": "El experto en comportamiento animal brindó consejos para tratar las reacciones violentas de las mascotas.",
       "url": "https://tn.com.ar/mascotas/2026/03/27/alan-peiro-adiestrador-canino-cuando-un-perro-se-muestra-agresivo-lo-hace-por-miedo/",
@@ -128,7 +164,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-14",
+      "id": "es-18",
       "title": "Juan Cervantes, adiestrador canino: “Al volver a tu casa debés ignorar al perro por 5 minutos”",
       "description": "Un experto en mascotas explicó por qué no saludar a tu mascota al regresar al hogar y las consecuencias que eso genera.",
       "url": "https://tn.com.ar/sociedad/2026/03/20/juan-cervantes-adiestrador-canino-al-volver-a-tu-casa-debes-ignorar-al-perro-por-5-minutos/",
@@ -137,7 +173,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-15",
+      "id": "es-19",
       "title": "Juan Cervantes, adiestrador canino: “Cuanto más llames a tu perro por su nombre, menos caso te hace”",
       "description": "El experto influencer explicó el motivo por el que utilizar esta técnica no es la mejor forma para llamar la atención de tu mascota.",
       "url": "https://tn.com.ar/sociedad/2026/03/19/juan-cervantes-adiestrador-canino-cuanto-mas-llames-a-tu-perro-por-su-nombre-menos-caso-te-hace/",
@@ -146,7 +182,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-16",
+      "id": "es-20",
       "title": "Qué siente tu perro cuando sale a pasear, según expertos en comportamiento canino",
       "description": "Ese momento cotidiano es mucho más importante de lo que parece. La ciencia del comportamiento canino explica cómo impacta en el equilibrio emocional, la condu...",
       "url": "https://tn.com.ar/sociedad/2026/02/22/que-siente-tu-perro-cuando-sale-a-pasear-segun-expertos-en-comportamiento-canino/",
@@ -155,7 +191,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-17",
+      "id": "es-21",
       "title": "Qué siente tu perro cuando le gritás, según expertos en comportamiento canino",
       "description": "El tono de voz humano tiene un impacto directo en las emociones de los animales.",
       "url": "https://tn.com.ar/sociedad/2026/02/16/que-siente-tu-perro-cuando-le-gritas-segun-expertos-en-comportamiento-canino/",
@@ -164,7 +200,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-18",
+      "id": "es-22",
       "title": "Alan Peiró, adiestrador canino: “Dormir con tu perro no es un problema en sí mismo”",
       "description": "“Lo importante aquí es, ¿el perro puede dormir solo sin ansiedad? ¿Tiene autonomía emocional?“, planteó el especialista, en relación con la mascota.",
       "url": "https://tn.com.ar/sociedad/2026/01/18/alan-peiro-adiestrador-canino-dormir-con-tu-perro-no-es-un-problema-en-si-mismo/",
@@ -173,7 +209,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-19",
+      "id": "es-23",
       "title": "Por qué no hay que saludar al perro al llegar a casa, según un entrenador canino",
       "description": "Víctor Mañero, reconocido adiestrador canino, reveló el motivo por el cual esta acción puede generarles a los animales gran estrés y ansiedad; qué dijo - ...",
       "url": "https://www.lanacion.com.ar/lifestyle/mascotas/por-que-no-hay-que-saludar-al-perro-al-llegar-a-casa-segun-un-entrenador-canino-nid02052025/",
@@ -182,7 +218,7 @@
       "sourceName": "lanacion.com.ar"
     },
     {
-      "id": "es-20",
+      "id": "es-24",
       "title": "“Perro gay”: ovacionan a un canino en marcha LGBT+ de Guadalajara",
       "description": "El divertido y controversial momento sucedió cuando su cuidadora lo alzó y todos los asistentes no dudaron en gritar y aclamarlo mientras él sacaba su lengua...",
       "url": "https://www.infobae.com/america/entretenimiento/2022/06/19/perro-gay-ovacionan-a-un-canino-en-marcha-lgbt-de-guadalajara/",
@@ -194,6 +230,17 @@
   "en": [
     {
       "id": "en-0",
+      "title": "I’m a dog expert and I would never own these 5 breeds - ‘think twice’",
+      "description": "A dog expert reveals 5 breeds of dogs he would never own, and the reasons behind it, for prospective owners.",
+      "url": "https://www.express.co.uk/life-style/life/2226447/I-m-a-dog-expert-and-I-would-never-own-these-5-breeds-think-twice",
+      "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/130/590x/2226447_1.jpg",
+      "publishedAt": "2026-07-12 07:22:00",
+      "sourceName": "expresscouk",
+      "title_es": "Soy un experto en perros y nunca sería dueño de estas 5 razas - \"piénsalo dos veces\"",
+      "description_es": "Un experto en perros revela 5 razas de perros que nunca sería dueño, y las razones detrás de ello, para los posibles dueños."
+    },
+    {
+      "id": "en-1",
       "title": "Fury at Sadiq Khan and Met for leaving police dog handlers 'utterly forgotten' in revamp",
       "description": "EXCLUSIVE: Under a New Met for London plan the force is rotating elite officers to the front line and splitting up dog handlers and their canine colleagues.",
       "url": "https://www.express.co.uk/news/uk/2228098/fury-sadiq-khan-met-leaving-dog-handlers",
@@ -204,7 +251,7 @@
       "description_es": "EXCLUSIVE: Bajo un nuevo plan Met para Londres, la fuerza está rotando oficiales de élite a la primera línea y dividiendo a los manejadores de perros y sus colegas caninos."
     },
     {
-      "id": "en-1",
+      "id": "en-2",
       "title": "Hong Kong Eases Restaurant Dog Ban, Allowing Pets in Over 900 Eateries",
       "description": "Hong Kong has relaxed a 1994 ban on dogs in restaurants, permitting pets in over 900 approved eateries as part of a new pet-friendly initiative. The policy, which began on Thursday, also extends to certain ferry routes, ",
       "url": "https://headtopics.com/news/hong-kong-eases-restaurant-dog-ban-allowing-pets-in-over-85486006",
@@ -215,7 +262,7 @@
       "description_es": "Hong Kong ha relajado la prohibición de perros en restaurantes de 1994, permitiendo mascotas en más de 900 restaurantes aprobados como parte de una nueva iniciativa que admite mascotas. La política, que comenzó el jueves, también se extiende a ciertas rutas de ferry,"
     },
     {
-      "id": "en-2",
+      "id": "en-3",
       "title": "5 Unforgettable Far Side Comics Starring Dogs",
       "description": "",
       "url": "https://us.headtopics.com/news/5-unforgettable-far-side-comics-starring-dogs-85481412",
@@ -226,7 +273,7 @@
       "description_es": ""
     },
     {
-      "id": "en-3",
+      "id": "en-4",
       "title": "Dogs often get sudden 'zoomies' at home—A vet explains when it's a red flag",
       "description": "While zoomies commonly release energy, excitement or stores emotions for dogs, it may also reveal insight into their health.",
       "url": "https://us.headtopics.com/news/dogs-often-get-sudden-zoomies-at-home-a-vet-explains-when-85480032",
@@ -237,7 +284,7 @@
       "description_es": "Si bien los zoomies comúnmente liberan energía, emoción o almacenan emociones para los perros, también pueden revelar información sobre su salud."
     },
     {
-      "id": "en-4",
+      "id": "en-5",
       "title": "Dog agility trial showcases teamwork between handlers and their canine companions",
       "description": "Saskatoon's Jerry Boese and his dog Bandit travelled from Saskatoon to participate in the agility event. (Image Credit: Teena Monteleone/paNOW Staff)",
       "url": "https://panow.com/2026/07/11/dog-agility-trial-showcases-teamwork-between-handlers-and-their-canine-companions/",
@@ -248,7 +295,7 @@
       "description_es": "Jerry Boese de Saskatoon y su perro Bandit viajaron desde Saskatoon para participar en el evento de agilidad. (Crédito de la imagen: Personal de Teena Monteleone/paNOW)"
     },
     {
-      "id": "en-5",
+      "id": "en-6",
       "title": "Rescue service gives troubled working dogs a second chance",
       "description": "Farmers Weekly Visitors to this year’s Game Fair will have the chance to meet a Scottish rescue service dedicated to giving working dogs facing euthanasia a second chance. The Working and Gundog Rehabilitation Rescue Ser",
       "url": "https://www.fwi.co.uk/farm-life/rescue-service-gives-troubled-working-dogs-a-second-chance",
@@ -259,7 +306,7 @@
       "description_es": "Farmers Weekly Los visitantes de la Feria del Juego de este año tendrán la oportunidad de conocer a un servicio de rescate escocés dedicado a dar una segunda oportunidad a los perros de trabajo que se enfrentan a la eutanasia. The Working and Gundog Rehabilitation Rescue ser"
     },
     {
-      "id": "en-6",
+      "id": "en-7",
       "title": "Bride-To-Be Questions Her Engagement After Fiancé Issues An Ultimatum About Her Cat",
       "description": "One woman's cat had been her constant companion through some of the hardest years of her life. But after moving in with her fiancé, she was blindsided when he demanded she get rid of one of her beloved pets within four ",
       "url": "https://tvovermind.com/relationship-advice-fiance-cat-ultimatum/",
@@ -270,7 +317,7 @@
       "description_es": "El gato de una mujer había sido su compañero constante durante algunos de los años más difíciles de su vida. Pero después de mudarse con su prometido, ella se sorprendió cuando él le exigió que se deshiciera de una de sus queridas mascotas en un plazo de cuatro"
     },
     {
-      "id": "en-7",
+      "id": "en-8",
       "title": "South Dakota Rescue Dogs Spark Brucellosis Scare In Minnesota",
       "description": "Minnesota Board of Animal Health warns dogs imported from parts of South Dakota show high rates of Brucella canis; vet inspection and testing are recommended.",
       "url": "https://hoodline.com/2026/07/south-dakota-rescue-dogs-spark-brucellosis-scare-in-minnesota/",
@@ -281,7 +328,7 @@
       "description_es": "La Junta de Salud Animal de Minnesota advierte que los perros importados de partes de Dakota del Sur muestran altas tasas de Brucella canis; se recomienda la inspección y las pruebas veterinarias."
     },
     {
-      "id": "en-8",
+      "id": "en-9",
       "title": "Your dog’s aggression could be triggered by something you are overlooking, and veterinarians say identifying it early can prevent more serious behavior problems",
       "description": "Dog Aggression Warning Signs can appear long before a bite, yet many pet owners miss them. Veterinary behavior experts say aggression is usually linked to fear, pain, stress, or resource guarding—not a dog's personality.",
       "url": "https://economictimes.indiatimes.com/news/international/us/your-dogs-aggression-could-be-triggered-by-something-you-are-overlooking-and-veterinarians-say-identifying-it-early-can-prevent-more-serious-behavior-problems/articleshow/132331230.cms",
@@ -292,7 +339,7 @@
       "description_es": "Los signos de advertencia de agresión del perro pueden aparecer mucho antes de una mordedura, pero muchos dueños de mascotas los pierden. Los expertos en comportamiento veterinario dicen que la agresión generalmente está relacionada con el miedo, el dolor, el estrés o la protección de los recursos, no con la personalidad de un perro."
     },
     {
-      "id": "en-9",
+      "id": "en-10",
       "title": "Gray Wolf Images, Issues, and mobile online casinos no deposit bonus you can Map Federal Geographical Children",
       "description": "Blogs Admixture with other canids Eating plan Wolves have the very widespread historical set of the pet—besides human beings. Personal framework When food is scarce, this is done at the cost of other family, specifically",
       "url": "https://eveningstandard.in/gray-wolf-images-issues-and-mobile-online-casinos-no-deposit-bonus-you-can-map-federal-geographical-children/",
@@ -303,7 +350,7 @@
       "description_es": "Blogs Mezcla con otros cánidos Plan de alimentación Los lobos tienen el conjunto histórico muy extendido de las mascotas además de los seres humanos. Marco personal Cuando la comida es escasa, esto se hace a costa de otras familias, específicamente"
     },
     {
-      "id": "en-10",
+      "id": "en-11",
       "title": "How to keep dog entertained while recovering from surgery",
       "description": "Helping your canine companion navigate the recovery period after surgery is a challenging task for any pet owner. Your primary goal is to ensure physical rest, but keeping a dog calm and happy while they are restricted f",
       "url": "https://flefllynews.com/how-to-keep-dog-entertained-while-recovering-from-surgery/",
@@ -314,7 +361,7 @@
       "description_es": "Ayudar a su compañero canino a navegar el período de recuperación después de la cirugía es una tarea difícil para cualquier dueño de mascota. Su objetivo principal es garantizar el descanso físico, pero mantener a un perro tranquilo y feliz mientras está restringido"
     },
     {
-      "id": "en-11",
+      "id": "en-12",
       "title": "55 clever things that make your dog so well behaved",
       "description": "If you have a furry four-legged household member, these clever things are designed to keep them happy, healthy, and entertained.",
       "url": "https://www.mic.com/shopping/clever-things-that-make-your-dog-so-well-behaved",
@@ -325,7 +372,7 @@
       "description_es": "Si tienes un miembro peludo de la familia de cuatro patas, estas cosas inteligentes están diseñadas para mantenerlo feliz, saludable y entretenido."
     },
     {
-      "id": "en-12",
+      "id": "en-13",
       "title": "Dogs often get sudden \"zoomies\" at homeâA vet explains when it's a red flag",
       "description": "",
       "url": "https://www.bundle.app/en/breaking-news/dogs-often-get-sudden-zoomies-at-homea-vet-explains-when-its-a-red-flag-D567DC0B-3F0B-43E6-AEA5-8C617721EEAF",
@@ -336,7 +383,7 @@
       "description_es": ""
     },
     {
-      "id": "en-13",
+      "id": "en-14",
       "title": "Choosing the perfect dog breed: Insights from a successful kennel entrepreneur",
       "description": "This transition from watchdogs to trusted confidants has breathed new life into the professional canine care industry, says Bony Paul, founder of Magical K9 Kennel in Puthencruz, Ernakulam.",
       "url": "https://www.onmanorama.com/kerala/top-news/2026/07/11/dog-training-kennels-kerala.html",
@@ -347,18 +394,16 @@
       "description_es": "Esta transición de perros guardianes a confidentes de confianza ha dado nueva vida a la industria del cuidado canino profesional, dice Bony Paul, fundador de Magical K9 Kennel en Puthencruz, Ernakulam."
     },
     {
-      "id": "en-14",
+      "id": "en-15",
       "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
       "description": "",
       "url": "https://www.bundle.app/en/technology/we-make-lovely-home-cooked-meals-for-ourselves-why-not-do-the-same-for-our-dogs-58B109EC-EC5B-4E05-BDF5-976969D70063",
       "urlToImage": "https://static.bundle.app/news/a5b0db42-b3ee-5466-b999-d842608ad907.jpg",
       "publishedAt": "2026-07-11 10:00:00",
-      "sourceName": "bundle_app",
-      "title_es": "Hacemos deliciosas comidas caseras para nosotros mismos. ¿Por qué no hacer lo mismo con nuestros perros?",
-      "description_es": ""
+      "sourceName": "bundle_app"
     },
     {
-      "id": "en-15",
+      "id": "en-16",
       "title": "Peugeot's Wild New Electric SUV Concept Can Call Your Lost Dog Back To The Car",
       "description": "Peugeot has introduced the E-5008 Dog Edition Concept, an innovative electric SUV designed to cater to dogs' sensory experiences during travel. This unique design study, developed with Stellantis Design Studio, emphasise",
       "url": "https://www.timesnownews.com/auto/car-news/peugeot-wild-new-electric-suv-concept-can-call-your-lost-dog-back-to-the-car-article-155075246",
@@ -367,22 +412,13 @@
       "sourceName": "timesnownews"
     },
     {
-      "id": "en-16",
+      "id": "en-17",
       "title": "Pet Matters: Bringing Love Home",
       "description": "There’s a memorable line spoken by Dorothy in the Wizard of OZ: “There’s no place like home”. This applies to animal companions as much as it does for humans. No matter how clean and nicely appointed a humane society ken",
       "url": "https://www.havasunews.com/lifestyle/pet-matters-bringing-love-home/article_f9eba0ed-bf91-4f95-8bf2-3a5ff480c3b1.html",
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/havasunews.com/content/tncms/custom/image/71a305c0-66d2-11e5-8a1a-abf413f57a29.png?resize=600%2C315",
       "publishedAt": "2026-07-11 07:15:00",
       "sourceName": "havasunews"
-    },
-    {
-      "id": "en-17",
-      "title": "More than love: The real costs of owning a dog",
-      "description": "JAKARTA: Jonathan Roganda Timothy spends roughly Rp 5 million (US$276) to Rp 7 million a month to feed and groom his four dogs: two golden retrievers, an Akita and a rescued Karelo-Finnish Laika.",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/11/more-than-love-the-real-costs-of-owning-a-dog",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/07/11/4004714.jpg",
-      "publishedAt": "2026-07-11 06:50:00",
-      "sourceName": "thestar_my"
     },
     {
       "id": "en-18",
