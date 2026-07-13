@@ -1,8 +1,44 @@
 {
-  "generatedAt": "2026-07-13T21:28:26.515Z",
+  "generatedAt": "2026-07-13T22:29:49.146Z",
   "es": [
     {
       "id": "es-0",
+      "title": "Miranda llena sus hoteles a cuatro patas",
+      "description": "Los alojamientos caninos cuelgan el cartel de completo durante el verano y en San Juan del Monte, impulsados por unos dueños que ven a las mascotas \"como sus hijos\" y cuidan hasta el último detalle",
+      "url": "https://www.diariodeburgos.es/noticia/z3984d231-48ba-4cff-8cf69c53b0ee96d1/202607/miranda-llena-sus-hoteles-a-cuatro-patas",
+      "urlToImage": "https://www.diariodeburgos.es/media/img/2026/81a8bab7-09e1-4342-b23aa65d6790c8e9.jpg",
+      "publishedAt": "2026-07-13 10:27:22",
+      "sourceName": "diariodeburgos"
+    },
+    {
+      "id": "es-1",
+      "title": "Cruz Roja Mexicana concluye labores de rescate en Venezuela luego de los terremotos que dejaron 4,490 muertos",
+      "description": "Tras 12 días de labores en la zona de la Guaira, el equipo de rescatistas mexicanos -acompañado por binomios caninos especializados- regresaron a casa",
+      "url": "https://heraldodemexico.com.mx/nacional/2026/7/13/cruz-roja-mexicana-concluye-labores-de-rescate-en-venezuela-luego-de-los-terremotos-que-dejaron-4490-muertos-848717.html",
+      "urlToImage": "https://heraldodemexico.com.mx/u/fotografias/m/2026/7/13/f1280x720-1306324_1437999_4828.jpg",
+      "publishedAt": "2026-07-13 10:10:04",
+      "sourceName": "heraldodemexico"
+    },
+    {
+      "id": "es-2",
+      "title": "Patricia, educadora canina: “Si tu perro no duerme cuando se queda solo, podría tener problemas de estrés”",
+      "description": "Las personas intentamos que los perros siempre tengan algo con lo que entretenerse, también cuando se quedan solos en casa. Juguetes interactivos, mordedores, alfombras olfativas o premios rellenos de comida se han conv",
+      "url": "https://expertoanimal.elperiodico.com/patricia-educadora-canina-si-tu-perro-no-duerme-cuando-se-queda-solo-podria-tener-problemas-de-estres-28512.html",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/b27510d4-edea-4ff1-b66f-70830a1e5c54_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "publishedAt": "2026-07-13 10:00:00",
+      "sourceName": "diarioinformacion"
+    },
+    {
+      "id": "es-3",
+      "title": "Azul es el color que transforma la experiencia visual de tu perro y mejora su bienestar",
+      "description": "Los caninos pueden distinguir tonalidades azules y amarillas, lo que permite optimizar su entorno de juego y entrenamiento, mejorando su bienestar y comunicación con los tutores.",
+      "url": "https://www.eldiario.ec/vida/azul-es-el-color-que-transforma-la-experiencia-visual-de-tu-perro-y-mejora-su-bienestar-13072026/",
+      "urlToImage": "https://img.eldiario.ec/upload/2026/07/17161D524C43436D14150F55554947791F151618534A4072111E-1024x576.jpg",
+      "publishedAt": "2026-07-13 09:40:19",
+      "sourceName": "eldiario_ec"
+    },
+    {
+      "id": "es-4",
       "title": "Hugo Fernández, educador canino: \"Pensar que un perro con 20 minutos de paseo tiene las necesidades cubiertas es criminal\"",
       "description": "Convivir con un perro va mucho más allá de llenar su cuenco de comida o sacarlo un par de veces al día. Cada vez somos más conscientes de que su bienestar también depende de factores como la estimulación mental , e",
       "url": "https://decoracion.trendencias.com/varios/hugo-fernandez-educador-canino-pensar-que-perro-20-minutos-paseo-tiene-necesidades-cubiertas-criminal",
@@ -11,7 +47,7 @@
       "sourceName": "decoracion_trendencias"
     },
     {
-      "id": "es-1",
+      "id": "es-5",
       "title": "Perros por el mundo: la gran transformación de Nigeria ante la convivencia responsable",
       "description": "El auge de los animales de compañía en el país africano está impulsando una transformación cultural que desafía las tradiciones más arraigadas.",
       "url": "https://www.20minutos.es/animaleros/perros/perros-por-mundo-gran-transformacion-nigeria-ante-convivencia-responsable_6981105_0.html",
@@ -20,7 +56,7 @@
       "sourceName": "minutos20"
     },
     {
-      "id": "es-2",
+      "id": "es-6",
       "title": "¿Dónde y cuándo puedo ir con mi perro a la playa en Cantabria?",
       "description": "De todos los arenales de la región, solo en algunos está permitida la presencia de canes durante la temporada de baño. En otros pueden acceder a determinadas horas o tienen la entrada prohibida todo el día. A continu",
       "url": "https://www.eldiariomontanes.es/cantabria/rompecabezas-acceder-playa-permitido-perro-20260619102021-nt.html",
@@ -29,7 +65,16 @@
       "sourceName": "eldiariomontanes"
     },
     {
-      "id": "es-3",
+      "id": "es-7",
+      "title": "Investiga en caso de crueldad animal en Tonalá",
+      "description": "La Fiscalía del Estado abrió una carpeta de investigación por el delito de crueldad animal tras atender el reporte de un perro sin vida localizado al ...",
+      "url": "https://www.meganoticias.mx/guadalajara/noticia/investiga-en-caso-de-crueldad-animal-en-tonal%C3%A1/750979",
+      "urlToImage": "https://www.meganoticias.mx/uploads/noticias/investiga-en-caso-de-crueldad-animal-en-tonal%C3%A1-750979.jpg",
+      "publishedAt": "2026-07-13 00:00:00",
+      "sourceName": "meganoticias_mx"
+    },
+    {
+      "id": "es-8",
       "title": "Perros 'doctores' contra la soledad en las residencias: \"Se prioriza lo clínico y se olvida darles un motivo para seguir\"",
       "description": "Los animales seleccionados son entrenados, pero lo más importante para formar parte del proyecto es su naturaleza y temperamento. Más información : Valencia avanza en la ordenanza que permitirá que las mascotas pueda",
       "url": "https://www.elespanol.com/valencia/comunitat/20260713/perros-doctores-soledad-residencias-prioriza-clinico-olvida-darles-motivo-seguir-dl/1003744315633_0.html",
@@ -38,7 +83,7 @@
       "sourceName": "elespanol"
     },
     {
-      "id": "es-4",
+      "id": "es-9",
       "title": "VIDEO | Denuncia salvó a un perro que vivía amarrado, sin agua y en malas condiciones en Bogotá",
       "description": "El perro permanecía con movilidad limitada y, según las autoridades, consumía agua acumulada por la lluvia. El caso volvió a La entrada VIDEO | Denuncia salvó a un perro que vivía amarrado, sin agua y en malas cond",
       "url": "https://periodismopublico.com/denuncia-salvo-a-un-perro-que-vivia-amarrado-sin-agua-y-en-malas-condiciones-en-bogota",
@@ -47,7 +92,7 @@
       "sourceName": "periodismopublico"
     },
     {
-      "id": "es-5",
+      "id": "es-10",
       "title": "¿Qué enfermedad puede tener un perro cuando no quiere comer?",
       "description": "Detectar la causa a tiempo puede marcar una gran diferencia en el pronóstico y evitar complicaciones que comprometan la salud tu mascota",
       "url": "https://www.informador.mx/estilo/que-enfermedad-puede-tener-un-perro-cuando-no-quiere-comer-20260706-0185.html",
@@ -56,7 +101,7 @@
       "sourceName": "informador_mx"
     },
     {
-      "id": "es-6",
+      "id": "es-11",
       "title": "«Al llegar el adiós»: memorias de un amigo fiel",
       "description": "Romualdas Granauskas es el autor de «Al llegar el adiós», una suerte de memorias en las que el escritor lituano narra la relación con su perro y donde reflexiona sobre la lealtad, la amistad interespecies, el envejecim",
       "url": "https://librujula.publico.es/al-llegar-el-adios-memorias-de-un-amigo-fiel/",
@@ -65,7 +110,7 @@
       "sourceName": "publico_es"
     },
     {
-      "id": "es-7",
+      "id": "es-12",
       "title": "Un perro que se metió a la cancha fue figura entre Boston River y Central Español",
       "description": "El animal interrumpió el discreto partido que se disputó en el estadio Campeones Olímpicos de Florida, y se llevó aplausos.",
       "url": "https://www.montevideo.com.uy/auc.aspx?968070=",
@@ -74,7 +119,7 @@
       "sourceName": "montevideo"
     },
     {
-      "id": "es-8",
+      "id": "es-13",
       "title": "Un entrenador de perros analizó por qué algunas razas son consideradas peligrosas y el papel que tienen los dueños",
       "description": "Cesar Millan, uno de los especialistas en adiestramiento canino más reconocidos, explicó los aspectos que recomienda tener en cuenta antes de elegir un animal de compañía y cómo el entorno influye en su convivencia ",
       "url": "https://www.infobae.com/perros-y-gatos/2026/07/12/un-entrenador-de-perros-analizo-por-que-algunas-razas-son-consideradas-peligrosas-y-el-papel-que-tienen-los-duenos/",
@@ -83,7 +128,7 @@
       "sourceName": "infobae"
     },
     {
-      "id": "es-9",
+      "id": "es-14",
       "title": "La escena en \"La Odisea\" que destrozó a Nolan: la historia de Argos",
       "description": "A pocos días del estreno de la esperada adaptación épica, el aclamado director británico revela que la lealtad de un canino fue el motor principal para llevar este clásico a la pantalla grande",
       "url": "https://www.informador.mx/entretenimiento/la-escena-en-la-odisea-que-destrozo-christopher-nolan-la-historia-de-argos-20260708-0148.html",
@@ -92,7 +137,7 @@
       "sourceName": "informador_mx"
     },
     {
-      "id": "es-10",
+      "id": "es-15",
       "title": "La jauría que se muerde la cola",
       "description": "Pedro Sola quiso envenenar perros en la tienda departamental y terminó envenenando su propia reputación en cadena nacional. 79 años de vida y 30 de pantalla le alcanzaron para descubrir, frente a millones de espectado",
       "url": "https://jornadaveracruz.com.mx/la-jauria-que-se-muerde-la-cola/",
@@ -101,7 +146,7 @@
       "sourceName": "jornadaveracruz_mx"
     },
     {
-      "id": "es-11",
+      "id": "es-16",
       "title": "Estos 5 perros son los mejores guardianes para tu hogar",
       "description": "Conoce las cinco mejores razas y altamente confiables que, más allá de los clásicos, protegerán tu casa con lealtad y valentía",
       "url": "https://www.informador.mx/estilo/estos-5-perros-son-los-mejores-guardianes-para-tu-hogar-20260708-0047.html",
@@ -110,7 +155,7 @@
       "sourceName": "informador_mx"
     },
     {
-      "id": "es-12",
+      "id": "es-17",
       "title": "Más vale prevenir que lamentar",
       "description": "Como usuario habitual del parque canino de Marina Española, quiero trasladar una preocupación que compartimos muchos propietarios de mascotas y que, con el paso del tiempo, se está convirtiendo en una cuestión de seg",
       "url": "https://elfarodeceuta.es/mas-vale-prevenir-lamentar-parque-canino/",
@@ -119,7 +164,7 @@
       "sourceName": "elfarodeceuta"
     },
     {
-      "id": "es-13",
+      "id": "es-18",
       "title": "Buscan familia para Milos, el perro escapista y maltratado que deambuló durante un año por Bembibre",
       "description": "Actualmente vive en el albergue canino de la Asociación Protectora de Animales 'Peludines sin Suerte'",
       "url": "https://www.elbierzonoticias.com/bierzo/buscan-familia-milos-perro-escapista-maltratado-deambulo-20260719093236-nt.html",
@@ -128,7 +173,7 @@
       "sourceName": "leonoticias"
     },
     {
-      "id": "es-14",
+      "id": "es-19",
       "title": "¿Escapada a la playa con tu perro? Las zonas más cerca de León y el peligro de multas de 3.000 euros",
       "description": "Estos arenales son un ejemplo de la tendencia responsable con los animales domésticos",
       "url": "https://www.leonoticias.com/comarcas/escapada-playa-perro-zonas-cerca-leon-peligro-20260710093213-nt.html",
@@ -137,7 +182,7 @@
       "sourceName": "leonoticias"
     },
     {
-      "id": "es-15",
+      "id": "es-20",
       "title": "El thai ridgeback: un antiguo perro tailandés con una inconfundible cresta sobre el lomo",
       "description": "Se encuentra clasificado en el Grupo 5, Sección 7 de la FCI, que incluye perros tipo primitivo y perros de caza.",
       "url": "https://www.20minutos.es/animaleros/perros/thai-ridgeback-un-antiguo-perro-tailandes-con-una-inconfundible-cresta-sobre-lomo_7012142_0.html",
@@ -146,7 +191,7 @@
       "sourceName": "minutos20"
     },
     {
-      "id": "es-16",
+      "id": "es-21",
       "title": "Rescata Fiscalía Nayarit 4 \"lomitos\" por presunto maltrato en Las Conchas",
       "description": "La Fiscalía General del Estado de Nayarit rescató cuatro perros más durante un operativo realizado en un domicilio de la colonia Las Conchas, en Tepic...",
       "url": "https://www.meganoticias.mx/tepic/noticia/rescata-fiscal%C3%ADa-nayarit-4-lomitos-por-presunto-maltrato-en-las-conchas/750654",
@@ -155,7 +200,7 @@
       "sourceName": "meganoticias_mx"
     },
     {
-      "id": "es-17",
+      "id": "es-22",
       "title": "Enrique Molina, adiestrador canino: \"No debemos dormir con nuestro perro, porque invade un espacio muy personal del dueño\"",
       "description": "Enrique Molina es un conocido adiestrador canino que ayuda a dueños de perros a saber cómo educar a su mascota para que sepa comportarse en casa, entre otras ...",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260510/1004181518/enrique-molina-adiestrador-canino-no-debemos-dormir-nuestro-perro-invade-espacio-personal-dueno-dct.html",
@@ -164,7 +209,7 @@
       "sourceName": "mundodeportivo.com"
     },
     {
-      "id": "es-18",
+      "id": "es-23",
       "title": "Alan Peiró, adiestrador canino: “Cuando un perro se muestra agresivo, lo hace por miedo”",
       "description": "El experto en comportamiento animal brindó consejos para tratar las reacciones violentas de las mascotas.",
       "url": "https://tn.com.ar/mascotas/2026/03/27/alan-peiro-adiestrador-canino-cuando-un-perro-se-muestra-agresivo-lo-hace-por-miedo/",
@@ -173,7 +218,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-19",
+      "id": "es-24",
       "title": "Juan Cervantes, adiestrador canino: “Al volver a tu casa debés ignorar al perro por 5 minutos”",
       "description": "Un experto en mascotas explicó por qué no saludar a tu mascota al regresar al hogar y las consecuencias que eso genera.",
       "url": "https://tn.com.ar/sociedad/2026/03/20/juan-cervantes-adiestrador-canino-al-volver-a-tu-casa-debes-ignorar-al-perro-por-5-minutos/",
@@ -182,7 +227,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-20",
+      "id": "es-25",
       "title": "Juan Cervantes, adiestrador canino: “Cuanto más llames a tu perro por su nombre, menos caso te hace”",
       "description": "El experto influencer explicó el motivo por el que utilizar esta técnica no es la mejor forma para llamar la atención de tu mascota.",
       "url": "https://tn.com.ar/sociedad/2026/03/19/juan-cervantes-adiestrador-canino-cuanto-mas-llames-a-tu-perro-por-su-nombre-menos-caso-te-hace/",
@@ -191,7 +236,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-21",
+      "id": "es-26",
       "title": "Qué siente tu perro cuando sale a pasear, según expertos en comportamiento canino",
       "description": "Ese momento cotidiano es mucho más importante de lo que parece. La ciencia del comportamiento canino explica cómo impacta en el equilibrio emocional, la condu...",
       "url": "https://tn.com.ar/sociedad/2026/02/22/que-siente-tu-perro-cuando-sale-a-pasear-segun-expertos-en-comportamiento-canino/",
@@ -200,7 +245,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-22",
+      "id": "es-27",
       "title": "Qué siente tu perro cuando le gritás, según expertos en comportamiento canino",
       "description": "El tono de voz humano tiene un impacto directo en las emociones de los animales.",
       "url": "https://tn.com.ar/sociedad/2026/02/16/que-siente-tu-perro-cuando-le-gritas-segun-expertos-en-comportamiento-canino/",
@@ -209,7 +254,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-23",
+      "id": "es-28",
       "title": "Alan Peiró, adiestrador canino: “Dormir con tu perro no es un problema en sí mismo”",
       "description": "“Lo importante aquí es, ¿el perro puede dormir solo sin ansiedad? ¿Tiene autonomía emocional?“, planteó el especialista, en relación con la mascota.",
       "url": "https://tn.com.ar/sociedad/2026/01/18/alan-peiro-adiestrador-canino-dormir-con-tu-perro-no-es-un-problema-en-si-mismo/",
@@ -218,7 +263,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-24",
+      "id": "es-29",
       "title": "Por qué no hay que saludar al perro al llegar a casa, según un entrenador canino",
       "description": "Víctor Mañero, reconocido adiestrador canino, reveló el motivo por el cual esta acción puede generarles a los animales gran estrés y ansiedad; qué dijo - ...",
       "url": "https://www.lanacion.com.ar/lifestyle/mascotas/por-que-no-hay-que-saludar-al-perro-al-llegar-a-casa-segun-un-entrenador-canino-nid02052025/",
@@ -227,7 +272,7 @@
       "sourceName": "lanacion.com.ar"
     },
     {
-      "id": "es-25",
+      "id": "es-30",
       "title": "“Perro gay”: ovacionan a un canino en marcha LGBT+ de Guadalajara",
       "description": "El divertido y controversial momento sucedió cuando su cuidadora lo alzó y todos los asistentes no dudaron en gritar y aclamarlo mientras él sacaba su lengua...",
       "url": "https://www.infobae.com/america/entretenimiento/2022/06/19/perro-gay-ovacionan-a-un-canino-en-marcha-lgbt-de-guadalajara/",
@@ -239,6 +284,28 @@
   "en": [
     {
       "id": "en-0",
+      "title": "Evanston Animal Shelter raises more than $40,000 through Trot for Tails fundraiser",
+      "description": "Seven years after fostering and eventually adopting her dog Kaya from the Evanston Animal Shelter, Jeannie Sanke still returns to Trot for Tails, helping raise funds for the organization each summer. The chow chow, whose",
+      "url": "https://dailynorthwestern.com/2026/07/13/top-stories/evanston-animal-shelter-raises-more-than-40000-through-trot-for-tails-fundraiser/",
+      "urlToImage": "https://dailynorthwestern.com/wp-content/uploads/2026/07/Screenshot-2026-07-13-at-2.05.44-AM.png",
+      "publishedAt": "2026-07-13 10:00:43",
+      "sourceName": "dailynorthwestern",
+      "title_es": "El Refugio de Animales de Evanston recauda más de $ 40,000 a través de la recaudación de fondos de Trot for Tails",
+      "description_es": "Siete años después de acoger y eventualmente adoptar a su perro Kaya del Refugio de Animales de Evanston, Jeannie Sanke todavía regresa a Trot for Tails, ayudando a recaudar fondos para la organización cada verano. El chow chow, cuyo"
+    },
+    {
+      "id": "en-1",
+      "title": "Bed bug concerns rising in Ontario: How Orkin's trained dogs are helping to sniff them out",
+      "description": "A 2024 Orkin study found Canada’s top five bed bug cities were all in Ontario, including Toronto, Sudbury, Oshawa, Hamilton and Ottawa. Here's how Orkin's dog teams are helping to detect them in dorms, hotels and more.",
+      "url": "https://www.niagarathisweek.com/news/toronto-hamilton-oshawa-ottawa-orkin-bed-bugs/article_294cd08a-aab5-58bc-ad55-158fbf6005c3.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/niagarathisweek.com/content/tncms/assets/v3/editorial/f/7e/f7e9735d-6b64-5df0-9899-f34ee363981b/67339b6811705.image.jpg?resize=300%2C234",
+      "publishedAt": "2026-07-13 10:00:00",
+      "sourceName": "niagarathisweek",
+      "title_es": "Las preocupaciones sobre las chinches de cama aumentan en Ontario: cómo los perros entrenados de Orkin están ayudando a detectarlas",
+      "description_es": "Un estudio de Orkin de 2024 descubrió que las cinco principales ciudades de chinches de cama de Canadá se encontraban en Ontario, incluidas Toronto, Sudbury, Oshawa, Hamilton y Ottawa. Así es como los equipos de perros de Orkin están ayudando a detectarlos en dormitorios, hoteles y más."
+    },
+    {
+      "id": "en-2",
       "title": "Rescuers had to bring a dog down from Ben Nevis after she may have eaten cannabis, and the internet had a high old time – 17 favourite reactions",
       "description": "Before we write another word, we want you to know that Tokyo, the black labrador rescued from Ben Nevis just over a week ago, has made a full recovery. Now, let’s fill in the back story. According to an article on the BB",
       "url": "https://www.thepoke.com/2026/07/13/rescuers-had-to-bring-a-dog-down-from-ben-nevis-after-she-may-have-eaten-cannabis/",
@@ -249,7 +316,7 @@
       "description_es": "Antes de escribir otra palabra, queremos que sepas que Tokio, el labrador negro rescatado de Ben Nevis hace poco más de una semana, se ha recuperado por completo. Ahora, completemos la historia de fondo. Según un artículo en el BB"
     },
     {
-      "id": "en-1",
+      "id": "en-3",
       "title": "Beach hut dog shop bids to become permanent fixture on North East coastline",
       "description": "A beach hut on Seaton Carew’s promenade could officially become a familiar stop for wagging tails and sandy paws.",
       "url": "https://www.thenorthernecho.co.uk/news/26273045.seaton-carew-beach-hut-dog-shop-seeks-permanent-approval/",
@@ -260,7 +327,7 @@
       "description_es": "Una cabaña de playa en el paseo marítimo de Seaton Carew podría convertirse oficialmente en una parada familiar para menear colas y patas de arena."
     },
     {
-      "id": "en-2",
+      "id": "en-4",
       "title": "Food. Water. Play. Every single day'? Not for a dog named Cash",
       "description": "Amid record-breaking temperatures and headlines about “heat domes,” I worry profoundly about dogs like Cash, who spent his life deprived of relief from extreme weather—and everything else—while chained to a tree in North",
       "url": "https://www.koreatimes.co.kr/opinion/20260713/food-water-play-every-single-day-not-for-a-dog-named-cash",
@@ -271,7 +338,7 @@
       "description_es": "En medio de temperaturas récord y titulares sobre \"domos de calor\", me preocupan profundamente los perros como Cash, que pasó su vida privado de alivio del clima extremo, y todo lo demás, mientras estaba encadenado a un árbol en North"
     },
     {
-      "id": "en-3",
+      "id": "en-5",
       "title": "'House of the Dragon' Season 3, episode 4: The season's dogs are here",
       "description": "Extremely good Vale pups. Very good boys are few and far between in Westeros, but they're often the internet's favourite characters. House of the Dragon Season 3, episode 4 gifts us with two lengthy dogs of utter eleganc",
       "url": "https://me.mashable.com/tv-shows/73721/house-of-the-dragon-season-3-episode-4-the-seasons-dogs-are-here",
@@ -282,7 +349,7 @@
       "description_es": "Cachorros de Vale extremadamente buenos. Los chicos muy buenos son pocos y distantes entre sí en Poniente, pero a menudo son los personajes favoritos de Internet. House of the Dragon Temporada 3, episodio 4 nos regala dos perros largos de elegancia absoluta"
     },
     {
-      "id": "en-4",
+      "id": "en-6",
       "title": "House of the Dragon Season 3, episode 4: The seasons dogs are here",
       "description": "In \"House of the Dragon\" Season 3, episode 4, we get two very good dogs in the Vale.",
       "url": "https://mashable.com/entertainment/house-of-the-dragon-season-3-episode-4-dogs-vale",
@@ -293,7 +360,7 @@
       "description_es": "En \"House of the Dragon\" Temporada 3, episodio 4, tenemos dos perros muy buenos en el Valle."
     },
     {
-      "id": "en-5",
+      "id": "en-7",
       "title": "Stray dog menace in Sonwar leaves residents worried",
       "description": "Residents of Sonwar and its adjoining areas have expressed concern over the growing stray dog menace, saying the increasing canine population has become a safety risk for locals, particularly during evening and night hou",
       "url": "https://www.greaterkashmir.com/srinagar/stray-dog-menace-in-sonwar-leaves-residents-worried-12158278",
@@ -304,7 +371,7 @@
       "description_es": "Los residentes de Sonwar y sus áreas adyacentes han expresado su preocupación por la creciente amenaza de los perros callejeros, diciendo que la creciente población canina se ha convertido en un riesgo para la seguridad de los lugareños, especialmente durante la tarde y la noche."
     },
     {
-      "id": "en-6",
+      "id": "en-8",
       "title": "Fake-FBI agent dog walker who shot himself in fabricated home invasion lives on street with very telling name: police",
       "description": "The suspect claimed that both he and his dog were shot during official duties",
       "url": "https://www.inkl.com/news/fake-fbi-agent-dog-walker-who-shot-himself-in-fabricated-home-invasion-lives-on-street-with-very-telling-name-police",
@@ -315,7 +382,7 @@
       "description_es": "El sospechoso afirmó que tanto él como su perro recibieron disparos durante sus funciones oficiales"
     },
     {
-      "id": "en-7",
+      "id": "en-9",
       "title": "Grateful dog owner describes mountain rescue after canine apparently ingests cannabis",
       "description": "A dog that apparently ingested cannabis while hiking Britain's tallest peak was rescued",
       "url": "https://www.inkl.com/news/grateful-dog-owner-describes-mountain-rescue-after-canine-apparently-ingests-cannabis",
@@ -324,28 +391,6 @@
       "sourceName": "inkl",
       "title_es": "El agradecido dueño de un perro describe el rescate en la montaña después de que un canino aparentemente ingiriera cannabis",
       "description_es": "Un perro que aparentemente ingirió cannabis mientras caminaba por el pico más alto de Gran Bretaña fue rescatado"
-    },
-    {
-      "id": "en-8",
-      "title": "Leaping labs and other high-flying hounds soar at Libertyville Dog Days",
-      "description": "As dogs barked in the background, the crowd in the bleachers set up in downtown Libertyville trained its gaze Sunday on a huge portable pool shaped like a big blue bathtub. Suddenly, a man wearing a T...",
-      "url": "https://www.dailyherald.com/20260712/news/leaping-labs-and-other-high-flying-hounds-soar-at-libertyville-dog-days/",
-      "urlToImage": "https://imengine.public.prod.pdh.navigacloud.com/?uuid=a9b88c6b-a217-501e-aa4b-748744836b12&function=fit&type=preview",
-      "publishedAt": "2026-07-12 22:24:47",
-      "sourceName": "dailyherald",
-      "title_es": "Laboratorios saltadores y otros perros de alto vuelo se elevan en Libertyville Dog Days",
-      "description_es": "Mientras los perros ladraban de fondo, la multitud en las gradas instaladas en el centro de Libertyville entrenó su mirada el domingo en una enorme piscina portátil con forma de una gran bañera azul. De repente, un hombre que llevaba una T..."
-    },
-    {
-      "id": "en-9",
-      "title": "LC4, BISSELL Pet Foundation to host adoption event",
-      "description": "An Empty the Shelter dog adoption event runs through July 26 at Lucas County Canine Care and Control in Toledo.",
-      "url": "https://www.toledoblade.com/local/community-events/2026/07/12/lc4-bissell-pet-foundation-to-host-adoption-event/stories/20260708103",
-      "urlToImage": "https://www.toledoblade.com/image/2026/07/12/600x_a4-3_cCM/LC4Opening27-09262515-jpg-3.jpg",
-      "publishedAt": "2026-07-12 21:02:45",
-      "sourceName": "toledoblade",
-      "title_es": "LC4, BISSELL Pet Foundation organizará un evento de adopción",
-      "description_es": "Un evento de adopción de perros Empty the Shelter se llevará a cabo hasta el 26 de julio en Lucas County Canine Care and Control en Toledo."
     },
     {
       "id": "en-10",
