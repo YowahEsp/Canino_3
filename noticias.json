@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T03:54:55.019Z",
+  "generatedAt": "2026-07-14T06:08:19.884Z",
   "es": [
     {
       "id": "es-0",
@@ -12,6 +12,33 @@
     },
     {
       "id": "es-1",
+      "title": "El emotivo retiro de Mazli, un perro policía que superó graves enfermedades",
+      "description": "Mazli superó una torsión gástrica, una enfermedad autoinmune y varias cirugías antes de culminar su carrera como agente K9.",
+      "url": "https://www.elespectador.com/la-red-zoocial/perros/el-emotivo-retiro-de-mazli-un-perro-policia-que-supero-graves-enfermedades/",
+      "urlToImage": "https://www.elespectador.com/resizer/v2/L5QMA6YSVVBSFMNRKY6E65O46A.jpeg?auth=7fce889ed6b75ee2ff797624237dadc26ff18f7692a543013e96a64f965fd7a6&smart=true",
+      "publishedAt": "2026-07-13 17:00:08",
+      "sourceName": "elespectador"
+    },
+    {
+      "id": "es-2",
+      "title": "Andreu Fernández, educador canino: \"No hay perros agresivos, no existen\"",
+      "description": "Cuando un perro gruñe, ladra o muerde , la reacción más habitual es la misma: pensar que \"es agresivo\" . Sin embargo, para Andreu Fernández , campeón mundial de obediencia y educador canino , esa forma de pensar par",
+      "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260713/1004206105/andreu-fernandez-educador-canino-no-hay-perros-agresivos-no-existen-conducta-conducta-agresiva-no-etiquetarles-pjm-dct.html",
+      "urlToImage": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/07/13/6a550ba765bb6.r_d.959-542-0.jpeg",
+      "publishedAt": "2026-07-13 16:02:14",
+      "sourceName": "mundodeportivo"
+    },
+    {
+      "id": "es-3",
+      "title": "Jonah, el cachorro viral que disfrutó de su día soñado en el estadio",
+      "description": "“Fue un video muy loco. ¡Él solo se le quedó mirando!”, dijo Silveira. “Y es gracioso, porque yo no me estaba dando cuenta de todo lo que estaba pasando”.",
+      "url": "https://hoy.com.do/deportes/jonah-cachorro-viral-disfruto-dia-sonado-estadio_1094630.html",
+      "urlToImage": "https://imagenes.hoy.com.do/files/og_thumbnail/uploads/2026/07/13/6a55089144645.jpeg",
+      "publishedAt": "2026-07-13 16:00:35",
+      "sourceName": "hoy"
+    },
+    {
+      "id": "es-4",
       "title": "¿Por qué tu perro te sigue al baño? Esta es la explicación real",
       "description": "Descubre los motivos biológicos, genéticos y evolutivos que impulsan a tu mascota a acompañarte a todas partes, y aprende a identificar cuándo este comportamiento deja de ser sano",
       "url": "https://www.informador.mx/estilo/por-que-tu-perro-te-sigue-al-bano-esta-es-la-explicacion-real-20260713-0046.html",
@@ -20,7 +47,7 @@
       "sourceName": "Ãscar Ernesto Ãlvarez GutiÃ©rrez"
     },
     {
-      "id": "es-2",
+      "id": "es-5",
       "title": "El gran error que cometen la mayoría de propietarios de perros en España y los veterinarios no suelen decir en su consulta",
       "description": "España cuenta con millones de perros en sus hogares, pero un fenómeno creciente preocupa a los expertos en comportamiento animal. Muchos propietarios, movidos por un afecto profundo, olvidan la naturaleza biológica de",
       "url": "https://okdiario.com/mascotas/gran-error-que-cometen-mayoria-propietarios-perros-espana-veterinarios-no-suelen-decir-consulta-18962320",
@@ -29,7 +56,7 @@
       "sourceName": "okdiario"
     },
     {
-      "id": "es-3",
+      "id": "es-6",
       "title": "Los educadores caninos coinciden: si tu perro mueve la cola no es porque esté feliz, puede estar frustrado o tener miedo",
       "description": "Si tu perro mueve la cola suele ser una señal inequívoca de felicidad. Sin embargo, este gesto encierra otro lenguaje que es todo lo contrario a lo que pensamos. La posición, la velocidad y la intensidad del movimient",
       "url": "https://okdiario.com/mascotas/educadores-caninos-coinciden-si-tu-perro-mueve-cola-no-porque-este-feliz-puede-estar-frustrado-o-tener-miedo-18985650",
@@ -38,7 +65,7 @@
       "sourceName": "okdiario"
     },
     {
-      "id": "es-4",
+      "id": "es-7",
       "title": "Miranda llena sus hoteles a cuatro patas",
       "description": "Los alojamientos caninos cuelgan el cartel de completo durante el verano y en San Juan del Monte, impulsados por unos dueños que ven a las mascotas \"como sus hijos\" y cuidan hasta el último detalle",
       "url": "https://www.diariodeburgos.es/noticia/z3984d231-48ba-4cff-8cf69c53b0ee96d1/202607/miranda-llena-sus-hoteles-a-cuatro-patas",
@@ -47,7 +74,7 @@
       "sourceName": "diariodeburgos"
     },
     {
-      "id": "es-5",
+      "id": "es-8",
       "title": "Cruz Roja Mexicana concluye labores de rescate en Venezuela luego de los terremotos que dejaron 4,490 muertos",
       "description": "Tras 12 días de labores en la zona de la Guaira, el equipo de rescatistas mexicanos -acompañado por binomios caninos especializados- regresaron a casa",
       "url": "https://heraldodemexico.com.mx/nacional/2026/7/13/cruz-roja-mexicana-concluye-labores-de-rescate-en-venezuela-luego-de-los-terremotos-que-dejaron-4490-muertos-848717.html",
@@ -56,7 +83,7 @@
       "sourceName": "heraldodemexico"
     },
     {
-      "id": "es-6",
+      "id": "es-9",
       "title": "Patricia, educadora canina: “Si tu perro no duerme cuando se queda solo, podría tener problemas de estrés”",
       "description": "Las personas intentamos que los perros siempre tengan algo con lo que entretenerse, también cuando se quedan solos en casa. Juguetes interactivos, mordedores, alfombras olfativas o premios rellenos de comida se han conv",
       "url": "https://expertoanimal.elperiodico.com/patricia-educadora-canina-si-tu-perro-no-duerme-cuando-se-queda-solo-podria-tener-problemas-de-estres-28512.html",
@@ -65,7 +92,7 @@
       "sourceName": "diarioinformacion"
     },
     {
-      "id": "es-7",
+      "id": "es-10",
       "title": "Azul es el color que transforma la experiencia visual de tu perro y mejora su bienestar",
       "description": "Los caninos pueden distinguir tonalidades azules y amarillas, lo que permite optimizar su entorno de juego y entrenamiento, mejorando su bienestar y comunicación con los tutores.",
       "url": "https://www.eldiario.ec/vida/azul-es-el-color-que-transforma-la-experiencia-visual-de-tu-perro-y-mejora-su-bienestar-13072026/",
@@ -74,7 +101,7 @@
       "sourceName": "eldiario_ec"
     },
     {
-      "id": "es-8",
+      "id": "es-11",
       "title": "Hugo Fernández, educador canino: \"Pensar que un perro con 20 minutos de paseo tiene las necesidades cubiertas es criminal\"",
       "description": "Convivir con un perro va mucho más allá de llenar su cuenco de comida o sacarlo un par de veces al día. Cada vez somos más conscientes de que su bienestar también depende de factores como la estimulación mental , e",
       "url": "https://decoracion.trendencias.com/varios/hugo-fernandez-educador-canino-pensar-que-perro-20-minutos-paseo-tiene-necesidades-cubiertas-criminal",
@@ -83,7 +110,7 @@
       "sourceName": "decoracion_trendencias"
     },
     {
-      "id": "es-9",
+      "id": "es-12",
       "title": "Perros por el mundo: la gran transformación de Nigeria ante la convivencia responsable",
       "description": "El auge de los animales de compañía en el país africano está impulsando una transformación cultural que desafía las tradiciones más arraigadas.",
       "url": "https://www.20minutos.es/animaleros/perros/perros-por-mundo-gran-transformacion-nigeria-ante-convivencia-responsable_6981105_0.html",
@@ -92,7 +119,7 @@
       "sourceName": "minutos20"
     },
     {
-      "id": "es-10",
+      "id": "es-13",
       "title": "¿Dónde y cuándo puedo ir con mi perro a la playa en Cantabria?",
       "description": "De todos los arenales de la región, solo en algunos está permitida la presencia de canes durante la temporada de baño. En otros pueden acceder a determinadas horas o tienen la entrada prohibida todo el día. A continu",
       "url": "https://www.eldiariomontanes.es/cantabria/rompecabezas-acceder-playa-permitido-perro-20260619102021-nt.html",
@@ -101,7 +128,7 @@
       "sourceName": "eldiariomontanes"
     },
     {
-      "id": "es-11",
+      "id": "es-14",
       "title": "Investiga en caso de crueldad animal en Tonalá",
       "description": "La Fiscalía del Estado abrió una carpeta de investigación por el delito de crueldad animal tras atender el reporte de un perro sin vida localizado al ...",
       "url": "https://www.meganoticias.mx/guadalajara/noticia/investiga-en-caso-de-crueldad-animal-en-tonal%C3%A1/750979",
@@ -110,7 +137,7 @@
       "sourceName": "meganoticias_mx"
     },
     {
-      "id": "es-12",
+      "id": "es-15",
       "title": "Perros 'doctores' contra la soledad en las residencias: \"Se prioriza lo clínico y se olvida darles un motivo para seguir\"",
       "description": "Los animales seleccionados son entrenados, pero lo más importante para formar parte del proyecto es su naturaleza y temperamento. Más información : Valencia avanza en la ordenanza que permitirá que las mascotas pueda",
       "url": "https://www.elespanol.com/valencia/comunitat/20260713/perros-doctores-soledad-residencias-prioriza-clinico-olvida-darles-motivo-seguir-dl/1003744315633_0.html",
@@ -119,7 +146,7 @@
       "sourceName": "elespanol"
     },
     {
-      "id": "es-13",
+      "id": "es-16",
       "title": "VIDEO | Denuncia salvó a un perro que vivía amarrado, sin agua y en malas condiciones en Bogotá",
       "description": "El perro permanecía con movilidad limitada y, según las autoridades, consumía agua acumulada por la lluvia. El caso volvió a La entrada VIDEO | Denuncia salvó a un perro que vivía amarrado, sin agua y en malas cond",
       "url": "https://periodismopublico.com/denuncia-salvo-a-un-perro-que-vivia-amarrado-sin-agua-y-en-malas-condiciones-en-bogota",
@@ -128,7 +155,7 @@
       "sourceName": "periodismopublico"
     },
     {
-      "id": "es-14",
+      "id": "es-17",
       "title": "¿Qué enfermedad puede tener un perro cuando no quiere comer?",
       "description": "Detectar la causa a tiempo puede marcar una gran diferencia en el pronóstico y evitar complicaciones que comprometan la salud tu mascota",
       "url": "https://www.informador.mx/estilo/que-enfermedad-puede-tener-un-perro-cuando-no-quiere-comer-20260706-0185.html",
@@ -137,7 +164,7 @@
       "sourceName": "informador_mx"
     },
     {
-      "id": "es-15",
+      "id": "es-18",
       "title": "«Al llegar el adiós»: memorias de un amigo fiel",
       "description": "Romualdas Granauskas es el autor de «Al llegar el adiós», una suerte de memorias en las que el escritor lituano narra la relación con su perro y donde reflexiona sobre la lealtad, la amistad interespecies, el envejecim",
       "url": "https://librujula.publico.es/al-llegar-el-adios-memorias-de-un-amigo-fiel/",
@@ -146,7 +173,7 @@
       "sourceName": "publico_es"
     },
     {
-      "id": "es-16",
+      "id": "es-19",
       "title": "Un perro que se metió a la cancha fue figura entre Boston River y Central Español",
       "description": "El animal interrumpió el discreto partido que se disputó en el estadio Campeones Olímpicos de Florida, y se llevó aplausos.",
       "url": "https://www.montevideo.com.uy/auc.aspx?968070=",
@@ -155,7 +182,7 @@
       "sourceName": "montevideo"
     },
     {
-      "id": "es-17",
+      "id": "es-20",
       "title": "Un entrenador de perros analizó por qué algunas razas son consideradas peligrosas y el papel que tienen los dueños",
       "description": "Cesar Millan, uno de los especialistas en adiestramiento canino más reconocidos, explicó los aspectos que recomienda tener en cuenta antes de elegir un animal de compañía y cómo el entorno influye en su convivencia ",
       "url": "https://www.infobae.com/perros-y-gatos/2026/07/12/un-entrenador-de-perros-analizo-por-que-algunas-razas-son-consideradas-peligrosas-y-el-papel-que-tienen-los-duenos/",
@@ -164,7 +191,7 @@
       "sourceName": "infobae"
     },
     {
-      "id": "es-18",
+      "id": "es-21",
       "title": "La escena en \"La Odisea\" que destrozó a Nolan: la historia de Argos",
       "description": "A pocos días del estreno de la esperada adaptación épica, el aclamado director británico revela que la lealtad de un canino fue el motor principal para llevar este clásico a la pantalla grande",
       "url": "https://www.informador.mx/entretenimiento/la-escena-en-la-odisea-que-destrozo-christopher-nolan-la-historia-de-argos-20260708-0148.html",
@@ -173,7 +200,7 @@
       "sourceName": "informador_mx"
     },
     {
-      "id": "es-19",
+      "id": "es-22",
       "title": "La jauría que se muerde la cola",
       "description": "Pedro Sola quiso envenenar perros en la tienda departamental y terminó envenenando su propia reputación en cadena nacional. 79 años de vida y 30 de pantalla le alcanzaron para descubrir, frente a millones de espectado",
       "url": "https://jornadaveracruz.com.mx/la-jauria-que-se-muerde-la-cola/",
@@ -182,7 +209,7 @@
       "sourceName": "jornadaveracruz_mx"
     },
     {
-      "id": "es-20",
+      "id": "es-23",
       "title": "Estos 5 perros son los mejores guardianes para tu hogar",
       "description": "Conoce las cinco mejores razas y altamente confiables que, más allá de los clásicos, protegerán tu casa con lealtad y valentía",
       "url": "https://www.informador.mx/estilo/estos-5-perros-son-los-mejores-guardianes-para-tu-hogar-20260708-0047.html",
@@ -191,7 +218,7 @@
       "sourceName": "informador_mx"
     },
     {
-      "id": "es-21",
+      "id": "es-24",
       "title": "Más vale prevenir que lamentar",
       "description": "Como usuario habitual del parque canino de Marina Española, quiero trasladar una preocupación que compartimos muchos propietarios de mascotas y que, con el paso del tiempo, se está convirtiendo en una cuestión de seg",
       "url": "https://elfarodeceuta.es/mas-vale-prevenir-lamentar-parque-canino/",
@@ -200,7 +227,7 @@
       "sourceName": "elfarodeceuta"
     },
     {
-      "id": "es-22",
+      "id": "es-25",
       "title": "Buscan familia para Milos, el perro escapista y maltratado que deambuló durante un año por Bembibre",
       "description": "Actualmente vive en el albergue canino de la Asociación Protectora de Animales 'Peludines sin Suerte'",
       "url": "https://www.elbierzonoticias.com/bierzo/buscan-familia-milos-perro-escapista-maltratado-deambulo-20260719093236-nt.html",
@@ -209,7 +236,7 @@
       "sourceName": "leonoticias"
     },
     {
-      "id": "es-23",
+      "id": "es-26",
       "title": "¿Escapada a la playa con tu perro? Las zonas más cerca de León y el peligro de multas de 3.000 euros",
       "description": "Estos arenales son un ejemplo de la tendencia responsable con los animales domésticos",
       "url": "https://www.leonoticias.com/comarcas/escapada-playa-perro-zonas-cerca-leon-peligro-20260710093213-nt.html",
@@ -218,7 +245,7 @@
       "sourceName": "leonoticias"
     },
     {
-      "id": "es-24",
+      "id": "es-27",
       "title": "El thai ridgeback: un antiguo perro tailandés con una inconfundible cresta sobre el lomo",
       "description": "Se encuentra clasificado en el Grupo 5, Sección 7 de la FCI, que incluye perros tipo primitivo y perros de caza.",
       "url": "https://www.20minutos.es/animaleros/perros/thai-ridgeback-un-antiguo-perro-tailandes-con-una-inconfundible-cresta-sobre-lomo_7012142_0.html",
@@ -227,7 +254,7 @@
       "sourceName": "minutos20"
     },
     {
-      "id": "es-25",
+      "id": "es-28",
       "title": "Las mejores razas de perros guardianes para departamentos",
       "description": "Las manchas blancas en las paredes no siempre son hongos o pintura dañada. Descubre qué es el salitre, por qué aparece, cuáles son sus riesgos y cómo eliminarlo correctamente",
       "url": "https://www.informador.mx/estilo/las-mejores-razas-de-perros-guardianes-para-departamentos-20260708-0145.html",
@@ -236,7 +263,7 @@
       "sourceName": "El Informador"
     },
     {
-      "id": "es-26",
+      "id": "es-29",
       "title": "¿Cada cuánto se debe bañar a un perro?",
       "description": "Descubre la frecuencia ideal para bañar a tu mascota según los expertos, y aprende a proteger su salud dermatológica evitando los peligros del exceso de higiene",
       "url": "https://www.informador.mx/estilo/cada-cuanto-se-debe-banar-a-un-perro-20260706-0097.html",
@@ -245,7 +272,7 @@
       "sourceName": "Oralia López"
     },
     {
-      "id": "es-27",
+      "id": "es-30",
       "title": "Con más de 90 cuerpos recuperados y 2 personas rescatadas en Venezuela: así regresa la brigada de la Defensa a México",
       "description": "El Agrupamiento de Ayuda Humanitaria “Yumare” realizó labores de búsqueda durante 15 días en compañía de binomios caninos; hoy queda desactivada",
       "url": "https://www.infobae.com/mexico/2026/07/11/regresa-a-mexico-la-brigada-el-ejercito-mexicano-tras-recuperar-mas-de-90-cuerpos-y-2-personas-con-vida-en-venezuela/",
@@ -254,7 +281,7 @@
       "sourceName": "Ale Huitron"
     },
     {
-      "id": "es-28",
+      "id": "es-31",
       "title": "No, tu perro no te lame porque te quiere... Esta es la verdadera razón y no es cariño",
       "description": "Los lamidos de los perros no siempre significan amor. Especialistas explican las verdaderas razones detrás de este comportamiento y cómo interpretar las señales de tu mascota",
       "url": "https://vanguardia.com.mx/informacion/no-tu-perro-no-te-lame-porque-te-quiere-esta-es-la-verdadera-razon-y-no-es-carino-PF22057932",
@@ -263,7 +290,7 @@
       "sourceName": "Carlos Martínez"
     },
     {
-      "id": "es-29",
+      "id": "es-32",
       "title": "Los compañeros de lluvia perfectos: 7 razas de perro que disfrutan el agua",
       "description": "En la temporada de lluvias, planear el paseo diario con un perro se vuelve un reto en Guadalajara; consulta las razas mejor adaptadas a estos ambientes",
       "url": "https://www.informador.mx/estilo/los-companeros-de-lluvia-perfectos-7-razas-de-perro-que-disfrutan-el-agua-20260710-0057.html",
@@ -272,7 +299,7 @@
       "sourceName": "FabiÃ¡n Flores"
     },
     {
-      "id": "es-30",
+      "id": "es-33",
       "title": "Cae en Jalisco León “N”, acusado de torturar y matar perros entregados en adopción en Saltillo",
       "description": "Por el delito de violencia y crueldad contra seres sintientes en Saltillo, León “N” de 54 años de edad, fue asegurado este jueves en Guadalajara, Jalisco, y se espera que en breve se traslade a la capital del estado para",
       "url": "https://www.elsiglodetorreon.com.mx/noticia/2026/cae-en-jalisco-leon-n-acusado-de-torturar-y-matar-perros-entregados-en-adopcion-en-saltillo.html",
@@ -281,7 +308,7 @@
       "sourceName": "El Siglo de Torreón; ISABEL AMPUDIA"
     },
     {
-      "id": "es-31",
+      "id": "es-34",
       "title": "Por qué la euforia de tu perro al regresar a casa puede ser una señal de alerta",
       "description": "Aunque ver a tu mascota saltar y ladrar descontroladamente suele interpretarse como una recibida llena de amor, los especialistas advierten lo contrario",
       "url": "https://www.lanacion.com.ar/lifestyle/mascotas/por-que-la-euforia-de-tu-perro-al-regresar-a-casa-puede-ser-una-senal-de-alerta-nid09072026/",
@@ -290,7 +317,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "es-32",
+      "id": "es-35",
       "title": "El escudo perfecto: 5 razas de perros que te defenderán si intentan asaltarte en la calle",
       "description": "Conoce a los canes con el mejor instinto protector que garantizan tu seguridad y disuaden a los delincuentes durante tus paseos diarios por la ciudad",
       "url": "https://www.informador.mx/estilo/el-escudo-perfecto-5-razas-de-perros-que-te-defenderan-si-intentan-asaltarte-en-la-calle-20260709-0038.html",
@@ -299,7 +326,7 @@
       "sourceName": "Óscar Ernesto Álvarez Gutiérrez"
     },
     {
-      "id": "es-33",
+      "id": "es-36",
       "title": "3 tipos de perros guardianes que aportan seguridad a tu hogar",
       "description": "Conoce las razas caninas más recomendadas por expertos en redes sociales para disuadir intrusos y mantener a tu familia a salvo en todo momento",
       "url": "https://www.informador.mx/estilo/3-tipos-de-perros-guardianes-que-aportan-seguridad-a-tu-hogar-20260708-0104.html",
@@ -308,7 +335,7 @@
       "sourceName": "El Informador"
     },
     {
-      "id": "es-34",
+      "id": "es-37",
       "title": "Luanco cita a los perros más ágiles en una Copa de España de Shetland Sheepdog en el parque de La Mofosa",
       "description": "El certamen, organizado por el Collie Club de España, reunirá este sábado a guías y ejemplares de una raza pastoril famosa por su inteligencia, velocidad y obediencia en una exhibición abierta al público",
       "url": "https://www.lne.es/aviles/2026/07/08/luanco-cita-perros-agiles-copa-132244990.html",
@@ -317,7 +344,7 @@
       "sourceName": "P Méndez"
     },
     {
-      "id": "es-35",
+      "id": "es-38",
       "title": "Un oasis para el turismo de perruno en Castrillón: el playón de Bayas se convierte en el refugio canino de Asturias",
       "description": "Los usuarios estivales, la mayoría llegados desde distintos puntos de España como León o Madrid, destacan las dimensiones y la limpieza de los tres kilómetros de longitud de un arenal que describen como 'la mejor playa' ",
       "url": "https://www.lne.es/castrillon/2026/07/08/oasis-turismo-perruno-castrillon-playon-132225970.html",
@@ -326,7 +353,7 @@
       "sourceName": "Christian GarcÃa"
     },
     {
-      "id": "es-36",
+      "id": "es-39",
       "title": "EN IMÁNGES: El Sablón de Bayas se convierte en un oasis estival para el turismo canino",
       "description": "Los usuarios estivales, la mayoría llegados desde distintos puntos de España como León o Madrid, destacan las dimensiones y la limpieza de los tres kilómetros de longitud del arenal de Castrillón, el cual describen como ",
       "url": "https://www.lne.es/aviles-y-comarca/castrillon/2026/07/07/imanges-sablon-bayas-convierte-oasis-132229724.html",
@@ -335,7 +362,7 @@
       "sourceName": "Christian GarcÃa"
     },
     {
-      "id": "es-37",
+      "id": "es-40",
       "title": "Enrique Molina, adiestrador canino: \"No debemos dormir con nuestro perro, porque invade un espacio muy personal del dueño\"",
       "description": "Enrique Molina es un conocido adiestrador canino que ayuda a dueños de perros a saber cómo educar a su mascota para que sepa comportarse en casa, entre otras ...",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260510/1004181518/enrique-molina-adiestrador-canino-no-debemos-dormir-nuestro-perro-invade-espacio-personal-dueno-dct.html",
@@ -344,7 +371,7 @@
       "sourceName": "mundodeportivo.com"
     },
     {
-      "id": "es-38",
+      "id": "es-41",
       "title": "Alan Peiró, adiestrador canino: “Cuando un perro se muestra agresivo, lo hace por miedo”",
       "description": "El experto en comportamiento animal brindó consejos para tratar las reacciones violentas de las mascotas.",
       "url": "https://tn.com.ar/mascotas/2026/03/27/alan-peiro-adiestrador-canino-cuando-un-perro-se-muestra-agresivo-lo-hace-por-miedo/",
@@ -353,7 +380,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-39",
+      "id": "es-42",
       "title": "Juan Cervantes, adiestrador canino: “Al volver a tu casa debés ignorar al perro por 5 minutos”",
       "description": "Un experto en mascotas explicó por qué no saludar a tu mascota al regresar al hogar y las consecuencias que eso genera.",
       "url": "https://tn.com.ar/sociedad/2026/03/20/juan-cervantes-adiestrador-canino-al-volver-a-tu-casa-debes-ignorar-al-perro-por-5-minutos/",
@@ -362,7 +389,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-40",
+      "id": "es-43",
       "title": "Juan Cervantes, adiestrador canino: “Cuanto más llames a tu perro por su nombre, menos caso te hace”",
       "description": "El experto influencer explicó el motivo por el que utilizar esta técnica no es la mejor forma para llamar la atención de tu mascota.",
       "url": "https://tn.com.ar/sociedad/2026/03/19/juan-cervantes-adiestrador-canino-cuanto-mas-llames-a-tu-perro-por-su-nombre-menos-caso-te-hace/",
@@ -371,7 +398,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-41",
+      "id": "es-44",
       "title": "Qué siente tu perro cuando sale a pasear, según expertos en comportamiento canino",
       "description": "Ese momento cotidiano es mucho más importante de lo que parece. La ciencia del comportamiento canino explica cómo impacta en el equilibrio emocional, la condu...",
       "url": "https://tn.com.ar/sociedad/2026/02/22/que-siente-tu-perro-cuando-sale-a-pasear-segun-expertos-en-comportamiento-canino/",
@@ -380,7 +407,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-42",
+      "id": "es-45",
       "title": "Qué siente tu perro cuando le gritás, según expertos en comportamiento canino",
       "description": "El tono de voz humano tiene un impacto directo en las emociones de los animales.",
       "url": "https://tn.com.ar/sociedad/2026/02/16/que-siente-tu-perro-cuando-le-gritas-segun-expertos-en-comportamiento-canino/",
@@ -389,7 +416,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-43",
+      "id": "es-46",
       "title": "Alan Peiró, adiestrador canino: “Dormir con tu perro no es un problema en sí mismo”",
       "description": "“Lo importante aquí es, ¿el perro puede dormir solo sin ansiedad? ¿Tiene autonomía emocional?“, planteó el especialista, en relación con la mascota.",
       "url": "https://tn.com.ar/sociedad/2026/01/18/alan-peiro-adiestrador-canino-dormir-con-tu-perro-no-es-un-problema-en-si-mismo/",
@@ -398,7 +425,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-44",
+      "id": "es-47",
       "title": "Por qué no hay que saludar al perro al llegar a casa, según un entrenador canino",
       "description": "Víctor Mañero, reconocido adiestrador canino, reveló el motivo por el cual esta acción puede generarles a los animales gran estrés y ansiedad; qué dijo - ...",
       "url": "https://www.lanacion.com.ar/lifestyle/mascotas/por-que-no-hay-que-saludar-al-perro-al-llegar-a-casa-segun-un-entrenador-canino-nid02052025/",
@@ -407,7 +434,7 @@
       "sourceName": "lanacion.com.ar"
     },
     {
-      "id": "es-45",
+      "id": "es-48",
       "title": "“Perro gay”: ovacionan a un canino en marcha LGBT+ de Guadalajara",
       "description": "El divertido y controversial momento sucedió cuando su cuidadora lo alzó y todos los asistentes no dudaron en gritar y aclamarlo mientras él sacaba su lengua...",
       "url": "https://www.infobae.com/america/entretenimiento/2022/06/19/perro-gay-ovacionan-a-un-canino-en-marcha-lgbt-de-guadalajara/",
@@ -452,17 +479,72 @@
     },
     {
       "id": "en-3",
-      "title": "Owner thinks she's adopting dachshund puppy—then his ears kept growing",
-      "description": "\"Parent the dog in front of you, not the dog you thought you were going to have,\" Janice Costa, pet expert, told Newsweek.",
-      "url": "https://www.newsweek.com/not-breed-you-expected-dog-expert-reveals-how-avoid-lasting-regret-12173533",
-      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/07/Copy-of-32-image-45.jpg?w=1200&crop=1",
-      "publishedAt": "2026-07-13 17:55:12 +0000",
-      "sourceName": "Liz O'Connell",
-      "title_es": "El propietario cree que está adoptando un cachorro de perro salchicha, entonces sus orejas siguieron creciendo",
-      "description_es": "\"Cría al perro que tienes delante, no al perro que pensabas que ibas a tener\", dijo Janice Costa, experta en mascotas, a Newsweek."
+      "title": "Dog Training Kansas City: How Board and Train Solves Real Behavior Problems",
+      "description": "If you're searching for dog training in Kansas City, your dog is likely doing something that feels impossible to fix. Maybe it's pulling, jumping, barking, or panicking when left alone. Understanding what's happening ins",
+      "url": "http://prsync.com/camp-lucky-board-and-train/dog-training-kansas-city-how-board-and-train-solves-real-behavior-problems-5191658/",
+      "urlToImage": null,
+      "publishedAt": "2026-07-13 18:00:25",
+      "sourceName": "prsync",
+      "title_es": "Dog Training Kansas City: How Board and Train Solves Real Behavior Problems",
+      "description_es": "Si estás buscando entrenamiento para perros en Kansas City, es probable que tu perro esté haciendo algo que parece imposible de solucionar. Tal vez sea tirar, saltar, ladrar o entrar en pánico cuando se queda solo. Entender lo que está sucediendo en"
     },
     {
       "id": "en-4",
+      "title": "Not the Breed You Expected? Dog Expert Reveals How To Avoid Lasting Regret",
+      "description": "\"Parent the dog in front of you, not the dog you thought you were going to have,\" Janice Costa, pet expert, told Newsweek.",
+      "url": "https://www.newsweek.com/not-breed-you-expected-dog-expert-reveals-how-avoid-lasting-regret-12173533",
+      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/07/Copy-of-32-image-45.jpg?w=1600&h=900&q=88",
+      "publishedAt": "2026-07-13 17:55:12",
+      "sourceName": "newsweek",
+      "title_es": "¿No es la raza que esperabas? El experto en perros revela cómo evitar un arrepentimiento duradero",
+      "description_es": "\"Cría al perro que tienes delante, no al perro que pensabas que ibas a tener\", dijo Janice Costa, experta en mascotas, a Newsweek."
+    },
+    {
+      "id": "en-5",
+      "title": "Travis Kelce Photographed Traveling with a Fluffy White Pup, Prompting Speculation He and Taylor Swift Got a Dog Together",
+      "description": "Kelce was photographed exiting a jet with a dog at the President Donald J. Trump International Airport in Palm Beach, Fla.",
+      "url": "https://ca.news.yahoo.com/travis-kelce-photographed-traveling-fluffy-174610119.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0643243ba3a327d996cec8e6b4e08314d6420f5308c4226535a80d355a005684/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F0ba97ff2dd29dec54675fdc9076fbdd7",
+      "publishedAt": "2026-07-13 17:46:10",
+      "sourceName": "yahoo",
+      "title_es": "Travis Kelce fotografiado viajando con un cachorro blanco esponjoso, lo que provocó especulaciones Él y Taylor Swift tienen un perro juntos",
+      "description_es": "Kelce fue fotografiado saliendo de un avión con un perro en el Aeropuerto Internacional Presidente Donald J. Trump en Palm Beach, Florida."
+    },
+    {
+      "id": "en-6",
+      "title": "Grateful dog owner describes mountain rescue after canine apparently ingests cannabis",
+      "description": "Tokyo, a 5-year-old Labrador became disoriented and unable to walk.",
+      "url": "https://www.oneidadispatch.com/2026/07/13/britain-cannabis-canine-rescue/",
+      "urlToImage": "https://www.oneidadispatch.com/wp-content/uploads/2026/07/AP26194595334223-16x9-1.jpg?w=1600&resize=1600,900",
+      "publishedAt": "2026-07-13 16:53:00",
+      "sourceName": "oneidadispatch",
+      "title_es": "El agradecido dueño de un perro describe el rescate en la montaña después de que un canino aparentemente ingiere cannabis",
+      "description_es": "Tokio, un labrador de 5 años se desorientó y no pudo caminar."
+    },
+    {
+      "id": "en-7",
+      "title": "Taylor Swift and Travis Kelce's White Samoyed Dog Confirmed After Honeymoon Airport Sighting",
+      "description": "Photos confirm Taylor Swift and Travis Kelce own a white Samoyed, seen traveling with them on a private jet to Florida for their honeymoon. The dog's existence was first revealed at their wedding and hinted at in earlier",
+      "url": "https://us.headtopics.com/news/taylor-swift-and-travis-kelce-s-white-samoyed-dog-confirmed-85537953",
+      "urlToImage": "https://i.headtopics.com/images/2026/7/13/dailymail/taylor-swift-and-travis-kelce-s-white-samoyed-dog--taylor-swift-and-travis-kelce-s-white-samoyed-dog--3DEF18EF0243BBC60DBF098496AC157F.webp",
+      "publishedAt": "2026-07-13 16:37:47",
+      "sourceName": "headtopics",
+      "title_es": "El perro samoyedo blanco de Taylor Swift y Travis Kelce confirmado después del avistamiento en el aeropuerto de luna de miel",
+      "description_es": "Las fotos confirman que Taylor Swift y Travis Kelce poseen un samoyedo blanco, que se ve viajando con ellos en un jet privado a Florida para su luna de miel. La existencia del perro se reveló por primera vez en su boda y se insinuó en"
+    },
+    {
+      "id": "en-8",
+      "title": "How to Spot a Well-Socialized French Bulldog Puppy: A Buyer’s Guide for First-Time Frenchie Owners",
+      "description": "French Bulldogs continue to attract attention from families looking for companion dogs with adaptable personalities and manageable size. According to the American Kennel Club (AKC), the French Bulldog remained the most p",
+      "url": "https://marylandreporter.com/2026/07/13/how-to-spot-a-well-socialized-french-bulldog-puppy-a-buyers-guide-for-first-time-frenchie-owners/",
+      "urlToImage": "https://marylandreporter.com/wp-content/uploads/2026/07/French-bulldog.jpg",
+      "publishedAt": "2026-07-13 16:36:42",
+      "sourceName": "marylandreporter",
+      "title_es": "How to Spot a Well-Socialized French Bulldog Puppy: A Buyer's Guide for First-Time Frenchie Owners",
+      "description_es": "Los Bulldogs franceses siguen atrayendo la atención de las familias que buscan perros de compañía con personalidades adaptables y un tamaño manejable. Según el American Kennel Club (AKC), el bulldog francés siguió siendo el más"
+    },
+    {
+      "id": "en-9",
       "title": "Green Bay Man Sentenced in Sponsor and Canine Killing",
       "description": "A Green Bay man has been sentenced for the killing of his addiction sponsor and his dog. 36-year-old James Dor...",
       "url": "https://www.seehafernews.com/2026/07/13/green-bay-man-sentenced-in-sponsor-and-canine-killing/",
@@ -473,7 +555,7 @@
       "description_es": "Un hombre de Green Bay ha sido sentenciado por el asesinato de su patrocinador de adicciones y su perro. James Dor..."
     },
     {
-      "id": "en-5",
+      "id": "en-10",
       "title": "Marlins ticket take from viral dog's 'dream day' benefits Miami rescue",
       "description": "Jonah helped drive donations for South Florida rescue dogs via his \"dream day.\"",
       "url": "https://www.usatoday.com/story/news/state/florida/miami/2026/07/13/marlins-viral-dog-dream-day-ticket-proceeds-benefitted-rescue/90900596007/",
@@ -484,7 +566,7 @@
       "description_es": "Jonah ayudó a impulsar las donaciones para los perros de rescate del sur de Florida a través de su \"día de ensueño\"."
     },
     {
-      "id": "en-6",
+      "id": "en-11",
       "title": "Longevity Gene Therapy Holds in Aged Dogs: Pfizer COVID Vaccine LNP Partner Backs SIRT6 Platform",
       "description": "SIRT6 gene therapy longevity research reached a milestone as Genflow Biosciences confirmed three-month durability in its aged beagle trial, with no adverse events, while Acuitas Therapeutics — whose lipid nanoparticle pl",
       "url": "https://www.techtimes.com/articles/320318/20260713/longevity-gene-therapy-holds-aged-dogs-pfizer-covid-vaccine-lnp-partner-backs-sirt6-platform.htm",
@@ -495,7 +577,7 @@
       "description_es": "La investigación sobre la longevidad de la terapia génica SIRT6 alcanzó un hito cuando Genflow Biosciences confirmó la durabilidad de tres meses en su antiguo ensayo Beagle, sin eventos adversos, mientras que Acuitas Therapeutics, cuya nanopartícula lipídica pl"
     },
     {
-      "id": "en-7",
+      "id": "en-12",
       "title": "Dog owner wants change after plant poisoning",
       "description": "A Tamworth woman wants mandatory labels on plants after her dog nearly died from eating one.",
       "url": "https://ca.news.yahoo.com/dog-owner-wants-change-plant-101050795.html",
@@ -506,7 +588,7 @@
       "description_es": "Una mujer de Tamworth quiere etiquetas obligatorias en las plantas después de que su perro casi muere por comer una."
     },
     {
-      "id": "en-8",
+      "id": "en-13",
       "title": "Five dog breeds most at risk of heatstroke in the UK – and clever ice trick that owners ‘swear by’ to keep them cool",
       "description": "WHILE temperatures are set to cool off a little this week, it might still be too warm for your furry friend. Experts have revealed the five dog breeds that are most at risk of overheating. While dog owners have been urge",
       "url": "https://www.thesun.co.uk/fabulous/39743737/dog-breeds-most-at-risk-overheating/",
@@ -517,7 +599,7 @@
       "description_es": "MIENTRAS las temperaturas se enfrían un poco esta semana, es posible que todavía haga demasiado calor para tu peludo amigo. Los expertos han revelado las cinco razas de perros con mayor riesgo de sobrecalentamiento. Mientras que los dueños de perros han sido urgidos"
     },
     {
-      "id": "en-9",
+      "id": "en-14",
       "title": "A Labrador’s Ben Nevis hike ends in mountain rescue after an unexpected ‘high’",
       "description": "Most dog owners know the feeling. You look away for just a second and your four-legged friend has already trying [...]",
       "url": "https://euroweeklynews.com/2026/07/13/a-labradors-ben-nevis-hike-ends-in-mountain-rescue-after-an-unexpected-high/",
@@ -528,62 +610,34 @@
       "description_es": "La mayoría de los dueños de perros conocen la sensación. Miras hacia otro lado por un segundo y tu amigo de cuatro patas ya ha intentado [...]"
     },
     {
-      "id": "en-10",
+      "id": "en-15",
       "title": "Where Science Meets Snouts",
       "description": "Ricky Bobby, Elwood, Lexi Lemon, Ginger, Max, Sully, Ziggy, Zelda, and Pop Tart - each of these dogs has its own story, gait and personality. But",
       "url": "https://www.miragenews.com/where-science-meets-snouts-1709105/",
       "urlToImage": "https://today.duke.edu/sites/default/files/styles/story_body_full_width/public/2026-07/Dogs%20and%20OA.jpg?itok=iNS7cd7u",
       "publishedAt": "2026-07-13 14:28:18",
-      "sourceName": "miragenews",
-      "title_es": "Donde la ciencia se encuentra con los hocicos",
-      "description_es": "Ricky Bobby, Elwood, Lexi Lemon, Ginger, Max, Sully, Ziggy, Zelda y Pop Tart: cada uno de estos perros tiene su propia historia, forma de andar y personalidad. Pero"
+      "sourceName": "miragenews"
     },
     {
-      "id": "en-11",
+      "id": "en-16",
       "title": "7 Things Your Dog Does During Your Worst Nights That Most Owners Never Think to Notice - Doggodigest",
       "description": "When the world feels heavy and your nights are at their darkest, your dog becomes more than just a pet – they transform into a silent guardian, attuned to your ... Read more",
       "url": "https://doggodigest.com/7-things-your-dog-does-during-your-worst-nights-that-most-owners-never-think-to-notice-1-402206/",
       "urlToImage": "https://doggodigest.com/wp-content/uploads/2026/07/1783934194689_photo-1581527106934-25bc16f1d310.jpeg",
       "publishedAt": "2026-07-13 14:00:00 +0000",
-      "sourceName": "Gargi Chakravorty",
-      "title_es": "7 cosas que tu perro hace durante tus peores noches y que la mayoría de los dueños nunca se dan cuenta - Doggodigest",
-      "description_es": "Cuando el mundo se siente pesado y tus noches son más oscuras, tu perro se convierte en algo más que una mascota: se transforma en un guardián silencioso, en sintonía con tu ... Leer más"
+      "sourceName": "Gargi Chakravorty"
     },
     {
-      "id": "en-12",
-      "title": "Grateful dog owner describes mountain rescue after canine apparently ingests cannabis",
-      "description": "Tokyo, a 5-year-old Labrador became disoriented and unable to walk.",
-      "url": "https://www.redlandsdailyfacts.com/2026/07/13/britain-cannabis-canine-rescue/",
-      "urlToImage": "https://www.redlandsdailyfacts.com/wp-content/uploads/2026/07/AP26194595334223-16x9-1.jpg?w=1600&resize=1600,900",
-      "publishedAt": "2026-07-13 13:53:00",
-      "sourceName": "redlandsdailyfacts",
-      "title_es": "El agradecido dueño de un perro describe el rescate en la montaña después de que un canino aparentemente ingiere cannabis",
-      "description_es": "Tokio, un labrador de 5 años se desorientó y no pudo caminar."
-    },
-    {
-      "id": "en-13",
+      "id": "en-17",
       "title": "Jason Kelce once shared great dog story about Travis Kelce, who may have new pup",
-      "description": "Kansas City Chiefs tight end Travis Kelce (87) and bother Philadelphia Eagles center Jason Kelce (62) meet after the Philadelphia Eagles defeated the Chiefs at GEHA Field at Arrowhead Stadium on Monday, Nov. 20, 2023, in",
+      "description": "Are newlyweds Travis Kelce and Taylor Swift dog owners? If so, let’s hope the pup is better behaved than one the Chiefs star used to own.",
       "url": "https://www.kansas.com/sports/nfl/kansas-city-chiefs/article316458203.html",
-      "urlToImage": null,
-      "publishedAt": "2026-07-13 13:39:22",
-      "sourceName": "kansas",
-      "title_es": "Jason Kelce una vez compartió una gran historia de perros sobre Travis Kelce, quien puede tener un nuevo cachorro",
-      "description_es": "El ala cerrada de los Kansas City Chiefs, Travis Kelce (87), y el pívot de los Philadelphia Eagles, Jason Kelce (62), se reúnen después de que los Philadelphia Eagles derrotaran a los Chiefs en el GEHA Field en el Arrowhead Stadium el lunes 20 de noviembre de 2023, en"
+      "urlToImage": "https://www.kansascity.com/public/latest-news/mlsy93/picture282134098/alternates/LANDSCAPE_1200/KCM_112023_ChiefsVsEagles_E%20(12)",
+      "publishedAt": "2026-07-13 13:39:22 +0000",
+      "sourceName": "Pete Grathoff"
     },
     {
-      "id": "en-14",
-      "title": "Jason Kelce once shared a great dog story about Travis Kelce, who may have a new pup",
-      "description": "Kansas City Chiefs tight end Travis Kelce (87) and bother Philadelphia Eagles center Jason Kelce (62) meet after the Philadelphia Eagles defeated the Chiefs at GEHA Field at Arrowhead Stadium on Monday, Nov. 20, 2023, in",
-      "url": "https://www.kansascity.com/sports/spt-columns-blogs/for-petes-sake/article316458203.html",
-      "urlToImage": null,
-      "publishedAt": "2026-07-13 13:39:22",
-      "sourceName": "kansascity",
-      "title_es": "Jason Kelce compartió una vez una gran historia de perros sobre Travis Kelce, que puede tener un nuevo cachorro",
-      "description_es": "El ala cerrada de los Kansas City Chiefs, Travis Kelce (87), y el pívot de los Philadelphia Eagles, Jason Kelce (62), se enfrentan después de que los Philadelphia Eagles derrotaran a los Chiefs en el GEHA Field en el Arrowhead Stadium el lunes 20 de noviembre de 2023, en"
-    },
-    {
-      "id": "en-15",
+      "id": "en-18",
       "title": "The 13 Smartest Dog Breeds That Outthink Their Owners",
       "description": "Animals Around The Globe is a travel platform focused on wildlife and unique destinations, where you can discover all your favourite animal encounters.",
       "url": "https://www.animalsaroundtheglobe.com/the-13-smartest-dog-breeds-that-outthink-their-owners-8-306536/",
@@ -592,43 +646,7 @@
       "sourceName": "Jan Otte"
     },
     {
-      "id": "en-16",
-      "title": "Peugeot unveils e-5008 Dog Edition concept featuring canine-friendly tech and curated cabin colours",
-      "description": "Peugeot unveils e-5008 Dog Edition concept featuring canine-friendly tech and curated cabin colours",
-      "url": "https://www.onmanorama.com/kerala/top-news/2026/07/13/peugeot-e5008-dog-edition-launch3.html",
-      "urlToImage": "https://img-mm.manoramaonline.com/content/dam/mm/mo/archive/fasttrack/auto-news/images/2026/7/12/peugeot.jpg/photos/1x1/photo.jpg",
-      "publishedAt": "2026-07-13 11:01:54",
-      "sourceName": "onmanorama"
-    },
-    {
-      "id": "en-17",
-      "title": "Dog rescued from Ben Nevis peak after getting ‘STONED on cannabis’ dumped on trail",
-      "description": "A DOG has been rescued from a Ben Nevis peak after she was thought to have munched on cannabis that was dumped on the trail. The black lab named Tokyo was scaling Britain's tallest mountain with owner Christina Bluhme wh",
-      "url": "https://www.thesun.co.uk/news/39740708/dog-rescued-ben-nevis-after-cannabis-binge/",
-      "urlToImage": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F07%2Fcrop-39741041.jpg?quality%3D90%26strip%3Dall",
-      "publishedAt": "2026-07-13 10:48:59",
-      "sourceName": "thesun"
-    },
-    {
-      "id": "en-18",
-      "title": "Evanston Animal Shelter raises more than $40,000 through Trot for Tails fundraiser",
-      "description": "Seven years after fostering and eventually adopting her dog Kaya from the Evanston Animal Shelter, Jeannie Sanke still returns to Trot for Tails, helping raise funds for the organization each summer. The chow chow, whose",
-      "url": "https://dailynorthwestern.com/2026/07/13/top-stories/evanston-animal-shelter-raises-more-than-40000-through-trot-for-tails-fundraiser/",
-      "urlToImage": "https://dailynorthwestern.com/wp-content/uploads/2026/07/Screenshot-2026-07-13-at-2.05.44-AM.png",
-      "publishedAt": "2026-07-13 10:00:43",
-      "sourceName": "dailynorthwestern"
-    },
-    {
       "id": "en-19",
-      "title": "Bed bug concerns rising in Ontario: How Orkin's trained dogs are helping to sniff them out",
-      "description": "A 2024 Orkin study found Canada’s top five bed bug cities were all in Ontario, including Toronto, Sudbury, Oshawa, Hamilton and Ottawa. Here's how Orkin's dog teams are helping to detect them in dorms, hotels and more.",
-      "url": "https://www.niagarathisweek.com/news/toronto-hamilton-oshawa-ottawa-orkin-bed-bugs/article_294cd08a-aab5-58bc-ad55-158fbf6005c3.html",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/niagarathisweek.com/content/tncms/assets/v3/editorial/f/7e/f7e9735d-6b64-5df0-9899-f34ee363981b/67339b6811705.image.jpg?resize=300%2C234",
-      "publishedAt": "2026-07-13 10:00:00",
-      "sourceName": "niagarathisweek"
-    },
-    {
-      "id": "en-20",
       "title": "In Pictures: ‘Smooth’ start for new dog-friendly restaurant scheme, as authorities conduct 2,300 inspections",
       "description": "Hong Kong authorities and eateries have said the implementation of a new dog-friendly scheme has been largely “smooth,” as the government steps up inspections in the first month of the policy that …",
       "url": "https://hongkongfp.com/2026/07/13/in-pictures-smooth-start-for-new-dog-friendly-restaurant-scheme-as-authorities-conduct-2300-inspections/",
@@ -637,7 +655,7 @@
       "sourceName": "Hans Tse"
     },
     {
-      "id": "en-21",
+      "id": "en-20",
       "title": "Food. Water. Play. Every single day'? Not for a dog named Cash - The Korea Times",
       "description": "Amid record-breaking temperatures and headlines about “heat domes,” I worry profoundly about dogs like Cash, who spent his life deprived of relief...",
       "url": "https://www.koreatimes.co.kr/opinion/20260713/food-water-play-every-single-day-not-for-a-dog-named-cash",
@@ -646,7 +664,7 @@
       "sourceName": "Katherine Sullivan"
     },
     {
-      "id": "en-22",
+      "id": "en-21",
       "title": "'House Of The Dragon' Season 3, Episode 4: The Season's Dogs Are Here",
       "description": "Extremely good Vale pups.",
       "url": "https://in.mashable.com/topic-14/111885/house-of-the-dragon-season-3-episode-4-the-seasons-dogs-are-here",
@@ -655,7 +673,7 @@
       "sourceName": "Shannon Connellan"
     },
     {
-      "id": "en-23",
+      "id": "en-22",
       "title": "25 worst human foods you should never give your dog—and 25 you can feed them safely - AOL",
       "description": "We love our \"fur babies,\" but we can't always feed them the same thing we are eating—no matter how much they beg. Stacker looks at 50 different foods to determine which are safe for your dog and which are not.",
       "url": "https://www.aol.com/news/25-worst-human-foods-never-170143097.html",
@@ -664,7 +682,7 @@
       "sourceName": "Frederick Reese"
     },
     {
-      "id": "en-24",
+      "id": "en-23",
       "title": "Dog & Little Boy Share the Sweetest Look Before Melting Into a Cuddle - AOL",
       "description": "The bonds between canines and kids are beyond words. We have seen numerous moments of this unusual duo showering each other with love. A viral post is here to capture an instance that will move you to tears. The video sh",
       "url": "https://www.aol.com/lifestyle/dog-little-boy-share-sweetest-150000843.html",
@@ -673,7 +691,7 @@
       "sourceName": "Ritika Singh"
     },
     {
-      "id": "en-25",
+      "id": "en-24",
       "title": "14 Tender Signs an Old Dog Is Nearing the End That Only Their Person Sees - Doggodigest",
       "description": "Most people believe that when a dog is nearing the end of its life, the signs are obvious and dramatic. However, the truth is that many indicators are subtle and ... Read more",
       "url": "https://doggodigest.com/14-tender-signs-an-old-dog-is-nearing-the-end-that-only-their-person-sees-1-402100/",
@@ -682,7 +700,7 @@
       "sourceName": "Gargi Chakravorty"
     },
     {
-      "id": "en-26",
+      "id": "en-25",
       "title": "Hong Kong’s dog-friendly licence scheme triggers fierce online debate",
       "description": "Debate emerges as branch of Cafe 100% in Kam Ying Court Shopping Centre pulls out of dog-friendly scheme, with staff citing safety concerns.",
       "url": "https://www.scmp.com/news/hong-kong/society/article/3360288/hong-kongs-dog-friendly-licence-scheme-triggers-fierce-online-debate",
@@ -691,7 +709,7 @@
       "sourceName": "Emily Hung"
     },
     {
-      "id": "en-27",
+      "id": "en-26",
       "title": "These Smushed-Face Dog Breeds Are Impossible to Resist — Did Yours Make the List? - Thedogsnobs",
       "description": "How can any dog enthusiast resist an adorably flat-faced pup? Quirky wrinkles, cute button noses, and droopy jowls are just a few of the many things that make",
       "url": "https://thedogsnobs.com/these-smushed-face-dog-breeds-are-impossible-to-resist-did-yours-make-the-list/",
@@ -700,7 +718,7 @@
       "sourceName": "Amanda OBrien"
     },
     {
-      "id": "en-28",
+      "id": "en-27",
       "title": "Australian Shepherd Makes The Same Funny Face Every Time She's In Trouble - Cuteness",
       "description": "Hazel the Aussie really doesn't want to be in trouble! Watch as she tries to appease her pet parent with the cutest face that may have you forgiving her, too.",
       "url": "https://www.cuteness.com/2208315/australian-shepherd-funny-face-trouble/",
@@ -709,7 +727,7 @@
       "sourceName": "Jaz Joyner"
     },
     {
-      "id": "en-29",
+      "id": "en-28",
       "title": "Your dog’s aggression could be triggered by something you are overlooking, and veterinarians say identifying it early can prevent more serious behavior problems",
       "description": "Dog Aggression Warning Signs can appear long before a bite, yet many pet owners miss them. Veterinary behavior experts say aggression is usually linked to fear, pain, stress, or resource guarding—not a dog's personality.",
       "url": "https://economictimes.indiatimes.com/news/international/us/your-dogs-aggression-could-be-triggered-by-something-you-are-overlooking-and-veterinarians-say-identifying-it-early-can-prevent-more-serious-behavior-problems/articleshow/132331230.cms",
@@ -718,7 +736,7 @@
       "sourceName": "Piyush Shukla"
     },
     {
-      "id": "en-30",
+      "id": "en-29",
       "title": "14 Ordinary Days Your Dog Treasures That You Barely Recall - Doggodigest",
       "description": "You probably think your dog’s whole world revolves around walks, meals, and the sound of the treat bag crinkling. Fair guess. But new research into canine cognition suggests something stranger ... Read more",
       "url": "https://doggodigest.com/14-ordinary-days-your-dog-treasures-that-you-barely-recall-1-401965/",
@@ -727,7 +745,7 @@
       "sourceName": "Gargi Chakravorty"
     },
     {
-      "id": "en-31",
+      "id": "en-30",
       "title": "We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?",
       "description": "More dog owners have begun cooking for their canine companions in recent years. When my own dog fell ill, I became part of this growing group.",
       "url": "https://www.wired.com/story/gourmet-dog-food/",
@@ -736,7 +754,7 @@
       "sourceName": "Alicia Kennedy"
     },
     {
-      "id": "en-32",
+      "id": "en-31",
       "title": "Canines in court: 5 times Indian courts had to decide who keeps the dog",
       "description": "Canines in court: 5 times Indian courts had to decide who keeps the dog",
       "url": "https://indianexpress.com/article/legal-news/canines-court-5-times-indian-courts-decide-who-keeps-dog-10780373/",
@@ -745,7 +763,7 @@
       "sourceName": "Somya Tyagi"
     },
     {
-      "id": "en-33",
+      "id": "en-32",
       "title": "The 'back of hand' test every dog owner should do",
       "description": "As the UK bakes in a heatwave, dog owners should know that hot pavements can cause serious harm",
       "url": "https://www.walesonline.co.uk/news/uk-news/back-hand-test-every-dog-34264396",
@@ -754,7 +772,7 @@
       "sourceName": "Ethan Evans"
     },
     {
-      "id": "en-34",
+      "id": "en-33",
       "title": "Does your dog really feel loved? Is spending more time together better than buying gourmet treats? Veterinarians reveal 5 everyday habits that build trust and lasting happiness",
       "description": "Is Your Dog Happier With Your Time Than Gourmet Treats? Veterinary behavior experts say dogs understand actions, not emotional words. With nearly 94 million U.S. households owning pets, building trust has become a top co",
       "url": "https://economictimes.indiatimes.com/news/international/us/does-your-dog-really-feel-loved-is-spending-more-time-together-better-than-buying-gourmet-treats-veterinarians-reveal-5-everyday-habits-that-build-trust-and-lasting-happiness/articleshow/132316635.cms",
@@ -763,7 +781,7 @@
       "sourceName": "Piyush Shukla"
     },
     {
-      "id": "en-35",
+      "id": "en-34",
       "title": "Is your dog secretly stressed? Why is your dog panting, yawning, or trembling when nothing seems wrong? These 5 everyday behaviors could reveal a hidden health issue before it's too late",
       "description": "Dog Stress Signs are easier to miss than many pet owners realize. Veterinary behavior experts say chronic stress can affect a dog's health, sleep, digestion, and behavior long before obvious symptoms appear. Small change",
       "url": "https://economictimes.indiatimes.com/news/international/us/is-your-dog-secretly-stressed-why-is-your-dog-panting-yawning-or-trembling-when-nothing-seems-wrong-these-5-everyday-behaviors-could-reveal-a-hidden-health-issue-before-its-too-late/articleshow/132314886.cms",
@@ -772,7 +790,7 @@
       "sourceName": "Piyush Shukla"
     },
     {
-      "id": "en-36",
+      "id": "en-35",
       "title": "Could your dog's favorite sleeping position reveal pain, anxiety or total trust? Here's what veterinary experts want every owner to know",
       "description": "Dogs sleep 12 to 14 hours daily, giving owners many chances to notice important health and behavior clues. Veterinary experts say common dog sleeping positions may reflect comfort, trust, body temperature, stress, or dev",
       "url": "https://economictimes.indiatimes.com/news/international/us/could-your-dogs-favorite-sleeping-position-reveal-pain-anxiety-or-total-trust-heres-what-veterinary-experts-want-every-owner-to-know/articleshow/132314062.cms",
@@ -781,7 +799,7 @@
       "sourceName": "Piyush Shukla"
     },
     {
-      "id": "en-37",
+      "id": "en-36",
       "title": "Looking for a dog that's quick to learn? These intelligent breeds stand above the rest",
       "description": "Looking for a dog that's quick to learn? That's one of the most searched questions by new dog owners in the U.S. Experts say trainability is about more than intelligence. The smartest dogs also stay focused, love learnin",
       "url": "https://economictimes.indiatimes.com/news/international/us/looking-for-a-dog-thats-quick-to-learn-these-intelligent-breeds-stand-above-the-rest/articleshow/132287898.cms",
@@ -790,7 +808,7 @@
       "sourceName": "Piyush Shukla"
     },
     {
-      "id": "en-38",
+      "id": "en-37",
       "title": "Travis Kelce's mystery dog may appear in NFL star's new ad campaign",
       "description": "American fashion brand Tommy Hilfiger dropped a hint about the mystery pooch co-parented by Taylor Swift and Travis Kelce and how the canine fits into the NFL star's upcoming ad campaign.",
       "url": "https://www.dailymail.com/sport/nfl/article-15964363/tommy-hilfiger-travis-kelce-taylor-swift-dog.html",
@@ -799,7 +817,7 @@
       "sourceName": "Jake Fenner"
     },
     {
-      "id": "en-39",
+      "id": "en-38",
       "title": "Viral 'sad dog' at Miami Marlins game found. What's next for rescue pup Jonah",
       "description": "Jonah — the canine subject of a popular video — has spurred the Miami Marlins to donate a portion of ticket proceeds to help South Florida rescue ...",
       "url": "https://www.nwfdailynews.com/story/news/2026/07/09/florida-marlins-dog-hot-dog-jonah-viral-video/90770045007/",
@@ -808,7 +826,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-40",
+      "id": "en-39",
       "title": "Pancake, ‘the First Puppy of Texas,’ has died",
       "description": "Texas Gov. Greg Abbott's dog, a golden retriever named Pancake and dubbed “the First Puppy of Texas,\" has died. She was 11 years old.",
       "url": "https://www.fox7austin.com/news/pancake-dog-dies-texas-greg-abbott",
@@ -817,7 +835,7 @@
       "sourceName": "Aaron Barker"
     },
     {
-      "id": "en-41",
+      "id": "en-40",
       "title": "US officer charged after two police dogs die in hot patrol car",
       "description": "The drug and bomb sniffing dogs died after being left in a patrol car for seven hours, police say.",
       "url": "https://www.bbc.co.uk/news/articles/ceqd81w9n0no",
@@ -826,7 +844,7 @@
       "sourceName": "Max Matza"
     },
     {
-      "id": "en-42",
+      "id": "en-41",
       "title": "Why is your dog suddenly chewing you or blankets? The real reason behind cobbing every pet parent should know",
       "description": "Why is your dog suddenly chewing you or blankets? Your dogs tiny front-teeth nibble may look unusual, but it often reveals trust, comfort, and emotional bonding. Cobbing in dogs is a gentle mouthing behavior where pets s",
       "url": "https://economictimes.indiatimes.com/news/international/us/why-is-your-dog-suddenly-chewing-you-or-blankets-the-real-reason-behind-cobbing-every-pet-parent-should-know/articleshow/132293948.cms",
@@ -835,7 +853,7 @@
       "sourceName": "Piyush Shukla"
     },
     {
-      "id": "en-43",
+      "id": "en-42",
       "title": "Dog Psychology Says Dogs Subjected to Extreme Social Deprivation Stop Initiating Affection Due to Extinction and Learned Helplessness - Doggodigest",
       "description": "Imagine a once vibrant and affectionate dog, now lying listlessly, avoiding eye contact, and showing no interest in interaction. This heartbreaking transformation isn’t just a matter of mood; it’s a ... Read more",
       "url": "https://doggodigest.com/dog-psychology-says-dogs-subjected-to-extreme-social-deprivation-stop-initiating-affection-due-to-extinction-and-learned-helplessness-1-401812/",
@@ -844,7 +862,7 @@
       "sourceName": "Gargi Chakravorty"
     },
     {
-      "id": "en-44",
+      "id": "en-43",
       "title": "The Life of Hachiko: The Most Loyal Dog in History - discoverwildscience",
       "description": "Trizzy OrozcoHachiko, an Akita dog, has etched a permanent place in history as a symbol of unwavering loyalty and devotion. His story has inspired countless individuals worldwide, showcasing the incredible bond that can ",
       "url": "https://discoverwildscience.com/the-life-of-hachiko-the-most-loyal-dog-in-history-5-269350/",
@@ -853,7 +871,7 @@
       "sourceName": "Trizzy Orozco"
     },
     {
-      "id": "en-45",
+      "id": "en-44",
       "title": "More than love: The real costs of owning a dog - Lifestyle - The Jakarta Post",
       "description": "Owners, shelter workers and foster volunteers say responsible pet ownership takes more than love, while social media is helping some dogs pay their own way.",
       "url": "https://www.thejakartapost.com/culture/2026/07/11/more-than-love-the-real-costs-of-owning-a-dog",
@@ -862,7 +880,7 @@
       "sourceName": "Yohana Belinda"
     },
     {
-      "id": "en-46",
+      "id": "en-45",
       "title": "Dog trainer urges owners to stamp out bad habit that's 'bite waiting to happen'",
       "description": "Canine behaviour specialist, Will Atherton, has explained how you can help prevent your dog from developing a personality trait that in some instances can result in it being put down",
       "url": "https://www.mirror.co.uk/lifestyle/dog-trainer-urges-owners-stamp-37410242",
@@ -871,7 +889,7 @@
       "sourceName": "Alan Johnson"
     },
     {
-      "id": "en-47",
+      "id": "en-46",
       "title": "Border Collie, Poodle, German Shepherd, Golden Retriever, or Labrador Retriever: Which breed learns fastest? Which one surprises trainers the most?",
       "description": "Border Collie, Poodle, German Shepherd, Golden Retriever, and Labrador Retriever are often praised for their intelligence—but do they really learn faster than other dogs? Canine cognition research suggests that genetics,",
       "url": "https://economictimes.indiatimes.com/news/international/us/border-collie-poodle-german-shepherd-golden-retriever-or-labrador-retriever-which-breed-learns-fastest-which-one-surprises-trainers-the-most/articleshow/132289216.cms",
@@ -880,7 +898,7 @@
       "sourceName": "Piyush Shukla"
     },
     {
-      "id": "en-48",
+      "id": "en-47",
       "title": "Most intelligent dog breeds ranked: Which dogs learn fastest and respond best to training?",
       "description": "Most intelligent dog breeds are not just easy to train. They also learn faster, solve problems better, and remember commands longer. Research by canine psychologist Dr. Stanley Coren shows that breeds like the Border Col",
       "url": "https://economictimes.indiatimes.com/news/international/us/most-intelligent-dog-breeds-ranked-which-dogs-learn-fastest-and-respond-best-to-training/articleshow/132286760.cms",
@@ -889,7 +907,7 @@
       "sourceName": "Piyush Shukla"
     },
     {
-      "id": "en-49",
+      "id": "en-48",
       "title": "Canine Psychology Says Dogs Who Sit Between Two Family Members May Be Responding to Social Dynamics - Doggodigest",
       "description": "Ever noticed your dog squeezing between you and a loved one on the couch? While it might seem like a simple quest for comfort, this behavior can reveal deeper insights ... Read more",
       "url": "https://doggodigest.com/canine-psychology-says-dogs-who-sit-between-two-family-members-may-be-responding-to-social-dynamics-1-401764/",
@@ -898,7 +916,7 @@
       "sourceName": "Gargi Chakravorty"
     },
     {
-      "id": "en-50",
+      "id": "en-49",
       "title": "More than 900 Hong Kong restaurants welcome dogs on day 1 of pet-licensing scheme",
       "description": "More than 900 restaurants and eateries in Hong Kong opened their doors to customers with dogs on the first day of a scheme allowing canines into restaurants, marking the end of a 30-year ban enacted to protect against ra",
       "url": "https://www.scmp.com/news/hong-kong/society/article/3359960/more-900-hong-kong-restaurants-welcome-dogs-day-1-pet-licensing-scheme",
@@ -907,7 +925,7 @@
       "sourceName": "Lo Hoi-ying,Benjamin Fuller,Kate Chan"
     },
     {
-      "id": "en-51",
+      "id": "en-50",
       "title": "Frontiers | Agency denied: PADA and the perils of paternalistic dog care",
       "description": "Dog-Assisted Interventions (DAI) or Dog-Assisted Services (DAS) are commonly regarded as compassionate practices, promoting human wellbeing through interspec...",
       "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1767922/full",
@@ -916,7 +934,7 @@
       "sourceName": "Foltin; Sandra"
     },
     {
-      "id": "en-52",
+      "id": "en-51",
       "title": "For the love of dogs, instructor offers Dog Manners - Fairmont Sentinel",
       "description": "FAIRMONT — Calling all canines. Dog Manners classes are coming to Fairmont, taught by Dog Manners instructor Lori Espeland and offered through ...",
       "url": "https://www.fairmontsentinel.com/news/local-news/2026/07/09/for-the-love-of-dogs-instructor-offers-dog-manners/",
@@ -925,7 +943,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-53",
+      "id": "en-52",
       "title": "Tamworth dog owner hit with £9k bill after plant poisoning",
       "description": "A Tamworth woman wants mandatory labels on plants after her dog nearly died from eating one.",
       "url": "https://www.bbc.co.uk/news/articles/cwyllk9rke8o",
@@ -934,7 +952,7 @@
       "sourceName": "Josh Sandiford"
     },
     {
-      "id": "en-54",
+      "id": "en-53",
       "title": "HK restaurants welcome four-legged friends",
       "description": "Dog lovers can finally dine out with their four-legged companions on Thursday, when a decades-old ban on canines in rest...",
       "url": "https://news.rthk.hk/rthk/en/component/k2/1861606-20260709.htm",
@@ -943,7 +961,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-55",
+      "id": "en-54",
       "title": "Animal Psychology Says Dogs Kept in Chronically Understimulating Environments Develop Compulsive Self-Soothing Behaviors That Signal Severe Distress - Doggodigest",
       "description": "Recognizing the Silent Suffering in Our Canine Companions Imagine a dog, day after day, confined to a small space with minimal interaction or stimulation. Over time, this lack of engagement ... Read more",
       "url": "https://doggodigest.com/animal-psychology-says-dogs-kept-in-chronically-understimulating-environments-develop-compulsive-self-soothing-behaviors-that-signal-severe-distress/",
@@ -952,7 +970,7 @@
       "sourceName": "Andrew Alpin"
     },
     {
-      "id": "en-56",
+      "id": "en-55",
       "title": "Animal Behaviorists Say Dogs Who Frequently Look Back During Walks Are Strengthening Their Bond With You - Doggodigest",
       "description": "Ever noticed your dog glancing back at you during walks? This seemingly simple behavior is more than just a casual check-in; it’s a profound expression of the bond between you ... Read more",
       "url": "https://doggodigest.com/animal-behaviorists-say-dogs-who-frequently-look-back-during-walks-are-strengthening-their-bond-with-you-1-401686/",
@@ -961,7 +979,7 @@
       "sourceName": "Gargi Chakravorty"
     },
     {
-      "id": "en-57",
+      "id": "en-56",
       "title": "Why Your Dog Sometimes Sits on Your Feet in Public - Doggodigest",
       "description": "Ever found yourself standing in a crowded park, only to feel the familiar weight of your dog’s body settling onto your feet? It’s a behavior that can be both endearing ... Read more",
       "url": "https://doggodigest.com/why-your-dog-sometimes-sits-on-your-feet-in-public-1-401678/",
@@ -970,16 +988,97 @@
       "sourceName": "Gargi Chakravorty"
     },
     {
+      "id": "en-57",
+      "title": "Canine chaos in Jerusalem: Man arrested after sharing video riding motorcycle with dog in lap",
+      "description": "In the video, the dog is seen standing on the owner's lap, with no sign of any gear to protect the animal.",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-901770",
+      "urlToImage": null,
+      "publishedAt": "2026-07-07T20:30:31+00:00",
+      "sourceName": "Jerusalem Post"
+    },
+    {
       "id": "en-58",
-      "title": "Is your dog's guilty face actually fake? Scientists reveal what those sad eyes really mean after chewing your favorite shoes",
-      "description": "Science says the famous guilty dog face may not be guilt at all. Dog behavior research shows most dogs react to their owner's voice, facial expression, and body language instead of remembering a past mistake. Studies on ",
-      "url": "https://economictimes.indiatimes.com/news/international/us/is-your-dogs-guilty-face-actually-fake-scientists-reveal-what-those-sad-eyes-really-mean-after-chewing-your-favorite-shoes/articleshow/132242803.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-132243107,width-1200,height-630,imgsize-2259630,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-08 11:59:05 +0000",
-      "sourceName": "Piyush Shukla"
+      "title": "RCMP police dog injured while tracking armed robbery suspect in High River, Alta.",
+      "description": "The dog's handler immediately rushed his canine companion to a veterinarian in Calgary. Pascal has since been released and is recovering at his handler's home.",
+      "url": "https://globalnews.ca/news/11913520/rcmp-police-dog-injured-high-river-armed-robbery/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/06/pascal-national-police-federation.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "publishedAt": "2026-06-19T19:18:05+00:00",
+      "sourceName": "globalmontreal"
     },
     {
       "id": "en-59",
+      "title": "How Does LA Count Election Ballots? It Begins With a Dog Sniff.",
+      "description": "Counting ballots in California is a complex and lengthy undertaking. In Los Angeles, the choreographed process includes canines, humans and machines.",
+      "url": "https://www.nytimes.com/2026/06/03/us/elections/los-angeles-ballot-counting-dogs.html",
+      "urlToImage": "https://static01.nyt.com/images/2025/11/04/multimedia/03midterms-vote-count2/00nat-ca-lawsuit-zmfw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-06-04T04:08:37+00:00",
+      "sourceName": "The New York Times"
+    },
+    {
+      "id": "en-60",
+      "title": "Protecting the bite: Travis AFB, UC Davis partner to enhance MWD readiness [Image 12 of 12]",
+      "description": "U.S. Air Force Capt. Samuel Madden, left, and Capt. Rula Khalaf, 60th Dental Squadron advanced education in general dentistry residents, practice canine dental techniques during a military working dog dental care symposi",
+      "url": "https://www.dvidshub.net/image/9721744/protecting-bite-travis-afb-uc-davis-partner-enhance-mwd-readiness",
+      "urlToImage": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2606/9721744/250w_q95.jpg",
+      "publishedAt": "2026-06-02T23:28:16+00:00",
+      "sourceName": "dvidshub"
+    },
+    {
+      "id": "en-61",
+      "title": "Protecting the bite: Travis AFB, UC Davis partner to enhance MWD readiness [Image 9 of 12]",
+      "description": "U.S. Air Force Lt. Col. Andrew Ellis, right, 60th Dental Squadron Dental Residency Flight commander, receives canine dental training from Stephanie Goldschmidt, UC Davis associate professor, during a military working dog",
+      "url": "https://www.dvidshub.net/image/9721740/protecting-bite-travis-afb-uc-davis-partner-enhance-mwd-readiness",
+      "urlToImage": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2606/9721740/250w_q95.jpg",
+      "publishedAt": "2026-06-02T23:28:15+00:00",
+      "sourceName": "dvidshub"
+    },
+    {
+      "id": "en-62",
+      "title": "Protecting the bite: Travis AFB, UC Davis partner to enhance MWD readiness [Image 6 of 12]",
+      "description": "U.S. Airmen assigned to the 60th Dental Squadron and a U.S. Soldier attend a canine dental lecture during a military working dog dental care symposium at the UC Davis Veterinary Medical Teaching Hospital in Davis, Califo",
+      "url": "https://www.dvidshub.net/image/9721735/protecting-bite-travis-afb-uc-davis-partner-enhance-mwd-readiness",
+      "urlToImage": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2606/9721735/250w_q95.jpg",
+      "publishedAt": "2026-06-02T23:28:15+00:00",
+      "sourceName": "dvidshub"
+    },
+    {
+      "id": "en-63",
+      "title": "Protecting the bite: Travis AFB, UC Davis partner to enhance MWD readiness [Image 3 of 12]",
+      "description": "U.S. Airmen assigned to the 60th Dental Squadron observe a canine dental radiography demonstration during a military working dog dental care symposium at the UC Davis Veterinary Medical Teaching Hospital in Davis, Califo",
+      "url": "https://www.dvidshub.net/image/9721732/protecting-bite-travis-afb-uc-davis-partner-enhance-mwd-readiness",
+      "urlToImage": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2606/9721732/250w_q95.jpg",
+      "publishedAt": "2026-06-02T23:28:15+00:00",
+      "sourceName": "dvidshub"
+    },
+    {
+      "id": "en-64",
+      "title": "Protecting the bite: Travis AFB, UC Davis partner to enhance MWD readiness [Image 11 of 12]",
+      "description": "A military dental provider practices canine dental techniques during a military working dog dental care symposium at the UC Davis Veterinary Medical Teaching Hospital in Davis, California, May 20, 2026. The partnership h",
+      "url": "https://www.dvidshub.net/image/9721743/protecting-bite-travis-afb-uc-davis-partner-enhance-mwd-readiness",
+      "urlToImage": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2606/9721743/250w_q95.jpg",
+      "publishedAt": "2026-06-02T23:28:15+00:00",
+      "sourceName": "dvidshub"
+    },
+    {
+      "id": "en-65",
+      "title": "Protecting the bite: Travis AFB, UC Davis partner to enhance MWD readiness [Image 2 of 12]",
+      "description": "U.S. Air Force Capt. Rula Khalaf, 60th Dental Squadron advanced education in general dentistry resident, participates in canine dental radiography training during a military working dog dental care symposium at the UC Da",
+      "url": "https://www.dvidshub.net/image/9721731/protecting-bite-travis-afb-uc-davis-partner-enhance-mwd-readiness",
+      "urlToImage": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2606/9721731/250w_q95.jpg",
+      "publishedAt": "2026-06-02T23:28:15+00:00",
+      "sourceName": "dvidshub"
+    },
+    {
+      "id": "en-66",
+      "title": "Protecting the bite: Travis AFB, UC Davis partner to enhance MWD readiness [Image 8 of 12]",
+      "description": "U.S. Army Sgt. Bryan Flowers participates in canine dental training during a military working dog dental care symposium at the UC Davis Veterinary Medical Teaching Hospital in Davis, California, May 20, 2026. The partner",
+      "url": "https://www.dvidshub.net/image/9721738/protecting-bite-travis-afb-uc-davis-partner-enhance-mwd-readiness",
+      "urlToImage": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2606/9721738/250w_q95.jpg",
+      "publishedAt": "2026-06-02T23:28:15+00:00",
+      "sourceName": "dvidshub"
+    },
+    {
+      "id": "en-67",
       "title": "Canine cardio? How a mobile dog gym keeps your pup healthy",
       "description": "Waggin' Wheels is a mobile dog gym in Halifax that comes right to your door. The business helps dogs exercise safely in the heat of summer or in the dead of win...",
       "url": "https://www.cbc.ca/player/play/video/9.6888463?cmp=rss",
@@ -988,7 +1087,7 @@
       "sourceName": "cbc.ca"
     },
     {
-      "id": "en-60",
+      "id": "en-68",
       "title": "Truck Swerves To Hit Dog, Misses, Then Crushes Pregnant Canine In 2nd Try",
       "description": "A heart-wrenching video from Jaipur shows a pickup truck swerving to allegedly try and run over a dog and then crushing another pregnant canine to death.",
       "url": "https://www.ndtv.com/india-news/jaipur-truck-swerves-to-hit-dog-crushes-pregnant-canine-when-1st-attempt-fails-8181842",
@@ -997,7 +1096,7 @@
       "sourceName": "ndtv.com"
     },
     {
-      "id": "en-61",
+      "id": "en-69",
       "title": "Madras Canine Club’s dog shows draw to a close",
       "description": "All Breeds Championship dog shows by Madras Canine Club conclude with German Shepherds and Doberman winning top prizes.",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-dog-shows-draw-to-a-close/article69116790.ece",
@@ -1006,7 +1105,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-62",
+      "id": "en-70",
       "title": "Is dog perfume necessary for your canine companion?",
       "description": "Luxury fashion house Dolce & Gabbana has unveiled a new dog perfume named \"Fefé.\"",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/is-dog-perfume-necessary-for-your-canine-companion/",
@@ -1015,7 +1114,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-63",
+      "id": "en-71",
       "title": "Recognising signs of canine asthma in your Dog",
       "description": "Asthma in dogs is an allergic disease characterised by inflammation and constriction of the small airways in the lungs...",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/recognising-signs-of-canine-asthma-in-your-dog/",
@@ -1024,7 +1123,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-64",
+      "id": "en-72",
       "title": "Taiwan to soon welcome its first indigenous dog as a police canine",
       "description": "",
       "url": "https://focustaiwan.tw/society/202404200004",
@@ -1033,7 +1132,7 @@
       "sourceName": "focustaiwan.tw"
     },
     {
-      "id": "en-65",
+      "id": "en-73",
       "title": "Detroit TSA canine handler suspended over video of him pulling dog",
       "description": "A TSA canine handler was suspended from his duties after a viral video captured him aggressively yanking a bomb-detecting dog in a busy airport.",
       "url": "https://nypost.com/2023/05/08/detroit-tsa-worker-suspended-over-video-of-him-pulling-dog/",
@@ -1042,7 +1141,7 @@
       "sourceName": "nypost.com"
     },
     {
-      "id": "en-66",
+      "id": "en-74",
       "title": "Curtains come down on Madras Canine Club’s dog shows",
       "description": "570 dogs belonging to 69 breeds participated in the two-day event",
       "url": "https://www.thehindu.com/news/cities/chennai/curtains-come-down-on-madras-canine-clubs-dog-shows/article65880058.ece",
@@ -1051,7 +1150,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-67",
+      "id": "en-75",
       "title": "Madras Canine Club’s All Breeds Championship Dog Shows begin",
       "description": "Over 570 canines from 69 different breeds have registered this year",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-all-breeds-championship-dog-shows-begin/article65875162.ece",
