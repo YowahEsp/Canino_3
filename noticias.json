@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T12:51:18.131Z",
+  "generatedAt": "2026-07-15T14:46:42.520Z",
   "es": [
     {
       "id": "es-0",
@@ -21,6 +21,15 @@
     },
     {
       "id": "es-2",
+      "title": "Gusano barrenador: un riesgo que también afecta a las mascotas",
+      "description": "El gusano barrenador no solo representa una amenaza para el ganado, también puede afectar a perros y gatos. La enfermedad inicia cuando la mosca del g...",
+      "url": "https://www.meganoticias.mx/durango/noticia/gusano-barrenador-un-riesgo-que-tambi%C3%A9n-afecta-a-las-mascotas/751330",
+      "urlToImage": "https://www.meganoticias.mx/uploads/noticias/gusano-barrenador-un-riesgo-que-tambi%C3%A9n-afecta-a-las-mascotas-751330.jpg",
+      "publishedAt": "2026-07-15 00:00:00",
+      "sourceName": "meganoticias_mx"
+    },
+    {
+      "id": "es-3",
       "title": "Victor Mareño, adiestrador canino: «Saludar al perro en la entrada es la semilla de la mala educación del animal»",
       "description": "Un perro mejor educado es un perro más feliz. Así lo explican estudios veterinarios recientes, que insisten en que las mascotas que aprenden unas normas de comportamiento básicas tienen unos mejores niveles de estrés",
       "url": "https://www.abc.es/recreo/victor-mareno-adiestrador-canino-saludar-perro-entrada-20260714180000-nt.html",
@@ -29,7 +38,7 @@
       "sourceName": "abc"
     },
     {
-      "id": "es-3",
+      "id": "es-4",
       "title": "¿Está cualificado el peluquero de su perro? Conoce las preguntas que deben hacer los dueños",
       "description": "Una peluquera canina lleva mascarilla mientras atiende a un perro en Bangkok.",
       "url": "https://www.elnuevoherald.com/ultimas-noticias/article316504243.html",
@@ -38,7 +47,7 @@
       "sourceName": "elnuevoherald"
     },
     {
-      "id": "es-4",
+      "id": "es-5",
       "title": "Florida ya ha perdido seis perros por golpes de calor en 2026: lo que deben saber los dueños",
       "description": "En lo que va del 2026, ya han muerto seis perros en la Florida debido a golpes de calor.",
       "url": "https://www.elnuevoherald.com/noticias/florida/sur-de-la-florida/article316503596.html",
@@ -47,7 +56,7 @@
       "sourceName": "elnuevoherald"
     },
     {
-      "id": "es-5",
+      "id": "es-6",
       "title": "Hugo Fernández, adiestrador canino: “Pensar que un perro con 20 minutos de paseo tiene las necesidades cubiertas es criminal” - Video 1",
       "description": "El adiestrador canino aseguró que el principal error es forzar a los perros a una rutina urbana acelerada. (Video: Instagram/@seresmortalesoficial- Foto: AdobeStock)",
       "url": "https://tn.com.ar/videos/sociedad/2026/07/14/hugo-fernandez-adiestrador-canino-pensar-que-un-perro-con-20-minutos-de-paseo-tiene-las-necesidades-cubiertas-es-criminal-video-1/",
@@ -56,7 +65,7 @@
       "sourceName": "tn"
     },
     {
-      "id": "es-6",
+      "id": "es-7",
       "title": "Hugo Fernández, adiestrador canino: “Pensar que un perro con 20 minutos de paseo tiene las necesidades cubiertas es criminal”",
       "description": "El experto apuntó contra las rutinas urbanas y la humanización de las mascotas. También alertó que la falta de estímulos y ejercicio puede derivar en problemas de salud y conducta.",
       "url": "https://tn.com.ar/sociedad/2026/07/14/hugo-fernandez-adiestrador-canino-pensar-que-un-perro-con-20-minutos-de-paseo-tiene-las-necesidades-cubiertas-es-criminal/",
@@ -65,7 +74,7 @@
       "sourceName": "tn"
     },
     {
-      "id": "es-7",
+      "id": "es-8",
       "title": "Tsunami y su dueño también quedaron damnificados por los terremotos",
       "description": "Jorge Beens, entrenador canino y propietario del perro de rescate Tsunami, informó que también resultó damnificado tras los terremotos del 24 de junio. Durante una entrevista en el programa Sábado en la Noche de Glob",
       "url": "https://elaragueno.com.ve/tsunami-y-su-dueno-tambien-quedadon-damnificados-por-los-terremotos/",
@@ -74,7 +83,7 @@
       "sourceName": "elaragueno"
     },
     {
-      "id": "es-8",
+      "id": "es-9",
       "title": "Los veterinarios coinciden: si tu perro hace uno de estos 3 gestos no es sólo porque te quiere con locura, en realidad es que confía al 100% en ti",
       "description": "Cuando un perro se siente plenamente cómodo y feliz junto a su dueño, suele demostrarlo a través de su comportamiento y su lenguaje corporal. Aunque nuestros compañeros de cuatro patas no puedan comunicarse con palab",
       "url": "https://okdiario.com/mascotas/veterinarios-coinciden-si-tu-perro-hace-uno-estos-3-gestos-no-solo-porque-te-quiere-locura-realidad-que-confia-100-ti-18985391",
@@ -83,7 +92,7 @@
       "sourceName": "okdiario"
     },
     {
-      "id": "es-9",
+      "id": "es-10",
       "title": "Llevaba 200 kilos de droga entre cebollas pero así lo descubrieron y lo sentencian a 8 años de cárcel",
       "description": "Un binomio canino detectó la droga durante la revisión de un tractocamión en la carretera Reynosa-San Fernando, en Tamaulipas.",
       "url": "https://www.elimparcial.com/mexico/2026/07/14/llevaba-200-kilos-de-droga-entre-cebollas-pero-asi-lo-descubrieron-y-lo-sentencian-a-8-anos-de-carcel/",
@@ -92,7 +101,7 @@
       "sourceName": "elimparcial"
     },
     {
-      "id": "es-10",
+      "id": "es-11",
       "title": "Dos personas resultan heridas tras ataque de un perro en la zona 12 capitalina",
       "description": "Las víctimas recibieron atención prehospitalaria y fueron trasladadas a un centro asistencial.",
       "url": "https://www.publinews.gt/noticias/2026/07/14/dos-personas-resultan-heridas-tras-ataque-de-un-perro-en-la-zona-12-capitalina/",
@@ -101,7 +110,7 @@
       "sourceName": "publinews"
     },
     {
-      "id": "es-11",
+      "id": "es-12",
       "title": "El emotivo retiro de Mazli, un perro policía que superó graves enfermedades",
       "description": "Mazli superó una torsión gástrica, una enfermedad autoinmune y varias cirugías antes de culminar su carrera como agente K9.",
       "url": "https://www.elespectador.com/la-red-zoocial/perros/el-emotivo-retiro-de-mazli-un-perro-policia-que-supero-graves-enfermedades/",
@@ -110,7 +119,7 @@
       "sourceName": "elespectador"
     },
     {
-      "id": "es-12",
+      "id": "es-13",
       "title": "Andreu Fernández, educador canino: \"No hay perros agresivos, no existen\"",
       "description": "Cuando un perro gruñe, ladra o muerde , la reacción más habitual es la misma: pensar que \"es agresivo\" . Sin embargo, para Andreu Fernández , campeón mundial de obediencia y educador canino , esa forma de pensar par",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260713/1004206105/andreu-fernandez-educador-canino-no-hay-perros-agresivos-no-existen-conducta-conducta-agresiva-no-etiquetarles-pjm-dct.html",
@@ -119,22 +128,13 @@
       "sourceName": "mundodeportivo"
     },
     {
-      "id": "es-13",
+      "id": "es-14",
       "title": "Jonah, el cachorro viral que disfrutó de su día soñado en el estadio",
       "description": "“Fue un video muy loco. ¡Él solo se le quedó mirando!”, dijo Silveira. “Y es gracioso, porque yo no me estaba dando cuenta de todo lo que estaba pasando”.",
       "url": "https://hoy.com.do/deportes/jonah-cachorro-viral-disfruto-dia-sonado-estadio_1094630.html",
       "urlToImage": "https://imagenes.hoy.com.do/files/og_thumbnail/uploads/2026/07/13/6a55089144645.jpeg",
       "publishedAt": "2026-07-13 16:00:35",
       "sourceName": "hoy"
-    },
-    {
-      "id": "es-14",
-      "title": "El gran error que cometen la mayoría de propietarios de perros en España y los veterinarios no suelen decir en su consulta",
-      "description": "España cuenta con millones de perros en sus hogares, pero un fenómeno creciente preocupa a los expertos en comportamiento animal. Muchos propietarios, movidos por un afecto profundo, olvidan la naturaleza biológica de",
-      "url": "https://okdiario.com/mascotas/gran-error-que-cometen-mayoria-propietarios-perros-espana-veterinarios-no-suelen-decir-consulta-18962320",
-      "urlToImage": "https://okdiario.com/img/2026/07/09/perro-con-su-duena.jpg",
-      "publishedAt": "2026-07-13 13:00:47",
-      "sourceName": "okdiario"
     },
     {
       "id": "es-15",
