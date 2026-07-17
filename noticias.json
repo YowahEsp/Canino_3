@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T20:26:42.873Z",
+  "generatedAt": "2026-07-17T21:21:23.879Z",
   "es": [
     {
       "id": "es-0",
@@ -320,6 +320,39 @@
   "en": [
     {
       "id": "en-0",
+      "title": "14 best dog-friendly hotels in the UK 2026",
+      "description": "If your canine companion is overdue for a holiday, these are the ultimate British hotels to book now",
+      "url": "https://www.cntraveller.com/gallery/dog-friendly-hotels-uk",
+      "urlToImage": "https://media.cntraveller.com/photos/611bf3ae24f18e2bd3cbed68/16:9/w_2992,h_1683,c_limit/dogs-lucknam.jpg",
+      "publishedAt": "2026-07-17 09:15:37",
+      "sourceName": "cntraveller",
+      "title_es": "14 mejores hoteles para perros en el Reino Unido 2026",
+      "description_es": "Si tu compañero canino está atrasado para unas vacaciones, estos son los mejores hoteles británicos para reservar ahora"
+    },
+    {
+      "id": "en-1",
+      "title": "Pet insurance: can it save you thousands in vet bills?",
+      "description": "Buying a pet is just the start of what can seem like an endless outlay of costs. So what will you do when something serious goes wrong?",
+      "url": "https://www.irishtimes.com/your-money/2026/07/17/pet-insurance-can-save-you-thousands-in-vet-bills/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/OC7QLS3VEFE6XKQYKNGSIWADOA.jpg?auth=3c795da3541480e11807401f297beeb14fdea71c301372d2696a726f61d906bc&smart=true&width=630&height=350",
+      "publishedAt": "2026-07-17 09:00:00",
+      "sourceName": "irishtimes",
+      "title_es": "Seguro para mascotas: ¿puede ahorrarte miles en facturas veterinarias?",
+      "description_es": "Comprar una mascota es solo el comienzo de lo que puede parecer un gasto interminable. Entonces, ¿qué harás cuando algo serio salga mal?"
+    },
+    {
+      "id": "en-2",
+      "title": "Dog Attacks: Owner Responsibility, Prevention Measures, and Key Facts After the Vrilissia Incident",
+      "description": "What the law says about dog owner liability, prevention, and next steps after an attack—based on Greece's Law 4830/2021. The post Dog Attacks: Owner Responsibility, Prevention Measures, and Key Facts After the Vrilissia ",
+      "url": "https://athens-times.com/dog-attacks-owner-responsibility-prevention-measures-and-key-facts-after-the-vrilissia-incident/",
+      "urlToImage": "https://athens-times.com/wp-content/uploads/2021/06/logo_at_normal.png",
+      "publishedAt": "2026-07-17 08:31:06",
+      "sourceName": "athenst_imes",
+      "title_es": "Ataques de perros: responsabilidad del propietario, medidas de prevención y hechos clave después del incidente de Vrilissia",
+      "description_es": "Qué dice la ley sobre la responsabilidad del propietario del perro, la prevención y los próximos pasos después de un ataque, según la Ley 4830/2021 de Grecia. La publicación Ataques de perros: responsabilidad del propietario, medidas de prevención y hechos clave después de la Vrilissia"
+    },
+    {
+      "id": "en-3",
       "title": "How PAWS is transforming street animal welfare through sterilisation and rescue",
       "description": "Discover how PAWS is transforming street animal welfare with large-scale sterilisation, rescue and care for dogs and cats in and around Chennai",
       "url": "https://www.indulgexpress.com/msociety/2026/Jul/17/how-paws-is-transforming-street-animal-welfare-through-sterilisation-and-rescue",
@@ -330,7 +363,7 @@
       "description_es": "Descubre cómo PAWS está transformando el bienestar de los animales de la calle con la esterilización, el rescate y el cuidado a gran escala de perros y gatos en Chennai y sus alrededores"
     },
     {
-      "id": "en-1",
+      "id": "en-4",
       "title": "Essential Guide to Foods Dogs Cannot Eat: Protecting Your Canine Companion",
       "description": "Dogs are naturally curious creatures, often wanting to explore the world around them, which includes The post Essential Guide to Foods Dogs Cannot Eat: Protecting Your Canine Companion first appeared on MarkMeets Media .",
       "url": "https://markmeets.com/pets/essential-guide-to-foods-dogs-cannot-eat-protecting-your-canine-companion/",
@@ -341,7 +374,7 @@
       "description_es": "Los perros son criaturas naturalmente curiosas, que a menudo quieren explorar el mundo que los rodea, lo que incluye The post Essential Guide to Foods Dogs Cannot Eat: Protecting Your Canine Companion que apareció por primera vez en MarkMeets Media ."
     },
     {
-      "id": "en-2",
+      "id": "en-5",
       "title": "New dog-friendly café in Warrington brings people and pups together",
       "description": "A NEW café is bringing the community together while raising funds for dogs in need.",
       "url": "https://www.warringtonguardian.co.uk/news/26281200.new-caf-opens-cheshire-dogs-home-warrington/",
@@ -352,7 +385,7 @@
       "description_es": "Un NUEVO café está uniendo a la comunidad mientras recauda fondos para perros necesitados."
     },
     {
-      "id": "en-3",
+      "id": "en-6",
       "title": "A Whangarei man's in custody, tracked down by a police dog and accused of speeding at more than twice the limit overnight",
       "description": "A Whangarei man's in custody, tracked down by a police dog and accused of speeding at more than twice the limit overnight",
       "url": "https://home.nzcity.co.nz/news/article.aspx?id=450086",
@@ -363,7 +396,7 @@
       "description_es": "Un hombre whangarei está bajo custodia, rastreado por un perro policía y acusado de acelerar más del doble del límite durante la noche"
     },
     {
-      "id": "en-4",
+      "id": "en-7",
       "title": "The best probiotics for dogs, selected with veterinary guidance",
       "description": "We evaluated dog probiotics using strict veterinary criteria to choose the most effective formulas for diarrhea, chronic GI, and daily gut health.",
       "url": "https://www.businessinsider.com/guides/pets/best-probiotics-for-dogs",
@@ -374,7 +407,7 @@
       "description_es": "Evaluamos los probióticos para perros utilizando estrictos criterios veterinarios para elegir las fórmulas más efectivas para la diarrea, el tracto gastrointestinal crónico y la salud intestinal diaria."
     },
     {
-      "id": "en-5",
+      "id": "en-8",
       "title": "Is it safe for dogs to be outside on smoky days? Colorado researcher hunts for answers.",
       "description": "Summer is peak season for outdoor recreation, and in Colorado, that often means bringing dogs along for the adventure. But with numerous wildfires impacting the state’s air quality, you might be wondering if it’s safe to",
       "url": "https://www.thenewsherald.com/2026/07/16/dogs-colorado-wildfire-smoke-safety-diseases/",
@@ -385,7 +418,7 @@
       "description_es": "El verano es la temporada alta para la recreación al aire libre, y en Colorado, eso a menudo significa traer perros para la aventura. Pero con numerosos incendios forestales que afectan la calidad del aire del estado, es posible que se pregunte si es seguro"
     },
     {
-      "id": "en-6",
+      "id": "en-9",
       "title": "Dog Rescue Icy River Vermont: How Heroes Save Lives Amazingly",
       "description": "When it comes to dog rescue icy river Vermont, the story is nothing short of incredible. Have you ever wondered how heroes manage to save lives in such dangerous, freezing conditions? This article dives deep into the hea",
       "url": "https://vermontpost.com/dog-rescue-icy-river-vermont-how-heroes-save-lives-amazingly",
@@ -396,7 +429,7 @@
       "description_es": "Cuando se trata de rescatar perros en el helado río Vermont, la historia es increíble. ¿Alguna vez te has preguntado cómo los héroes logran salvar vidas en condiciones tan peligrosas y heladas? Este artículo profundiza en el hea"
     },
     {
-      "id": "en-7",
+      "id": "en-10",
       "title": "Memphis Animal Services Pauses Intake After Parvo Outbreak",
       "description": "Memphis Animal Services suspended dog intake through July 21 after a parvovirus outbreak. Emergency intakes continue; officials urge vaccination and caution.",
       "url": "https://hoodline.com/2026/07/parvo-outbreak-slams-memphis-shelter-dog-intake-put-on-hold/",
@@ -407,7 +440,7 @@
       "description_es": "Memphis Animal Services suspendió la ingesta de perros hasta el 21 de julio después de un brote de parvovirus. Las tomas de emergencia continúan; los funcionarios instan a la vacunación y la precaución."
     },
     {
-      "id": "en-8",
+      "id": "en-11",
       "title": "Lutz business hosts North American Diving Dogs competitions",
       "description": "Jennifer Marty took her dog Chase’s love for jumping into the water one step further and introduced him to dock diving.",
       "url": "http://www.mynews13.com/fl/orlando/sports/2026/07/16/dock-diving-dogs",
@@ -418,7 +451,7 @@
       "description_es": "Jennifer Marty llevó el amor de su perro Chase por saltar al agua un paso más allá y lo introdujo al buceo en el muelle."
     },
     {
-      "id": "en-9",
+      "id": "en-12",
       "title": "Delight as Kilkenny dog finally finds new home in South-East",
       "description": "A Kilkenny dog has found a brand new home in neighboring Wexford",
       "url": "https://www.kilkennypeople.ie/news/delight-as-kilkenny-dog-finally-finds-new-home-in-south-east-8803985",
@@ -429,7 +462,7 @@
       "description_es": "Un perro Kilkenny ha encontrado un nuevo hogar en la vecina Wexford"
     },
     {
-      "id": "en-10",
+      "id": "en-13",
       "title": "This week in history: Ice rink plans presented in Breckenridge, bee-sniffing dog arrives and more",
       "description": "1 year ago: Frisco puzzle enthusiast conquers 60,000-piece challenge Frisco resident and puzzle enthusiast Gary Cumbey was given a 60-section, 60,000-piece puzzle in 2024 and quickly got to work assembling it over the co",
       "url": "https://www.summitdaily.com/explore-summit/this-week-in-history-ice-rink-plans-presented-in-breckenridge-bee-sniffing-dog-arrives-and-more/",
@@ -440,7 +473,7 @@
       "description_es": "Hace 1 año: El entusiasta de los rompecabezas de Frisco conquista el desafío de 60,000 piezas El residente de Frisco y entusiasta de los rompecabezas Gary Cumbey recibió un rompecabezas de 60 secciones y 60,000 piezas en 2024 y rápidamente se puso a trabajar en armarlo sobre la compañía"
     },
     {
-      "id": "en-11",
+      "id": "en-14",
       "title": "Shelter intake suspended at MAS due to parvo outbreak",
       "description": "Memphis Animal Services has suspended pet intake while the shelter addresses a canine parvovirus outbreak.",
       "url": "https://www.actionnews5.com/2026/07/16/shelter-intake-suspended-mas-due-parvo-outbreak/",
@@ -451,40 +484,34 @@
       "description_es": "Memphis Animal Services ha suspendido la ingesta de mascotas mientras el refugio aborda un brote de parvovirus canino."
     },
     {
-      "id": "en-12",
+      "id": "en-15",
       "title": "The unlikely diplomat: How a B.C. dog became the legislature’s darling",
       "description": "From tourists to Premier Mark Carney, Leo the 13-year-old supermutt has a knack for uniting people",
       "url": "https://crestonvalleyadvance.ca/2026/07/16/the-unlikely-diplomat-how-a-b-c-dog-became-the-legislatures-darling/",
       "urlToImage": "https://crestonvalleyadvance.ca/wp-content/uploads/sites/24/2026/07/42800215_web1_260715-SNE-Leo-legislature-dog-1_1.jpg",
       "publishedAt": "2026-07-16 19:20:00",
-      "sourceName": "crestonvalleyadvance_ca",
-      "title_es": "El improbable diplomático: cómo un perro de Columbia Británica se convirtió en el favorito de la legislatura",
-      "description_es": "Desde turistas hasta el primer ministro Mark Carney, Leo, el supermutt de 13 años, tiene una habilidad especial para unir a la gente"
+      "sourceName": "crestonvalleyadvance_ca"
     },
     {
-      "id": "en-13",
+      "id": "en-16",
       "title": "Canine cardio? How a mobile dog gym keeps your pup healthy",
       "description": "Waggin' Wheels is a mobile dog gym in Halifax that comes right to your door. The business helps dogs exercise safely in the heat of summer or in the dead of win...",
       "url": "https://www.cbc.ca/player/play/video/9.6888463?cmp=rss",
       "urlToImage": "https://i.cbc.ca/ais/ee99899c-080b-4fa6-be86-27f894163b04,1756921816810/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C9%2C1902%2C1069%29%3B",
       "publishedAt": "2025-09-08T10:00:00.000000Z",
-      "sourceName": "cbc.ca",
-      "title_es": "¿Cardio canino? Cómo un gimnasio móvil para perros mantiene a tu cachorro sano",
-      "description_es": "Waggin' Wheels es un gimnasio móvil para perros en Halifax que llega directamente a tu puerta. El negocio ayuda a los perros a hacer ejercicio de manera segura en el calor del verano o en medio de la victoria..."
+      "sourceName": "cbc.ca"
     },
     {
-      "id": "en-14",
+      "id": "en-17",
       "title": "Truck Swerves To Hit Dog, Misses, Then Crushes Pregnant Canine In 2nd Try",
       "description": "A heart-wrenching video from Jaipur shows a pickup truck swerving to allegedly try and run over a dog and then crushing another pregnant canine to death.",
       "url": "https://www.ndtv.com/india-news/jaipur-truck-swerves-to-hit-dog-crushes-pregnant-canine-when-1st-attempt-fails-8181842",
       "urlToImage": "https://c.ndtvimg.com/2025-04/cjptnrvs_truck-runs-over-dog_625x300_16_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
       "publishedAt": "2025-04-16T17:20:34.000000Z",
-      "sourceName": "ndtv.com",
-      "title_es": "Una camioneta se desvía para golpear a una perra, falla y luego aplasta a una perra embarazada en el segundo intento",
-      "description_es": "Un video desgarrador de Jaipur muestra a una camioneta que se desvía para supuestamente intentar atropellar a una perra y luego aplastar a otra perra embarazada hasta la muerte."
+      "sourceName": "ndtv.com"
     },
     {
-      "id": "en-15",
+      "id": "en-18",
       "title": "Madras Canine Club’s dog shows draw to a close",
       "description": "All Breeds Championship dog shows by Madras Canine Club conclude with German Shepherds and Doberman winning top prizes.",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-dog-shows-draw-to-a-close/article69116790.ece",
@@ -493,7 +520,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-16",
+      "id": "en-19",
       "title": "Is dog perfume necessary for your canine companion?",
       "description": "Luxury fashion house Dolce & Gabbana has unveiled a new dog perfume named \"Fefé.\"",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/is-dog-perfume-necessary-for-your-canine-companion/",
@@ -502,7 +529,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-17",
+      "id": "en-20",
       "title": "Recognising signs of canine asthma in your Dog",
       "description": "Asthma in dogs is an allergic disease characterised by inflammation and constriction of the small airways in the lungs...",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/recognising-signs-of-canine-asthma-in-your-dog/",
@@ -511,7 +538,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-18",
+      "id": "en-21",
       "title": "Taiwan to soon welcome its first indigenous dog as a police canine",
       "description": "",
       "url": "https://focustaiwan.tw/society/202404200004",
@@ -520,7 +547,7 @@
       "sourceName": "focustaiwan.tw"
     },
     {
-      "id": "en-19",
+      "id": "en-22",
       "title": "Detroit TSA canine handler suspended over video of him pulling dog",
       "description": "A TSA canine handler was suspended from his duties after a viral video captured him aggressively yanking a bomb-detecting dog in a busy airport.",
       "url": "https://nypost.com/2023/05/08/detroit-tsa-worker-suspended-over-video-of-him-pulling-dog/",
@@ -529,7 +556,7 @@
       "sourceName": "nypost.com"
     },
     {
-      "id": "en-20",
+      "id": "en-23",
       "title": "Curtains come down on Madras Canine Club’s dog shows",
       "description": "570 dogs belonging to 69 breeds participated in the two-day event",
       "url": "https://www.thehindu.com/news/cities/chennai/curtains-come-down-on-madras-canine-clubs-dog-shows/article65880058.ece",
@@ -538,7 +565,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-21",
+      "id": "en-24",
       "title": "Madras Canine Club’s All Breeds Championship Dog Shows begin",
       "description": "Over 570 canines from 69 different breeds have registered this year",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-all-breeds-championship-dog-shows-begin/article65875162.ece",
