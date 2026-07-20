@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-07-20T20:18:29.171Z",
+  "generatedAt": "2026-07-20T21:41:29.194Z",
   "es": [
     {
       "id": "es-0",
+      "title": "Renfe permite viajar con perros de hasta 40 kilos en todos sus trenes desde este martes",
+      "description": "La medida, que coincidirá con la celebración del Día Mundial del Perro, permitirá que estos animales viajen junto a sus dueños tanto en los servicios comerciales (AVE, Avlo, Alvia, Euromed e Intercity) como en los d",
+      "url": "https://www.aragondigital.es/articulo/sociedad/vacaciones-perro-playas-petfriendly-cerca-zaragoza/20250805180000935792.html",
+      "urlToImage": "https://www.aragondigital.es/media/aragondigital/images/2026/07/20/2026072010524787126.jpg",
+      "publishedAt": "2026-07-20 08:56:00",
+      "sourceName": "aragaondigital"
+    },
+    {
+      "id": "es-1",
       "title": "Alan Peiró, adiestrador canino: “Pensamos que con la correa extensible le damos libertad al perro, pero creamos más tensión”",
       "description": "Las correas extensibles se han convertido en uno de los accesorios más populares para pasear perros. Su principal atractivo parece evidente: permiten que el animal disponga de varios metros más para explorar el entorno",
       "url": "https://expertoanimal.elperiodico.com/alan-peiro-adiestrador-canino-pensamos-que-con-la-correa-extensible-le-damos-libertad-al-perro-pero-creamos-mas-tension-28532.html",
@@ -11,7 +20,7 @@
       "sourceName": "lne"
     },
     {
-      "id": "es-1",
+      "id": "es-2",
       "title": "‘Cortar por lo sano’: todo lo que hay que saber antes de rapar a un perro en verano",
       "description": "Si un perro está sano y bien cuidado, su propio pelaje será su mejor defensa frente al calor.",
       "url": "https://www.20minutos.es/animaleros/perros/cortar-por-sano-todo-que-hay-que-saber-antes-rapar-un-perro-verano_6981005_0.html",
@@ -20,7 +29,16 @@
       "sourceName": "minutos20"
     },
     {
-      "id": "es-2",
+      "id": "es-3",
+      "title": "Control Canino realizará jornada de adopción por el Día Mundial del Perro",
+      "description": "Control Canino Municipal llevará a cabo este 21 de julio una jornada especial para promover la adopción responsable de perros, así como el cuidado y l...",
+      "url": "https://www.meganoticias.mx/torreon/noticia/control-canino-realizar%C3%A1-jornada-de-adopci%C3%B3n-por-el-d%C3%ADa-mundial-del-perro/752912",
+      "urlToImage": "https://www.meganoticias.mx/uploads/noticias/control-canino-realizar%C3%A1-jornada-de-adopci%C3%B3n-por-el-d%C3%ADa-mundial-del-perro-752912.jpg",
+      "publishedAt": "2026-07-20 00:00:00",
+      "sourceName": "meganoticias_mx"
+    },
+    {
+      "id": "es-4",
       "title": "¡A la orden! Pastores belgas ayudan al ejército en tareas de detección de sustancias ilícitas",
       "description": "Estos perros entrenados olfatean cada rincón y espacio que tienen enfrente y cuando detectan una droga entonces se detienen",
       "url": "https://www.elgrafico.mx//al-dia/2026/07/19/a-la-orden-pastores-belgas-ayudan-al-ejercito-en-tareas-de-deteccion-de-sustancias-ilicitas/",
@@ -29,7 +47,7 @@
       "sourceName": "elgrafico"
     },
     {
-      "id": "es-3",
+      "id": "es-5",
       "title": "Enrique Molina, adiestrador canino: \"No debemos dormir con nuestro perro, porque invade un espacio muy personal del dueño\"",
       "description": "Enrique Molina es un conocido adiestrador canino que ayuda a dueños de perros a saber cómo educar a su mascota para que sepa comportarse en casa, entre otras funciones. El experto canino ha dado una entrevista en el po",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260719/1004208146/enrique-molina-adiestrador-canino-no-debemos-dormir-nuestro-perro-invade-espacio-personal-dueno-dct.html",
@@ -38,7 +56,7 @@
       "sourceName": "mundodeportivo"
     },
     {
-      "id": "es-4",
+      "id": "es-6",
       "title": "Organiza Leo Montañez festejo perrón",
       "description": "El amor incondicional de los perros fue celebrado en grande con la realización de la primera edición del festival por el Día del Perro, denominado “Adopta y Ama”.",
       "url": "https://www.hidrocalidodigital.com/organiza-leo-montanez-festejo-perron/",
@@ -47,7 +65,7 @@
       "sourceName": "hidrocalidodigital"
     },
     {
-      "id": "es-5",
+      "id": "es-7",
       "title": "Los veterinarios coinciden: los perros que lamen a sus dueños no lo hacen solo por afecto, sino que puede ser una forma de comunicarse y calmarse",
       "description": "Que un perro lama a una persona es un gesto tan común que rara vez se cuestiona. Para muchos dueños es una muestra clara de cariño; para otros, una conducta molesta que no siempre saben cómo interpretar. Sin embargo,",
       "url": "https://www.eleconomista.es/actualidad/noticias/14001064/07/26/los-veterinarios-coinciden-los-perros-que-lamen-a-sus-duenos-no-lo-hacen-solo-por-afecto-sino-que-puede-ser-una-forma-de-comunicarse-y-calmarse.html",
@@ -56,7 +74,7 @@
       "sourceName": "eleconomista_es"
     },
     {
-      "id": "es-6",
+      "id": "es-8",
       "title": "Fiscalía rescata a perro en situación de abandono en Misión del Valle",
       "description": "El perro se encontraba en condiciones de abandono, sin agua ni comido y entre sus heces",
       "url": "https://oem.com.mx/elsoldemorelia/local/fiscalia-rescata-a-perro-en-situacion-de-abandono-en-mision-del-valle-31196148",
@@ -65,7 +83,7 @@
       "sourceName": "elsoldemorelia_mx"
     },
     {
-      "id": "es-7",
+      "id": "es-9",
       "title": "La Policía Local de Granada llora la pérdida de su compañero canino Harry",
       "description": "El agente K9, uno de los más activos y mejores efectivos del cuerpo, deja un vacío difícil de llenar entre la plantilla Pantallas, retraso en el corte de agua y hasta cambios en el horario de recogida de la basura: Gr",
       "url": "https://www.granadahoy.com/granada/policia-local-granada-llora-perdida_0_2007502427.html",
@@ -74,7 +92,7 @@
       "sourceName": "granadahoy"
     },
     {
-      "id": "es-8",
+      "id": "es-10",
       "title": "Muere Max, el perrito baleado por defender a su dueño en Valle de Chalco | Esto se sabe del caso",
       "description": "Max, un perro que resultó herido de bala durante una riña en Valle de Chalco, Estado de México, murió después de permanecer alrededor de 24 horas bajo atención veterinaria. El presunto agresor fue trasladado a un p",
       "url": "https://heraldodemexico.com.mx/nacional/2026/7/19/muere-max-el-perrito-baleado-por-defender-su-dueno-en-valle-de-chalco-esto-se-sabe-del-caso-852598.html",
@@ -83,7 +101,7 @@
       "sourceName": "heraldodemexico"
     },
     {
-      "id": "es-9",
+      "id": "es-11",
       "title": "Perritos, adopciones y mucha diversión: así se vivió el primer festival por el Día del Perro en Aguascalientes",
       "description": "El evento impulsó la tenencia responsable mediante actividades informativas, recreativas y de convivencia entre familias y mascotas",
       "url": "https://oem.com.mx/elsoldelcentro/local/aguascalientes-celebra-su-primer-festival-por-el-dia-del-perro-con-caminata-adopciones-y-servicios-veterinarios-gratuitos-31192876",
@@ -92,7 +110,7 @@
       "sourceName": "elsoldelcentro_mx"
     },
     {
-      "id": "es-10",
+      "id": "es-12",
       "title": "Cuando el perro no encaja: el riesgo de imponer expectativas irreales",
       "description": "Pensar que puede moldearse por completo oculta su estructura emocional y dificulta la convivencia.",
       "url": "https://www.20minutos.es/animaleros/perros/cuando-perro-no-encaja-riesgo-imponer-expectativas-irreales_6979333_0.html",
@@ -101,7 +119,7 @@
       "sourceName": "minutos20"
     },
     {
-      "id": "es-11",
+      "id": "es-13",
       "title": "Celebran a los perros con “Adopta y Ama”",
       "description": "El amor incondicional de los perros fue celebrado con la realización de la primera edición del festival por el Día del Perro, denominado “Adopta y Ama”. El evento comenzó con una concurrida caminata por la avenida Ma",
       "url": "https://www.heraldo.mx/celebran-a-los-perros-con-adopta-y-ama/",
@@ -110,7 +128,7 @@
       "sourceName": "heraldo_mx"
     },
     {
-      "id": "es-12",
+      "id": "es-14",
       "title": "Boom de nuevos consumos para animales de compañía en La Plata",
       "description": "La forma de convivir con perros y gatos cambió profundamente en los últimos años. Alimentación premium, estética especializada y el acompañamiento profesional crecieron al ritmo de un vínculo cada vez más estrech",
       "url": "https://www.eldia.com/nota/boom-de-nuevos-consumos-para-animales-de-compania-en-la-plata-la-ciudad_1784440189",
@@ -119,7 +137,7 @@
       "sourceName": "eldia_ar"
     },
     {
-      "id": "es-13",
+      "id": "es-15",
       "title": "Más de 30 perros son rescatados de vivienda en Los Olivos tras denuncia por presunto caso de maltrato animal",
       "description": "Más de 30 perros, entre cachorros y adultos, fueron rescatados de una vivienda ubicada en la cuadra 7 del jirón Pariahuanca, en el distrito de Los Olivos, luego de que vecinos denunciaran presuntas condiciones de maltr",
       "url": "https://elcomercio.pe/lima/los-olivos-mas-de-30-perros-son-rescatados-de-vivienda-tras-presunto-caso-de-maltrato-animal-ultimas-noticia/",
@@ -128,7 +146,7 @@
       "sourceName": "elcomercio"
     },
     {
-      "id": "es-14",
+      "id": "es-16",
       "title": "Alberto Sanz, entrenador canino: \"Si aún le das de comer a tu perro en el comedero, tíralo ya\"",
       "description": "Dar de comer a tu perro siempre en el comedero, a la mismo hora y en el mismo lugar puede parecer más cómodo. No obstante, el adiestrador canino Alberto Sanz ha propuesto a través de sus canales una forma diferente de",
       "url": "https://www.elperiodicomediterraneo.com/sociedad/2026/07/19/alberto-sanz-entrenador-canino-comedero-comer-durante-paseo-dv-132284338.html",
@@ -137,7 +155,7 @@
       "sourceName": "elperiodicomediterraneo"
     },
     {
-      "id": "es-15",
+      "id": "es-17",
       "title": "Encuentran hogar 7 mascotas en jornada de adopción en Mazatlán",
       "description": "MAZATLÁN._ En el marco del Día Mundial del Perro, la Dirección de Ecología y Medio Ambiente de Mazatlán llevó a cabo una nueva jornada de la campaña “Huellitas del Bienestar” en el Parque Central.",
       "url": "https://www.noroeste.com.mx/mazatlan/encuentran-hogar-7-mascotas-en-jornada-de-adopcion-en-mazatlan-CE24204107",
@@ -146,7 +164,7 @@
       "sourceName": "noroeste"
     },
     {
-      "id": "es-16",
+      "id": "es-18",
       "title": "Cómo saber si tu perro es diestro o zurdo: pruebas simples y qué significa el resultado",
       "description": "Reconocer cuál es la extremidad preferida permite entender aspectos de su temperamento y reacciones. Con métodos prácticos y validados por la ciencia, es posible determinar si un animal utiliza más la izquierda, la d",
       "url": "https://www.infobae.com/perros-y-gatos/2026/07/19/como-saber-si-tu-perro-es-diestro-o-zurdo-pruebas-simples-y-que-significa-el-resultado/",
@@ -155,31 +173,13 @@
       "sourceName": "infobae"
     },
     {
-      "id": "es-17",
+      "id": "es-19",
       "title": "Kali, la labradora de cinco años que detecta explosivos y armas, forma parte del operativo canino que protege estadios y accesos durante el Mundial 2026",
       "description": "Cerca de 300 equipos caninos de una empresa privada se sumaron a las corporaciones federales y locales para revisar accesos, vehículos, hoteles, campos de entrenamiento y rutas de traslado.",
       "url": "https://www.elimparcial.com/mundo/2026/07/18/kali-la-labradora-de-cinco-anos-que-detecta-explosivos-y-armas-forma-parte-del-operativo-canino-que-protege-estadios-y-accesos-durante-el-mundial-2026/",
       "urlToImage": "https://www.elimparcial.com/resizer/v2/NHUJH2FDZ5EY7HFY3AFBN7VXZY.jpg?auth=02c0895a003034a1f7fab8e3523288321262dab25510dbeac82a2050fc0ce68b&smart=true&width=1200&height=780",
       "publishedAt": "2026-07-18 22:48:58",
       "sourceName": "elimparcial"
-    },
-    {
-      "id": "es-18",
-      "title": "Comentarios de odio contra animales callejeros podrían dispara agresiones en su contra: animalista",
-      "description": "A través de sus redes sociales, la administradora del refugio para perros Corazones Nobles, Paola Aguirre, publicó un mensaje sobre el caso del chow chow negro que ella auxilió luego que lo desollaran y le quemaran el",
-      "url": "https://nortedigital.mx/comentarios-de-odio-contra-animales-callejeros-podrian-dispara-agresiones-en-su-contra-animalista/",
-      "urlToImage": "https://nortedigital.mx/wp-content/uploads/2026/07/chow-chow-1.jpg",
-      "publishedAt": "2026-07-18 20:57:24",
-      "sourceName": "nortedigital_mx"
-    },
-    {
-      "id": "es-19",
-      "title": "Avanza la expansión de la Unidad K9: incorporan nuevos perros y guías para reforzar la capacidad operativa",
-      "description": "Con nuevos binomios caninos en formación y un plan de expansión que alcanza progresivamente a distintas Unidades Regionales, la Policía de Misiones continúa fortaleciendo su Unidad K9, una capacidad estratégica dest",
-      "url": "https://misionesonline.net/2026/07/18/avanza-la-expansion-de-la-unidad-k9-incorporan-nuevos-perros-y-guias-para-reforzar-la-capacidad-operativa/",
-      "urlToImage": "https://static.misionesonline.news/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-5.41.10-PM-1-e1784407515355.jpeg",
-      "publishedAt": "2026-07-18 20:46:14",
-      "sourceName": "misionesonline"
     },
     {
       "id": "es-20",
@@ -248,6 +248,17 @@
   "en": [
     {
       "id": "en-0",
+      "title": "Camp Canine Temporarily Suspends Daycare Operations After Dog Drowns | Local News",
+      "description": "Camp Canine, a dog daycare and boarding facility on Santa Barbara’s Eastside, has temporarily suspended daycare operations after Bruce, a [...]",
+      "url": "https://recentlyheard.com/camp-canine-temporarily-suspends-daycare-operations-after-dog-drowns-local-news/",
+      "urlToImage": "https://recentlyheard.com/wp-content/uploads/2026/07/1784539385_Camp-Canine-Temporarily-Suspends-Daycare-Operations-After-Dog-Drowns.jpg",
+      "publishedAt": "2026-07-20 09:23:04",
+      "sourceName": "recentlyheard",
+      "title_es": "Camp Canine suspende temporalmente las operaciones de guardería después de que el perro se ahoga | Noticias locales",
+      "description_es": "Camp Canine, una guardería para perros e instalación de alojamiento en el lado este de Santa Bárbara, ha suspendido temporalmente las operaciones de guardería después de que Bruce, un [...]"
+    },
+    {
+      "id": "en-1",
       "title": "Dog, cat lovers gear up for Seoul's 50-question pet test",
       "description": "Can your dog eat chocolate? No! Can your cat eat grapes? Absolutely not! If you are a pet owner in Korea, knowing these answers might just land you an award — or at least a very official certificate proving you are a qua",
       "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20260720/dog-cat-lovers-gear-up-for-seouls-50-question-pet-test",
@@ -258,7 +269,7 @@
       "description_es": "¿Puede tu perro comer chocolate? ¡No! ¿Puede tu gato comer uvas? ¡Absolutamente no! Si eres dueño de una mascota en Corea, conocer estas respuestas podría darte un premio, o al menos un certificado muy oficial que demuestre que eres un qua"
     },
     {
-      "id": "en-1",
+      "id": "en-2",
       "title": "Taking your dog to the beach? The five hidden dangers every owner should know this summer",
       "description": "For most dogs, a trip to the beach is the highlight of summer. But what looks like the perfect day [...]",
       "url": "https://euroweeklynews.com/2026/07/20/taking-your-dog-to-the-beach-the-five-hidden-dangers-every-owner-should-know-this-summer/",
@@ -269,7 +280,7 @@
       "description_es": "Para la mayoría de los perros, un viaje a la playa es lo más destacado del verano. Pero lo que parece ser el día perfecto [...]"
     },
     {
-      "id": "en-2",
+      "id": "en-3",
       "title": "The Furry Funhouse indoor play centre for dogs opens at Basepoint Business Centre in Dartford",
       "description": "A former nurse who spent two decades in healthcare has fulfilled her dream by opening an indoor play centre just for dogs. Jo Sloat is the proud owner of The Furry Funhouse at Basepoint Business Centre in Dartford where ",
       "url": "https://www.kentonline.co.uk/dartford/news/we-ve-been-waiting-for-something-like-this-former-nurse-o-342863/",
@@ -280,7 +291,7 @@
       "description_es": "Una ex enfermera que pasó dos décadas en el cuidado de la salud ha cumplido su sueño al abrir un centro de juegos interior solo para perros. Jo Sloat es la orgullosa propietaria de The Furry Funhouse en Basepoint Business Centre en Dartford, donde"
     },
     {
-      "id": "en-3",
+      "id": "en-4",
       "title": "Police investigating after dog drowns at daycare in Santa Barbara",
       "description": "A local family is mourning the loss of one-year-old English bulldog Bruce, after the dog drowned while attending Camp Canine in Santa Barbara.",
       "url": "https://www.ksby.com/santa-barbara-south-coast/police-investigating-after-dog-drowns-at-daycare-in-santa-barbara",
@@ -291,7 +302,7 @@
       "description_es": "Una familia local está de luto por la pérdida del bulldog inglés Bruce, de un año, después de que el perro se ahogara mientras asistía al Campamento Canino en Santa Bárbara."
     },
     {
-      "id": "en-4",
+      "id": "en-5",
       "title": "Bulldog's drowning sparks police probe at dog resort marketed as the 'Disneyland for dogs'",
       "description": "Bruce, a 1-year-old English bulldog, allegedly drowned at Camp Canine in Santa Barbara after ending up in a large-dog yard with unfenced pools.",
       "url": "https://headtopics.com/news/bulldog-s-drowning-sparks-police-probe-at-dog-resort-85743909",
@@ -302,7 +313,7 @@
       "description_es": "Bruce, un bulldog inglés de 1 año, supuestamente se ahogó en Camp Canine en Santa Bárbara después de terminar en un patio para perros grandes con piscinas sin cercar."
     },
     {
-      "id": "en-5",
+      "id": "en-6",
       "title": "How Do You Find Your Canine Soulmate? A Match Made in Dog Heaven",
       "description": "",
       "url": "https://www.newsbreak.com/doggo-digest-318442522/4780080607972-how-do-you-find-your-canine-soulmate-a-match-made-in-dog-heaven",
@@ -313,7 +324,7 @@
       "description_es": ""
     },
     {
-      "id": "en-6",
+      "id": "en-7",
       "title": "Two dogs, same home and completely different conversations. Your dog's breed could shape how well they read you",
       "description": "Why does one dog seem to understand your every move while another misses the same cues? Scientists reveal that breed can influence how dogs interpret human emotions, gestures, and routines. Experts explain what this mean",
       "url": "https://www.inkl.com/news/two-dogs-same-home-and-completely-different-conversations-your-dogs-breed-could-shape-how-well-they-read-you",
@@ -324,7 +335,7 @@
       "description_es": "¿Por qué un perro parece entender cada uno de tus movimientos mientras que otro pierde las mismas señales? Los científicos revelan que la raza puede influir en la forma en que los perros interpretan las emociones, los gestos y las rutinas humanas. Los expertos explican lo que esto significa"
     },
     {
-      "id": "en-7",
+      "id": "en-8",
       "title": "Golf tournament raises funds for Minidoka County Sheriff’s K-9 program",
       "description": "The Minidoka County Sheriff’s Office hosted its annual K-9 Golf Scramble on Friday at River’s Edge Golf Club, raising money to support the agency’s two canine teams.",
       "url": "https://www.kmvt.com/2026/07/19/golf-tournament-raises-funds-minidoka-county-sheriffs-k-9-program/",
@@ -335,7 +346,7 @@
       "description_es": "La Oficina del Sheriff del Condado de Minidoka organizó su lucha anual de golf K-9 el viernes en River's Edge Golf Club, recaudando dinero para apoyar a los dos equipos caninos de la agencia."
     },
     {
-      "id": "en-8",
+      "id": "en-9",
       "title": "Dog Drowning at Santa Barbara’s Camp Canine Prompts Police Investigation, Community Outcry",
       "description": "Bruce, a one-year-old English bulldog, was found Thursday at the bottom of one of the facility’s pools. The post Dog Drowning at Santa Barbara’s Camp Canine Prompts Police Investigation, Community Outcry appeared first o",
       "url": "https://www.independent.com/2026/07/19/dog-drowning-at-santa-barbaras-camp-canine-prompts-police-investigation-community-outcry/",
@@ -346,7 +357,7 @@
       "description_es": "Bruce, un bulldog inglés de un año, fue encontrado el jueves en el fondo de una de las piscinas de la instalación. La publicación Dog Drowning at Santa Barbara's Camp Canine Prompts Police Investigation, Community Outcry apareció primero o"
     },
     {
-      "id": "en-9",
+      "id": "en-10",
       "title": "Dog daycare suspends operations after dog drowns at Southern California facility",
       "description": "A Santa Barbara dog daycare has temporarily suspended its daycare operations after a 1-year-old English bulldog drowned while in the facility's care. Camp Canine announced the closure Saturday in a statement posted to In",
       "url": "https://ktla.com/news/california/camp-canine-suspends-daycare-after-dog-drowns-at-santa-barbara-facility/",
@@ -357,7 +368,7 @@
       "description_es": "Una guardería para perros de Santa Bárbara ha suspendido temporalmente sus operaciones de guardería después de que un bulldog inglés de 1 año se ahogara mientras estaba bajo el cuidado de la instalación. Camp Canine anunció el cierre el sábado en un comunicado publicado en In"
     },
     {
-      "id": "en-10",
+      "id": "en-11",
       "title": "‘Heartbreaking loss’: Sandy Bay First Nation offers condolences after apparent dog attack",
       "description": "Leaders with the Sandy Bay Ojibway First Nation are offering their condolences after an animal rescue worker died following an apparent dog attack in the community and say the “stray and aggressive” animals are a longsta",
       "url": "https://www.winnipegfreepress.com/breakingnews/2026/07/19/heartbreaking-loss-sandy-bay-first-nation-offers-condolences-after-apparent-dog-attack",
@@ -368,7 +379,7 @@
       "description_es": "Los líderes de Sandy Bay Ojibway First Nation ofrecen sus condolencias después de que un trabajador de rescate de animales muriera tras un aparente ataque de un perro en la comunidad y dicen que los animales \"callejeros y agresivos\" son un laststa"
     },
     {
-      "id": "en-11",
+      "id": "en-12",
       "title": "Santa Barbara’s Camp Canine allegedly hands California couple their beloved puppy back in a tub",
       "description": "Bruce’s owners–Chris and Ashley Merz of Ventura–were allegedly never informed about their dog’s death before arriving to pick him up.",
       "url": "https://us.headtopics.com/news/santa-barbara-s-camp-canine-allegedly-hands-california-85734830",
@@ -379,7 +390,7 @@
       "description_es": "Los dueños de Bruce, Chris y Ashley Merz de Ventura, supuestamente nunca fueron informados sobre la muerte de su perro antes de llegar a recogerlo."
     },
     {
-      "id": "en-12",
+      "id": "en-13",
       "title": "Disgusting moment ‘Disneyland for Dogs’ hands California couple their beloved puppy back in a plastic tub",
       "description": "Footage showed Chris Merz's reaction when he went to pick up his beloved English bulldog Bruce from Camp Canine.",
       "url": "https://nypost.com/2026/07/19/us-news/santa-barbaras-camp-canine-allegedly-hands-california-couple-their-beloved-puppy-back-in-a-tub/",
@@ -390,7 +401,7 @@
       "description_es": "Las imágenes mostraron la reacción de Chris Merz cuando fue a recoger a su amado bulldog inglés Bruce del Campamento Canino."
     },
     {
-      "id": "en-13",
+      "id": "en-14",
       "title": "‘My golden best friend’: Inverness woman’s garden sale raises funds for the charity that changed her life",
       "description": "An Inverness woman is transforming forgotten items into garden art to thank the charity that changed her life with assistance dog, Gregg.",
       "url": "https://www.inverness-courier.co.uk/news/my-golden-best-friend-inverness-woman-s-garden-sale-raise-440135/",
@@ -401,18 +412,16 @@
       "description_es": "Una mujer de Inverness está transformando artículos olvidados en arte de jardín para agradecer a la organización benéfica que cambió su vida con el perro de asistencia, Gregg."
     },
     {
-      "id": "en-14",
+      "id": "en-15",
       "title": "Hundreds of pets were rescued following Venezuela’s earthquakes. Now they’re looking for their families",
       "description": "Most of the animals found were injured and had fractures, multiple traumas, mutilations, abrasions, or cuts, said Vargas, a veterinary assistant. Those pets are receiving veterinary care and shelter until they can return",
       "url": "https://www.ctvnews.ca/world/article/hundreds-of-pets-were-rescued-following-venezuelas-earthquakes-now-theyre-looking-for-their-families/",
       "urlToImage": "https://www.ctvnews.ca/resizer/v2/AHTRTOILAFEX5HI6X2OUCNHXA4.JPG?auth=49ff9dd4a72014fc1fb12ed4a9ed3b43d93a732575e08325b20942be7925121f&smart=true&width=3508&height=2480",
       "publishedAt": "2026-07-19 14:53:26",
-      "sourceName": "ctvnews",
-      "title_es": "Cientos de mascotas fueron rescatadas tras los terremotos de Venezuela. Ahora están buscando a sus familias",
-      "description_es": "La mayoría de los animales encontrados estaban heridos y tenían fracturas, múltiples traumas, mutilaciones, abrasiones o cortes, dijo Vargas, un asistente veterinario. Esas mascotas están recibiendo atención veterinaria y refugio hasta que puedan regresar"
+      "sourceName": "ctvnews"
     },
     {
-      "id": "en-15",
+      "id": "en-16",
       "title": "Understanding Canine Mounting: More Than Just a Mating Behavior",
       "description": "Expert explains that humping in dogs is a natural behavior with multiple causes beyond reproduction, including play, excitement, stress, and displacement. A citizen science project analyzed 312 incidents and found no sig",
       "url": "https://us.headtopics.com/news/understanding-canine-mounting-more-than-just-a-mating-85731706",
@@ -421,7 +430,7 @@
       "sourceName": "headtopics"
     },
     {
-      "id": "en-16",
+      "id": "en-17",
       "title": "The summer to-do list meets life in the Bush",
       "description": "Firewood, gardening and cabin repairs compete with colds, broken machinery, quilled dogs and other perfectly normal interruptions.",
       "url": "https://www.newsminer.com/features/sundays/in_the_bush/the-summer-to-do-list-meets-life-in-the-bush/article_725c8f72-6563-42a5-8411-dede82cb2c89.html",
@@ -430,22 +439,13 @@
       "sourceName": "newsminer"
     },
     {
-      "id": "en-17",
+      "id": "en-18",
       "title": "Marbella’s Family Dog Day is back with fancy dress contest, live music and Triple A Charity fundraising",
       "description": "Families and their four-legged friends can join an evening of fun as Marbella’s popular Family Dog Day is returning on [...]",
       "url": "https://euroweeklynews.com/2026/07/19/marbellas-family-dog-day-is-back-with-fancy-dress-contest-live-music-and-triple-a-charity-fundraising/",
       "urlToImage": "https://euroweeklynews.com/wp-content/uploads/2026/07/Triple-A-1024x577.jpg?type=local",
       "publishedAt": "2026-07-19 13:12:09",
       "sourceName": "euroweeklynews"
-    },
-    {
-      "id": "en-18",
-      "title": "10 Times You Didn't Notice Major Movies Used CGI",
-      "description": "From a CGI baby to a $5,000 digital dog poop, these major movies used invisible visual digital effects that most viewers never noticed.",
-      "url": "https://screenrant.com/major-movies-cgi-unnoticed/",
-      "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/clive-owen-holding-a-baby-in-children-of-men.jpg",
-      "publishedAt": "2026-07-19 12:55:12",
-      "sourceName": "screenrant"
     },
     {
       "id": "en-19",
