@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-07-20T18:54:15.515Z",
+  "generatedAt": "2026-07-20T20:18:29.171Z",
   "es": [
     {
       "id": "es-0",
+      "title": "Alan Peiró, adiestrador canino: “Pensamos que con la correa extensible le damos libertad al perro, pero creamos más tensión”",
+      "description": "Las correas extensibles se han convertido en uno de los accesorios más populares para pasear perros. Su principal atractivo parece evidente: permiten que el animal disponga de varios metros más para explorar el entorno",
+      "url": "https://expertoanimal.elperiodico.com/alan-peiro-adiestrador-canino-pensamos-que-con-la-correa-extensible-le-damos-libertad-al-perro-pero-creamos-mas-tension-28532.html",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/deba2556-5ce0-44ea-ba85-0e9f0e5fdd48_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "publishedAt": "2026-07-20 08:00:00",
+      "sourceName": "lne"
+    },
+    {
+      "id": "es-1",
       "title": "‘Cortar por lo sano’: todo lo que hay que saber antes de rapar a un perro en verano",
       "description": "Si un perro está sano y bien cuidado, su propio pelaje será su mejor defensa frente al calor.",
       "url": "https://www.20minutos.es/animaleros/perros/cortar-por-sano-todo-que-hay-que-saber-antes-rapar-un-perro-verano_6981005_0.html",
@@ -11,7 +20,7 @@
       "sourceName": "minutos20"
     },
     {
-      "id": "es-1",
+      "id": "es-2",
       "title": "¡A la orden! Pastores belgas ayudan al ejército en tareas de detección de sustancias ilícitas",
       "description": "Estos perros entrenados olfatean cada rincón y espacio que tienen enfrente y cuando detectan una droga entonces se detienen",
       "url": "https://www.elgrafico.mx//al-dia/2026/07/19/a-la-orden-pastores-belgas-ayudan-al-ejercito-en-tareas-de-deteccion-de-sustancias-ilicitas/",
@@ -20,7 +29,7 @@
       "sourceName": "elgrafico"
     },
     {
-      "id": "es-2",
+      "id": "es-3",
       "title": "Enrique Molina, adiestrador canino: \"No debemos dormir con nuestro perro, porque invade un espacio muy personal del dueño\"",
       "description": "Enrique Molina es un conocido adiestrador canino que ayuda a dueños de perros a saber cómo educar a su mascota para que sepa comportarse en casa, entre otras funciones. El experto canino ha dado una entrevista en el po",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260719/1004208146/enrique-molina-adiestrador-canino-no-debemos-dormir-nuestro-perro-invade-espacio-personal-dueno-dct.html",
@@ -29,7 +38,7 @@
       "sourceName": "mundodeportivo"
     },
     {
-      "id": "es-3",
+      "id": "es-4",
       "title": "Organiza Leo Montañez festejo perrón",
       "description": "El amor incondicional de los perros fue celebrado en grande con la realización de la primera edición del festival por el Día del Perro, denominado “Adopta y Ama”.",
       "url": "https://www.hidrocalidodigital.com/organiza-leo-montanez-festejo-perron/",
@@ -38,7 +47,7 @@
       "sourceName": "hidrocalidodigital"
     },
     {
-      "id": "es-4",
+      "id": "es-5",
       "title": "Los veterinarios coinciden: los perros que lamen a sus dueños no lo hacen solo por afecto, sino que puede ser una forma de comunicarse y calmarse",
       "description": "Que un perro lama a una persona es un gesto tan común que rara vez se cuestiona. Para muchos dueños es una muestra clara de cariño; para otros, una conducta molesta que no siempre saben cómo interpretar. Sin embargo,",
       "url": "https://www.eleconomista.es/actualidad/noticias/14001064/07/26/los-veterinarios-coinciden-los-perros-que-lamen-a-sus-duenos-no-lo-hacen-solo-por-afecto-sino-que-puede-ser-una-forma-de-comunicarse-y-calmarse.html",
@@ -47,7 +56,7 @@
       "sourceName": "eleconomista_es"
     },
     {
-      "id": "es-5",
+      "id": "es-6",
       "title": "Fiscalía rescata a perro en situación de abandono en Misión del Valle",
       "description": "El perro se encontraba en condiciones de abandono, sin agua ni comido y entre sus heces",
       "url": "https://oem.com.mx/elsoldemorelia/local/fiscalia-rescata-a-perro-en-situacion-de-abandono-en-mision-del-valle-31196148",
@@ -56,7 +65,7 @@
       "sourceName": "elsoldemorelia_mx"
     },
     {
-      "id": "es-6",
+      "id": "es-7",
       "title": "La Policía Local de Granada llora la pérdida de su compañero canino Harry",
       "description": "El agente K9, uno de los más activos y mejores efectivos del cuerpo, deja un vacío difícil de llenar entre la plantilla Pantallas, retraso en el corte de agua y hasta cambios en el horario de recogida de la basura: Gr",
       "url": "https://www.granadahoy.com/granada/policia-local-granada-llora-perdida_0_2007502427.html",
@@ -65,7 +74,7 @@
       "sourceName": "granadahoy"
     },
     {
-      "id": "es-7",
+      "id": "es-8",
       "title": "Muere Max, el perrito baleado por defender a su dueño en Valle de Chalco | Esto se sabe del caso",
       "description": "Max, un perro que resultó herido de bala durante una riña en Valle de Chalco, Estado de México, murió después de permanecer alrededor de 24 horas bajo atención veterinaria. El presunto agresor fue trasladado a un p",
       "url": "https://heraldodemexico.com.mx/nacional/2026/7/19/muere-max-el-perrito-baleado-por-defender-su-dueno-en-valle-de-chalco-esto-se-sabe-del-caso-852598.html",
@@ -74,7 +83,7 @@
       "sourceName": "heraldodemexico"
     },
     {
-      "id": "es-8",
+      "id": "es-9",
       "title": "Perritos, adopciones y mucha diversión: así se vivió el primer festival por el Día del Perro en Aguascalientes",
       "description": "El evento impulsó la tenencia responsable mediante actividades informativas, recreativas y de convivencia entre familias y mascotas",
       "url": "https://oem.com.mx/elsoldelcentro/local/aguascalientes-celebra-su-primer-festival-por-el-dia-del-perro-con-caminata-adopciones-y-servicios-veterinarios-gratuitos-31192876",
@@ -83,7 +92,7 @@
       "sourceName": "elsoldelcentro_mx"
     },
     {
-      "id": "es-9",
+      "id": "es-10",
       "title": "Cuando el perro no encaja: el riesgo de imponer expectativas irreales",
       "description": "Pensar que puede moldearse por completo oculta su estructura emocional y dificulta la convivencia.",
       "url": "https://www.20minutos.es/animaleros/perros/cuando-perro-no-encaja-riesgo-imponer-expectativas-irreales_6979333_0.html",
@@ -92,7 +101,7 @@
       "sourceName": "minutos20"
     },
     {
-      "id": "es-10",
+      "id": "es-11",
       "title": "Celebran a los perros con “Adopta y Ama”",
       "description": "El amor incondicional de los perros fue celebrado con la realización de la primera edición del festival por el Día del Perro, denominado “Adopta y Ama”. El evento comenzó con una concurrida caminata por la avenida Ma",
       "url": "https://www.heraldo.mx/celebran-a-los-perros-con-adopta-y-ama/",
@@ -101,7 +110,7 @@
       "sourceName": "heraldo_mx"
     },
     {
-      "id": "es-11",
+      "id": "es-12",
       "title": "Boom de nuevos consumos para animales de compañía en La Plata",
       "description": "La forma de convivir con perros y gatos cambió profundamente en los últimos años. Alimentación premium, estética especializada y el acompañamiento profesional crecieron al ritmo de un vínculo cada vez más estrech",
       "url": "https://www.eldia.com/nota/boom-de-nuevos-consumos-para-animales-de-compania-en-la-plata-la-ciudad_1784440189",
@@ -110,7 +119,7 @@
       "sourceName": "eldia_ar"
     },
     {
-      "id": "es-12",
+      "id": "es-13",
       "title": "Más de 30 perros son rescatados de vivienda en Los Olivos tras denuncia por presunto caso de maltrato animal",
       "description": "Más de 30 perros, entre cachorros y adultos, fueron rescatados de una vivienda ubicada en la cuadra 7 del jirón Pariahuanca, en el distrito de Los Olivos, luego de que vecinos denunciaran presuntas condiciones de maltr",
       "url": "https://elcomercio.pe/lima/los-olivos-mas-de-30-perros-son-rescatados-de-vivienda-tras-presunto-caso-de-maltrato-animal-ultimas-noticia/",
@@ -119,7 +128,7 @@
       "sourceName": "elcomercio"
     },
     {
-      "id": "es-13",
+      "id": "es-14",
       "title": "Alberto Sanz, entrenador canino: \"Si aún le das de comer a tu perro en el comedero, tíralo ya\"",
       "description": "Dar de comer a tu perro siempre en el comedero, a la mismo hora y en el mismo lugar puede parecer más cómodo. No obstante, el adiestrador canino Alberto Sanz ha propuesto a través de sus canales una forma diferente de",
       "url": "https://www.elperiodicomediterraneo.com/sociedad/2026/07/19/alberto-sanz-entrenador-canino-comedero-comer-durante-paseo-dv-132284338.html",
@@ -128,7 +137,7 @@
       "sourceName": "elperiodicomediterraneo"
     },
     {
-      "id": "es-14",
+      "id": "es-15",
       "title": "Encuentran hogar 7 mascotas en jornada de adopción en Mazatlán",
       "description": "MAZATLÁN._ En el marco del Día Mundial del Perro, la Dirección de Ecología y Medio Ambiente de Mazatlán llevó a cabo una nueva jornada de la campaña “Huellitas del Bienestar” en el Parque Central.",
       "url": "https://www.noroeste.com.mx/mazatlan/encuentran-hogar-7-mascotas-en-jornada-de-adopcion-en-mazatlan-CE24204107",
@@ -137,7 +146,7 @@
       "sourceName": "noroeste"
     },
     {
-      "id": "es-15",
+      "id": "es-16",
       "title": "Cómo saber si tu perro es diestro o zurdo: pruebas simples y qué significa el resultado",
       "description": "Reconocer cuál es la extremidad preferida permite entender aspectos de su temperamento y reacciones. Con métodos prácticos y validados por la ciencia, es posible determinar si un animal utiliza más la izquierda, la d",
       "url": "https://www.infobae.com/perros-y-gatos/2026/07/19/como-saber-si-tu-perro-es-diestro-o-zurdo-pruebas-simples-y-que-significa-el-resultado/",
@@ -146,7 +155,7 @@
       "sourceName": "infobae"
     },
     {
-      "id": "es-16",
+      "id": "es-17",
       "title": "Kali, la labradora de cinco años que detecta explosivos y armas, forma parte del operativo canino que protege estadios y accesos durante el Mundial 2026",
       "description": "Cerca de 300 equipos caninos de una empresa privada se sumaron a las corporaciones federales y locales para revisar accesos, vehículos, hoteles, campos de entrenamiento y rutas de traslado.",
       "url": "https://www.elimparcial.com/mundo/2026/07/18/kali-la-labradora-de-cinco-anos-que-detecta-explosivos-y-armas-forma-parte-del-operativo-canino-que-protege-estadios-y-accesos-durante-el-mundial-2026/",
@@ -155,7 +164,7 @@
       "sourceName": "elimparcial"
     },
     {
-      "id": "es-17",
+      "id": "es-18",
       "title": "Comentarios de odio contra animales callejeros podrían dispara agresiones en su contra: animalista",
       "description": "A través de sus redes sociales, la administradora del refugio para perros Corazones Nobles, Paola Aguirre, publicó un mensaje sobre el caso del chow chow negro que ella auxilió luego que lo desollaran y le quemaran el",
       "url": "https://nortedigital.mx/comentarios-de-odio-contra-animales-callejeros-podrian-dispara-agresiones-en-su-contra-animalista/",
@@ -164,22 +173,13 @@
       "sourceName": "nortedigital_mx"
     },
     {
-      "id": "es-18",
+      "id": "es-19",
       "title": "Avanza la expansión de la Unidad K9: incorporan nuevos perros y guías para reforzar la capacidad operativa",
       "description": "Con nuevos binomios caninos en formación y un plan de expansión que alcanza progresivamente a distintas Unidades Regionales, la Policía de Misiones continúa fortaleciendo su Unidad K9, una capacidad estratégica dest",
       "url": "https://misionesonline.net/2026/07/18/avanza-la-expansion-de-la-unidad-k9-incorporan-nuevos-perros-y-guias-para-reforzar-la-capacidad-operativa/",
       "urlToImage": "https://static.misionesonline.news/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-18-at-5.41.10-PM-1-e1784407515355.jpeg",
       "publishedAt": "2026-07-18 20:46:14",
       "sourceName": "misionesonline"
-    },
-    {
-      "id": "es-19",
-      "title": "Estas 5 razas de perros son las más rápidas del planeta",
-      "description": "Descubre las cinco razas de perros más rápidas del planeta, qué velocidad pueden alcanzar y por qué su anatomía los convierte en verdaderos atletas de cuatro patas",
-      "url": "https://www.informador.mx/estilo/estas-5-razas-de-perros-son-las-mas-rapidas-del-planeta-20260715-0130.html",
-      "urlToImage": "https://www.informador.mx/__export/1784145678683/sites/elinformador/img/2026/07/15/f0to_1_version1784145674764.png_1980793090.png",
-      "publishedAt": "2026-07-18 19:20:00",
-      "sourceName": "informador_mx"
     },
     {
       "id": "es-20",
