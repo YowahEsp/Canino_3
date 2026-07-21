@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-07-21T16:21:23.028Z",
+  "generatedAt": "2026-07-21T17:53:01.739Z",
   "es": [
     {
       "id": "es-0",
+      "title": "Renfe pet friendly",
+      "description": "Hoy 21 de julio es el día mundial del perro y, como la empresa pública del transporte ferroviario de España es una organización muy concienciada con las necesidades del mundo animal, a partir de hoy se ha declarado c",
+      "url": "https://www.lavozdigital.es/opinion/felicidad-rodriguez-renfe-pet-friendly-20260720173535-ntv.html",
+      "urlToImage": "https://s1.abcstatics.com/narwhal/latest/assets/images/lavoz-noticias-.jpg",
+      "publishedAt": "2026-07-21 05:04:04",
+      "sourceName": "lavozdigital"
+    },
+    {
+      "id": "es-1",
+      "title": "Alan Peiró, adiestrador canino: “La postura que adopta tu perro antes de dormir dice más de lo que imaginas”",
+      "description": "Las posiciones de descanso revelan el nivel de seguridad, comodidad y adaptación de los perros a su entorno",
+      "url": "https://www.infobae.com/espana/2026/07/21/alan-peiro-adiestrador-canino-la-postura-que-adopta-tu-perro-antes-de-dormir-dice-mas-de-lo-que-imaginas/",
+      "urlToImage": "https://www.infobae.com/resizer/v2/7VGK6O23JBCJXE3Y6MW6F7AHNM.jpg?auth=8caa4c9f23922adafad700b6026965a71ded73490f512d2e594ea57867797b2a&smart=true&width=4208&height=2618",
+      "publishedAt": "2026-07-21 04:59:37",
+      "sourceName": "infobae"
+    },
+    {
+      "id": "es-2",
       "title": "¿Tu perrito es DIESTRO o ZURDO? Pruebas simples para saberlo y qué significa el resultado",
       "description": "Investigadores italianos desarrollaron el Doginburgh Inventory, un método práctico para identificar la pata dominante de tu mascota y comprender mejor su comportamiento y emociones",
       "url": "https://www.informador.mx/estilo/tu-perrito-es-diestro-o-zurdo-pruebas-simples-para-saberlo-y-que-significa-el-resultado-20260720-0190.html",
@@ -11,7 +29,7 @@
       "sourceName": "informador_mx"
     },
     {
-      "id": "es-1",
+      "id": "es-3",
       "title": "Héroe sin capa: Joven rescata a un perro arrastrado por la corriente en Sonora; video se viraliza",
       "description": "Un lazo estilo vaquero evita una tragedia en medio de las inundaciones",
       "url": "https://www.eluniversal.com.mx/tendencias/heroe-sin-capa-joven-rescata-a-un-perro-arrastrado-por-la-corriente-en-sonora-video-se-viraliza/",
@@ -20,7 +38,7 @@
       "sourceName": "eluniversal"
     },
     {
-      "id": "es-2",
+      "id": "es-4",
       "title": "Bajo los escombros también latía la esperanza: Milo, Zuki y otros rescates que inspiraron a Venezuela",
       "description": "Entre ruinas y esperanza: las conmovedoras historias de mascotas que sobrevivieron al terremoto La entrada Bajo los escombros también latía la esperanza: Milo, Zuki y otros rescates que inspiraron a Venezuela se public",
       "url": "https://ultimasnoticias.com.ve/tu-mascota/historias-de-mascotas/bajo-los-escombros-tambien-latia-la-esperanza-milo-zuki-y-otros-rescates-que-inspiraron-a-venezuela/",
@@ -29,7 +47,7 @@
       "sourceName": "ultimasnoticias"
     },
     {
-      "id": "es-3",
+      "id": "es-5",
       "title": "Captan a un perro al volante de un vehículo y se vuelve viral",
       "description": "La fotografía que se ha vuelto viral muestra al perro sentado en el asiento del conductor de un vehículo.",
       "url": "https://www.publinews.gt/virales/2026/07/20/captan-a-un-perro-al-volante-de-un-vehiculo-y-se-vuelve-viral/",
@@ -38,7 +56,7 @@
       "sourceName": "publinews"
     },
     {
-      "id": "es-4",
+      "id": "es-6",
       "title": "¡Agéndalo! Te decimos dónde celebrar el Día del Perro con servicios gratuitos y jornada de adopción en Torreón",
       "description": "El Control Canino Municipal de Torreón convoca a la ciudadanía a participar en la celebración del Día Mundial del Perro este martes 21 de julio.",
       "url": "https://www.milenio.com/estados/perro-torreon-jornada-adopcion-servicios-gratuitos",
@@ -47,7 +65,7 @@
       "sourceName": "milenio"
     },
     {
-      "id": "es-5",
+      "id": "es-7",
       "title": "Día Mundial del Perro: uno de cada cuatro chilenos lleva a su mascota al veterinario solo ante una emergencia",
       "description": "En el marco de este 21 de julio, expertos entregan recomendaciones para avanzar desde un cuidado reactivo hacia una prevención adaptada a la edad, salud y estilo de vida de cada perro.",
       "url": "https://lahora.cl/estilo-de-vida/2026/07/20/dia-mundial-del-perro-uno-de-cada-cuatro-chilenos-lleva-a-su-mascota-al-veterinario-solo-ante-una-emergencia/",
@@ -56,7 +74,7 @@
       "sourceName": "lahora_cl"
     },
     {
-      "id": "es-6",
+      "id": "es-8",
       "title": "La multa que supera al salario medio en España por lo ocurrido en la parte trasera del coche pese a circular a la velocidad permitida: la Guardia Civil extrema la vigilancia tras la norma del BOE",
       "description": "Ahora que estamos en un momento de vacaciones y desplazamientos, son muchos los que viajan junto a su perro en el coche. Una práctica de lo más habitual, pero con la que hay que tener bastante precaución.",
       "url": "https://www.lne.es/motor/2026/07/20/multa-supera-salario-medio-espana-132641439.html",
@@ -65,7 +83,7 @@
       "sourceName": "lne"
     },
     {
-      "id": "es-7",
+      "id": "es-9",
       "title": "La pastelería para mascotas de Aragón que hornea donuts para perros y macarons para conejos",
       "description": "La pastelería Reis D' Aranda, gestionada por Judith Vicente, elabora alimentos, chucherías y snacks saludables para diversos tipos de animales como perros, gatos, conejos, roedores y aves",
       "url": "https://www.aragondigital.es/articulo/zaragoza/pasteleria-mascotas-aragon-hornea-donuts-perros-macarons-conejos-todo-es-natural/20251201123045955051.html",
@@ -74,7 +92,7 @@
       "sourceName": "aragaondigital"
     },
     {
-      "id": "es-8",
+      "id": "es-10",
       "title": "El parque acuático solo para perros: tres piscinas, toboganes e islas para los más peludos de la casa",
       "description": "Aquí no les hace falta llevar correa y, sin las restricciones habituales de las playas públicas, las mascotas disfrutan como niños También te puede inte resa r: El lago artificial del Pirineo que parece una pequeña ",
       "url": "https://cronicaglobal.elespanol.com/viajes/20260720/parque-acuatico-perros-piscinas-toboganes-islas-peludos-casa-trt/1003742780199_0.html",
@@ -83,7 +101,7 @@
       "sourceName": "cronicaglobal_elespanol"
     },
     {
-      "id": "es-9",
+      "id": "es-11",
       "title": "Alberto Sanz, adiestrador canino: \"Tu perro te entiende cuando le hablas porque son expertos en aprender, pero no es su lenguaje nativo\"",
       "description": "Detrás del comportamiento de nuestro perro hay un sinfín de condiciones o motivos que la gran mayoría de veces desconocemos. Por eso es importante que siempre que tengamos alguna duda o queramos entender mejor a nuest",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260720/1004208431/alberto-sanz-adiestrador-canino-perro-te-entiende-le-hablas-son-expertos-aprender-no-lenguaje-nativo-pjm-dct.html",
@@ -92,7 +110,7 @@
       "sourceName": "mundodeportivo"
     },
     {
-      "id": "es-10",
+      "id": "es-12",
       "title": "¿Deberías llevar a tu perro de vacaciones? Qué tener en cuenta y cómo viajar con seguridad",
       "description": "Ha comenzado la temporada de vacaciones y muchos se preguntan qué hacer con sus mascotas. Mientras que algunos optan por dejar a sus perros en residencias caninas, otros prefieren ir de aventura con ellos.",
       "url": "https://www.europapress.es/desconecta/curiosity/noticia-deberias-llevar-perro-vacaciones-tener-cuenta-viajar-seguridad-20260720121404.html",
@@ -101,7 +119,7 @@
       "sourceName": "europapress"
     },
     {
-      "id": "es-11",
+      "id": "es-13",
       "title": "Renfe permite viajar con perros de hasta 40 kilos en todos sus trenes desde este martes",
       "description": "La medida, que coincidirá con la celebración del Día Mundial del Perro, permitirá que estos animales viajen junto a sus dueños tanto en los servicios comerciales (AVE, Avlo, Alvia, Euromed e Intercity) como en los d",
       "url": "https://www.aragondigital.es/articulo/sociedad/vacaciones-perro-playas-petfriendly-cerca-zaragoza/20250805180000935792.html",
@@ -110,7 +128,7 @@
       "sourceName": "aragaondigital"
     },
     {
-      "id": "es-12",
+      "id": "es-14",
       "title": "Alan Peiró, adiestrador canino: “Pensamos que con la correa extensible le damos libertad al perro, pero creamos más tensión”",
       "description": "Las correas extensibles se han convertido en uno de los accesorios más populares para pasear perros. Su principal atractivo parece evidente: permiten que el animal disponga de varios metros más para explorar el entorno",
       "url": "https://expertoanimal.elperiodico.com/alan-peiro-adiestrador-canino-pensamos-que-con-la-correa-extensible-le-damos-libertad-al-perro-pero-creamos-mas-tension-28532.html",
@@ -119,7 +137,7 @@
       "sourceName": "lne"
     },
     {
-      "id": "es-13",
+      "id": "es-15",
       "title": "‘Cortar por lo sano’: todo lo que hay que saber antes de rapar a un perro en verano",
       "description": "Si un perro está sano y bien cuidado, su propio pelaje será su mejor defensa frente al calor.",
       "url": "https://www.20minutos.es/animaleros/perros/cortar-por-sano-todo-que-hay-que-saber-antes-rapar-un-perro-verano_6981005_0.html",
@@ -128,7 +146,7 @@
       "sourceName": "minutos20"
     },
     {
-      "id": "es-14",
+      "id": "es-16",
       "title": "Control Canino realizará jornada de adopción por el Día Mundial del Perro",
       "description": "Control Canino Municipal llevará a cabo este 21 de julio una jornada especial para promover la adopción responsable de perros, así como el cuidado y l...",
       "url": "https://www.meganoticias.mx/torreon/noticia/control-canino-realizar%C3%A1-jornada-de-adopci%C3%B3n-por-el-d%C3%ADa-mundial-del-perro/752912",
@@ -137,31 +155,13 @@
       "sourceName": "meganoticias_mx"
     },
     {
-      "id": "es-15",
-      "title": "¡A la orden! Pastores belgas ayudan al ejército en tareas de detección de sustancias ilícitas",
-      "description": "Estos perros entrenados olfatean cada rincón y espacio que tienen enfrente y cuando detectan una droga entonces se detienen",
-      "url": "https://www.elgrafico.mx//al-dia/2026/07/19/a-la-orden-pastores-belgas-ayudan-al-ejercito-en-tareas-de-deteccion-de-sustancias-ilicitas/",
-      "urlToImage": "https://www.elgrafico.mx/resizer/v2/TZZHL6PAQRDUTGDKRW6BODMHJ4.jpg?auth=4c094a41fb320aa5a5eb362c8516b1bf33771f51fe36b64402dc939b6fe006de&smart=true&width=1201&height=740",
-      "publishedAt": "2026-07-19 17:27:20",
-      "sourceName": "elgrafico"
-    },
-    {
-      "id": "es-16",
-      "title": "Enrique Molina, adiestrador canino: \"No debemos dormir con nuestro perro, porque invade un espacio muy personal del dueño\"",
-      "description": "Enrique Molina es un conocido adiestrador canino que ayuda a dueños de perros a saber cómo educar a su mascota para que sepa comportarse en casa, entre otras funciones. El experto canino ha dado una entrevista en el po",
-      "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260719/1004208146/enrique-molina-adiestrador-canino-no-debemos-dormir-nuestro-perro-invade-espacio-personal-dueno-dct.html",
-      "urlToImage": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/05/10/6a00f1d2bddd9.jpeg",
-      "publishedAt": "2026-07-19 16:28:27",
-      "sourceName": "mundodeportivo"
-    },
-    {
       "id": "es-17",
-      "title": "Organiza Leo Montañez festejo perrón",
-      "description": "El amor incondicional de los perros fue celebrado en grande con la realización de la primera edición del festival por el Día del Perro, denominado “Adopta y Ama”.",
-      "url": "https://www.hidrocalidodigital.com/organiza-leo-montanez-festejo-perron/",
-      "urlToImage": "https://www.hidrocalidodigital.com/wp-content/uploads/2026/07/Organiza-Leo-Montanez-festejo-perron-1.webp",
-      "publishedAt": "2026-07-19 16:22:00",
-      "sourceName": "hidrocalidodigital"
+      "title": "Enrique Molina, adiestrador canino: \"No debemos dormir con nuestro perro, porque invade un espacio muy personal del dueño\"",
+      "description": "Enrique Molina es un conocido adiestrador canino que ayuda a dueños de perros a saber cómo educar a su mascota para que sepa comportarse en casa, entre otras ...",
+      "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260510/1004181518/enrique-molina-adiestrador-canino-no-debemos-dormir-nuestro-perro-invade-espacio-personal-dueno-dct.html",
+      "urlToImage": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2026/05/10/6a00f1d2bddd9.jpeg",
+      "publishedAt": "2026-05-10T21:30:07.000000Z",
+      "sourceName": "mundodeportivo.com"
     },
     {
       "id": "es-18",
@@ -230,6 +230,39 @@
   "en": [
     {
       "id": "en-0",
+      "title": "Canine Distemper Virus Outbreak Confirmed in Sri Vijaya Puram; Pet Owners Advised to Vaccinate and Isolate Sick Dogs",
+      "description": "Sri Vijaya Puram | July 21, 2026 The Department of Animal Husbandry & Veterinary Services (AH&VS) has confirmed an outbreak of Canine Distemper Virus (CDV) among dogs in Sri Vijaya Puram and has issued an advisory urging",
+      "url": "https://nicobartimes.com/local-news/canine-distemper-virus-outbreak-confirmed-in-sri-vijaya-puram-pet-owners-advised-to-vaccinate-and-isolate-sick-dogs/",
+      "urlToImage": "https://nicobartimes.com/wp-content/uploads/2026/07/canine-distemper-virus-andaman.jpg",
+      "publishedAt": "2026-07-21 05:27:24",
+      "sourceName": "nicobartimes",
+      "title_es": "Brote del virus del moquillo canino confirmado en Sri Vijaya Puram; Se aconseja a los dueños de mascotas que vacunen y aíslen a los perros enfermos",
+      "description_es": "Sri Vijaya Puram | 21 de julio de 2026 El Departamento de Cría de Animales y Servicios Veterinarios (AH&VS) ha confirmado un brote del virus del moquillo canino (CDV) entre los perros en Sri Vijaya Puram y ha emitido una advertencia"
+    },
+    {
+      "id": "en-1",
+      "title": "Watch: US firefighters rescue dog that went missing after July 4th fireworks",
+      "description": "Firefighters rescued a dog swimming in San Francisco Bay after it fled fireworks. The lost canine was located using binoculars and a drone by the fire district. After being found half a mile offshore, the dog was taken t",
+      "url": "https://timesofindia.indiatimes.com/world/us/watch-us-firefighters-rescue-dog-that-went-missing-after-july-4th-fireworks/articleshow/132528223.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132528515/132528515.jpg",
+      "publishedAt": "2026-07-21 05:24:31",
+      "sourceName": "toi",
+      "title_es": "Mira: Los bomberos estadounidenses rescatan a un perro que desapareció después de los fuegos artificiales del 4 de julio",
+      "description_es": "Los bomberos rescataron a un perro que nadaba en la bahía de San Francisco después de que huyera de los fuegos artificiales. El canino perdido fue localizado usando binoculares y un dron por el distrito de bomberos. Después de ser encontrado a media milla de la costa, el perro fue llevado a"
+    },
+    {
+      "id": "en-2",
+      "title": "Blount County Animal Center Dog of the Week: Joey",
+      "description": "Joey used to work on a ranch as a cattle dog. Every morning, the rancher would rouse little Joey from his beauty sleep and lead him out to the herd. Joey was supposed to know commands like “come by” and...",
+      "url": "https://www.thedailytimes.com/news/blount-county-animal-center-dog-of-the-week-joey/article_91543aae-3383-4d5f-b13b-ae5665be7d9b.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/assets/v3/editorial/5/a9/5a95bad1-9fb5-43a7-8ae3-515989afc63f/6a5e5fc3d8544.image.jpg?resize=300%2C401",
+      "publishedAt": "2026-07-21 03:30:00",
+      "sourceName": "thedailytimes",
+      "title_es": "Perro de la semana del Centro de Animales del Condado de Blount: Joey",
+      "description_es": "Joey solía trabajar en un rancho como perro de ganado. Todas las mañanas, el ranchero despertaba al pequeño Joey de su sueño de belleza y lo llevaba a la manada. Se suponía que Joey sabía órdenes como \"pasar\" y..."
+    },
+    {
+      "id": "en-3",
       "title": "Calif. Dog Daycare Facility Pauses Operations After Dog Drowns",
       "description": "A bulldog named Bruce died on July 16, and his owners claim they were not contacted during the incident",
       "url": "https://ca.news.yahoo.com/calif-dog-daycare-facility-pauses-031222052.html",
@@ -240,7 +273,7 @@
       "description_es": "Un bulldog llamado Bruce murió el 16 de julio y sus dueños afirman que no fueron contactados durante el incidente"
     },
     {
-      "id": "en-1",
+      "id": "en-4",
       "title": "World Dog Day: A Celebration of Love for Our Canine Companions Amidst a Growing Abandonment Crisis",
       "description": "El Ciudadano Original article: Día Mundial del Perro: El animal que más se ama es también el que más se abandona Every July 21, World Dog Day is commemorated, a date established in 2004 following an alert from the Wo",
       "url": "https://www.elciudadano.com/en/world-dog-day-a-celebration-of-love-for-our-canine-companions-amidst-a-growing-abandonment-crisis/07/20/",
@@ -251,7 +284,18 @@
       "description_es": "El Ciudadano Artículo original: Dí a Mundial del Perro: El animal que más se ama es también el que más se abandona Cada 21 de julio, se conmemora el Día Mundial del Perro, una fecha establecida en 2004 tras una alerta del Wo"
     },
     {
-      "id": "en-2",
+      "id": "en-5",
+      "title": "\"Your dog raises you, not the other way around\": 'Ohh My Dog' director Amit Rai on human-canine bond",
+      "description": "Ahead of its release, Rai spoke about the film's central idea and shared what inspired him to tell a story about the special bond between humans and dogs.",
+      "url": "https://www.aninews.in/news/entertainment/bollywood/your-dog-raises-you-not-the-other-way-around-ohh-my-dog-director-amit-rai-on-human-canine-bond20260721204351/",
+      "urlToImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260721151339-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-07-21 00:00:00",
+      "sourceName": "aninews",
+      "title_es": "\"Tu perro te cría, no al revés\": el director de 'Ohh My Dog' Amit Rai habla sobre el vínculo humano-canino",
+      "description_es": "Antes de su lanzamiento, Rai habló sobre la idea central de la película y compartió lo que lo inspiró a contar una historia sobre el vínculo especial entre humanos y perros."
+    },
+    {
+      "id": "en-6",
       "title": "Could Your Dog Be a Little Too Smart? 7 Signs of a Clever Canine",
       "description": "",
       "url": "https://www.newsbreak.com/doggo-digest-318442522/4782180052602-could-your-dog-be-a-little-too-smart-7-signs-of-a-clever-canine",
@@ -262,18 +306,7 @@
       "description_es": ""
     },
     {
-      "id": "en-3",
-      "title": "Watch: US firefighters rescue dog that went missing after July 4th fireworks",
-      "description": "Firefighters rescued a dog swimming in San Francisco Bay after it fled fireworks. The lost canine was located using binoculars and a drone by the fire district. After being found half a mile offshore, the dog was taken t",
-      "url": "https://www.inkl.com/news/watch-us-firefighters-rescue-dog-that-went-missing-after-july-4th-fireworks",
-      "urlToImage": "https://images.inkl.com/s3/article/lead_image/23603600/132528223.jpg",
-      "publishedAt": "2026-07-21 00:00:00",
-      "sourceName": "inkl",
-      "title_es": "Mira: Los bomberos estadounidenses rescatan a un perro que desapareció después de los fuegos artificiales del 4 de julio",
-      "description_es": "Los bomberos rescataron a un perro que nadaba en la bahía de San Francisco después de que huyera de los fuegos artificiales. El canino perdido fue localizado usando binoculares y un dron por el distrito de bomberos. Después de ser encontrado a media milla de la costa, el perro fue llevado a"
-    },
-    {
-      "id": "en-4",
+      "id": "en-7",
       "title": "Dog drowns at a Santa Barbara dog daycare, now closed",
       "description": "The drowning occurred on July 17 while Bruce, the English Bulldog, was staying in the care of Camp Canine, according to the Santa Barbara Police.",
       "url": "https://www.usatoday.com/story/news/state/california/2026/07/20/santa-barbara-dog-daycare-temporarily-halts-operation-after-dog-drowns-california-bruce-bulldog/90982418007/",
@@ -284,73 +317,7 @@
       "description_es": "El ahogamiento ocurrió el 17 de julio mientras Bruce, el Bulldog Inglés, se quedaba al cuidado del Campamento Canino, según la Policía de Santa Bárbara."
     },
     {
-      "id": "en-5",
-      "title": "Dog killed in attack at North Port dog park",
-      "description": "Owner calls for security cameras after pit bull slips collar, attacks his dog through fence.",
-      "url": "https://www.mysuncoast.com/2026/07/20/dog-killed-attack-north-port-dog-park/",
-      "urlToImage": "https://gray-wwsb-prod.gtv-cdn.com/resizer/v2/PFDFENUFRVFS3CTON2PIP6WVPI.jpg?auth=3c0502ab7a77541b047c04c83e9a7741ac4c3419e3b944283af01467da3598c7&width=1200&height=600&smart=true",
-      "publishedAt": "2026-07-20 23:00:08",
-      "sourceName": "mysuncoast",
-      "title_es": "Perro muerto en un ataque en el parque para perros de North Port",
-      "description_es": "El propietario pide cámaras de seguridad después de que un pitbull se resbala y ataca a su perro a través de la valla."
-    },
-    {
-      "id": "en-6",
-      "title": "More owners taking dogs on retail runs",
-      "description": "Christchurch has one of the highest rates of dog ownership in the country, and more and more people are taking their four-legged companions on...",
-      "url": "https://www.odt.co.nz/news/national/more-owners-taking-dogs-retail-runs",
-      "urlToImage": "https://www.odt.co.nz/sites/default/files/styles/odt_story_opengraph_1200w/public/story/2026/07/download_-_2026-07-21t075138.654.png?itok=ZV6HEkCK",
-      "publishedAt": "2026-07-20 22:47:15",
-      "sourceName": "odt",
-      "title_es": "Más propietarios que llevan perros a carreras minoristas",
-      "description_es": "Christchurch tiene una de las tasas más altas de propiedad de perros en el país, y cada vez más personas llevan a sus compañeros de cuatro patas a..."
-    },
-    {
-      "id": "en-7",
-      "title": "Woman killed while trying to rescue stray dogs in northern Manitoba",
-      "description": "Amanda Nobiss, a 37-year-old animal rescuer from Winnipeg, was killed by stray dogs while volunteering to manage the overpopulation of dogs in a northern Manitoba community.",
-      "url": "https://globalnews.ca/news/11973247/sandy-bay-first-nation-animal-rescue-death/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/07/animal-rescuer-dead-manitoba.jpg.bmp",
-      "publishedAt": "2026-07-20 22:23:16",
-      "sourceName": "globalnews",
-      "title_es": "Mujer asesinada mientras intentaba rescatar perros callejeros en el norte de Manitoba",
-      "description_es": "Amanda Nobiss, una rescatadora de animales de 37 años de Winnipeg, fue asesinada por perros callejeros mientras se ofrecía como voluntaria para gestionar la superpoblación de perros en una comunidad del norte de Manitoba."
-    },
-    {
       "id": "en-8",
-      "title": "Ancient Dog Skulls Rewrite the Story of Canine Evolution",
-      "description": "Ancient bones and DNA reveal that dog diversity and their close relationship with migrating humans developed thousands of years ago. Place a village dog beside a toy poodle and a mastiff, and the extraordinary physical r",
-      "url": "https://scitechdaily.com/ancient-dog-skulls-rewrite-the-story-of-canine-evolution/",
-      "urlToImage": "https://scitechdaily.com/images/Canid-Skull-scaled.jpg",
-      "publishedAt": "2026-07-20 22:19:22",
-      "sourceName": "scitechdaily",
-      "title_es": "Los cráneos de perros antiguos reescriben la historia de la evolución canina",
-      "description_es": "Los huesos y el ADN antiguos revelan que la diversidad de perros y su estrecha relación con los humanos migratorios se desarrollaron hace miles de años. Coloque un perro del pueblo al lado de un caniche de juguete y un mastín, y la extraordinaria r"
-    },
-    {
-      "id": "en-9",
-      "title": "How a stranger's hunch about a 'no kill' animal shelter owner led to a 20-year crusade to expose a depraved secret - and finally uncover what was buried on his sprawling property",
-      "description": "Shannon Miranda, 55, appeared to be the model animal lover by taking in thousand of cars and dogs at his Northern California shelter but his neighbor, Jennifer Raymond, 75, was always wary.",
-      "url": "https://www.dailymail.com/news/article-15956547/stranger-exposes-depraved-no-kill-shelter-California.html",
-      "urlToImage": "https://i.dailymail.com/1s/2026/07/20/22/110146081-0-image-a-31_1784584096525.jpg",
-      "publishedAt": "2026-07-20 21:53:24",
-      "sourceName": "dailymailuk",
-      "title_es": "Cómo la corazonada de un extraño sobre el dueño de un refugio de animales \"no matar\" llevó a una cruzada de 20 años para exponer un secreto depravado, y finalmente descubrir lo que estaba enterrado en su extensa propiedad",
-      "description_es": "Shannon Miranda, de 55 años, parecía ser la modelo amante de los animales al recibir a miles de coches y perros en su refugio del norte de California, pero su vecina, Jennifer Raymond, de 75 años, siempre fue cautelosa."
-    },
-    {
-      "id": "en-10",
-      "title": "Barnaby Joyce: One Nation MP flies off handle with verbal outburst during ABC interview with Sarah Ferguson",
-      "description": "The One Nation MP erupted into an outburst during a live television interview by yelling at an off-camera dog.",
-      "url": "https://thenightly.com.au/politics/barnaby-joyce-one-nation-mp-flies-off-handle-with-verbal-outburst-during-abc-interview-with-sarah-ferguson--c-22604423",
-      "urlToImage": "https://images.thenightly.com.au/publication/C-22604423/7f1543aa531afe503b32ffc53c620b5b28cab815-16x9-x0y0w436h245.gif",
-      "publishedAt": "2026-07-20 21:18:22",
-      "sourceName": "thenightly_au",
-      "title_es": "Barnaby Joyce: La parlamentaria de One Nation se sale de control con un arrebato verbal durante la entrevista de ABC con Sarah Ferguson",
-      "description_es": "La parlamentaria de One Nation estalló en un arrebato durante una entrevista de televisión en vivo al gritarle a un perro fuera de cámara."
-    },
-    {
-      "id": "en-11",
       "title": "Canine cardio? How a mobile dog gym keeps your pup healthy",
       "description": "Waggin' Wheels is a mobile dog gym in Halifax that comes right to your door. The business helps dogs exercise safely in the heat of summer or in the dead of win...",
       "url": "https://www.cbc.ca/player/play/video/9.6888463?cmp=rss",
@@ -361,7 +328,7 @@
       "description_es": "Waggin' Wheels es un gimnasio móvil para perros en Halifax que llega directamente a tu puerta. El negocio ayuda a los perros a hacer ejercicio de manera segura en el calor del verano o en medio de la victoria..."
     },
     {
-      "id": "en-12",
+      "id": "en-9",
       "title": "Truck Swerves To Hit Dog, Misses, Then Crushes Pregnant Canine In 2nd Try",
       "description": "A heart-wrenching video from Jaipur shows a pickup truck swerving to allegedly try and run over a dog and then crushing another pregnant canine to death.",
       "url": "https://www.ndtv.com/india-news/jaipur-truck-swerves-to-hit-dog-crushes-pregnant-canine-when-1st-attempt-fails-8181842",
@@ -372,7 +339,7 @@
       "description_es": "Un video desgarrador de Jaipur muestra a una camioneta que se desvía para supuestamente intentar atropellar a una perra y luego aplastar a otra perra embarazada hasta la muerte."
     },
     {
-      "id": "en-13",
+      "id": "en-10",
       "title": "Madras Canine Club’s dog shows draw to a close",
       "description": "All Breeds Championship dog shows by Madras Canine Club conclude with German Shepherds and Doberman winning top prizes.",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-dog-shows-draw-to-a-close/article69116790.ece",
@@ -383,7 +350,7 @@
       "description_es": "Todas las exposiciones caninas del Madras Canine Club concluyen con los pastores alemanes y los doberman ganando los principales premios."
     },
     {
-      "id": "en-14",
+      "id": "en-11",
       "title": "Is dog perfume necessary for your canine companion?",
       "description": "Luxury fashion house Dolce & Gabbana has unveiled a new dog perfume named \"Fefé.\"",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/is-dog-perfume-necessary-for-your-canine-companion/",
@@ -394,34 +361,40 @@
       "description_es": "La lujosa casa de moda Dolce & Gabbana ha presentado un nuevo perfume para perros llamado \"Fefé\"."
     },
     {
-      "id": "en-15",
+      "id": "en-12",
       "title": "Recognising signs of canine asthma in your Dog",
       "description": "Asthma in dogs is an allergic disease characterised by inflammation and constriction of the small airways in the lungs...",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/recognising-signs-of-canine-asthma-in-your-dog/",
       "urlToImage": "https://www.thesouthafrican.com/wp-content/uploads/2024/04/ryan-stone-FTzRYeD5lAs-unsplash.jpg",
       "publishedAt": "2024-04-29T21:13:10.000000Z",
-      "sourceName": "thesouthafrican.com"
+      "sourceName": "thesouthafrican.com",
+      "title_es": "Reconocer los signos de asma canina en su perro",
+      "description_es": "El asma en perros es una enfermedad alérgica caracterizada por la inflamación y la constricción de las pequeñas vías respiratorias en los pulmones..."
     },
     {
-      "id": "en-16",
+      "id": "en-13",
       "title": "Taiwan to soon welcome its first indigenous dog as a police canine",
       "description": "",
       "url": "https://focustaiwan.tw/society/202404200004",
       "urlToImage": "https://imgcdn.cna.com.tw/Eng/WebEngPhotos/WebOg/600/2024/20240420/1080x567_602935051905.jpg",
       "publishedAt": "2024-04-20T04:43:25.000000Z",
-      "sourceName": "focustaiwan.tw"
+      "sourceName": "focustaiwan.tw",
+      "title_es": "Taiwán pronto dará la bienvenida a su primer perro indígena como perro policía",
+      "description_es": ""
     },
     {
-      "id": "en-17",
+      "id": "en-14",
       "title": "Detroit TSA canine handler suspended over video of him pulling dog",
       "description": "A TSA canine handler was suspended from his duties after a viral video captured him aggressively yanking a bomb-detecting dog in a busy airport.",
       "url": "https://nypost.com/2023/05/08/detroit-tsa-worker-suspended-over-video-of-him-pulling-dog/",
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/NYPICHPDPICT000010814290.jpg?quality=75&strip=all&w=1024",
       "publishedAt": "2023-05-08T20:28:05.000000Z",
-      "sourceName": "nypost.com"
+      "sourceName": "nypost.com",
+      "title_es": "Manipulador canino de la TSA de Detroit suspendido por un video de él tirando de un perro",
+      "description_es": "Un controlador canino de la TSA fue suspendido de sus funciones después de que un video viral lo capturara tirando agresivamente de un perro detector de bombas en un aeropuerto concurrido."
     },
     {
-      "id": "en-18",
+      "id": "en-15",
       "title": "Curtains come down on Madras Canine Club’s dog shows",
       "description": "570 dogs belonging to 69 breeds participated in the two-day event",
       "url": "https://www.thehindu.com/news/cities/chennai/curtains-come-down-on-madras-canine-clubs-dog-shows/article65880058.ece",
@@ -430,7 +403,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-19",
+      "id": "en-16",
       "title": "Madras Canine Club’s All Breeds Championship Dog Shows begin",
       "description": "Over 570 canines from 69 different breeds have registered this year",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-all-breeds-championship-dog-shows-begin/article65875162.ece",
