@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-07-22T21:36:34.904Z",
+  "generatedAt": "2026-07-22T22:58:55.995Z",
   "es": [
     {
       "id": "es-0",
+      "title": "Guayaquil brindó 668 servicios veterinarios gratuitos durante la jornada por el Día Mundial del Perro",
+      "description": "El Municipio de Guayaquil realizó una jornada gratuita por el Día Mundial del Perro con atención veterinaria, actividades educativas y acciones para promover la tenencia responsable.",
+      "url": "https://www.eldiario.ec/guayaquil/guayaquil-brindo-668-servicios-veterinarios-gratuitos-durante-la-jornada-por-el-dia-mundial-del-perro-22072026/",
+      "urlToImage": "https://img.eldiario.ec/upload/2026/07/17161D524C43436D17140F55544946721F141E18534A41741717-1024x576.jpg",
+      "publishedAt": "2026-07-22 10:23:01",
+      "sourceName": "eldiario_ec"
+    },
+    {
+      "id": "es-1",
+      "title": "Antes de dar huevo a tu perro, conviene conocer este detalle que muchos pasan por alto: “No siempre es seguro”",
+      "description": "Son muchas las personas que disfrutan compartiendo comida con sus perros. Es una muestra de cariño que, además, ellos reciben con entusiasmo, ya que suelen mostrar un gran interés por todo lo que hay en el plato de lo",
+      "url": "https://expertoanimal.elperiodico.com/antes-de-dar-huevo-a-tu-perro-conviene-conocer-este-detalle-que-muchos-pasan-por-alto-no-siempre-es-seguro-28519.html",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/31e913a3-ee30-42e7-9148-a97c3cc0ec53_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "publishedAt": "2026-07-22 10:00:00",
+      "sourceName": "elperiodicomediterraneo"
+    },
+    {
+      "id": "es-2",
       "title": "Alan Peiró, adiestrador canino: “No todos los perros aprenden repitiendo mil veces lo mismo”",
       "description": "Quien convive con un perro suele escuchar un consejo que parece universal: repetir una orden una y otra vez hasta que el animal termine aprendiéndola. Hay que saeer que la realidad es bastante más compleja. El aprendiz",
       "url": "https://expertoanimal.elperiodico.com/alan-peiro-adiestrador-canino-no-todos-los-perros-aprenden-repitiendo-mil-veces-lo-mismo-28533.html",
@@ -11,7 +29,7 @@
       "sourceName": "elperiodicodearagon"
     },
     {
-      "id": "es-1",
+      "id": "es-3",
       "title": "Marina reconoce labor de canes en el Día Mundial del Perro",
       "description": "Con motivo del Día Mundial del Perro, conmemorado cada 21 de julio, la Secretaría de Marina (Semar) reconoció la labor que desempeñan los binomios can...",
       "url": "https://www.elporvenir.mx/nacional/marina-reconoce-labor-de-canes-en-el-dia-mundial-del-perro/1008483",
@@ -20,7 +38,7 @@
       "sourceName": "elporvenir_mx"
     },
     {
-      "id": "es-2",
+      "id": "es-4",
       "title": "La cercanía con las mascotas está enfermando a los felinos silvestres de Costa Rica",
       "description": "Las seis especies de felinos silvestres de Costa Rica están en peligro de extinción y las enfermedades transmitidas por domésticos actúan como una presión adicional. The post La cercanía con las mascotas está enfe",
       "url": "https://observador.cr/la-cercania-con-las-mascotas-esta-enfermando-a-los-felinos-silvestres-de-costa-rica/",
@@ -29,7 +47,7 @@
       "sourceName": "observador_cr"
     },
     {
-      "id": "es-3",
+      "id": "es-5",
       "title": "Una experta veterinaria española señala el error que cometen muchos dueños de perros sin saberlo",
       "description": "Cuidar de un perro implica mucho más que darle de comer o sacarlo a pasear. En muchas ocasiones, pequeños gestos cotidianos que parecen inofensivos pueden acabar afectando a su salud con el paso del tiempo. Eso es prec",
       "url": "https://okdiario.com/mascotas/experta-veterinaria-espanola-senala-error-que-cometen-muchos-duenos-perros-sin-saberlo-18993593",
@@ -38,7 +56,7 @@
       "sourceName": "okdiario"
     },
     {
-      "id": "es-4",
+      "id": "es-6",
       "title": "Alistan generación de 'lomitos' inspectores",
       "description": "Con 15 años de operación, el Ceacan ha completado la formación de 81 generaciones que se han integrado en 417 binomios caninos, para inspecciones a nivel nacional e internacional",
       "url": "https://eldiariodechihuahua.mx/economia/2026/jul/21/alistan-generacion-de-lomitos-inspectores-820038.html",
@@ -47,7 +65,7 @@
       "sourceName": "eldiariodechihuahua"
     },
     {
-      "id": "es-5",
+      "id": "es-7",
       "title": "No hace falta una bala: enfermedades de animales domésticos amenazan a los felinos silvestres de Latinoamérica",
       "description": "La expansión de las actividades humanas y la fragmentación de los ecosistemas están acercando a perros y gatos domésticos a los felinos silvestres de América Latina, facilitando la transmisión de enfermedades. Enfe",
       "url": "https://www.eldiarioar.com/blog/relatos-ambientales/enfermedades-animales-domesticos-amenazan-felinos-silvestres-latinoamerica_132_13394866.html",
@@ -56,7 +74,7 @@
       "sourceName": "eldiarioar"
     },
     {
-      "id": "es-6",
+      "id": "es-8",
       "title": "Día del Perro: cuerpo canino vigila y resguarda los espacios nicolaitas",
       "description": "La UMSNH reconoce la importancia de cuidarlos, respetarlos y procurarlos",
       "url": "https://www.quadratin.com.mx/educativas/dia-del-perro-cuerpo-canino-vigila-y-resguarda-los-espacios-nicolaitas/",
@@ -65,7 +83,7 @@
       "sourceName": "quadratin"
     },
     {
-      "id": "es-7",
+      "id": "es-9",
       "title": "Decía ser adiestrador canino y lo detuvieron tras una denuncia por maltrato: encontraron un perro muerto en la pileta de su casa",
       "description": "La investigación comenzó tras la difusión de videos grabados por vecinos y una denuncia presentada por proteccionistas. Federico Mentasti, de 54 años, permanece detenido en la Comisaría 4a de Pilar. IMÁGENES SENSIB",
       "url": "https://www.infobae.com/sociedad/policiales/2026/07/22/decia-ser-adiestrador-canino-y-lo-detuvieron-tras-una-denuncia-por-maltrato-encontraron-un-perro-muerto-en-la-pileta-de-su-casa/",
@@ -74,7 +92,7 @@
       "sourceName": "infobae"
     },
     {
-      "id": "es-8",
+      "id": "es-10",
       "title": "Alerta en Coahuila por hallazgo que pone en duda la comida china",
       "description": "Un indignante hallazgo en Frontera, Coahuila, enciende las alarmas sobre el origen de los alimentos en comercios locales tras el rescate de un canino. En el municipio de Frontera, Coahuila, las autoridades locales y veci",
       "url": "https://eltiempomx.com/noticia/2026/alerta-en-coahuila-por-hallazgo-que-pone-en-duda-la-comida-china-64-caracteres.html",
@@ -83,7 +101,7 @@
       "sourceName": "eltiempomonclova_mx"
     },
     {
-      "id": "es-9",
+      "id": "es-11",
       "title": "‘Good Boy’, la película de terror que cuenta su historia desde los ojos de un perro, llegó a streaming",
       "description": "La película ‘Good Boy’ se estrena en Prime Video. Descubre su trama y curiosidades.",
       "url": "https://www.elcomercio.com/tendencias/good-boy-llega-prime-video-vale-pena-verla/",
@@ -92,7 +110,7 @@
       "sourceName": "elcomercio_com"
     },
     {
-      "id": "es-10",
+      "id": "es-12",
       "title": "Día Mundial del Perro: Marina reconoce a los canes que salvan vidas y combaten el crimen",
       "description": "Los binomios caninos constituyen una herramienta elemental en las labores de búsqueda y rescate, así como en diversas operaciones de apoyo a la seguridad. The post Día Mundial del Perro: Marina reconoce a los canes qu",
       "url": "https://www.capitalmexico.com.mx/nacional/dia-mundial-del-perro-marina-reconoce-a-los-canes-que-salvan-vidas-y-combaten-el-crimen/",
@@ -101,7 +119,7 @@
       "sourceName": "capitalmexico_mx"
     },
     {
-      "id": "es-11",
+      "id": "es-13",
       "title": "Tsunami encabezó homenaje a los héroes caninos",
       "description": "En el marco de la conmemoración del Día Mundial del Perro, este martes se realizó desde los espacios del Teatro Ateneo de Turmero, en el municipio Santiago Mariño, un acto de reconocimiento a los caninos rescatistas ",
       "url": "https://elsiglo.com.ve/tsunami-encabezo-homenaje-a-los-heroes-caninos/",
@@ -110,7 +128,7 @@
       "sourceName": "elsiglo"
     },
     {
-      "id": "es-12",
+      "id": "es-14",
       "title": "Premios caseros para perros: ¿Cómo consentir a tu mascota sin gastar de más?",
       "description": "Especialistas en nutrición veterinaria recomiendan alternativas naturales y económicas para consentir a nuestras mascotas todos los días sin comprometer su salud",
       "url": "https://www.informador.mx/estilo/premios-caseros-para-perros-como-consentir-a-tu-mascota-sin-gastar-de-mas-20260721-0177.html",
@@ -119,7 +137,7 @@
       "sourceName": "informador_mx"
     },
     {
-      "id": "es-13",
+      "id": "es-15",
       "title": "Agricultura entrena cinco binomios caninos en detección de productos agrícolas de riesgo",
       "description": "Se trata de cinco canes rescatados de albergues que junto con oficiales de República Dominicana y Belice vigilarán en puertos, aeropuertos y fronteras la introducción y diseminación de plagas y enfermedades de planta",
       "url": "https://www.cronica.com.mx/nacional/2026/07/21/agricultura-entrena-cinco-binomios-caninos-en-deteccion-de-productos-agricolas-de-riesgo/",
@@ -128,7 +146,7 @@
       "sourceName": "cronica_mx"
     },
     {
-      "id": "es-14",
+      "id": "es-16",
       "title": "Capacitan a Binomios Caninos para proteger el patrimonio agroalimentario",
       "description": "CDMX.- Con el propósito de fortalecer la protección sanitaria ante el riesgo de introducción y diseminación de plagas y enfermedades de plantas y animales, la Secretaría de Agricultura y Desarrollo Rural (AGRICULTUR",
       "url": "https://www.masnoticias.mx/capacitan-a-binomios-caninos-para-proteger-el-patrimonio-agroalimentario/",
@@ -137,7 +155,7 @@
       "sourceName": "masnoticias_mx"
     },
     {
-      "id": "es-15",
+      "id": "es-17",
       "title": "Condecorados 12 caninos de rescate por sus labores de búsqueda y salvamento",
       "description": "El homenaje reunió a delegaciones procedentes de los estados Aragua, Miranda, La Guaira y la ciudad de Caracas, cuyos equipos especializados participaron en labores de localización en las Residencias Bosque Lindo",
       "url": "https://www.notitarde.com.ve/pais/104336/condecorados-12-caninos-de-rescate-por-sus-labores-de-busqueda-y-salvamento",
@@ -146,7 +164,7 @@
       "sourceName": "notitarde"
     },
     {
-      "id": "es-16",
+      "id": "es-18",
       "title": "Marina reconoce labor de canes en el Día Mundial del Perro; \"son fundamentales en rescates\"",
       "description": "La Secretaría de Marina cuenta con 24 ejemplares caninos operativos, los cuales emplean equipo de protección",
       "url": "https://www.eluniversal.com.mx/nacion/marina-reconoce-labor-de-canes-en-el-dia-mundial-del-perro-son-fundamentales-en-rescates/",
@@ -155,7 +173,7 @@
       "sourceName": "eluniversal"
     },
     {
-      "id": "es-17",
+      "id": "es-19",
       "title": "Mantiene Semar 24 caninos para rescate y detección",
       "description": "La Secretaría indicó que los 24 ejemplares activos están especializados en localizar personas, explosivos y drogas",
       "url": "https://eldiariodechihuahua.mx/nacional/2026/jul/21/mantiene-semar-24-caninos-para-rescate-y-deteccion-819932.html",
@@ -164,7 +182,7 @@
       "sourceName": "eldiariodechihuahua"
     },
     {
-      "id": "es-18",
+      "id": "es-20",
       "title": "Semar reconoce labor de binomios caninos en rescate",
       "description": "Semar reconoce labor binomios caninos en búsqueda y rescate durante Día Mundial del Perro 2026.",
       "url": "https://pulsoslp.com.mx/nacional/semar-reconoce-labor-de-binomios-caninos-en-rescate/2069062",
@@ -173,7 +191,7 @@
       "sourceName": "pulsoslp_mx"
     },
     {
-      "id": "es-19",
+      "id": "es-21",
       "title": "Día Mundial del Perro: Fomentan la adopción responsable y el bienestar de las mascotas",
       "description": "Día Mundial del Perro: Fomentan la adopción responsable y el bienestar de las mascotas Cada 21 de julio se conmemora el Día Mundial del Perro, una fecha dedicada a reconocer el impacto positivo de estos animales de co",
       "url": "https://perspectiva.gt/lifestyle/dia-mundial-del-perro-tenencia-responsable-bienestar-animal/",
@@ -182,31 +200,13 @@
       "sourceName": "perspectiva"
     },
     {
-      "id": "es-20",
+      "id": "es-22",
       "title": "VIDEO: Mujer arrastra con su camioneta a perrito en Saltillo; usuarios en redes sociales exigen justicia para Rocky",
       "description": "Luego de ser arrastrado mientras iba amarrado a la parte trasera, su dueña le pasó por encima en al menos tres ocasiones, provocando serias lesiones en la mascota",
       "url": "https://www.eluniversal.com.mx/tendencias/video-mujer-arrastra-con-su-camioneta-a-perrito-en-saltillo-usuarios-en-redes-sociales-exigen-justicia-para-rocky/",
       "urlToImage": "https://www.eluniversal.com.mx/resizer/v2/2WV55B23DZBI3LGXJQZYGIEDV4.jpg?auth=4e979ef7302dec07985e1e8335055d145082a428a12202d75134c3aa4eeb705d&smart=true&width=1200&height=740",
       "publishedAt": "2026-07-21 21:29:12",
       "sourceName": "eluniversal"
-    },
-    {
-      "id": "es-21",
-      "title": "Reconoce SSPC Morelos labor de binomios caninos en la búsqueda de personas desaparecidas",
-      "description": "*Mensualmente participan en diligencias coordinadas con autoridades judiciales y en acompañamiento a colectivos de Madres Buscadoras* En el marco del Día Mundial del Perro que se conmemora este 21 de julio, la Secretar",
-      "url": "https://www.launion.com.mx/morelos/avances/noticias/296978-reconoce-sspc-morelos-labor-de-binomios-caninos-en-la-busqueda-de-personas-desaparecidas.html",
-      "urlToImage": "https://www.launion.com.mx/media/k2/items/cache/d55d45dddf4764146afdd73dbe366df7_L.jpg",
-      "publishedAt": "2026-07-21 20:41:42",
-      "sourceName": "launionmk"
-    },
-    {
-      "id": "es-22",
-      "title": "Día Mundial del Perro: 5 perritos virales de Veracruz",
-      "description": "Del lomito surfista de Alvarado hasta la rescatista de la Cruz Roja; te presentamos 5 perritos de Veracruz que se han vuelto virales",
-      "url": "https://lasillarota.com/veracruz/vida/2026/7/21/dia-mundial-del-perro-perritos-virales-de-veracruz-609513.html",
-      "urlToImage": "https://lasillarota.com/u/fotografias/m/2026/7/21/f1280x720-884108_1015783_5050.jpg",
-      "publishedAt": "2026-07-21 20:40:01",
-      "sourceName": "lasillarota"
     },
     {
       "id": "es-23",
@@ -284,6 +284,28 @@
   "en": [
     {
       "id": "en-0",
+      "title": "Robot dog ‘Spot’ patrols Coca-Cola Europacific Partners UK factories",
+      "description": "Coca-Cola Europacific Partners (CCEP) has introduced a robotic inspection dog to two UK sites to help detect maintenance issues and energy inefficiencies.",
+      "url": "https://www.foodmanufacture.co.uk/Article/2026/07/22/robot-dog-spot-deployed-at-two-coca-cola-europacific-partners-uk-factories/",
+      "urlToImage": "https://www.foodmanufacture.co.uk/resizer/v2/QQXX4MBXNFFQLL5OEWJY574TWY.JPG?auth=3a343c10773e6c0a45f385961281180f3bd7caf8fdf8ffff287a29cd9456feb8&smart=true&width=6901&height=4601",
+      "publishedAt": "2026-07-22 10:22:03",
+      "sourceName": "foodmanufacture_co_uk",
+      "title_es": "El perro robot ‘Spot’ patrulla las fábricas de Coca-Cola Europacific Partners en el Reino Unido",
+      "description_es": "Coca-Cola Europacific Partners (CCEP) ha introducido un perro robot de inspección en dos sitios del Reino Unido para ayudar a detectar problemas de mantenimiento e ineficiencias energéticas."
+    },
+    {
+      "id": "en-1",
+      "title": "Leaving paw prints on generations",
+      "description": "For 45 years, Laurie Schwabauer has been a driving force behind the 4-H dog program, inspiring generations of youth through her dedication, expertise and unwavering commitment to helping young people succeed. In recognit",
+      "url": "https://www.sundancetimes.com/story/2026/07/23/news/leaving-paw-prints-on-generations/12896.html",
+      "urlToImage": "https://www.sundancetimes.com/home/cms_data/dfault/photos/stories/id/9/6/12896/.TEMP/s_topTEMP350x200-5967.jpeg",
+      "publishedAt": "2026-07-22 09:28:00",
+      "sourceName": "sundancetimes",
+      "title_es": "Dejando huellas de patas en generaciones",
+      "description_es": "Durante 45 años, Laurie Schwabauer ha sido una fuerza impulsora detrás del programa 4-H Dog, inspirando a generaciones de jóvenes a través de su dedicación, experiencia y compromiso inquebrantable para ayudar a los jóvenes a tener éxito. En reconocimiento"
+    },
+    {
+      "id": "en-2",
       "title": "Ohh My Dog Trailer Launch: Pankaj Tripathi Opens Up About Heartfelt Film",
       "description": "Director Amit Rai, who previously helmed Oh My God 2 starring Akshay Kumar and Pankaj Tripathi, is back with another heartfelt film, Ohh My Dog, once again teaming up with Pankaj Tripathi. The film tells the emotional st",
       "url": "https://bollyy.com/entertainment/ohh-my-dog-trailer-launch-pankaj-tripathi-opens-up-about-heartfelt-film-12187124",
@@ -294,7 +316,7 @@
       "description_es": "El director Amit Rai, que anteriormente dirigió Oh My God 2, protagonizada por Akshay Kumar y Pankaj Tripathi, está de vuelta con otra película sincera, Ohh My Dog, una vez más haciendo equipo con Pankaj Tripathi. La película le dice al emotivo st"
     },
     {
-      "id": "en-1",
+      "id": "en-3",
       "title": "Connecticut Dog Bella Heroes by Chasing Bear Away from Six-Year-Old Boy",
       "description": "A family's dog in Torrington, Connecticut, protected a six-year-old boy from a charging bear, as captured on home security video. The heroic husky mix, Bella, chased the large bear cub away, earning a legislative citatio",
       "url": "https://us.headtopics.com/news/connecticut-dog-bella-heroes-by-chasing-bear-away-from-85823953",
@@ -305,7 +327,7 @@
       "description_es": "El perro de una familia en Torrington, Connecticut, protegió a un niño de seis años de un oso que lo cargaba, como se captura en el video de seguridad del hogar. La heroica mezcla de husky, Bella, ahuyentó al gran cachorro de oso, ganando una cita legislativa"
     },
     {
-      "id": "en-2",
+      "id": "en-4",
       "title": "Joyce's dog outburst shows 'truth' of One Nation on animal welfare, MP says",
       "description": "'I was pretty shocked to see the way he thinks is appropriate.'",
       "url": "https://www.bordermail.com.au/story/9315683/barnaby-joyces-dog-derailed-interview-met-with-ajp-criticism/?src=rss",
@@ -316,7 +338,7 @@
       "description_es": "\"Me sorprendió bastante ver que la forma en que él piensa es apropiada\"."
     },
     {
-      "id": "en-3",
+      "id": "en-5",
       "title": "Pankaj Tripathi on Supporting Small Films: ‘It Wasn’t Made to Be a Blockbuster... If It Reaches People’s Hearts, That’s Its True Collection’",
       "description": "Veteran actor Pankaj Tripathi attended the trailer launch of Ohh My Dog (OMD) in Mumbai along with the film's cast and crew, where he spoke passionately about the importance of supporting meaningful cinema. During the...",
       "url": "https://www.socialnews.xyz/2026/07/22/pankaj-tripathi-on-supporting-small-films-it-wasnt-made-to-be-a-blockbuster-if-it-reaches-peoples-hearts-thats-its-true-collection/",
@@ -327,7 +349,7 @@
       "description_es": "El actor veterano Pankaj Tripathi asistió al lanzamiento del tráiler de Ohh My Dog (OMD) en Mumbai junto con el elenco y el equipo de la película, donde habló apasionadamente sobre la importancia de apoyar el cine significativo. Durante el..."
     },
     {
-      "id": "en-4",
+      "id": "en-6",
       "title": "Understanding kennel cough and its impact on your dog",
       "description": "Kennel cough cases are increasing. Here's what you need to know.",
       "url": "https://www.westernweekender.com.au/2026/07/understanding-kennel-cough-and-its-impact-on-your-dog/",
@@ -338,7 +360,7 @@
       "description_es": "Los casos de tos de las perreras están aumentando. Esto es lo que necesitas saber."
     },
     {
-      "id": "en-5",
+      "id": "en-7",
       "title": "Meet the unlikely new 'CEO' of a popular Somerset shopping centre",
       "description": "A miniature dachshund has been appointed Canine Executive Officer at Clarks Village in Street, Somerset after winning a public vote",
       "url": "https://www.somersetcountygazette.co.uk/news/26298745.clarks-village-street-somerset-gets-unlikely-new-ceo/",
@@ -349,7 +371,7 @@
       "description_es": "Un perro salchicha en miniatura ha sido nombrado director ejecutivo canino en Clarks Village en Street, Somerset, después de ganar una votación pública"
     },
     {
-      "id": "en-6",
+      "id": "en-8",
       "title": "Barnaby Joyce ‘sorry’ for barking at dog in live interview",
       "description": "Barnaby Joyce has apologised for barking at his dog on-air while being grilled on his party’s mounting controversies.",
       "url": "https://thewest.com.au/news/barnaby-joyce-sorry-for-barking-at-dog-in-live-interview-c-22612225",
@@ -360,7 +382,7 @@
       "description_es": "Barnaby Joyce se disculpó por ladrarle a su perro en el aire mientras lo interrogaban sobre las crecientes controversias de su partido."
     },
     {
-      "id": "en-7",
+      "id": "en-9",
       "title": "Barnaby Joyce ‘sorry’ for barking at dog on-air",
       "description": "Barnaby Joyce has apologised for barking at his dog on-air while being grilled on his party’s mounting controversies.",
       "url": "https://au.news.yahoo.com/barnaby-joyce-sorry-barking-dog-032054850.html",
@@ -371,7 +393,7 @@
       "description_es": "Barnaby Joyce se ha disculpado por ladrarle a su perro al aire mientras lo interrogaban sobre las crecientes controversias de su partido."
     },
     {
-      "id": "en-8",
+      "id": "en-10",
       "title": "Is it ever OK to yell at your dog? These experts have advice for Barnaby Joyce",
       "description": "Yelling isn’t the best approach when it comes to training your pet. Here’s what to try instead.",
       "url": "https://www.theage.com.au/lifestyle/life-and-relationships/is-it-ever-ok-to-yell-at-your-dog-these-experts-have-advice-for-barnaby-joyce-20260721-p60h7i.html",
@@ -382,7 +404,7 @@
       "description_es": "Gritar no es el mejor enfoque cuando se trata de entrenar a tu mascota. Esto es lo que debes probar en su lugar."
     },
     {
-      "id": "en-9",
+      "id": "en-11",
       "title": "Hounds on the high road with media star Archie leading the pack to Korumburra",
       "description": "Coal Creek Community Park and Museum in Korumburra has relaxed its official dog policy opening the historical grounds to dogs with South Gippsland media star Archie the Basset Hound leading the pack.",
       "url": "https://www.sgst.com.au/hounds-on-the-high-road-with-media-star-archie-leading-the-pack-to-korumburra/",
@@ -393,7 +415,7 @@
       "description_es": "Coal Creek Community Park and Museum en Korumburra ha relajado su política oficial de perros abriendo los terrenos históricos a los perros con la estrella de los medios de South Gippsland Archie the Basset Hound liderando el grupo."
     },
     {
-      "id": "en-10",
+      "id": "en-12",
       "title": "100 Most Popular Dog Names in the US in 2026: Is Your Dog on the List?",
       "description": "Here is the list of the most popular names for your lovely pet dogs in the United States (US). Check them all out!",
       "url": "https://en.tempo.co/read/2114820/100-most-popular-dog-names-in-the-us-in-2026-is-your-dog-on-the-list",
@@ -404,7 +426,7 @@
       "description_es": "Esta es la lista de los nombres más populares para tus adorables perros mascotas en los Estados Unidos (EE. UU.). ¡Échales un vistazo a todos!"
     },
     {
-      "id": "en-11",
+      "id": "en-13",
       "title": "Barnaby Joyce: One Nation MP responds to criticism after verbal blow-up at pet dog in ABC interview",
       "description": "Barnaby Joyce has defended himself after he was criticised for yelling at his dog during a TV interview, insisting the pet ‘still loves him’.",
       "url": "https://thenightly.com.au/politics/barnaby-joyce-one-nation-mp-responds-to-criticism-after-verbal-blow-up-at-pet-dog-in-abc-interview-c-22610263",
@@ -415,7 +437,7 @@
       "description_es": "Barnaby Joyce se ha defendido después de haber sido criticado por gritarle a su perro durante una entrevista de televisión, insistiendo en que la mascota \"todavía lo ama\"."
     },
     {
-      "id": "en-12",
+      "id": "en-14",
       "title": "The Riley Creek pack’s sole survivor",
       "description": "by Ned Rozell As I was driving down the highway one spring day eight years ago, I saw a shaggy, gray-black canine cruising along on the snowpack, right next to the road. Could it be [...]",
       "url": "https://deltadiscovery.com/the-riley-creek-packs-sole-survivor/",
@@ -426,29 +448,25 @@
       "description_es": "por Ned Rozell Mientras conducía por la carretera un día de primavera hace ocho años, vi a un canino peludo de color negro grisáceo cruzando por la capa de nieve, justo al lado de la carretera. ¿Podría ser [...]"
     },
     {
-      "id": "en-13",
+      "id": "en-15",
       "title": "Best dog ear cleaners with veterinarian-approved ingredients",
       "description": "I evaluated the best dog ear cleaners with veterinarian-backed ingredients to prevent infections, remove wax, control odor, and soothe sensitive ears.",
       "url": "https://www.businessinsider.com/guides/pets/best-dog-ear-cleaners",
       "urlToImage": "https://i.insider.com/69c54ec748461c18d7be654c?width=1200&format=jpeg",
       "publishedAt": "2026-07-21 21:07:21",
-      "sourceName": "insider",
-      "title_es": "Los mejores limpiadores de oídos para perros con ingredientes aprobados por veterinarios",
-      "description_es": "Evalué los mejores limpiadores de oídos para perros con ingredientes respaldados por veterinarios para prevenir infecciones, eliminar la cera, controlar el olor y calmar los oídos sensibles."
+      "sourceName": "insider"
     },
     {
-      "id": "en-14",
+      "id": "en-16",
       "title": "BARK to Announce Fiscal First Quarter 2027 Financial Results on August 6, 2026",
       "description": "BARK, Inc. (NYSE: BARK) (“BARK” or the “Company”), a leading global omnichannel brand with a mission to make all dogs happy, today announced it will report its fiscal first quarter 2027 financial results after market clo",
       "url": "https://www.financialcontent.com/article/bizwire-2026-7-21-bark-to-announce-fiscal-first-quarter-2027-financial-results-on-august-6-2026",
       "urlToImage": null,
       "publishedAt": "2026-07-21 20:15:00",
-      "sourceName": "financialcontent",
-      "title_es": "BARK anunciará los resultados financieros del primer trimestre fiscal de 2027 el 6 de agosto de 2026",
-      "description_es": "BARK, Inc. (NYSE: BARK) (\"BARK\" o la \"Compañía\"), una marca omnicanal líder a nivel mundial con la misión de hacer felices a todos los perros, anunció hoy que informará sus resultados financieros del primer trimestre fiscal de 2027 después del cierre del mercado"
+      "sourceName": "financialcontent"
     },
     {
-      "id": "en-15",
+      "id": "en-17",
       "title": "California Couple organizes protest after dog drowns at daycare",
       "description": "A California couple devastated by the death of their beloved English bulldog while in in the care of a doggy daycare is demanding accountability. The Facebook post for the protest happening Wednesd...",
       "url": "https://us.headtopics.com/news/california-couple-organizes-protest-after-dog-drowns-at-85807608",
@@ -457,43 +475,7 @@
       "sourceName": "headtopics"
     },
     {
-      "id": "en-16",
-      "title": "Understudied dogs may reshape what science knows about canine behavior",
-      "description": "Dogs are humans' best friends in many places across the globe. But does a dog in New York City respond in the same way as a dog in Kyoto or Buenos Aires?",
-      "url": "https://phys.org/news/2026-07-understudied-dogs-reshape-science-canine.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/dog.jpg",
-      "publishedAt": "2026-07-21 19:10:03",
-      "sourceName": "phys"
-    },
-    {
-      "id": "en-17",
-      "title": "Trailer Released for Family Film 'Ohh My Dog' Starring Pankaj Tripathi",
-      "description": "The trailer for 'Ohh My Dog', featuring Pankaj Tripathi, showcases an engaging family story with canine leads Oscar and Bruno.",
-      "url": "https://www.indianewsnetwork.com/en/trailer-released-family-film-ohh-my-dog-starring-pankaj-tripathi-20260722",
-      "urlToImage": null,
-      "publishedAt": "2026-07-21 18:59:32",
-      "sourceName": "indianewsnetwork"
-    },
-    {
       "id": "en-18",
-      "title": "Canine Science is Biased Toward the Western World",
-      "description": "A new study addresses how studies on domestic dogs tend to focus on a Westernized subset.",
-      "url": "https://www.newswise.com/articles/canine-science-is-biased-toward-the-western-world2/?sc=rsla",
-      "urlToImage": "https://www.newswise.com/images/uploads/2026/07/21/6a5f98e43c5d8_v39-AUG-caninescience-featured.jpg",
-      "publishedAt": "2026-07-21 18:10:23",
-      "sourceName": "newswise"
-    },
-    {
-      "id": "en-19",
-      "title": "Canine Science Skewed Toward Western Bias",
-      "description": "Dogs are human's best friends in many places across the globe. But does a dog in New York City respond in the same way as a dog in Kyoto? Or Buenos",
-      "url": "https://www.miragenews.com/canine-science-skewed-toward-western-bias-1713824/",
-      "urlToImage": null,
-      "publishedAt": "2026-07-21 18:03:17",
-      "sourceName": "miragenews"
-    },
-    {
-      "id": "en-20",
       "title": "Canine cardio? How a mobile dog gym keeps your pup healthy",
       "description": "Waggin' Wheels is a mobile dog gym in Halifax that comes right to your door. The business helps dogs exercise safely in the heat of summer or in the dead of win...",
       "url": "https://www.cbc.ca/player/play/video/9.6888463?cmp=rss",
@@ -502,7 +484,7 @@
       "sourceName": "cbc.ca"
     },
     {
-      "id": "en-21",
+      "id": "en-19",
       "title": "Truck Swerves To Hit Dog, Misses, Then Crushes Pregnant Canine In 2nd Try",
       "description": "A heart-wrenching video from Jaipur shows a pickup truck swerving to allegedly try and run over a dog and then crushing another pregnant canine to death.",
       "url": "https://www.ndtv.com/india-news/jaipur-truck-swerves-to-hit-dog-crushes-pregnant-canine-when-1st-attempt-fails-8181842",
@@ -511,7 +493,7 @@
       "sourceName": "ndtv.com"
     },
     {
-      "id": "en-22",
+      "id": "en-20",
       "title": "Madras Canine Club’s dog shows draw to a close",
       "description": "All Breeds Championship dog shows by Madras Canine Club conclude with German Shepherds and Doberman winning top prizes.",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-dog-shows-draw-to-a-close/article69116790.ece",
@@ -520,7 +502,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-23",
+      "id": "en-21",
       "title": "Is dog perfume necessary for your canine companion?",
       "description": "Luxury fashion house Dolce & Gabbana has unveiled a new dog perfume named \"Fefé.\"",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/is-dog-perfume-necessary-for-your-canine-companion/",
@@ -529,7 +511,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-24",
+      "id": "en-22",
       "title": "Recognising signs of canine asthma in your Dog",
       "description": "Asthma in dogs is an allergic disease characterised by inflammation and constriction of the small airways in the lungs...",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/recognising-signs-of-canine-asthma-in-your-dog/",
@@ -538,7 +520,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-25",
+      "id": "en-23",
       "title": "Taiwan to soon welcome its first indigenous dog as a police canine",
       "description": "",
       "url": "https://focustaiwan.tw/society/202404200004",
@@ -547,7 +529,7 @@
       "sourceName": "focustaiwan.tw"
     },
     {
-      "id": "en-26",
+      "id": "en-24",
       "title": "Detroit TSA canine handler suspended over video of him pulling dog",
       "description": "A TSA canine handler was suspended from his duties after a viral video captured him aggressively yanking a bomb-detecting dog in a busy airport.",
       "url": "https://nypost.com/2023/05/08/detroit-tsa-worker-suspended-over-video-of-him-pulling-dog/",
@@ -556,7 +538,7 @@
       "sourceName": "nypost.com"
     },
     {
-      "id": "en-27",
+      "id": "en-25",
       "title": "Curtains come down on Madras Canine Club’s dog shows",
       "description": "570 dogs belonging to 69 breeds participated in the two-day event",
       "url": "https://www.thehindu.com/news/cities/chennai/curtains-come-down-on-madras-canine-clubs-dog-shows/article65880058.ece",
@@ -565,7 +547,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-28",
+      "id": "en-26",
       "title": "Madras Canine Club’s All Breeds Championship Dog Shows begin",
       "description": "Over 570 canines from 69 different breeds have registered this year",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-all-breeds-championship-dog-shows-begin/article65875162.ece",
