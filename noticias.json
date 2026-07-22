@@ -1,8 +1,80 @@
 {
-  "generatedAt": "2026-07-22T11:49:07.984Z",
+  "generatedAt": "2026-07-22T13:44:13.707Z",
   "es": [
     {
       "id": "es-0",
+      "title": "‘Good Boy’, la película de terror que cuenta su historia desde los ojos de un perro, llegó a streaming",
+      "description": "La película ‘Good Boy’ se estrena en Prime Video. Descubre su trama y curiosidades.",
+      "url": "https://www.elcomercio.com/tendencias/good-boy-llega-prime-video-vale-pena-verla/",
+      "urlToImage": "https://media.elcomercio.com/wp-content/uploads/2026/07/9673d3cfbd8511b666a6c28176f31a46.jpg",
+      "publishedAt": "2026-07-22 01:30:00",
+      "sourceName": "elcomercio_com"
+    },
+    {
+      "id": "es-1",
+      "title": "Día Mundial del Perro: Marina reconoce a los canes que salvan vidas y combaten el crimen",
+      "description": "Los binomios caninos constituyen una herramienta elemental en las labores de búsqueda y rescate, así como en diversas operaciones de apoyo a la seguridad. The post Día Mundial del Perro: Marina reconoce a los canes qu",
+      "url": "https://www.capitalmexico.com.mx/nacional/dia-mundial-del-perro-marina-reconoce-a-los-canes-que-salvan-vidas-y-combaten-el-crimen/",
+      "urlToImage": "https://www.capitalmexico.com.mx/wp-content/uploads/2026/07/Marina-reconoce-a-los-canes-que-salvan-vidas-y-combaten-el-crimen.jpg",
+      "publishedAt": "2026-07-22 01:08:21",
+      "sourceName": "capitalmexico_mx"
+    },
+    {
+      "id": "es-2",
+      "title": "Alistan generación de lomitos inspectores",
+      "description": "\"En el marco del Día Internacional del Perro, indicó que el adiestramiento permite dar una segunda oportunidad a animales en situación de abandono",
+      "url": "https://diario.mx/escaparate/2026/jul/21/alistan-generacion-de-lomitos-inspectores-1129076.html",
+      "urlToImage": "https://diario.mx/core/dmx/assets/images/2026/07/21/imagetransformer-2IMUylT86.jpg",
+      "publishedAt": "2026-07-22 00:58:29",
+      "sourceName": "diario"
+    },
+    {
+      "id": "es-3",
+      "title": "Tsunami encabezó homenaje a los héroes caninos",
+      "description": "En el marco de la conmemoración del Día Mundial del Perro, este martes se realizó desde los espacios del Teatro Ateneo de Turmero, en el municipio Santiago Mariño, un acto de reconocimiento a los caninos rescatistas ",
+      "url": "https://elsiglo.com.ve/tsunami-encabezo-homenaje-a-los-heroes-caninos/",
+      "urlToImage": "https://elsiglo.com.ve/wp-content/uploads/2026/07/IMG-20260721-WA0071.jpg",
+      "publishedAt": "2026-07-22 00:54:17",
+      "sourceName": "elsiglo"
+    },
+    {
+      "id": "es-4",
+      "title": "Premios caseros para perros: ¿Cómo consentir a tu mascota sin gastar de más?",
+      "description": "Especialistas en nutrición veterinaria recomiendan alternativas naturales y económicas para consentir a nuestras mascotas todos los días sin comprometer su salud",
+      "url": "https://www.informador.mx/estilo/premios-caseros-para-perros-como-consentir-a-tu-mascota-sin-gastar-de-mas-20260721-0177.html",
+      "urlToImage": "https://www.informador.mx/__export/1784681109965/sites/elinformador/img/2026/07/21/snacks_para_perros_version1784681101612.png_1104095904.png",
+      "publishedAt": "2026-07-22 00:51:00",
+      "sourceName": "informador_mx"
+    },
+    {
+      "id": "es-5",
+      "title": "Agricultura entrena cinco binomios caninos en detección de productos agrícolas de riesgo",
+      "description": "Se trata de cinco canes rescatados de albergues que junto con oficiales de República Dominicana y Belice vigilarán en puertos, aeropuertos y fronteras la introducción y diseminación de plagas y enfermedades de planta",
+      "url": "https://www.cronica.com.mx/nacional/2026/07/21/agricultura-entrena-cinco-binomios-caninos-en-deteccion-de-productos-agricolas-de-riesgo/",
+      "urlToImage": "https://www.cronica.com.mx/resizer/v2/LDM5QLLHA5HLNFOZTLLFA6FZHM.jpeg?auth=856cde357531a608e6f27acb1bf9b3ac304320fe19eae7439d689a1e0b6a5446&smart=true&width=1200&height=900",
+      "publishedAt": "2026-07-22 00:40:18",
+      "sourceName": "cronica_mx"
+    },
+    {
+      "id": "es-6",
+      "title": "Capacitan a Binomios Caninos para proteger el patrimonio agroalimentario",
+      "description": "CDMX.- Con el propósito de fortalecer la protección sanitaria ante el riesgo de introducción y diseminación de plagas y enfermedades de plantas y animales, la Secretaría de Agricultura y Desarrollo Rural (AGRICULTUR",
+      "url": "https://www.masnoticias.mx/capacitan-a-binomios-caninos-para-proteger-el-patrimonio-agroalimentario/",
+      "urlToImage": "https://www.rtv.org.mx/masnoticias/wp-content/uploads/sites/13/2026/07/caninos.jpg",
+      "publishedAt": "2026-07-22 00:20:50",
+      "sourceName": "masnoticias_mx"
+    },
+    {
+      "id": "es-7",
+      "title": "Condecorados 12 caninos de rescate por sus labores de búsqueda y salvamento",
+      "description": "El homenaje reunió a delegaciones procedentes de los estados Aragua, Miranda, La Guaira y la ciudad de Caracas, cuyos equipos especializados participaron en labores de localización en las Residencias Bosque Lindo",
+      "url": "https://www.notitarde.com.ve/pais/104336/condecorados-12-caninos-de-rescate-por-sus-labores-de-busqueda-y-salvamento",
+      "urlToImage": null,
+      "publishedAt": "2026-07-22 00:00:00",
+      "sourceName": "notitarde"
+    },
+    {
+      "id": "es-8",
       "title": "Marina reconoce labor de canes en el Día Mundial del Perro; \"son fundamentales en rescates\"",
       "description": "La Secretaría de Marina cuenta con 24 ejemplares caninos operativos, los cuales emplean equipo de protección",
       "url": "https://www.eluniversal.com.mx/nacion/marina-reconoce-labor-de-canes-en-el-dia-mundial-del-perro-son-fundamentales-en-rescates/",
@@ -11,7 +83,7 @@
       "sourceName": "eluniversal"
     },
     {
-      "id": "es-1",
+      "id": "es-9",
       "title": "Mantiene Semar 24 caninos para rescate y detección",
       "description": "La Secretaría indicó que los 24 ejemplares activos están especializados en localizar personas, explosivos y drogas",
       "url": "https://eldiariodechihuahua.mx/nacional/2026/jul/21/mantiene-semar-24-caninos-para-rescate-y-deteccion-819932.html",
@@ -20,7 +92,7 @@
       "sourceName": "eldiariodechihuahua"
     },
     {
-      "id": "es-2",
+      "id": "es-10",
       "title": "Semar reconoce labor de binomios caninos en rescate",
       "description": "Semar reconoce labor binomios caninos en búsqueda y rescate durante Día Mundial del Perro 2026.",
       "url": "https://pulsoslp.com.mx/nacional/semar-reconoce-labor-de-binomios-caninos-en-rescate/2069062",
@@ -29,7 +101,7 @@
       "sourceName": "pulsoslp_mx"
     },
     {
-      "id": "es-3",
+      "id": "es-11",
       "title": "Día Mundial del Perro: Fomentan la adopción responsable y el bienestar de las mascotas",
       "description": "Día Mundial del Perro: Fomentan la adopción responsable y el bienestar de las mascotas Cada 21 de julio se conmemora el Día Mundial del Perro, una fecha dedicada a reconocer el impacto positivo de estos animales de co",
       "url": "https://perspectiva.gt/lifestyle/dia-mundial-del-perro-tenencia-responsable-bienestar-animal/",
@@ -38,7 +110,7 @@
       "sourceName": "perspectiva"
     },
     {
-      "id": "es-4",
+      "id": "es-12",
       "title": "VIDEO: Mujer arrastra con su camioneta a perrito en Saltillo; usuarios en redes sociales exigen justicia para Rocky",
       "description": "Luego de ser arrastrado mientras iba amarrado a la parte trasera, su dueña le pasó por encima en al menos tres ocasiones, provocando serias lesiones en la mascota",
       "url": "https://www.eluniversal.com.mx/tendencias/video-mujer-arrastra-con-su-camioneta-a-perrito-en-saltillo-usuarios-en-redes-sociales-exigen-justicia-para-rocky/",
@@ -47,7 +119,7 @@
       "sourceName": "eluniversal"
     },
     {
-      "id": "es-5",
+      "id": "es-13",
       "title": "Reconoce SSPC Morelos labor de binomios caninos en la búsqueda de personas desaparecidas",
       "description": "*Mensualmente participan en diligencias coordinadas con autoridades judiciales y en acompañamiento a colectivos de Madres Buscadoras* En el marco del Día Mundial del Perro que se conmemora este 21 de julio, la Secretar",
       "url": "https://www.launion.com.mx/morelos/avances/noticias/296978-reconoce-sspc-morelos-labor-de-binomios-caninos-en-la-busqueda-de-personas-desaparecidas.html",
@@ -56,7 +128,7 @@
       "sourceName": "launionmk"
     },
     {
-      "id": "es-6",
+      "id": "es-14",
       "title": "Día Mundial del Perro: 5 perritos virales de Veracruz",
       "description": "Del lomito surfista de Alvarado hasta la rescatista de la Cruz Roja; te presentamos 5 perritos de Veracruz que se han vuelto virales",
       "url": "https://lasillarota.com/veracruz/vida/2026/7/21/dia-mundial-del-perro-perritos-virales-de-veracruz-609513.html",
@@ -65,7 +137,7 @@
       "sourceName": "lasillarota"
     },
     {
-      "id": "es-7",
+      "id": "es-15",
       "title": "21 de Julio Día del amigo canino",
       "description": "Hoy es el Día del Perro, ese día dedicado a los ángeles... La entrada 21 de Julio Día del amigo canino se publicó primero en El Periódico de Monagas Noticias de Maturín Monagas Venezuela. .",
       "url": "https://elperiodicodemonagas.com.ve/venezuela/21-de-julio-dia-del-amigo-canino/",
@@ -74,7 +146,7 @@
       "sourceName": "elorientaldemonagas"
     },
     {
-      "id": "es-8",
+      "id": "es-16",
       "title": "Víctor Padilla, educador canino: \"Muchas veces los llevamos con nosotros porque queremos que nos acompañen, no porque realmente estén cómodos\"",
       "description": "Alba Fernández y Víctor Padilla , educadores caninos, han presentado en ' Mundo Deportivo ' su nueva publicación, 'Tu perro habla. Aprende a entenderlo '. Además, son fundadores de la escuela 'Olfateando el mundo', a",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260721/1004208940/victor-padilla-educador-canino-muchas-veces-llevamos-queremos-acompanen-no-realmente-esten-comodos-expt-dct.html",
@@ -83,7 +155,7 @@
       "sourceName": "mundodeportivo"
     },
     {
-      "id": "es-9",
+      "id": "es-17",
       "title": "Senasica jubila a 5 perros inspectores e inicia adiestramiento de binomios para el Caribe",
       "description": "En el marco del Día Internacional del Perro, el Senasica rindió homenaje a Maiden, Queen, Onix, Wera y Ury, cinco perros inspectores que concluyeron exitosamente su vida laboral",
       "url": "https://oem.com.mx/la-prensa/metropoli/senasica-jubila-a-5-perros-inspectores-e-inicia-adistramiento-de-binomios-para-el-caribe-31233387",
@@ -92,7 +164,7 @@
       "sourceName": "la_prensa_mx"
     },
     {
-      "id": "es-10",
+      "id": "es-18",
       "title": "Día Internacional del Perro: por qué se celebra y cuáles son las razas peruanas que forman parte del patrimonio nacional",
       "description": "Cada 21 de julio se conmemora el Día Internacional del Perro, una fecha dedicada a reconocer el papel que estas (...) La entrada Día Internacional del Perro: por qué se celebra y cuáles son las razas peruanas que for",
       "url": "https://altavoz.pe/locales/dia-internacional-del-perro-por-que-se-celebra-y-cuales-son-las-razas-peruanas-que-forman-parte-del-patrimonio-nacional/",
@@ -101,7 +173,7 @@
       "sourceName": "altavoz"
     },
     {
-      "id": "es-11",
+      "id": "es-19",
       "title": "Olfato de acero: el superpoder canino que protege el campo mexicano",
       "description": "Sin duda, los perros son más que leales compañeros, son importantes aliados para la seguridad alimentaria de nuestro país. Hablar de los perros es hablar de miles de años de amistad juntos. Así es, con... The post O",
       "url": "https://www.masnoticias.mx/olfato-de-acero-el-superpoder-canino-que-protege-el-campo-mexicano/",
@@ -110,7 +182,7 @@
       "sourceName": "masnoticias_mx"
     },
     {
-      "id": "es-12",
+      "id": "es-20",
       "title": "Semar homenajea a sus binomios caninos por su labor de búsqueda, rescate y seguridad nacional",
       "description": "",
       "url": "https://www.razon.com.mx/mexico/2026/07/21/semar-homenajea-a-sus-binomios-caninos-por-su-labor-de-busqueda-rescate-y-seguridad-nacional/",
@@ -119,7 +191,7 @@
       "sourceName": "razon"
     },
     {
-      "id": "es-13",
+      "id": "es-21",
       "title": "Viajar con perros en Renfe es posible: estas son las condiciones y los precios de la compañía",
       "description": "El Consejo de Ministros ha sacado adelante, coincidiendo con el Día Mundial del Perro, una normativa que permite viajar a perros de hasta 40 kilos.",
       "url": "https://www.ondacero.es/noticias/sociedad/viajar-perros-renfe-posible-estas-son-condiciones-precios-compania_202607216a5fc5ffe3eb0b64aa4c1c0f.html",
@@ -128,7 +200,7 @@
       "sourceName": "ondacero"
     },
     {
-      "id": "es-14",
+      "id": "es-22",
       "title": "Así trabajan los 15 perros policía de la Unidad K-9 que ayudan a detectar drogas, armas y restos óseos en el estado",
       "description": "Esta unidad se integra más de 10 agentes caninos con ejemplares de razas como Pastor Belga Malinois, Pastor Alemán y Pastor Holandés",
       "url": "https://oem.com.mx/elsoldelcentro/local/asi-trabajan-los-15-perros-policia-de-la-unidad-k-9-que-ayudan-a-detectar-drogas-armas-y-restos-oseos-en-aguascalientes-31232288",
@@ -137,7 +209,7 @@
       "sourceName": "elsoldelcentro_mx"
     },
     {
-      "id": "es-15",
+      "id": "es-23",
       "title": "¿Los perros sufren depresión y ansiedad? Causas, síntomas y tratamiento en el Día Internacional del Perro",
       "description": "En este Día Internacional del Perro, descubre si tu mascota padece ansiedad o depresión, sus síntomas clave y cómo cuidar su salud mental hoy.",
       "url": "https://www.eltiempo.com/cultura/los-perros-sufren-depresion-y-ansiedad-causas-sintomas-y-tratamiento-en-el-dia-internacional-del-perro-3572677",
@@ -146,7 +218,7 @@
       "sourceName": "eltiempocl"
     },
     {
-      "id": "es-16",
+      "id": "es-24",
       "title": "Los primeros dueños vallisoletanos estrenan viajar con sus perros XL: «Es un alivio no tener que dejarlo»",
       "description": "Los viajeros aplauden que Renfe permita viajar con canes de menos de 40 kilos, aunque el límite de dos animales por coche y los transbordos aún generan problemas",
       "url": "https://www.elnortedecastilla.es/valladolid/mejor-amigo-hombre-estrena-billete-renfe-abre-20260721163731-nt.html",
@@ -155,7 +227,7 @@
       "sourceName": "elnortedecastilla"
     },
     {
-      "id": "es-17",
+      "id": "es-25",
       "title": "20 cosas que hace tu perro que tienen un significado específico que la mayoría de los dueños malinterpretan",
       "description": "Los significados del lenguaje corporal de los perros a menudo se malinterpretan, y esta guía desglosa 20 comportamientos comunes y lo que tu perro realmente está señalando.",
       "url": "https://es.qz.com/significados-del-lenguaje-corporal-del-perro",
@@ -164,61 +236,7 @@
       "sourceName": "qz_es"
     },
     {
-      "id": "es-18",
-      "title": "Día Mundial del Perro impulsó el interés de miles de usuarios; conozca cuáles son las razas más inteligentes según la ciencia",
-      "description": "Un análisis sobre la capacidad de aprendizaje, lógica y resolución de problemas que caracteriza a los ejemplares caninos más astutos según los científicos.",
-      "url": "https://www.elpais.com.co/mundo/dia-mundial-del-perro-impulso-el-interes-de-miles-de-usuarios-conozca-cuales-son-las-razas-mas-inteligentes-segun-la-ciencia-2122.html",
-      "urlToImage": "https://semana-el-pais-prod.web.arc-cdn.net/resizer/v2/JCJZDKXSLZCG3O5MWJSUFXQNTQ.png?auth=48b156389c3ac1f5f6dace1395bb8e3c1337f0d59ce1485d8a0b7e9f6d00bc94&smart=true&width=1400&height=900",
-      "publishedAt": "2026-07-21 17:08:22",
-      "sourceName": "elpaiscl"
-    },
-    {
-      "id": "es-19",
-      "title": "Día Mundial del Perro: ¿Tu lomito está realmente sano? Estos son los hábitos que debes revisar según experta",
-      "description": "Andrea Bernal, experta en nutrición y comportamiento canino, comparte tres recomendaciones para cuidar mejor a los perros y fortalecer su salud física y mental",
-      "url": "https://heraldodemexico.com.mx/nacional/2026/7/21/dia-mundial-del-perro-tu-lomito-esta-realmente-sano-estos-son-los-habitos-que-debes-revisar-segun-experta-854000.html",
-      "urlToImage": "https://heraldodemexico.com.mx/u/fotografias/m/2026/7/21/f1280x720-1309431_1441106_5050.jpg",
-      "publishedAt": "2026-07-21 16:59:14",
-      "sourceName": "heraldodemexico"
-    },
-    {
-      "id": "es-20",
-      "title": "Perros en los trenes de larga distancia: ¿solución o molestia?",
-      "description": "La medida del Ministerio de Transportes asigna a las mascotas, de hasta 40 kg, un asiento en la ventanilla",
-      "url": "https://www.lavanguardia.com/vida/20260721/11597872/perros-trenes-larga-distancia-solucion-molestia.html",
-      "urlToImage": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/21/6a5f9aba027a2.r_d.2681-2228-0.jpeg",
-      "publishedAt": "2026-07-21 16:28:58",
-      "sourceName": "lavanguardia"
-    },
-    {
-      "id": "es-21",
-      "title": "Víctor Algra, veterinario: “Raparle el pelo a un perro en verano le expone más al calor y al sol”",
-      "description": "Cuando llega el verano y las temperaturas se disparan, muchas personas buscan la mejor forma de aliviar el calor de sus perros. Entre las soluciones más habituales está la de rapar completamente el pelaje, una decisió",
-      "url": "https://expertoanimal.elperiodico.com/victor-algra-veterinario-raparle-el-pelo-a-un-perro-en-verano-le-expone-mas-al-calor-y-al-sol-28560.html",
-      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/cb5012dd-4193-434a-a000-0bbfd1f18c25_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "publishedAt": "2026-07-21 16:00:00",
-      "sourceName": "elperiodicodearagon"
-    },
-    {
-      "id": "es-22",
-      "title": "Andreu Fernández, educador canino: \"No hay perros agresivos. No podemos etiquetar a los perros como si etiquetáramos a las personas\"",
-      "description": "El experto explica que los ladridos, gruñidos o mordiscos son conductas puntuales que pueden estar relacionadas con el miedo, el estrés, la alimentación o problemas de salud",
-      "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-07-21/andreu-fernandez-educador-canino_4392754/",
-      "urlToImage": "https://images.ecestaticos.com/xVM5NbvmQSsLpiu4sDS7HAvY954=/0x0:1500x1000/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4cd%2F984%2Fe45%2F4cd984e45c7ab548461f0aa7acb173bb.jpg",
-      "publishedAt": "2026-07-21 15:00:00",
-      "sourceName": "elconfidencial"
-    },
-    {
-      "id": "es-23",
-      "title": "Denuncian ahorcamiento de perro en Jitotol, Chiapas; activistas exigen castigo a responsables",
-      "description": "El caso quedó evidenciado en un video grabado por uno de los habitantes en el que se observa el momento en que varias personas atentan contra la vida del perro",
-      "url": "https://heraldodemexico.com.mx/nacional/2026/7/21/denuncian-ahorcamiento-de-perro-en-jitotol-chiapas-activistas-exigen-castigo-responsables-853960.html",
-      "urlToImage": "https://heraldodemexico.com.mx/u/fotografias/m/2026/7/21/f1280x720-1309398_1441073_7725.jpg",
-      "publishedAt": "2026-07-21 14:59:02",
-      "sourceName": "heraldodemexico"
-    },
-    {
-      "id": "es-24",
+      "id": "es-26",
       "title": "Enrique Molina, adiestrador canino: \"No debemos dormir con nuestro perro, porque invade un espacio muy personal del dueño\"",
       "description": "Enrique Molina es un conocido adiestrador canino que ayuda a dueños de perros a saber cómo educar a su mascota para que sepa comportarse en casa, entre otras ...",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260510/1004181518/enrique-molina-adiestrador-canino-no-debemos-dormir-nuestro-perro-invade-espacio-personal-dueno-dct.html",
@@ -227,7 +245,7 @@
       "sourceName": "mundodeportivo.com"
     },
     {
-      "id": "es-25",
+      "id": "es-27",
       "title": "Alan Peiró, adiestrador canino: “Cuando un perro se muestra agresivo, lo hace por miedo”",
       "description": "El experto en comportamiento animal brindó consejos para tratar las reacciones violentas de las mascotas.",
       "url": "https://tn.com.ar/mascotas/2026/03/27/alan-peiro-adiestrador-canino-cuando-un-perro-se-muestra-agresivo-lo-hace-por-miedo/",
@@ -236,7 +254,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-26",
+      "id": "es-28",
       "title": "Juan Cervantes, adiestrador canino: “Al volver a tu casa debés ignorar al perro por 5 minutos”",
       "description": "Un experto en mascotas explicó por qué no saludar a tu mascota al regresar al hogar y las consecuencias que eso genera.",
       "url": "https://tn.com.ar/sociedad/2026/03/20/juan-cervantes-adiestrador-canino-al-volver-a-tu-casa-debes-ignorar-al-perro-por-5-minutos/",
@@ -245,7 +263,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-27",
+      "id": "es-29",
       "title": "Juan Cervantes, adiestrador canino: “Cuanto más llames a tu perro por su nombre, menos caso te hace”",
       "description": "El experto influencer explicó el motivo por el que utilizar esta técnica no es la mejor forma para llamar la atención de tu mascota.",
       "url": "https://tn.com.ar/sociedad/2026/03/19/juan-cervantes-adiestrador-canino-cuanto-mas-llames-a-tu-perro-por-su-nombre-menos-caso-te-hace/",
@@ -254,7 +272,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-28",
+      "id": "es-30",
       "title": "Qué siente tu perro cuando sale a pasear, según expertos en comportamiento canino",
       "description": "Ese momento cotidiano es mucho más importante de lo que parece. La ciencia del comportamiento canino explica cómo impacta en el equilibrio emocional, la condu...",
       "url": "https://tn.com.ar/sociedad/2026/02/22/que-siente-tu-perro-cuando-sale-a-pasear-segun-expertos-en-comportamiento-canino/",
@@ -263,7 +281,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-29",
+      "id": "es-31",
       "title": "Qué siente tu perro cuando le gritás, según expertos en comportamiento canino",
       "description": "El tono de voz humano tiene un impacto directo en las emociones de los animales.",
       "url": "https://tn.com.ar/sociedad/2026/02/16/que-siente-tu-perro-cuando-le-gritas-segun-expertos-en-comportamiento-canino/",
@@ -272,7 +290,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-30",
+      "id": "es-32",
       "title": "Por qué no hay que saludar al perro al llegar a casa, según un entrenador canino",
       "description": "Víctor Mañero, reconocido adiestrador canino, reveló el motivo por el cual esta acción puede generarles a los animales gran estrés y ansiedad; qué dijo - ...",
       "url": "https://www.lanacion.com.ar/lifestyle/mascotas/por-que-no-hay-que-saludar-al-perro-al-llegar-a-casa-segun-un-entrenador-canino-nid02052025/",
@@ -281,7 +299,7 @@
       "sourceName": "lanacion.com.ar"
     },
     {
-      "id": "es-31",
+      "id": "es-33",
       "title": "“Perro gay”: ovacionan a un canino en marcha LGBT+ de Guadalajara",
       "description": "El divertido y controversial momento sucedió cuando su cuidadora lo alzó y todos los asistentes no dudaron en gritar y aclamarlo mientras él sacaba su lengua...",
       "url": "https://www.infobae.com/america/entretenimiento/2022/06/19/perro-gay-ovacionan-a-un-canino-en-marcha-lgbt-de-guadalajara/",
@@ -530,15 +548,6 @@
     },
     {
       "id": "en-23",
-      "title": "Ohh My Dog trailer out: Pankaj Tripathi joins brave canine to expose shocking racket",
-      "description": "Ohh My Dog trailer out: The trailer of Ohh My Dog offers an emotional and action-packed glimpse into a story of friendship, compassion and courage as a loyal dog helps uncover a major criminal racket. Starring Pankaj Tri",
-      "url": "https://zeenews.india.com/bollywood/ohh-my-dog-trailer-out-pankaj-tripathi-joins-brave-canine-to-expose-shocking-racket-3062312.html",
-      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2026/07/21/1965874-ty.jpg",
-      "publishedAt": "2026-07-21 15:44:00",
-      "sourceName": "zeenews"
-    },
-    {
-      "id": "en-24",
       "title": "Canine cardio? How a mobile dog gym keeps your pup healthy",
       "description": "Waggin' Wheels is a mobile dog gym in Halifax that comes right to your door. The business helps dogs exercise safely in the heat of summer or in the dead of win...",
       "url": "https://www.cbc.ca/player/play/video/9.6888463?cmp=rss",
@@ -547,7 +556,7 @@
       "sourceName": "cbc.ca"
     },
     {
-      "id": "en-25",
+      "id": "en-24",
       "title": "Truck Swerves To Hit Dog, Misses, Then Crushes Pregnant Canine In 2nd Try",
       "description": "A heart-wrenching video from Jaipur shows a pickup truck swerving to allegedly try and run over a dog and then crushing another pregnant canine to death.",
       "url": "https://www.ndtv.com/india-news/jaipur-truck-swerves-to-hit-dog-crushes-pregnant-canine-when-1st-attempt-fails-8181842",
@@ -556,7 +565,7 @@
       "sourceName": "ndtv.com"
     },
     {
-      "id": "en-26",
+      "id": "en-25",
       "title": "Madras Canine Club’s dog shows draw to a close",
       "description": "All Breeds Championship dog shows by Madras Canine Club conclude with German Shepherds and Doberman winning top prizes.",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-dog-shows-draw-to-a-close/article69116790.ece",
@@ -565,7 +574,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-27",
+      "id": "en-26",
       "title": "Is dog perfume necessary for your canine companion?",
       "description": "Luxury fashion house Dolce & Gabbana has unveiled a new dog perfume named \"Fefé.\"",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/is-dog-perfume-necessary-for-your-canine-companion/",
@@ -574,7 +583,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-28",
+      "id": "en-27",
       "title": "Recognising signs of canine asthma in your Dog",
       "description": "Asthma in dogs is an allergic disease characterised by inflammation and constriction of the small airways in the lungs...",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/recognising-signs-of-canine-asthma-in-your-dog/",
@@ -583,7 +592,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-29",
+      "id": "en-28",
       "title": "Taiwan to soon welcome its first indigenous dog as a police canine",
       "description": "",
       "url": "https://focustaiwan.tw/society/202404200004",
@@ -592,7 +601,7 @@
       "sourceName": "focustaiwan.tw"
     },
     {
-      "id": "en-30",
+      "id": "en-29",
       "title": "Detroit TSA canine handler suspended over video of him pulling dog",
       "description": "A TSA canine handler was suspended from his duties after a viral video captured him aggressively yanking a bomb-detecting dog in a busy airport.",
       "url": "https://nypost.com/2023/05/08/detroit-tsa-worker-suspended-over-video-of-him-pulling-dog/",
@@ -601,7 +610,7 @@
       "sourceName": "nypost.com"
     },
     {
-      "id": "en-31",
+      "id": "en-30",
       "title": "Curtains come down on Madras Canine Club’s dog shows",
       "description": "570 dogs belonging to 69 breeds participated in the two-day event",
       "url": "https://www.thehindu.com/news/cities/chennai/curtains-come-down-on-madras-canine-clubs-dog-shows/article65880058.ece",
@@ -610,7 +619,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-32",
+      "id": "en-31",
       "title": "Madras Canine Club’s All Breeds Championship Dog Shows begin",
       "description": "Over 570 canines from 69 different breeds have registered this year",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-all-breeds-championship-dog-shows-begin/article65875162.ece",
