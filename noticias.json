@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T16:55:27.053Z",
+  "generatedAt": "2026-07-26T17:59:49.922Z",
   "es": [
     {
       "id": "es-0",
@@ -257,6 +257,17 @@
   "en": [
     {
       "id": "en-0",
+      "title": "‘Every dog stole a few hearts’ - care home canines all a winner at dog show",
+      "description": "There was certainly no ‘ruff’ justice to be seen when a care home held its very own dog show.",
+      "url": "https://www.northern-scot.co.uk/news/every-dog-stole-a-few-hearts-care-home-canines-all-a-win-440605/",
+      "urlToImage": "https://www.northern-scot.co.uk/_media/img/ENEPUGUSW48I8YX8S540.jpg",
+      "publishedAt": "2026-07-26 05:30:00",
+      "sourceName": "northern_scot",
+      "title_es": "\"Cada perro robó unos cuantos corazones\": todos los caninos de un hogar de cuidados ganaron en una exposición canina",
+      "description_es": "Ciertamente no había justicia \"ruff\" cuando un hogar de cuidados tenía su propia exposición canina."
+    },
+    {
+      "id": "en-1",
       "title": "Art gallery boss fed up with dogs urinating on business",
       "description": "Steve Farnsworth, who has owned and operated Grimes House Gallery for the last 48 years, has put up new signs aimed at stopping dog owners from letting their four-legged friends urinate outside the business.",
       "url": "https://www.eveshamjournal.co.uk/news/26402780.grimes-house-gallery-not-canine-urination-location/",
@@ -267,7 +278,7 @@
       "description_es": "Steve Farnsworth, propietario y operador de la galería Grimes House durante los últimos 48 años, ha colocado nuevos carteles para evitar que los dueños de perros dejen que sus amigos de cuatro patas orinen fuera del negocio."
     },
     {
-      "id": "en-1",
+      "id": "en-2",
       "title": "'True gentleman' Yoshi looking for a new home",
       "description": "Yoshi, a 10-year-old whippet is being looked after at Dogs Trust Merseyside and needs a new place to call home.",
       "url": "https://www.wirralglobe.co.uk/news/26403841.dog-week-true-gentleman-yoshi-looking-new-home/",
@@ -278,7 +289,7 @@
       "description_es": "Yoshi, un whippet de 10 años de edad, está siendo atendido en Dogs Trust Merseyside y necesita un nuevo lugar al que llamar hogar."
     },
     {
-      "id": "en-2",
+      "id": "en-3",
       "title": "Do you know the signs of heatstroke in your pets?",
       "description": "I wanted to share with you the signs that you dog or cat is starting to suffer from the heat and what to do about it, writes pet expert Sara Barnes.",
       "url": "https://www.lincsonline.co.uk/grantham/news/do-you-know-the-signs-of-heatstroke-in-your-pets-9474939/",
@@ -289,7 +300,7 @@
       "description_es": "Quería compartir contigo las señales de que tu perro o gato está empezando a sufrir el calor y qué hacer al respecto, escribe la experta en mascotas Sara Barnes."
     },
     {
-      "id": "en-3",
+      "id": "en-4",
       "title": "St Giles column: My dog's injury gave me a rude awakening over treats",
       "description": "Dog cruciate ligament injury: Jacqui Budd shares tips on canine weight loss, healthy treats and pet care. Cleo the lurcher seeks adoption in the UK.",
       "url": "https://www.somersetcountygazette.co.uk/news/26298402.st-giles-column-calorie-free-alternative-pets-treats/",
@@ -300,7 +311,7 @@
       "description_es": "Lesión del ligamento cruzado del perro: Jacqui Budd comparte consejos sobre pérdida de peso canina, golosinas saludables y cuidado de mascotas. Cleo the lurcher busca la adopción en el Reino Unido."
     },
     {
-      "id": "en-4",
+      "id": "en-5",
       "title": "12 Ways Dogs Heal Senior Hearts Daily",
       "description": "Dogs have an incredible way of soothing senior hearts, one wag at a time. From easing loneliness with their loyal companionship to encouraging gentle daily",
       "url": "https://www.newsbreak.com/doggo-digest-318442522/4791644536997-12-ways-dogs-heal-senior-hearts-daily",
@@ -311,7 +322,7 @@
       "description_es": "Los perros tienen una forma increíble de calmar los corazones de las personas mayores, un movimiento a la vez. Desde aliviar la soledad con su leal compañerismo hasta alentar a diario"
     },
     {
-      "id": "en-5",
+      "id": "en-6",
       "title": "What Does It mean When My Dog Wants To Sleep With Me",
       "description": "You know that moment when you’re settling into bed and suddenly feel those hopeful eyes watching you? Maybe your furry companion starts nudging your hand o",
       "url": "https://www.newsbreak.com/doggo-digest-318442522/4791728126541-what-does-it-mean-when-my-dog-wants-to-sleep-with-me",
@@ -322,7 +333,7 @@
       "description_es": "¿Conoces ese momento en el que te estás acostando y de repente sientes esos ojos esperanzados mirándote? Tal vez tu peludo compañero empiece a empujarte la mano o"
     },
     {
-      "id": "en-6",
+      "id": "en-7",
       "title": "Freddy Brazier's Dog Pablo Seized After Mauling Attacks; Face Possible Destruction",
       "description": "Freddy Brazier faces the potential loss of his dog Pablo after the pocket bully attacked him and his grandmother, leaving severe injuries. The dog is in police kennels and faces possible destruction following multiple in",
       "url": "https://us.headtopics.com/news/freddy-brazier-s-dog-pablo-seized-after-mauling-attacks-85949153",
@@ -333,7 +344,7 @@
       "description_es": "Freddy Brazier se enfrenta a la posible pérdida de su perro Pablo después de que el matón de bolsillo lo atacara a él y a su abuela, dejando heridas graves. El perro está en perreras de la policía y se enfrenta a una posible destrucción después de múltiples"
     },
     {
-      "id": "en-7",
+      "id": "en-8",
       "title": "Best Dewormer for Senior Dogs: Safety Comparison Guide Released",
       "description": "FleaTickFix releases a safety comparison guide for senior dog dewormers, emphasizing veterinary consultation and individualized treatment based on parasite type, health status, and medication safety profiles for aging pe",
       "url": "https://www.financialcontent.com/article/marketersmedia-2026-7-25-best-dewormer-for-senior-dogs-safety-comparison-guide-released",
@@ -344,7 +355,7 @@
       "description_es": "FleaTickFix publica una guía de comparación de seguridad para desparasitadores de perros mayores, que enfatiza la consulta veterinaria y el tratamiento individualizado basado en el tipo de parásito, el estado de salud y los perfiles de seguridad de los medicamentos para el envejecimiento"
     },
     {
-      "id": "en-8",
+      "id": "en-9",
       "title": "Singapore’s Largest Pet Event Returns Bigger Than Ever with Singapore Pet Festival 2026",
       "description": "SINGAPORE – Media OutReach Newswire – 24 July 2026 – Pet lovers can look forward to the return of SG Pet Festival 2026, Singapore’s largest pet exhibition, happening from 31 July to 2 August 2026 at Marina Bay Sands Conv",
       "url": "https://www.ebnewsdaily.co.za/2026/07/25/singapores-largest-pet-event-returns-bigger-than-ever-with-singapore-pet-festival-2026/",
@@ -355,7 +366,7 @@
       "description_es": "SINGAPUR – Media OutReach Newswire – 24 de julio de 2026 – Los amantes de las mascotas pueden esperar el regreso de SG Pet Festival 2026, la exposición de mascotas más grande de Singapur, que tendrá lugar del 31 de julio al 2 de agosto de 2026 en Marina Bay Sands Conv"
     },
     {
-      "id": "en-9",
+      "id": "en-10",
       "title": "From Kamwokya streets to a dog empire: The rise of ‘Uncle Dogs’",
       "description": "In Buwate, a fast-growing Kampala suburb, Sharif Ssemwanga is better known as “Uncle Dogs”, a nickname that has become synonymous with one of the city’s growing dog breeding and training businesses. The name, coined by f",
       "url": "https://observer.ug/lifestyle-entertainment/from-kamwokya-streets-to-a-dog-empire-the-rise-of-uncle-dogs/",
@@ -366,7 +377,7 @@
       "description_es": "En Buwate, un suburbio de Kampala de rápido crecimiento, Sharif Ssemwanga es más conocido como «Uncle Dogs», un apodo que se ha convertido en sinónimo de uno de los negocios de cría y entrenamiento de perros en crecimiento de la ciudad. El nombre, acuñado por f"
     },
     {
-      "id": "en-10",
+      "id": "en-11",
       "title": "Another new chum for Larry the Cat",
       "description": "As Andy Burnham becomes Britain's seventh premier in a decade the big question on everybody's lips is... how will his pet dog Axel get on with No 10 Downing Street's resident feline, Larry the Cat?",
       "url": "https://www.bangkokpost.com/opinion/opinion/3291835/another-new-chum-for-larry-the-cat",
@@ -377,7 +388,7 @@
       "description_es": "Mientras Andy Burnham se convierte en el séptimo premier de Gran Bretaña en una década, la gran pregunta en boca de todos es... ¿cómo se llevará su perro Axel con el felino residente del número 10 de Downing Street, Larry el Gato?"
     },
     {
-      "id": "en-11",
+      "id": "en-12",
       "title": "Mountain Valley Cluster Dog Show brings 150-plus breeds to Salem Civic Center",
       "description": "The Mountain Valley Cluster Dog Show is bringing top canine talent to the Salem Civic Center this week.",
       "url": "https://www.wdbj7.com/2026/07/25/mountain-valley-cluster-dog-show-brings-150-plus-breeds-salem-civic-center/",
@@ -388,7 +399,7 @@
       "description_es": "Mountain Valley Cluster Dog Show trae a los mejores talentos caninos al Centro Cívico de Salem esta semana."
     },
     {
-      "id": "en-12",
+      "id": "en-13",
       "title": "5 Best Dog Movies Ever Made, Ranked",
       "description": "Who doesn't love a film featuring a cute lovable doggo? Here are five of the greatest dog movies, ranked.",
       "url": "https://www.looper.com/2216101/best-dog-movies-ever-ranked/",
@@ -399,7 +410,7 @@
       "description_es": "¿A quién no le encanta una película con un adorable perrito? Aquí están cinco de las mejores películas de perros, clasificadas."
     },
     {
-      "id": "en-13",
+      "id": "en-14",
       "title": "Movie Dog Names From Lassie, Toto, Marley, And More",
       "description": "Get usable movie dog names from Lassie, Toto, Marley, and action, fantasy, sci-fi, comedy, and animated films. Need a call name fast?",
       "url": "https://www.pupperish.com/dog-names-from-movies",
@@ -410,18 +421,16 @@
       "description_es": "Obtén nombres de perros de película utilizables de Lassie, Toto, Marley y películas de acción, fantasía, ciencia ficción, comedia y animación. ¿Necesita un nombre de llamada rápido?"
     },
     {
-      "id": "en-14",
+      "id": "en-15",
       "title": "German Dog Names With Meanings, From Otto to Blitz",
       "description": "Explore male and female German dog names, plus German words, city picks, and short call names like Blitz and Bär, with meanings and spelling tips.",
       "url": "https://www.pupperish.com/german-dog-names",
       "urlToImage": "https://static.pupperish.com/posts/86780441c620dd4950bd51cea5a6473e_72308_1200.jpg",
       "publishedAt": "2026-07-25 16:46:57",
-      "sourceName": "pupperish",
-      "title_es": "Nombres de perros alemanes con significados, desde Otto hasta Blitz",
-      "description_es": "Explora los nombres de perros alemanes masculinos y femeninos, además de palabras alemanas, selecciones de ciudades y nombres cortos como Blitz y Bär, con significados y consejos de ortografía."
+      "sourceName": "pupperish"
     },
     {
-      "id": "en-15",
+      "id": "en-16",
       "title": "Disney and Pixar Dog Names, From Pluto to Dug and Slinky",
       "description": "Explore classic and modern Disney dog names like Pluto, Cruella, and Tramp, plus Pixar picks such as Dug and Slinky. Which will you choose?",
       "url": "https://www.pupperish.com/disney-dog-names",
@@ -430,7 +439,7 @@
       "sourceName": "pupperish"
     },
     {
-      "id": "en-16",
+      "id": "en-17",
       "title": "Board and Train Questions for Triad Area Dog Owners - Guide Released",
       "description": "Camp Lucky Board and Train publishes information addressing common questions about board and train programs for Triad Area dog owners. The veteran-owned company emphasizes transparency in methodology and post-program sup",
       "url": "https://www.financialcontent.com/article/marketersmedia-2026-7-25-board-and-train-questions-for-triad-area-dog-owners-guide-released",
@@ -439,7 +448,7 @@
       "sourceName": "financialcontent"
     },
     {
-      "id": "en-17",
+      "id": "en-18",
       "title": "In Pictures: Day two of Leeds Championship Dog Show 2026 at Harewood House",
       "description": "From prized Crufts hopefuls to pampered pooches, take a look through our gallery from day two of the Leeds Championship Dog Show at Harewood House",
       "url": "https://www.yorkshireeveningpost.co.uk/lifestyle/pets/leeds-championship-dog-show-day-two-harewood-house-gallery-8821663",
@@ -448,7 +457,7 @@
       "sourceName": "yorkshireeveningpost"
     },
     {
-      "id": "en-18",
+      "id": "en-19",
       "title": "'Love of my life': How Paisley the goldendoodle mellowed NY Assembly Speaker Heastie",
       "description": "The assembly speaker has a soft spot for his doodle. Can't blame him! Lawmakers said the dog helped mellow Heastie, a skilled backroom operator. [ more › ]",
       "url": "https://gothamist.com/news/love-of-my-life-how-paisley-the-goldendoodle-mellowed-ny-assembly-speaker-heastie",
@@ -457,7 +466,7 @@
       "sourceName": "gothamist"
     },
     {
-      "id": "en-19",
+      "id": "en-20",
       "title": "PK9 Gear Makes Custom Collar for Jelly Roll’s Dog Bussie",
       "description": "",
       "url": "https://norfolkdailynews.com/online_features/press_releases/pk9-gear-makes-custom-collar-for-jelly-roll-s-dog-bussie/article_c3707036-ca4a-596b-b6f6-2759c2c0f9cb.html",
@@ -466,25 +475,7 @@
       "sourceName": "norfolkdailynews"
     },
     {
-      "id": "en-20",
-      "title": "Princess of Wales's brother shares adorable video with his dog in Berkshire home",
-      "description": "James Middleton, brother of the Princess of Wales, has shared a heartwarming video from his Berkshire home with his beloved dog Nala. The video, posted through the official account for his canine food and lifestyle brand",
-      "url": "https://www.gbnews.com/royal/princess-of-wales-brother-james-middleton-shares-adorable-video-dog-berkshire-home",
-      "urlToImage": "https://assets.rbl.ms/67536965/origin.jpg",
-      "publishedAt": "2026-07-25 14:03:31",
-      "sourceName": "gbnews"
-    },
-    {
       "id": "en-21",
-      "title": "Meet clownish, curious and charming Peggy, Britain's naughtiest dog",
-      "description": "This bouncy miniature bull terrier also operates as a fiendish whirlwind of destruction.",
-      "url": "https://www.countrylife.co.uk/lifestyle/dogs/meet-peggy-britains-naughtiest-dog",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7K4Ucw68kS9PwuCfvKFtVX-1280-80.jpg",
-      "publishedAt": "2026-07-25 13:00:00",
-      "sourceName": "countrylife"
-    },
-    {
-      "id": "en-22",
       "title": "Canine cardio? How a mobile dog gym keeps your pup healthy",
       "description": "Waggin' Wheels is a mobile dog gym in Halifax that comes right to your door. The business helps dogs exercise safely in the heat of summer or in the dead of win...",
       "url": "https://www.cbc.ca/player/play/video/9.6888463?cmp=rss",
@@ -493,7 +484,7 @@
       "sourceName": "cbc.ca"
     },
     {
-      "id": "en-23",
+      "id": "en-22",
       "title": "Truck Swerves To Hit Dog, Misses, Then Crushes Pregnant Canine In 2nd Try",
       "description": "A heart-wrenching video from Jaipur shows a pickup truck swerving to allegedly try and run over a dog and then crushing another pregnant canine to death.",
       "url": "https://www.ndtv.com/india-news/jaipur-truck-swerves-to-hit-dog-crushes-pregnant-canine-when-1st-attempt-fails-8181842",
@@ -502,7 +493,7 @@
       "sourceName": "ndtv.com"
     },
     {
-      "id": "en-24",
+      "id": "en-23",
       "title": "Madras Canine Club’s dog shows draw to a close",
       "description": "All Breeds Championship dog shows by Madras Canine Club conclude with German Shepherds and Doberman winning top prizes.",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-dog-shows-draw-to-a-close/article69116790.ece",
@@ -511,7 +502,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-25",
+      "id": "en-24",
       "title": "Is dog perfume necessary for your canine companion?",
       "description": "Luxury fashion house Dolce & Gabbana has unveiled a new dog perfume named \"Fefé.\"",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/is-dog-perfume-necessary-for-your-canine-companion/",
@@ -520,7 +511,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-26",
+      "id": "en-25",
       "title": "Recognising signs of canine asthma in your Dog",
       "description": "Asthma in dogs is an allergic disease characterised by inflammation and constriction of the small airways in the lungs...",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/recognising-signs-of-canine-asthma-in-your-dog/",
@@ -529,7 +520,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-27",
+      "id": "en-26",
       "title": "Taiwan to soon welcome its first indigenous dog as a police canine",
       "description": "",
       "url": "https://focustaiwan.tw/society/202404200004",
@@ -538,7 +529,7 @@
       "sourceName": "focustaiwan.tw"
     },
     {
-      "id": "en-28",
+      "id": "en-27",
       "title": "Detroit TSA canine handler suspended over video of him pulling dog",
       "description": "A TSA canine handler was suspended from his duties after a viral video captured him aggressively yanking a bomb-detecting dog in a busy airport.",
       "url": "https://nypost.com/2023/05/08/detroit-tsa-worker-suspended-over-video-of-him-pulling-dog/",
@@ -547,7 +538,7 @@
       "sourceName": "nypost.com"
     },
     {
-      "id": "en-29",
+      "id": "en-28",
       "title": "Curtains come down on Madras Canine Club’s dog shows",
       "description": "570 dogs belonging to 69 breeds participated in the two-day event",
       "url": "https://www.thehindu.com/news/cities/chennai/curtains-come-down-on-madras-canine-clubs-dog-shows/article65880058.ece",
@@ -556,7 +547,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-30",
+      "id": "en-29",
       "title": "Madras Canine Club’s All Breeds Championship Dog Shows begin",
       "description": "Over 570 canines from 69 different breeds have registered this year",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-all-breeds-championship-dog-shows-begin/article65875162.ece",
