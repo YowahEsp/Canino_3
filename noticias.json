@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-07-27T21:37:15.010Z",
+  "generatedAt": "2026-07-27T22:58:03.417Z",
   "es": [
     {
       "id": "es-0",
+      "title": "La historia de un chofer y su perro que emociona a la comunidad",
+      "description": "La inspiradora historia de Leonardo, un chofer con más de 20 años de experiencia, y su perro Benji ha generado una ola de solidaridad en Santa Cruz, resultando en donaciones de alimentos, juguetes y ropa para el canino",
+      "url": "https://diariopanorama.com/noticia/561030/historia-chofer-perro-emociona-comunidad",
+      "urlToImage": "https://diariopanorama.com/fotos/notas/2026/07/27/561030_20260727102906.jpg",
+      "publishedAt": "2026-07-27 10:29:00",
+      "sourceName": "diariopanorama"
+    },
+    {
+      "id": "es-1",
       "title": "Un presentador del Informativo lanza ante las cámaras la 'denuncia' que muchos dueños de perros hacen en verano: «¡Qué difícil nos lo ponen!»",
       "description": "El verano es tiempo de ocio, playa, salidas y, por supuesto, de vacaciones. Pero, ¿qué pasa con los dueños de perros? Pues, que para ellos, sus mascotas son uno más de la familia por lo que necesitan opciones de turis",
       "url": "https://www.abc.es/play/television/noticias/presentador-informativo-lanza-ante-camaras-denuncia-duenos-20260727092341-nt.html",
@@ -11,7 +20,7 @@
       "sourceName": "abc"
     },
     {
-      "id": "es-1",
+      "id": "es-2",
       "title": "Lomitos dan ayuda emocional a usuarios del AIFA",
       "description": "Es un escuadrón de cachorros que recorre los pasillos del aeropuerto y simplemente interactúa con los viajantes",
       "url": "https://heraldodemexico.com.mx/edicion-impresa/2026/7/27/lomitos-dan-ayuda-emocional-usuarios-del-aifa-857263.html",
@@ -20,7 +29,7 @@
       "sourceName": "heraldodemexico"
     },
     {
-      "id": "es-2",
+      "id": "es-3",
       "title": "Se retiran con honores Niko, Hunter e Hidra: Tres héroes caninos de la Marina inician nueva vida",
       "description": "Desde 2008 que se incorporaron los binomios, a la actualidad se han retirado 271 de ellos",
       "url": "https://oem.com.mx/la-prensa/metropoli/se-retiran-con-honores-niko-hunter-e-hidra-tres-heroes-caninos-de-la-marina-inician-nueva-vida-30707051",
@@ -29,7 +38,7 @@
       "sourceName": "la_prensa_mx"
     },
     {
-      "id": "es-3",
+      "id": "es-4",
       "title": "Abandono animal en verano: cómo trabajan las protectoras de Córdoba y qué alternativas existen para las mascotas",
       "description": "Aunque es un problema de maltrato animal que se produce durante todo el año, protectoras y profesionales coinciden en que el verano supone una de las épocas de mayor presión por la caída de las adopciones, la llegada",
       "url": "https://www.eldiadecordoba.es/cordoba/abandono-animal-verano-protectoras-cordoba-mascotas_0_2007462258.html",
@@ -38,7 +47,7 @@
       "sourceName": "eldiadecordoba"
     },
     {
-      "id": "es-4",
+      "id": "es-5",
       "title": "Viaje de perros",
       "description": "'Pipper' protagoniza un blog que ofrece consejos para hacer turismo con nuestra mascota y desvela los mejores destinos",
       "url": "https://www.leonoticias.com/vivir/ocio/viaje-perros-20210419221321-ntrc.html",
@@ -47,7 +56,16 @@
       "sourceName": "leonoticias"
     },
     {
-      "id": "es-5",
+      "id": "es-6",
+      "title": "Perro en Cruz Roja Veracruz busca convertirse en rescatista a nivel internacional",
+      "description": "La Cruz Roja Mexicana, delegación Veracruz, mantiene el proceso de entrenamiento de Onix, un pastor belga de un año ocho meses de edad que se prepara ...",
+      "url": "https://www.meganoticias.mx/veracruz/noticia/perro-en-cruz-roja-veracruz-busca-convertirse-en-rescatista-a-nivel-internacional/755021",
+      "urlToImage": "https://www.meganoticias.mx/uploads/noticias/perro-en-cruz-roja-veracruz-busca-convertirse-en-rescatista-a-nivel-internacional-755021.jpg",
+      "publishedAt": "2026-07-27 00:00:00",
+      "sourceName": "meganoticias_mx"
+    },
+    {
+      "id": "es-7",
       "title": "En busca del perro más listo del mundo",
       "description": "Una universidad húngara ha puesto en marcha una competición entre ejemplares de todo el mundo con una capacidad lingüística «excepcional», que les permite reconocer los nombres de decenas de juguetes",
       "url": "https://www.canarias7.es/vivir/ciencia/busca-perro-listo-20201202114127-ntrc.html",
@@ -56,7 +74,7 @@
       "sourceName": "canarias7"
     },
     {
-      "id": "es-6",
+      "id": "es-8",
       "title": "Así 've' el mundo tu perro",
       "description": "Su olfato es una herramienta prodigiosa que determina su relación con el entorno y, en cierto modo, lo proyecta hacia el pasado y el futuro",
       "url": "https://www.canarias7.es/vivir/ciencia/como-ven-mundo-perros-20210901192210-ntrc.html",
@@ -65,7 +83,7 @@
       "sourceName": "canarias7"
     },
     {
-      "id": "es-7",
+      "id": "es-9",
       "title": "Bull, el perro-policía condecorado por su labor contra el tráfico de drogas",
       "description": "En el mismo acto presidido por el delegado del Gobierno también se han entregado las medallas al mérito policial a varios agentes",
       "url": "https://www.canarias7.es/sociedad/mascotas/bull-perropolicia-condecorado-20201102163220-nt.html",
@@ -74,7 +92,7 @@
       "sourceName": "canarias7"
     },
     {
-      "id": "es-8",
+      "id": "es-10",
       "title": "El perro «Basco» se jubila",
       "description": "La Policía Nacional lo ha entregado este jueves a su nueva familia de adopción",
       "url": "https://www.canarias7.es/sociedad/mascotas/perro-basco-jubila-20210128100915-nt.html",
@@ -83,7 +101,7 @@
       "sourceName": "canarias7"
     },
     {
-      "id": "es-9",
+      "id": "es-11",
       "title": "Lo vinculan a proceso por atacar a 2 personas y matar a un perro",
       "description": "Un juez del Poder Judicial del Estado de México vinculó a proceso a Elías Marcelino \"N\" por su probable responsabilidad en los delitos de homicidio en grado de tentativa en agravio de dos hombres y crueldad a los sere",
       "url": "https://eltiempomx.com/noticia/2026/lo-vinculan-a-proceso-por-atacar-a-2-personas-y-matar-a-un-perro.html",
@@ -92,7 +110,7 @@
       "sourceName": "eltiempomonclova_mx"
     },
     {
-      "id": "es-10",
+      "id": "es-12",
       "title": "Vinculan a proceso a hombre por atacar a balazos a dos personas y matar a un perro; enfrentará cargos por tentativa de homicidio y crueldad animal",
       "description": "El imputado habría disparado durante una discusión por un lugar de estacionamiento en Valle de Chalco; un juez le impuso prisión preventiva y fijó dos meses para el cierre de la investigación complementaria",
       "url": "https://www.eluniversal.com.mx/metropoli/vinculan-a-proceso-a-hombre-por-atacar-a-balazos-a-dos-personas-y-matar-a-un-perro-enfrentara-cargos-por-tentativa-de-homicidio-y-crueldad-animal/",
@@ -101,7 +119,7 @@
       "sourceName": "eluniversal"
     },
     {
-      "id": "es-11",
+      "id": "es-13",
       "title": "Casi muere por un estacionamiento en Valle de Chalco, pero mataron a su perro",
       "description": "Una discusión por un estacionamiento en Valle de Chalco acabó en tragedia. Un hombre resultó herido y su perro murió tras una agresión a balazos.",
       "url": "https://www.tvazteca.com/aztecanoticias/valle-chalco-disparan-hombre-estacionamiento-matan-perro-detenido/",
@@ -110,7 +128,7 @@
       "sourceName": "tvazteca"
     },
     {
-      "id": "es-12",
+      "id": "es-14",
       "title": "Juez otorga pensión alimentaria a husky tras divorcio en Tabasco",
       "description": "Un juzgado de lo Familiar ubicado en el municipio de Centro, Tabasco, emitió una resolución judicial inédita en la entidad al ordenar el pago de una pensión alimentaria formal en favor de Lucas, un perro de raza husk",
       "url": "https://www.informateymas.com/nacionales/festival-cultural-verano-cuernavaca-2026-eventos-gratis/",
@@ -119,7 +137,7 @@
       "sourceName": "informateymas"
     },
     {
-      "id": "es-13",
+      "id": "es-15",
       "title": "Por qué los perros siempre inclinan la cabeza: un entrenador te cuenta la razón “fascinante”",
       "description": "El experto indicó que detrás de esa reacción hay una explicación científica y una señal del vínculo que mantienen con las personas.",
       "url": "https://www.eltrecetv.com.ar/tiempo-libre-y-estilo/2026/07/26/por-que-los-perros-siempre-inclinan-la-cabeza-un-entrenador-te-cuenta-la-razon-fascinante/",
@@ -128,7 +146,7 @@
       "sourceName": "eltrecetv_ar"
     },
     {
-      "id": "es-14",
+      "id": "es-16",
       "title": "Ninja Skadi, especialista canino: “En verano hay que parar de jugar antes de que el perro se canse, porque el calor se recibe con retraso”",
       "description": "El experto en perros da varios consejos para evitar que los canes tengas problemas de salud debido a las altas temperaturas",
       "url": "https://www.lavanguardia.com/mascotas/20260726/11601454/ninja-skadi-especialista-canino-verano-hay-parar-jugar-perro-canse-calor-recibe-retraso-epm.html",
@@ -137,7 +155,7 @@
       "sourceName": "lavanguardia"
     },
     {
-      "id": "es-15",
+      "id": "es-17",
       "title": "Vinculan a proceso a sujeto que habría disparado a perrito Max en Valle de Chalco; el can murió al día siguiente",
       "description": "El acusado enfrentará proceso por crueldad animal y tentativa de homicidio tras disparar contra el perro Max y a dos hombres durante una riña.",
       "url": "https://heraldodemexico.com.mx/nacional/2026/7/26/vinculan-proceso-sujeto-que-habria-disparado-perrito-max-en-valle-de-chalco-el-can-murio-al-dia-siguiente-857122.html",
@@ -146,7 +164,7 @@
       "sourceName": "heraldodemexico"
     },
     {
-      "id": "es-16",
+      "id": "es-18",
       "title": "Perro amarrado con cadena y gato desnutrido: detienen a mujer acusada de maltrato animal en Araucanía",
       "description": "Una mujer fue detenida por efectivos de la PDI, durante una diligencia derivada de una denuncia por maltrato animal, que en Padre Las Casas, región de La Araucanía. La diligencia se originó tras una denuncia presentad",
       "url": "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2026/07/26/perro-amarrado-con-cadena-y-un-gato-desnutrido-detienen-a-mujer-acusada-de-maltrato-animal.shtml",
@@ -155,7 +173,7 @@
       "sourceName": "biobiochile"
     },
     {
-      "id": "es-17",
+      "id": "es-19",
       "title": "Cómo entender bien a tu perro: “Cuando ladra lo hace por inseguridad el 99% de las veces”",
       "description": "Alba Fernández y Víctor Padilla, responsables de 'Olfateando mundo', explican cómo interpretar el mundo emocional del perro Por qué los perros son los nuevos compañeros del alma a partir de los 50",
       "url": "https://www.telecinco.es/noticias/mascotas/20260726/como-entender-bien-perro-cuando-ladra-inseguridad-upp3rs_18_019640885.html",
@@ -164,7 +182,7 @@
       "sourceName": "telecinco_es"
     },
     {
-      "id": "es-18",
+      "id": "es-20",
       "title": "Roy, el perro que ayuda a combatir el Chagas y buscar pichiciegos en Mendoza",
       "description": "El proyecto se enfoca en identificar vectores de Chagas y ayudar con la conservación de la fauna de Mendoza con el trabajo de Roy, un perro rastreador.",
       "url": "https://www.mdzol.com/sociedad/roy-el-perro-que-ayuda-combatir-el-chagas-y-buscar-pichiciegos-mendoza-n1572608",
@@ -173,7 +191,7 @@
       "sourceName": "mdzol"
     },
     {
-      "id": "es-19",
+      "id": "es-21",
       "title": "Los veterinarios lo tienen claro: esto es todo lo que tienes que saber antes de irte de vacaciones con tu perro",
       "description": "Ha comenzado la temporada de vacaciones y muchos se preguntan qué hacer con sus mascotas. Mientras que algunos optan por dejar a sus perros en residencias caninas, otros prefieren ir de aventura con ellos. Sin embargo, ",
       "url": "https://www.eleconomista.es/actualidad/noticias/14003472/07/26/los-veterinarios-lo-tienen-claro-esto-es-todo-lo-que-tienes-que-saber-antes-de-irte-de-vacaciones-con-tu-perro.html",
@@ -182,7 +200,7 @@
       "sourceName": "eleconomista_es"
     },
     {
-      "id": "es-20",
+      "id": "es-22",
       "title": "El guaraní y la city XII: amores perros",
       "description": "",
       "url": "https://www.elterritorio.com.ar/noticias/2026/07/26/902005-el-guarani-y-la-city-xii-amores-perros",
@@ -191,7 +209,7 @@
       "sourceName": "elterritorio"
     },
     {
-      "id": "es-21",
+      "id": "es-23",
       "title": "¿Deberías cortarle el pelo a un perro en verano? Cómo cuidar de tu mascota para que esté fresca",
       "description": "Cuando se piensa en los animales de compañía y el verano, a muchos se les viene a la cabeza la imagen de un perro con pelo largo paseando bajo el sol, jadeando por el calor. Lo cierto es que muchos perros lo pasan mal ",
       "url": "https://www.europapress.es/desconecta/curiosity/noticia-deberias-cortarle-pelo-perro-verano-cuidar-mascota-fresca-20260726085947.html",
@@ -200,7 +218,7 @@
       "sourceName": "europapress"
     },
     {
-      "id": "es-22",
+      "id": "es-24",
       "title": "Detienen a hombre y mujer por crueldad animal en Tlaquepaque",
       "description": "Un reporte en la colonia El Álamo permitió asegurar restos de un perro y poner a los detenidos a disposición de las autoridades correspondientes",
       "url": "https://www.informador.mx/jalisco/tlaquepaque-detienen-a-hombre-y-mujer-por-crueldad-animal-20260725-0093.html",
@@ -209,7 +227,7 @@
       "sourceName": "informador_mx"
     },
     {
-      "id": "es-23",
+      "id": "es-25",
       "title": "La demanda de hoteles para perros se duplica en verano",
       "description": "Alrededor de los años noventa surgió en España una alternativa que, con el paso del tiempo, se ha consolidado como un servicio habitual para miles de familias: las residencias u hoteles para perros. Se trata de establ",
       "url": "https://www.elconfidencialdigital.com/articulo/vivir/demanda-hoteles-perros-duplica-verano/202607260500001032883.html",
@@ -218,7 +236,7 @@
       "sourceName": "elconfidencialdigital"
     },
     {
-      "id": "es-24",
+      "id": "es-26",
       "title": "Video.- Perrito cae a alcantarilla; lo rescatan agentes viales",
       "description": "Tras confirmar que el perro se encontraba atorado al fondo del registro, empezaron a darle comida para ganar su confianza y poder sacarlo",
       "url": "https://eldiariodechihuahua.mx/estado/2026/jul/25/video-perrito-cae-a-alcantarilla-lo-rescatan-agentes-viales-821301.html",
@@ -227,16 +245,7 @@
       "sourceName": "eldiariodechihuahua"
     },
     {
-      "id": "es-25",
-      "title": "Torreón aplica primera multa por maltrato animal; dueño tenía a su perrito en estado de abandono",
-      "description": "La primera multa supera los 10 mil pesos y fue impuesta tras comprobar el abandono y las malas condiciones de un perro en la colonia Villas La Merced.",
-      "url": "https://www.milenio.com/estados/torreon-aplica-primera-multa-por-maltrato-animal",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2026/07/25/sancion-resultado-cuarta-inspeccion-realizada.jpeg",
-      "publishedAt": "2026-07-26 00:27:59",
-      "sourceName": "milenio"
-    },
-    {
-      "id": "es-26",
+      "id": "es-27",
       "title": "Enrique Molina, adiestrador canino: \"No debemos dormir con nuestro perro, porque invade un espacio muy personal del dueño\"",
       "description": "Enrique Molina es un conocido adiestrador canino que ayuda a dueños de perros a saber cómo educar a su mascota para que sepa comportarse en casa, entre otras ...",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260510/1004181518/enrique-molina-adiestrador-canino-no-debemos-dormir-nuestro-perro-invade-espacio-personal-dueno-dct.html",
@@ -245,7 +254,7 @@
       "sourceName": "mundodeportivo.com"
     },
     {
-      "id": "es-27",
+      "id": "es-28",
       "title": "Alan Peiró, adiestrador canino: “Cuando un perro se muestra agresivo, lo hace por miedo”",
       "description": "El experto en comportamiento animal brindó consejos para tratar las reacciones violentas de las mascotas.",
       "url": "https://tn.com.ar/mascotas/2026/03/27/alan-peiro-adiestrador-canino-cuando-un-perro-se-muestra-agresivo-lo-hace-por-miedo/",
@@ -254,7 +263,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-28",
+      "id": "es-29",
       "title": "Juan Cervantes, adiestrador canino: “Al volver a tu casa debés ignorar al perro por 5 minutos”",
       "description": "Un experto en mascotas explicó por qué no saludar a tu mascota al regresar al hogar y las consecuencias que eso genera.",
       "url": "https://tn.com.ar/sociedad/2026/03/20/juan-cervantes-adiestrador-canino-al-volver-a-tu-casa-debes-ignorar-al-perro-por-5-minutos/",
@@ -263,7 +272,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-29",
+      "id": "es-30",
       "title": "Juan Cervantes, adiestrador canino: “Cuanto más llames a tu perro por su nombre, menos caso te hace”",
       "description": "El experto influencer explicó el motivo por el que utilizar esta técnica no es la mejor forma para llamar la atención de tu mascota.",
       "url": "https://tn.com.ar/sociedad/2026/03/19/juan-cervantes-adiestrador-canino-cuanto-mas-llames-a-tu-perro-por-su-nombre-menos-caso-te-hace/",
@@ -272,7 +281,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-30",
+      "id": "es-31",
       "title": "Qué siente tu perro cuando sale a pasear, según expertos en comportamiento canino",
       "description": "Ese momento cotidiano es mucho más importante de lo que parece. La ciencia del comportamiento canino explica cómo impacta en el equilibrio emocional, la condu...",
       "url": "https://tn.com.ar/sociedad/2026/02/22/que-siente-tu-perro-cuando-sale-a-pasear-segun-expertos-en-comportamiento-canino/",
@@ -281,7 +290,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-31",
+      "id": "es-32",
       "title": "Qué siente tu perro cuando le gritás, según expertos en comportamiento canino",
       "description": "El tono de voz humano tiene un impacto directo en las emociones de los animales.",
       "url": "https://tn.com.ar/sociedad/2026/02/16/que-siente-tu-perro-cuando-le-gritas-segun-expertos-en-comportamiento-canino/",
@@ -290,7 +299,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-32",
+      "id": "es-33",
       "title": "Por qué no hay que saludar al perro al llegar a casa, según un entrenador canino",
       "description": "Víctor Mañero, reconocido adiestrador canino, reveló el motivo por el cual esta acción puede generarles a los animales gran estrés y ansiedad; qué dijo - ...",
       "url": "https://www.lanacion.com.ar/lifestyle/mascotas/por-que-no-hay-que-saludar-al-perro-al-llegar-a-casa-segun-un-entrenador-canino-nid02052025/",
@@ -299,7 +308,7 @@
       "sourceName": "lanacion.com.ar"
     },
     {
-      "id": "es-33",
+      "id": "es-34",
       "title": "“Perro gay”: ovacionan a un canino en marcha LGBT+ de Guadalajara",
       "description": "El divertido y controversial momento sucedió cuando su cuidadora lo alzó y todos los asistentes no dudaron en gritar y aclamarlo mientras él sacaba su lengua...",
       "url": "https://www.infobae.com/america/entretenimiento/2022/06/19/perro-gay-ovacionan-a-un-canino-en-marcha-lgbt-de-guadalajara/",
@@ -476,6 +485,15 @@
     },
     {
       "id": "en-15",
+      "title": "'Love of my life': How Paisley the goldendoodle mellowed NY Assembly Speaker Heastie",
+      "description": "Lawmakers said the dog helped mellow Heastie, a skilled backroom operator.",
+      "url": "https://www.wamc.org/2026-07-27/love-of-my-life-how-paisley-the-goldendoodle-mellowed-ny-assembly-speaker-heastie",
+      "urlToImage": "https://npr.brightspotcdn.com/b8/fa/7c82f1ff43718c000d94538514f8/heastie-and-paisley-in-car.png",
+      "publishedAt": "2026-07-27 00:00:00",
+      "sourceName": "wamc_org"
+    },
+    {
+      "id": "en-16",
       "title": "10 Dog Breeds That Don’t Get Easily Adopted and Why They Deserve More Compassion",
       "description": "Dogs are often considered man’s best friend, yet some breeds find themselves in shelters longer than others, waiting patiently for a forever home. These do",
       "url": "https://www.newsbreak.com/doggo-digest-318442522/4792982809991-10-dog-breeds-that-don-t-get-easily-adopted-and-why-they-deserve-more-compassion",
@@ -484,7 +502,7 @@
       "sourceName": "newsbreak"
     },
     {
-      "id": "en-16",
+      "id": "en-17",
       "title": "10 Human Oriented Dog Breeds That Thrive on Companionship",
       "description": "I completely understand that special feeling when your horse nickers softly at your approach, but did you know dogs can offer that same deep connection? As",
       "url": "https://www.newsbreak.com/doggo-digest-318442522/4793254447168-10-human-oriented-dog-breeds-that-thrive-on-companionship",
@@ -493,7 +511,7 @@
       "sourceName": "newsbreak"
     },
     {
-      "id": "en-17",
+      "id": "en-18",
       "title": "Forget the Kennels! These UK Festivals Now Welcome Your Four-Legged Friend This Summer",
       "description": "UK festivals are increasingly welcoming dogs, allowing owners to enjoy music events with their pets. Smaller festivals are leading this trend, offering a pet-friendly alternative to major events.",
       "url": "https://www.inkl.com/news/forget-the-kennels-these-uk-festivals-now-welcome-your-four-legged-friend-this-summer",
@@ -502,7 +520,7 @@
       "sourceName": "inkl"
     },
     {
-      "id": "en-18",
+      "id": "en-19",
       "title": "Freddy Brazier's ex-girlfriend Holly Swinburn claims dog who attacked TV star was 'mistreated' as she begs for help to find pet 'a good home' ahead of euthanasia deadline",
       "description": "The son of the late Jade Goody and Jeff Brazier , 21, received emergency hospital treatment after his dog Pablo 'hooked onto his arm' during an attack last week.",
       "url": "https://www.dailymail.com/tvshowbiz/article-16006335/Freddy-Braziers-ex-girlfriend-Holly-Swinburn-claims-dog-euthanasia-deadline.html",
@@ -511,7 +529,7 @@
       "sourceName": "dailymailuk"
     },
     {
-      "id": "en-19",
+      "id": "en-20",
       "title": "Barking up the right tree: the Australian hotels that pass the pet test",
       "description": "Luxury hotels are rolling out the red carpet for your pet.",
       "url": "https://www.easternriverinachronicle.com.au/story/9312098/the-ultimate-guide-to-premium-pet-friendly-stays-in-australia/?src=rss",
@@ -520,7 +538,7 @@
       "sourceName": "easternriverinachronicle_au"
     },
     {
-      "id": "en-20",
+      "id": "en-21",
       "title": "Canine cardio? How a mobile dog gym keeps your pup healthy",
       "description": "Waggin' Wheels is a mobile dog gym in Halifax that comes right to your door. The business helps dogs exercise safely in the heat of summer or in the dead of win...",
       "url": "https://www.cbc.ca/player/play/video/9.6888463?cmp=rss",
@@ -529,7 +547,7 @@
       "sourceName": "cbc.ca"
     },
     {
-      "id": "en-21",
+      "id": "en-22",
       "title": "Truck Swerves To Hit Dog, Misses, Then Crushes Pregnant Canine In 2nd Try",
       "description": "A heart-wrenching video from Jaipur shows a pickup truck swerving to allegedly try and run over a dog and then crushing another pregnant canine to death.",
       "url": "https://www.ndtv.com/india-news/jaipur-truck-swerves-to-hit-dog-crushes-pregnant-canine-when-1st-attempt-fails-8181842",
@@ -538,7 +556,7 @@
       "sourceName": "ndtv.com"
     },
     {
-      "id": "en-22",
+      "id": "en-23",
       "title": "Madras Canine Club’s dog shows draw to a close",
       "description": "All Breeds Championship dog shows by Madras Canine Club conclude with German Shepherds and Doberman winning top prizes.",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-dog-shows-draw-to-a-close/article69116790.ece",
@@ -547,7 +565,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-23",
+      "id": "en-24",
       "title": "Is dog perfume necessary for your canine companion?",
       "description": "Luxury fashion house Dolce & Gabbana has unveiled a new dog perfume named \"Fefé.\"",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/is-dog-perfume-necessary-for-your-canine-companion/",
@@ -556,7 +574,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-24",
+      "id": "en-25",
       "title": "Recognising signs of canine asthma in your Dog",
       "description": "Asthma in dogs is an allergic disease characterised by inflammation and constriction of the small airways in the lungs...",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/recognising-signs-of-canine-asthma-in-your-dog/",
@@ -565,7 +583,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-25",
+      "id": "en-26",
       "title": "Taiwan to soon welcome its first indigenous dog as a police canine",
       "description": "",
       "url": "https://focustaiwan.tw/society/202404200004",
@@ -574,7 +592,7 @@
       "sourceName": "focustaiwan.tw"
     },
     {
-      "id": "en-26",
+      "id": "en-27",
       "title": "Detroit TSA canine handler suspended over video of him pulling dog",
       "description": "A TSA canine handler was suspended from his duties after a viral video captured him aggressively yanking a bomb-detecting dog in a busy airport.",
       "url": "https://nypost.com/2023/05/08/detroit-tsa-worker-suspended-over-video-of-him-pulling-dog/",
@@ -583,7 +601,7 @@
       "sourceName": "nypost.com"
     },
     {
-      "id": "en-27",
+      "id": "en-28",
       "title": "Curtains come down on Madras Canine Club’s dog shows",
       "description": "570 dogs belonging to 69 breeds participated in the two-day event",
       "url": "https://www.thehindu.com/news/cities/chennai/curtains-come-down-on-madras-canine-clubs-dog-shows/article65880058.ece",
@@ -592,7 +610,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-28",
+      "id": "en-29",
       "title": "Madras Canine Club’s All Breeds Championship Dog Shows begin",
       "description": "Over 570 canines from 69 different breeds have registered this year",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-all-breeds-championship-dog-shows-begin/article65875162.ece",
