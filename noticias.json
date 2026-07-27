@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-07-27T16:15:05.658Z",
+  "generatedAt": "2026-07-27T18:02:05.009Z",
   "es": [
     {
       "id": "es-0",
+      "title": "Se retiran con honores Niko, Hunter e Hidra: Tres héroes caninos de la Marina inician nueva vida",
+      "description": "Desde 2008 que se incorporaron los binomios, a la actualidad se han retirado 271 de ellos",
+      "url": "https://oem.com.mx/la-prensa/metropoli/se-retiran-con-honores-niko-hunter-e-hidra-tres-heroes-caninos-de-la-marina-inician-nueva-vida-30707051",
+      "urlToImage": "https://oem.com.mx/la-prensa/img/31306191/1785087118/BASE_LANDSCAPE/400/image.jpg",
+      "publishedAt": "2026-07-27 06:00:00",
+      "sourceName": "la_prensa_mx"
+    },
+    {
+      "id": "es-1",
+      "title": "Abandono animal en verano: cómo trabajan las protectoras de Córdoba y qué alternativas existen para las mascotas",
+      "description": "Aunque es un problema de maltrato animal que se produce durante todo el año, protectoras y profesionales coinciden en que el verano supone una de las épocas de mayor presión por la caída de las adopciones, la llegada",
+      "url": "https://www.eldiadecordoba.es/cordoba/abandono-animal-verano-protectoras-cordoba-mascotas_0_2007462258.html",
+      "urlToImage": "https://static.grupojoly.com/clip/a5023581-a2c2-4d40-96c9-75363e561e7f_source-aspect-ratio_default_0.jpg",
+      "publishedAt": "2026-07-27 05:00:00",
+      "sourceName": "eldiadecordoba"
+    },
+    {
+      "id": "es-2",
       "title": "Viaje de perros",
       "description": "'Pipper' protagoniza un blog que ofrece consejos para hacer turismo con nuestra mascota y desvela los mejores destinos",
       "url": "https://www.leonoticias.com/vivir/ocio/viaje-perros-20210419221321-ntrc.html",
@@ -11,7 +29,7 @@
       "sourceName": "leonoticias"
     },
     {
-      "id": "es-1",
+      "id": "es-3",
       "title": "En busca del perro más listo del mundo",
       "description": "Una universidad húngara ha puesto en marcha una competición entre ejemplares de todo el mundo con una capacidad lingüística «excepcional», que les permite reconocer los nombres de decenas de juguetes",
       "url": "https://www.canarias7.es/vivir/ciencia/busca-perro-listo-20201202114127-ntrc.html",
@@ -20,7 +38,7 @@
       "sourceName": "canarias7"
     },
     {
-      "id": "es-2",
+      "id": "es-4",
       "title": "Así 've' el mundo tu perro",
       "description": "Su olfato es una herramienta prodigiosa que determina su relación con el entorno y, en cierto modo, lo proyecta hacia el pasado y el futuro",
       "url": "https://www.canarias7.es/vivir/ciencia/como-ven-mundo-perros-20210901192210-ntrc.html",
@@ -29,7 +47,7 @@
       "sourceName": "canarias7"
     },
     {
-      "id": "es-3",
+      "id": "es-5",
       "title": "Bull, el perro-policía condecorado por su labor contra el tráfico de drogas",
       "description": "En el mismo acto presidido por el delegado del Gobierno también se han entregado las medallas al mérito policial a varios agentes",
       "url": "https://www.canarias7.es/sociedad/mascotas/bull-perropolicia-condecorado-20201102163220-nt.html",
@@ -38,7 +56,7 @@
       "sourceName": "canarias7"
     },
     {
-      "id": "es-4",
+      "id": "es-6",
       "title": "El perro «Basco» se jubila",
       "description": "La Policía Nacional lo ha entregado este jueves a su nueva familia de adopción",
       "url": "https://www.canarias7.es/sociedad/mascotas/perro-basco-jubila-20210128100915-nt.html",
@@ -47,7 +65,7 @@
       "sourceName": "canarias7"
     },
     {
-      "id": "es-5",
+      "id": "es-7",
       "title": "Lo vinculan a proceso por atacar a 2 personas y matar a un perro",
       "description": "Un juez del Poder Judicial del Estado de México vinculó a proceso a Elías Marcelino \"N\" por su probable responsabilidad en los delitos de homicidio en grado de tentativa en agravio de dos hombres y crueldad a los sere",
       "url": "https://eltiempomx.com/noticia/2026/lo-vinculan-a-proceso-por-atacar-a-2-personas-y-matar-a-un-perro.html",
@@ -56,7 +74,7 @@
       "sourceName": "eltiempomonclova_mx"
     },
     {
-      "id": "es-6",
+      "id": "es-8",
       "title": "Vinculan a proceso a hombre por atacar a balazos a dos personas y matar a un perro; enfrentará cargos por tentativa de homicidio y crueldad animal",
       "description": "El imputado habría disparado durante una discusión por un lugar de estacionamiento en Valle de Chalco; un juez le impuso prisión preventiva y fijó dos meses para el cierre de la investigación complementaria",
       "url": "https://www.eluniversal.com.mx/metropoli/vinculan-a-proceso-a-hombre-por-atacar-a-balazos-a-dos-personas-y-matar-a-un-perro-enfrentara-cargos-por-tentativa-de-homicidio-y-crueldad-animal/",
@@ -65,7 +83,7 @@
       "sourceName": "eluniversal"
     },
     {
-      "id": "es-7",
+      "id": "es-9",
       "title": "Casi muere por un estacionamiento en Valle de Chalco, pero mataron a su perro",
       "description": "Una discusión por un estacionamiento en Valle de Chalco acabó en tragedia. Un hombre resultó herido y su perro murió tras una agresión a balazos.",
       "url": "https://www.tvazteca.com/aztecanoticias/valle-chalco-disparan-hombre-estacionamiento-matan-perro-detenido/",
@@ -74,7 +92,7 @@
       "sourceName": "tvazteca"
     },
     {
-      "id": "es-8",
+      "id": "es-10",
       "title": "Juez otorga pensión alimentaria a husky tras divorcio en Tabasco",
       "description": "Un juzgado de lo Familiar ubicado en el municipio de Centro, Tabasco, emitió una resolución judicial inédita en la entidad al ordenar el pago de una pensión alimentaria formal en favor de Lucas, un perro de raza husk",
       "url": "https://www.informateymas.com/nacionales/festival-cultural-verano-cuernavaca-2026-eventos-gratis/",
@@ -83,7 +101,7 @@
       "sourceName": "informateymas"
     },
     {
-      "id": "es-9",
+      "id": "es-11",
       "title": "Por qué los perros siempre inclinan la cabeza: un entrenador te cuenta la razón “fascinante”",
       "description": "El experto indicó que detrás de esa reacción hay una explicación científica y una señal del vínculo que mantienen con las personas.",
       "url": "https://www.eltrecetv.com.ar/tiempo-libre-y-estilo/2026/07/26/por-que-los-perros-siempre-inclinan-la-cabeza-un-entrenador-te-cuenta-la-razon-fascinante/",
@@ -92,7 +110,7 @@
       "sourceName": "eltrecetv_ar"
     },
     {
-      "id": "es-10",
+      "id": "es-12",
       "title": "Ninja Skadi, especialista canino: “En verano hay que parar de jugar antes de que el perro se canse, porque el calor se recibe con retraso”",
       "description": "El experto en perros da varios consejos para evitar que los canes tengas problemas de salud debido a las altas temperaturas",
       "url": "https://www.lavanguardia.com/mascotas/20260726/11601454/ninja-skadi-especialista-canino-verano-hay-parar-jugar-perro-canse-calor-recibe-retraso-epm.html",
@@ -101,7 +119,7 @@
       "sourceName": "lavanguardia"
     },
     {
-      "id": "es-11",
+      "id": "es-13",
       "title": "Vinculan a proceso a sujeto que habría disparado a perrito Max en Valle de Chalco; el can murió al día siguiente",
       "description": "El acusado enfrentará proceso por crueldad animal y tentativa de homicidio tras disparar contra el perro Max y a dos hombres durante una riña.",
       "url": "https://heraldodemexico.com.mx/nacional/2026/7/26/vinculan-proceso-sujeto-que-habria-disparado-perrito-max-en-valle-de-chalco-el-can-murio-al-dia-siguiente-857122.html",
@@ -110,7 +128,7 @@
       "sourceName": "heraldodemexico"
     },
     {
-      "id": "es-12",
+      "id": "es-14",
       "title": "Perro amarrado con cadena y gato desnutrido: detienen a mujer acusada de maltrato animal en Araucanía",
       "description": "Una mujer fue detenida por efectivos de la PDI, durante una diligencia derivada de una denuncia por maltrato animal, que en Padre Las Casas, región de La Araucanía. La diligencia se originó tras una denuncia presentad",
       "url": "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2026/07/26/perro-amarrado-con-cadena-y-un-gato-desnutrido-detienen-a-mujer-acusada-de-maltrato-animal.shtml",
@@ -119,7 +137,7 @@
       "sourceName": "biobiochile"
     },
     {
-      "id": "es-13",
+      "id": "es-15",
       "title": "Cómo entender bien a tu perro: “Cuando ladra lo hace por inseguridad el 99% de las veces”",
       "description": "Alba Fernández y Víctor Padilla, responsables de 'Olfateando mundo', explican cómo interpretar el mundo emocional del perro Por qué los perros son los nuevos compañeros del alma a partir de los 50",
       "url": "https://www.telecinco.es/noticias/mascotas/20260726/como-entender-bien-perro-cuando-ladra-inseguridad-upp3rs_18_019640885.html",
@@ -128,7 +146,7 @@
       "sourceName": "telecinco_es"
     },
     {
-      "id": "es-14",
+      "id": "es-16",
       "title": "Roy, el perro que ayuda a combatir el Chagas y buscar pichiciegos en Mendoza",
       "description": "El proyecto se enfoca en identificar vectores de Chagas y ayudar con la conservación de la fauna de Mendoza con el trabajo de Roy, un perro rastreador.",
       "url": "https://www.mdzol.com/sociedad/roy-el-perro-que-ayuda-combatir-el-chagas-y-buscar-pichiciegos-mendoza-n1572608",
@@ -137,7 +155,7 @@
       "sourceName": "mdzol"
     },
     {
-      "id": "es-15",
+      "id": "es-17",
       "title": "Los veterinarios lo tienen claro: esto es todo lo que tienes que saber antes de irte de vacaciones con tu perro",
       "description": "Ha comenzado la temporada de vacaciones y muchos se preguntan qué hacer con sus mascotas. Mientras que algunos optan por dejar a sus perros en residencias caninas, otros prefieren ir de aventura con ellos. Sin embargo, ",
       "url": "https://www.eleconomista.es/actualidad/noticias/14003472/07/26/los-veterinarios-lo-tienen-claro-esto-es-todo-lo-que-tienes-que-saber-antes-de-irte-de-vacaciones-con-tu-perro.html",
@@ -146,7 +164,7 @@
       "sourceName": "eleconomista_es"
     },
     {
-      "id": "es-16",
+      "id": "es-18",
       "title": "El guaraní y la city XII: amores perros",
       "description": "",
       "url": "https://www.elterritorio.com.ar/noticias/2026/07/26/902005-el-guarani-y-la-city-xii-amores-perros",
@@ -155,7 +173,7 @@
       "sourceName": "elterritorio"
     },
     {
-      "id": "es-17",
+      "id": "es-19",
       "title": "¿Deberías cortarle el pelo a un perro en verano? Cómo cuidar de tu mascota para que esté fresca",
       "description": "Cuando se piensa en los animales de compañía y el verano, a muchos se les viene a la cabeza la imagen de un perro con pelo largo paseando bajo el sol, jadeando por el calor. Lo cierto es que muchos perros lo pasan mal ",
       "url": "https://www.europapress.es/desconecta/curiosity/noticia-deberias-cortarle-pelo-perro-verano-cuidar-mascota-fresca-20260726085947.html",
@@ -164,7 +182,7 @@
       "sourceName": "europapress"
     },
     {
-      "id": "es-18",
+      "id": "es-20",
       "title": "Detienen a hombre y mujer por crueldad animal en Tlaquepaque",
       "description": "Un reporte en la colonia El Álamo permitió asegurar restos de un perro y poner a los detenidos a disposición de las autoridades correspondientes",
       "url": "https://www.informador.mx/jalisco/tlaquepaque-detienen-a-hombre-y-mujer-por-crueldad-animal-20260725-0093.html",
@@ -173,7 +191,7 @@
       "sourceName": "informador_mx"
     },
     {
-      "id": "es-19",
+      "id": "es-21",
       "title": "La demanda de hoteles para perros se duplica en verano",
       "description": "Alrededor de los años noventa surgió en España una alternativa que, con el paso del tiempo, se ha consolidado como un servicio habitual para miles de familias: las residencias u hoteles para perros. Se trata de establ",
       "url": "https://www.elconfidencialdigital.com/articulo/vivir/demanda-hoteles-perros-duplica-verano/202607260500001032883.html",
@@ -182,7 +200,7 @@
       "sourceName": "elconfidencialdigital"
     },
     {
-      "id": "es-20",
+      "id": "es-22",
       "title": "Video.- Perrito cae a alcantarilla; lo rescatan agentes viales",
       "description": "Tras confirmar que el perro se encontraba atorado al fondo del registro, empezaron a darle comida para ganar su confianza y poder sacarlo",
       "url": "https://eldiariodechihuahua.mx/estado/2026/jul/25/video-perrito-cae-a-alcantarilla-lo-rescatan-agentes-viales-821301.html",
@@ -191,7 +209,7 @@
       "sourceName": "eldiariodechihuahua"
     },
     {
-      "id": "es-21",
+      "id": "es-23",
       "title": "Torreón aplica primera multa por maltrato animal; dueño tenía a su perrito en estado de abandono",
       "description": "La primera multa supera los 10 mil pesos y fue impuesta tras comprobar el abandono y las malas condiciones de un perro en la colonia Villas La Merced.",
       "url": "https://www.milenio.com/estados/torreon-aplica-primera-multa-por-maltrato-animal",
@@ -200,31 +218,13 @@
       "sourceName": "milenio"
     },
     {
-      "id": "es-22",
+      "id": "es-24",
       "title": "Milagro en La Guaira: rescatan con vida a un perro que pasó 29 días bajo los escombros",
       "description": "Las imágenes difundidas en redes sociales muestran a los socorristas sacándolo de entre los escombros, cubierto de polvo y visiblemente deshidratado, mientras le suministran agua y verifican su estado de salud.",
       "url": "https://www.elheraldo.co/mundo/2026/07/25/milagro-en-la-guaira-rescatan-con-vida-a-un-perro-que-paso-29-dias-bajo-los-escombros-tras-los-terremotos/",
       "urlToImage": "https://www.elheraldo.co/resizer/v2/6TAJ4W54DRFRBA43LTDXWUPPSA.jpg?auth=b7da0e3aca034f009dea7223567065cdc65a254a2e6c7951e103916f7805e445&smart=true&width=1426&height=1080",
       "publishedAt": "2026-07-26 00:00:43",
       "sourceName": "elheraldo"
-    },
-    {
-      "id": "es-23",
-      "title": "Tutor de Tsunami promueve creación de brigada canina de rescate",
-      "description": "CIUDAD MCY.- Jorge Beens, rescatista venezolano y tutor de Tsunami, expresó el deseo de crear una brigada canina y «asumir la responsabilidad de dedicar tiempo y consolidar el primer centro de entrenamiento de equipos c",
-      "url": "https://ciudadmcy.info.ve/tutor-de-tsunami-promueve-creacion-de-brigada-canina-de-rescate",
-      "urlToImage": "https://ciudadmcy.info.ve/wp-content/uploads/2026/07/Tutor-de-Tsunami-promueve-creacion-de-brigada-canina-de-rescate-NACION.jpg",
-      "publishedAt": "2026-07-25 18:47:30",
-      "sourceName": "ciudadmcy"
-    },
-    {
-      "id": "es-24",
-      "title": "Antes de Gagarin hubo perros: los pioneros olvidados del espacio",
-      "description": "75 años después del primer vuelo canino exitoso, los animales que llevaron a la humanidad hacia las estrellas aún son recordados, destaca el columnista y escritor Vadim Zagorenko",
-      "url": "https://actualidad.rt.com/actualidad/618849-gagarin-hubo-perros-pioneros-olvidados-espacio",
-      "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2026.07/thumbnail/6a64ae82e9ff710c027ae961.jpg",
-      "publishedAt": "2026-07-25 16:29:29",
-      "sourceName": "rt_mx"
     },
     {
       "id": "es-25",
@@ -302,6 +302,50 @@
   "en": [
     {
       "id": "en-0",
+      "title": "Pankaj Tripathi’s Ohh My Dog Postponed to August 7 Due to Spider-Man: Brand New Day Screen Shortage",
+      "description": "The release of Pankaj Tripathi’s upcoming family drama, Ohh My Dog, has encountered a last-minute setback. Directed by Amit Rai, the film was originally scheduled for a theatrical release on July 31. However, the release",
+      "url": "https://www.cinetalkers.com/pankaj-tripathis-ohh-my-dog-postponed-to-august-7-due-to-spider-man-brand-new-day-screen-shortage/",
+      "urlToImage": "https://www.cinetalkers.com/wp-content/uploads/2026/07/Amit-Rai.jpg",
+      "publishedAt": "2026-07-27 05:26:27",
+      "sourceName": "cinetalkers",
+      "title_es": "Ohh My Dog de Pankaj Tripathi se pospuso hasta el 7 de agosto debido a la escasez de pantallas de Spider-Man: Brand New Day",
+      "description_es": "El lanzamiento del próximo drama familiar de Pankaj Tripathi, Ohh My Dog, ha tenido un revés de última hora. Dirigida por Amit Rai, la película estaba originalmente programada para su estreno en cines el 31 de julio. Sin embargo, el lanzamiento"
+    },
+    {
+      "id": "en-1",
+      "title": "India to Fund Major Rs 2 Billion Dog Sanctuary and Veterinary Project in Mauritius",
+      "description": "The Mauritian government is set to transform its handling of stray and abandoned animals through a major Rs 2 billion project funded as a grant by the Indian government. Addressing a parliamentary question, Agro-Industry",
+      "url": "https://newsmoris.com/india-to-fund-major-rs-2-billion-dog-sanctuary-and-veterinary-project-in-mauritius/",
+      "urlToImage": "https://newsmoris.com/wp-content/uploads/2025/09/Dogs-NM-1.jpg",
+      "publishedAt": "2026-07-27 05:23:54",
+      "sourceName": "newsmoris",
+      "title_es": "India financiará un importante proyecto veterinario y de santuario de perros de 2.000 millones de rupias en Mauricio",
+      "description_es": "El gobierno de Mauricio está listo para transformar su manejo de animales callejeros y abandonados a través de un importante proyecto de 2.000 millones de rupias financiado como una subvención por el gobierno indio. Respondiendo a una pregunta parlamentaria, Agroindustria"
+    },
+    {
+      "id": "en-2",
+      "title": "Pankaj Tripathi starrer Ohh My Dog release postponed to August 7 due to Spider-Man: Brand New Day screen shortage",
+      "description": "Pankaj Tripathi's upcoming family drama Ohh My Dog has reportedly suffered a last-minute release setback. The Amit Rai directorial, which was initially slated to arrive in theatres on July 31, has now been postponed by a",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/pankaj-tripathi-starrer-ohh-my-dog-release-postponed-to-august-7-due-to-spider-man-brand-new-day-screen-shortage/",
+      "urlToImage": "https://www.bollywoodhungama.com/wp-content/uploads/2026/07/Pankaj-Tripathi-starrer-Ohh-My-Dog-release-postponed-to-August-7-due-to-news.jpeg",
+      "publishedAt": "2026-07-27 04:36:59",
+      "sourceName": "bollywoodhungama",
+      "title_es": "El estreno de Ohh My Dog de Pankaj Tripathi se pospuso hasta el 7 de agosto debido a la escasez de pantallas de Spider-Man: Brand New Day",
+      "description_es": "El próximo drama familiar de Pankaj Tripathi, Ohh My Dog, ha sufrido un revés de último minuto. La dirección de Amit Rai, que inicialmente estaba programada para llegar a los cines el 31 de julio, ahora ha sido pospuesta por un"
+    },
+    {
+      "id": "en-3",
+      "title": "Scientists Just Discovered A Contagious Cancer In A Catfish, The Fourth Known To Science. Meet The Other Three",
+      "description": "Only four transmissible cancers are known, contagious cell lineages that spread between animals. Meet the dog, devil and shellfish cancers behind the catfish.",
+      "url": "https://ca.news.yahoo.com/scientists-just-discovered-contagious-cancer-041456091.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/040380f07977884de7470949ca80de3a9ae2d17708c5747fa53b8deb4343e087/lightyear_networkapi/resizefill_w959_h606;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F9e927a10ac2dc296ebf10ec68e45b18e",
+      "publishedAt": "2026-07-27 04:14:56",
+      "sourceName": "yahoo",
+      "title_es": "Los científicos acaban de descubrir un cáncer contagioso en un bagre, el cuarto conocido por la ciencia. Conoce a los otros tres",
+      "description_es": "Solo se conocen cuatro cánceres transmisibles, linajes celulares contagiosos que se propagan entre animales. Conoce a los cánceres del perro, el diablo y los mariscos detrás del bagre."
+    },
+    {
+      "id": "en-4",
       "title": "Hit children's musical coming to two Hampshire venues on first ever UK tour",
       "description": "Hilarious and heartfelt musical Dog Man will tour the UK this autumn and into 2027, stopping at Mayflower Theatre and Fareham Live",
       "url": "https://www.dailyecho.co.uk/news/26295787.stage-spectacular-dog-man-musical-coming-hampshire/",
@@ -312,7 +356,7 @@
       "description_es": "El hilarante y sincero musical Dog Man recorrerá el Reino Unido este otoño y hasta 2027, con parada en el Mayflower Theatre y Fareham Live"
     },
     {
-      "id": "en-1",
+      "id": "en-5",
       "title": "Freddy Brazier's Ex-Girlfriend Claims Dog That Attacked Him Was Mistreated",
       "description": "Freddy Brazier's ex-girlfriend Holly Swinburn has spoken out about the dog that attacked him, claiming it was 'mistreated'. The bulldog, Pablo, is now in police custody and Freddy has been given seven days to find a suit",
       "url": "https://us.headtopics.com/news/freddy-brazier-s-ex-girlfriend-claims-dog-that-attacked-him-85977404",
@@ -323,7 +367,7 @@
       "description_es": "La exnovia de Freddy Brazier, Holly Swinburn, ha hablado sobre el perro que lo atacó, afirmando que fue \"maltratado\". El bulldog, Pablo, ahora está bajo custodia policial y a Freddy se le han dado siete días para encontrar un traje"
     },
     {
-      "id": "en-2",
+      "id": "en-6",
       "title": "Freddy Brazier's Ex-Girlfriend Claims Bulldog Was Mistreated After Attack on TV Star",
       "description": "Freddy Brazier's ex-girlfriend Holly Swinburn has spoken out about the bulldog who attacked the TV star, claiming that the dog was mistreated in the past. The couple shares a daughter and Holly is begging anyone who can ",
       "url": "https://us.headtopics.com/news/freddy-brazier-s-ex-girlfriend-claims-bulldog-was-85976924",
@@ -334,7 +378,7 @@
       "description_es": "La exnovia de Freddy Brazier, Holly Swinburn, ha hablado sobre el bulldog que atacó a la estrella de televisión, alegando que el perro fue maltratado en el pasado. La pareja comparte una hija y Holly le ruega a cualquiera que pueda"
     },
     {
-      "id": "en-3",
+      "id": "en-7",
       "title": "🐶 Gentle Eugene Dogs Looking for Loving Local Homes",
       "description": "Eugene has some very special dogs who need new families. If you’ve been thinking about adding a canine friend to your life, take a look at these pups and s",
       "url": "https://www.newsbreak.com/oregon-daily-brief-375409971/4792867809887-gentle-eugene-dogs-looking-for-loving-local-homes",
@@ -345,7 +389,7 @@
       "description_es": "Eugene tiene algunos perros muy especiales que necesitan nuevas familias. Si has estado pensando en añadir un amigo canino a tu vida, echa un vistazo a estos cachorros y"
     },
     {
-      "id": "en-4",
+      "id": "en-8",
       "title": "10 Dog Breeds That Don’t Get Easily Adopted and Why They Deserve More Compassion",
       "description": "Dogs are often considered man’s best friend, yet some breeds find themselves in shelters longer than others, waiting patiently for a forever home. These do",
       "url": "https://www.newsbreak.com/doggo-digest-318442522/4792982809991-10-dog-breeds-that-don-t-get-easily-adopted-and-why-they-deserve-more-compassion",
@@ -356,7 +400,7 @@
       "description_es": "Los perros a menudo se consideran el mejor amigo del hombre, pero algunas razas se encuentran en refugios más tiempo que otras, esperando pacientemente un hogar para siempre. Estos sí"
     },
     {
-      "id": "en-5",
+      "id": "en-9",
       "title": "10 Human Oriented Dog Breeds That Thrive on Companionship",
       "description": "I completely understand that special feeling when your horse nickers softly at your approach, but did you know dogs can offer that same deep connection? As",
       "url": "https://www.newsbreak.com/doggo-digest-318442522/4793254447168-10-human-oriented-dog-breeds-that-thrive-on-companionship",
@@ -367,7 +411,7 @@
       "description_es": "Entiendo completamente esa sensación especial cuando tu caballo se mece suavemente al acercarte, pero ¿sabías que los perros pueden ofrecer esa misma conexión profunda?"
     },
     {
-      "id": "en-6",
+      "id": "en-10",
       "title": "Forget the Kennels! These UK Festivals Now Welcome Your Four-Legged Friend This Summer",
       "description": "UK festivals are increasingly welcoming dogs, allowing owners to enjoy music events with their pets. Smaller festivals are leading this trend, offering a pet-friendly alternative to major events.",
       "url": "https://www.inkl.com/news/forget-the-kennels-these-uk-festivals-now-welcome-your-four-legged-friend-this-summer",
@@ -378,7 +422,7 @@
       "description_es": "Los festivales del Reino Unido son cada vez más acogedores con los perros, lo que permite a los propietarios disfrutar de eventos musicales con sus mascotas. Los festivales más pequeños están liderando esta tendencia, ofreciendo una alternativa apta para mascotas a los grandes eventos."
     },
     {
-      "id": "en-7",
+      "id": "en-11",
       "title": "Freddy Brazier's ex-girlfriend Holly Swinburn claims dog who attacked TV star was 'mistreated' as she begs for help to find pet 'a good home' ahead of euthanasia deadline",
       "description": "The son of the late Jade Goody and Jeff Brazier , 21, received emergency hospital treatment after his dog Pablo 'hooked onto his arm' during an attack last week.",
       "url": "https://www.dailymail.com/tvshowbiz/article-16006335/Freddy-Braziers-ex-girlfriend-Holly-Swinburn-claims-dog-euthanasia-deadline.html",
@@ -389,7 +433,7 @@
       "description_es": "El hijo del fallecido Jade Goody y Jeff Brazier , de 21 años, recibió tratamiento hospitalario de emergencia después de que su perro Pablo \"se enganchó a su brazo\" durante un ataque la semana pasada."
     },
     {
-      "id": "en-8",
+      "id": "en-12",
       "title": "Barking up the right tree: the Australian hotels that pass the pet test",
       "description": "Luxury hotels are rolling out the red carpet for your pet.",
       "url": "https://www.easternriverinachronicle.com.au/story/9312098/the-ultimate-guide-to-premium-pet-friendly-stays-in-australia/?src=rss",
@@ -400,7 +444,7 @@
       "description_es": "Los hoteles de lujo están desplegando la alfombra roja para tu mascota."
     },
     {
-      "id": "en-9",
+      "id": "en-13",
       "title": "Canine cardio? How a mobile dog gym keeps your pup healthy",
       "description": "Waggin' Wheels is a mobile dog gym in Halifax that comes right to your door. The business helps dogs exercise safely in the heat of summer or in the dead of win...",
       "url": "https://www.cbc.ca/player/play/video/9.6888463?cmp=rss",
@@ -411,7 +455,7 @@
       "description_es": "Waggin' Wheels es un gimnasio móvil para perros en Halifax que llega directamente a tu puerta. El negocio ayuda a los perros a hacer ejercicio de manera segura en el calor del verano o en medio de la victoria..."
     },
     {
-      "id": "en-10",
+      "id": "en-14",
       "title": "Truck Swerves To Hit Dog, Misses, Then Crushes Pregnant Canine In 2nd Try",
       "description": "A heart-wrenching video from Jaipur shows a pickup truck swerving to allegedly try and run over a dog and then crushing another pregnant canine to death.",
       "url": "https://www.ndtv.com/india-news/jaipur-truck-swerves-to-hit-dog-crushes-pregnant-canine-when-1st-attempt-fails-8181842",
@@ -422,51 +466,43 @@
       "description_es": "Un video desgarrador de Jaipur muestra a una camioneta que se desvía para supuestamente intentar atropellar a una perra y luego aplastar a otra perra embarazada hasta la muerte."
     },
     {
-      "id": "en-11",
+      "id": "en-15",
       "title": "Madras Canine Club’s dog shows draw to a close",
       "description": "All Breeds Championship dog shows by Madras Canine Club conclude with German Shepherds and Doberman winning top prizes.",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-dog-shows-draw-to-a-close/article69116790.ece",
       "urlToImage": "https://th-i.thgim.com/public/incoming/v4kc2l/article69116985.ece/alternates/LANDSCAPE_1200/MADRAS%20CANINE%20CLUB%20145%20TH%20ALL%20BREEDS%20CHAMPIONSHIP%20DOG%20SHOW%20_01.jpg",
       "publishedAt": "2025-01-19T15:32:32.000000Z",
-      "sourceName": "thehindu.com",
-      "title_es": "Las exposiciones caninas del Madras Canine Club llegan a su fin",
-      "description_es": "Todas las exposiciones caninas del Madras Canine Club concluyen con los pastores alemanes y los doberman ganando los principales premios."
+      "sourceName": "thehindu.com"
     },
     {
-      "id": "en-12",
+      "id": "en-16",
       "title": "Is dog perfume necessary for your canine companion?",
       "description": "Luxury fashion house Dolce & Gabbana has unveiled a new dog perfume named \"Fefé.\"",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/is-dog-perfume-necessary-for-your-canine-companion/",
       "urlToImage": "https://www.thesouthafrican.com/wp-content/uploads/2024/08/pexels-david-kanigan-239927285-20741415.jpg",
       "publishedAt": "2024-08-06T06:48:14.000000Z",
-      "sourceName": "thesouthafrican.com",
-      "title_es": "¿El perfume para perros es necesario para tu compañero canino?",
-      "description_es": "La lujosa casa de moda Dolce & Gabbana ha presentado un nuevo perfume para perros llamado \"Fefé\"."
+      "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-13",
+      "id": "en-17",
       "title": "Recognising signs of canine asthma in your Dog",
       "description": "Asthma in dogs is an allergic disease characterised by inflammation and constriction of the small airways in the lungs...",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/recognising-signs-of-canine-asthma-in-your-dog/",
       "urlToImage": "https://www.thesouthafrican.com/wp-content/uploads/2024/04/ryan-stone-FTzRYeD5lAs-unsplash.jpg",
       "publishedAt": "2024-04-29T21:13:10.000000Z",
-      "sourceName": "thesouthafrican.com",
-      "title_es": "Reconocer los signos de asma canina en su perro",
-      "description_es": "El asma en perros es una enfermedad alérgica caracterizada por la inflamación y la constricción de las pequeñas vías respiratorias en los pulmones..."
+      "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-14",
+      "id": "en-18",
       "title": "Taiwan to soon welcome its first indigenous dog as a police canine",
       "description": "",
       "url": "https://focustaiwan.tw/society/202404200004",
       "urlToImage": "https://imgcdn.cna.com.tw/Eng/WebEngPhotos/WebOg/600/2024/20240420/1080x567_602935051905.jpg",
       "publishedAt": "2024-04-20T04:43:25.000000Z",
-      "sourceName": "focustaiwan.tw",
-      "title_es": "Taiwán pronto dará la bienvenida a su primer perro indígena como perro policía",
-      "description_es": ""
+      "sourceName": "focustaiwan.tw"
     },
     {
-      "id": "en-15",
+      "id": "en-19",
       "title": "Detroit TSA canine handler suspended over video of him pulling dog",
       "description": "A TSA canine handler was suspended from his duties after a viral video captured him aggressively yanking a bomb-detecting dog in a busy airport.",
       "url": "https://nypost.com/2023/05/08/detroit-tsa-worker-suspended-over-video-of-him-pulling-dog/",
@@ -475,7 +511,7 @@
       "sourceName": "nypost.com"
     },
     {
-      "id": "en-16",
+      "id": "en-20",
       "title": "Curtains come down on Madras Canine Club’s dog shows",
       "description": "570 dogs belonging to 69 breeds participated in the two-day event",
       "url": "https://www.thehindu.com/news/cities/chennai/curtains-come-down-on-madras-canine-clubs-dog-shows/article65880058.ece",
@@ -484,7 +520,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-17",
+      "id": "en-21",
       "title": "Madras Canine Club’s All Breeds Championship Dog Shows begin",
       "description": "Over 570 canines from 69 different breeds have registered this year",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-all-breeds-championship-dog-shows-begin/article65875162.ece",
