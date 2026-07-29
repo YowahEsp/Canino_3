@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T16:18:55.325Z",
+  "generatedAt": "2026-07-29T17:46:50.912Z",
   "es": [
     {
       "id": "es-0",
@@ -257,6 +257,28 @@
   "en": [
     {
       "id": "en-0",
+      "title": "Meet Scooter, the Queensland beagle who captured hearts after eating 1kg worth of lolly snakes",
+      "description": "A candy-crazed canine has chewed her way into the hearts of Australians after a trip to the emergency vet.",
+      "url": "https://www.perthnow.com.au/news/australia/meet-scooter-the-queensland-beagle-who-captured-hearts-after-eating-1kg-worth-of-lolly-snakes-c-22645962",
+      "urlToImage": "https://images.perthnow.com.au/publication/C-22645962/6a05ce72593fa97585fe9f4030e5b4a7aa607fb1-16x9-x0y165w1200h675.jpg",
+      "publishedAt": "2026-07-29 05:28:21",
+      "sourceName": "perthnow",
+      "title_es": "Conoce a Scooter, el beagle de Queensland que capturó corazones después de comer 1 kg de serpientes lolly",
+      "description_es": "Un canino enloquecido por los dulces se ha abierto camino en los corazones de los australianos después de un viaje al veterinario de emergencia."
+    },
+    {
+      "id": "en-1",
+      "title": "Dog tied to a Bilston lamppost with stab wounds 'bleeding out' is now 'loving life'",
+      "description": "Comet, who was also wearing a prong collar, was 'very distressed and disorientated' when the RSPCA rescued him",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/dog-tied-bilston-lamppost-stab-34363445",
+      "urlToImage": "https://i2-prod.birminghammail.co.uk/incoming/article34363672.ece/ALTERNATES/s615/0_KA_BEM_280626_rspcajpeg.jpg",
+      "publishedAt": "2026-07-29 04:42:00",
+      "sourceName": "birminghammail",
+      "title_es": "El perro atado a una farola de Bilston con heridas de arma blanca \"desangrándose\" ahora \"ama la vida\"",
+      "description_es": "Comet, que también llevaba un collar de dientes, estaba \"muy angustiado y desorientado\" cuando la RSPCA lo rescató"
+    },
+    {
+      "id": "en-2",
       "title": "New dog park officially opens with community dog show",
       "description": "A new pet park is now open for dogs and their owners to enjoy",
       "url": "https://www.swindonadvertiser.co.uk/news/26414624.new-goodearl-dog-park-swindon-enjoyed-pets/",
@@ -267,7 +289,7 @@
       "description_es": "Ya está abierto un nuevo parque para mascotas para que lo disfruten los perros y sus dueños"
     },
     {
-      "id": "en-1",
+      "id": "en-3",
       "title": "Maple Ridge adventurer’s journeys continue",
       "description": "Maple Ridge adventurer Chris Cooper might be getting close on his 80th birthday, but he’s just back from trekking 500 km across the UK with wife Barbara, their service dog [...]",
       "url": "https://mapleridgenews.com/2026/07/28/maple-ridge-adventurers-journeys-continue/",
@@ -278,7 +300,7 @@
       "description_es": "El aventurero de Maple Ridge Chris Cooper podría estar cerca de cumplir 80 años, pero acaba de regresar de caminar 500 km por el Reino Unido con su esposa Barbara, su [...]"
     },
     {
-      "id": "en-2",
+      "id": "en-4",
       "title": "Gustavo Arellano: The joy and heartbreak of adopting a senior dog",
       "description": "Cosmo and Hook came into my life in the summer of 2020. My wife, Delilah, found them on the website of Frosted Faces Foundation, a nonprofit in the northern San Diego County town of Ramona that rescues senior dogs. She i",
       "url": "https://www.arcamax.com/opeds/s-4263508",
@@ -289,7 +311,7 @@
       "description_es": "Cosmo y Hook llegaron a mi vida en el verano de 2020. Mi esposa, Delilah, los encontró en el sitio web de Frosted Faces Foundation, una organización sin fines de lucro en la ciudad de Ramona, en el norte del condado de San Diego, que rescata perros mayores."
     },
     {
-      "id": "en-3",
+      "id": "en-5",
       "title": "New show at Kootenay Gallery explores human connection to canines (Castlegar)",
       "description": "\"For The Love Of Dog\" by Kimberley Hyatt Kootenay Gallery of Art in Castlegar Exhibition dates: Aug. 13 – Oct. 31 Artist reception: Saturday, Sept. 12, at Kootenay Gallery of Art (2-4 p.m.) What is it about dogs that con",
       "url": "https://www.castanet.net/news/Castlegar/626295/New-show-at-Kootenay-Gallery-explores-human-connection-to-canines",
@@ -300,7 +322,7 @@
       "description_es": "\"For The Love Of Dog\" de Kimberley Hyatt Kootenay Gallery of Art en Castlegar Fechas de exposición: 13 de agosto – 31 de octubre Recepción del artista: sábado 12 de septiembre en la Galería de Arte Kootenay (2-4 p. m.) ¿Qué tienen los perros que con"
     },
     {
-      "id": "en-4",
+      "id": "en-6",
       "title": "Barking Up The Right Tree: How Karnataka Canine Cop Sniffed Out A Canny Killer",
       "description": "The direction of the investigation changed dramatically when Simbha, a trained police sniffer dog, was brought to the crime scene",
       "url": "https://www.news18.com/india/barking-up-the-right-tree-how-karnataka-canine-cop-sniffed-out-a-canny-killer-10239274.html",
@@ -311,7 +333,7 @@
       "description_es": "La dirección de la investigación cambió drásticamente cuando Simbha, un perro entrenado para rastrear a la policía, fue llevado a la escena del crimen"
     },
     {
-      "id": "en-5",
+      "id": "en-7",
       "title": "Kootenay Gallery of Art Presents: For The Love Of Dog by Kimberley Hyatt",
       "description": "Exhibition Dates: August 13 – October 31, 2026 Artist Reception: Saturday, September 12, at the Kootenay Gallery of Art from 2-4pm What is it about dogs that connects us? How do they bring people together, shape our rela",
       "url": "https://trailchampion.com/2026/07/kootenay-gallery-of-art-presents-for-the-love-of-dog-by-kimberley-hyatt/",
@@ -322,7 +344,7 @@
       "description_es": "Fechas de la exposición: del 13 de agosto al 31 de octubre de 2026 Recepción de artistas: sábado 12 de septiembre en la Kootenay Gallery of Art de 2 a 4 p. m. ¿Qué es lo que nos conecta con los perros? ¿Cómo unen a las personas, dan forma a nuestra relación"
     },
     {
-      "id": "en-6",
+      "id": "en-8",
       "title": "Animal Behavior Science Says When a Dog Leans Its Entire Body Mass Against Your Legs It Is Not Just Needing Balance",
       "description": "",
       "url": "https://www.bundle.app/en/technology/animal-behavior-science-says-when-a-dog-leans-its-entire-body-mass-against-your-legs-it-is-not-just-needing-balance-B1200C73-911D-4C9A-8372-DFF148A6FAB2",
@@ -333,7 +355,7 @@
       "description_es": ""
     },
     {
-      "id": "en-7",
+      "id": "en-9",
       "title": "Mariah Leal's “Axel the Ambassador: Piper Gets a Baby Brother” Helps Families Welcome a Second Dog with Confidence, Compassion, and Responsible Care",
       "description": "Adding another dog to the family is exciting. It also comes with new responsibilities for both pets and their owners. - - In Axel the Ambassador: Piper Gets a Baby Brother, author Mariah Leal transforms those questions i",
       "url": "https://www.webwire.com/ViewPressRel.asp?aId=358263",
@@ -344,7 +366,7 @@
       "description_es": "Agregar otro perro a la familia es emocionante. También viene con nuevas responsabilidades tanto para las mascotas como para sus dueños. - - En Axel the Ambassador: Piper Gets a Baby Brother, la autora Mariah Leal transforma esas preguntas en"
     },
     {
-      "id": "en-8",
+      "id": "en-10",
       "title": "10 foods that are safe — and even healthy — to share with your dog",
       "description": "",
       "url": "https://qz.com/human-foods-safe-and-healthy-for-dogs",
@@ -355,7 +377,7 @@
       "description_es": ""
     },
     {
-      "id": "en-9",
+      "id": "en-11",
       "title": "The best dog anxiety vests to help calm noise-sensitive dogs",
       "description": "I tested dog anxiety vests on my dog to see which helped most with noise anxiety. These are the best options for different dogs and situations.",
       "url": "https://www.businessinsider.com/guides/pets/best-dog-anxiety-vest",
@@ -366,7 +388,7 @@
       "description_es": "Probé los chalecos de ansiedad para perros en mi perro para ver cuál ayudaba más con la ansiedad por el ruido. Estas son las mejores opciones para diferentes perros y situaciones."
     },
     {
-      "id": "en-10",
+      "id": "en-12",
       "title": "Helping Police Dogs Injured in the Line of Duty",
       "description": "A Tufts emergency care veterinarian is trying to ensure that police K-9s receive the lifesaving care as military dogs do.",
       "url": "https://now.tufts.edu/2019/07/17/helping-police-dogs-injured-line-duty",
@@ -377,7 +399,7 @@
       "description_es": "Un veterinario de atención de emergencia de Tufts está tratando de garantizar que los K-9 de la policía reciban la atención que salva vidas como lo hacen los perros militares."
     },
     {
-      "id": "en-11",
+      "id": "en-13",
       "title": "Unattended dogs euthanized; no owner comes forward after dog park killing",
       "description": "NORTH PORT — Three dogs that were tethered and unattended the day a dog was killed at the Canine Club dog park have been euthanized.",
       "url": "https://www.yoursun.com/northport/news/unattended-dogs-euthanized-no-owner-comes-forward-after-dog-park-killing/article_118d8568-b870-4422-93a3-8c88f5eba10f.html",
@@ -388,7 +410,7 @@
       "description_es": "PUERTO NORTE — Tres perros que fueron atados y desatendidos el día en que un perro fue asesinado en el parque para perros Canine Club han sido sacrificados."
     },
     {
-      "id": "en-12",
+      "id": "en-14",
       "title": "Dog trainer ends debate on the 4 easiest breeds to have - one is ‘super lazy’",
       "description": "The canine expert shared the breeds he has encountered who take the least work, across various size profiles.",
       "url": "https://www.express.co.uk/news/uk/2233873/dog-trainer-ends-debate-4",
@@ -399,29 +421,25 @@
       "description_es": "El experto canino compartió las razas con las que se ha encontrado que toman menos trabajo, en varios perfiles de tamaño."
     },
     {
-      "id": "en-13",
+      "id": "en-15",
       "title": "Washoe County animal shelter at capacity for dogs",
       "description": "Public asked to help through fostering, rescue partner adoptions",
       "url": "https://www.kolotv.com/2026/07/28/washoe-county-animal-shelter-capacity-dogs/",
       "urlToImage": "https://gray-kolo-prod.gtv-cdn.com/resizer/v2/JDTIR5QQFVECFA7PL3PK5Q5P2E.jpg?auth=faa2d4857c656e4cdf6704cf42baf080ce2aa02cbf8ff99b7cc0cbb48f06eb9b&width=1200&height=600&smart=true",
       "publishedAt": "2026-07-28 19:20:31",
-      "sourceName": "kolotv",
-      "title_es": "Refugio de animales del condado de Washoe a capacidad para perros",
-      "description_es": "Se pide al público que ayude a través de adopciones de parejas de acogida y rescate"
+      "sourceName": "kolotv"
     },
     {
-      "id": "en-14",
+      "id": "en-16",
       "title": "Cobourg Police Service welcomes back canine unit after 23-year hiatus",
       "description": "Constable Amrit Gill and his canine partner, Atos, graduated from an intensive training program led by the Guelph Police Service on July 24.",
       "url": "https://www.northumberlandnews.com/news/cobourg-police-service-celebrates-return-of-canine-unit/article_53c11195-9f4b-5c44-ab48-16e27b2a0aaf.html",
       "urlToImage": "https://bloximages.chicago2.vip.townnews.com/northumberlandnews.com/content/tncms/assets/v3/editorial/7/7f/77fd7517-8cb5-53a9-bd8d-70e0f0e69977/6a68fc06914f6.image.jpg?crop=1218%2C914%2C0%2C308&resize=300%2C225&order=crop%2Cresize",
       "publishedAt": "2026-07-28 19:00:00",
-      "sourceName": "northumberlandnews",
-      "title_es": "El Servicio de Policía de Cobourg da la bienvenida a la unidad canina después de un paréntesis de 23 años",
-      "description_es": "El agente Amrit Gill y su compañero canino, Atos, se graduaron de un programa de capacitación intensiva dirigido por el Servicio de Policía de Guelph el 24 de julio."
+      "sourceName": "northumberlandnews"
     },
     {
-      "id": "en-15",
+      "id": "en-17",
       "title": "Drone technology leads to rescue of lost dog in Palm Beach County",
       "description": "PALM BEACH COUNTY, Fla. (WSVN) — A lost dog was found in Palm Beach County, with a little help of high tech. Rescuers were able...",
       "url": "https://wsvn.com/news/local/florida/drone-technology-leads-to-rescue-of-lost-dog-in-palm-beach-county/",
@@ -430,7 +448,7 @@
       "sourceName": "wsvn"
     },
     {
-      "id": "en-16",
+      "id": "en-18",
       "title": "Improving the Odds of Surviving Lymphoma",
       "description": "A Tufts clinical trial looks at whether combining immunotherapy with low doses of chemotherapy can improve outcomes and quality of life for dogs—and someday people",
       "url": "https://now.tufts.edu/2020/10/26/improving-odds-surviving-lymphoma",
@@ -439,7 +457,7 @@
       "sourceName": "now_tufts_edu"
     },
     {
-      "id": "en-17",
+      "id": "en-19",
       "title": "Real-life Wallace and Gromit go on epic motorbike trip",
       "description": "Daniele Longo and rescue dog Haku are travelling across the world to Nepal.",
       "url": "https://www.bbc.co.uk/news/articles/cddjedel56qo",
@@ -448,7 +466,7 @@
       "sourceName": "bbc"
     },
     {
-      "id": "en-18",
+      "id": "en-20",
       "title": "Canine school that trained K-9 Chilli and handler releases statement on dog’s hot car death",
       "description": "East Coast Canine Inc. says Chilli and her handler graduated from their Basic K9 Handler School in May 2025.",
       "url": "https://www.witn.com/2026/07/28/canine-school-that-trained-k9-chilli-handler-release-statement-dogs-hot-car-death/",
@@ -457,7 +475,7 @@
       "sourceName": "witn"
     },
     {
-      "id": "en-19",
+      "id": "en-21",
       "title": "‘Close mating’: Breeder loses appeal against decision to revoke pups’ registration",
       "description": "A decision to cancel the registration of three Afghan hound puppies born to a mother and son has been upheld by the High Court after it confirmed the person responsible had the authority to do so.",
       "url": "https://www.thepost.co.nz/nz-news/361052057/close-mating-breeder-loses-appeal-against-decision-revoke-pups-registration",
@@ -466,31 +484,13 @@
       "sourceName": "thepost_nz"
     },
     {
-      "id": "en-20",
+      "id": "en-22",
       "title": "10 things every new dog owner wishes someone had told them",
       "description": "Every new dog owner should know these 10 things about training, health risks, socialization windows, and the real cost of owning a dog",
       "url": "https://qz.com/new-dog-owner-tips",
       "urlToImage": "https://qz.com/cdn-cgi/image/width=300,height=300,fit=cover,quality=85,format=auto/https://assets.qz.com/media/pexels-suju-37066196.jpg",
       "publishedAt": "2026-07-28 15:33:21",
       "sourceName": "quartz"
-    },
-    {
-      "id": "en-21",
-      "title": "Burnham’s rescue dog won’t be joining Larry the cat at Downing Street",
-      "description": "Axel was adopted by Andy Burnham and his wife nearly 10 years ago",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnhams-dog-axel-larry-the-cat-b3023117.html",
-      "urlToImage": "https://static.independent.co.uk/2026/07/27/7/45/0_DQIDQt3XkAEk2vdjpeg-(1)-copy.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-      "publishedAt": "2026-07-28 14:40:02",
-      "sourceName": "independentuk"
-    },
-    {
-      "id": "en-22",
-      "title": "Paws of War works to reunite military personnel with the animals they love",
-      "description": "Be it one of the military’s highly trained canine service members or a stray our troops unofficially adopt, the emotional support an animal provides to those deployed overseas can be invaluable.",
-      "url": "https://www.bostonherald.com/2026/07/28/paws-of-war-works-to-reunite-military-personnel-with-the-animals-they-love/",
-      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/07/OCR-L-NellyConklin-dogs-0626-01.jpg?w=1400px&strip=all",
-      "publishedAt": "2026-07-28 14:30:08",
-      "sourceName": "bostonherald"
     },
     {
       "id": "en-23",
