@@ -1,8 +1,26 @@
 {
-  "generatedAt": "2026-07-31T15:36:42.639Z",
+  "generatedAt": "2026-07-31T17:26:45.423Z",
   "es": [
     {
       "id": "es-0",
+      "title": "El lobby canino le gana la partida a Cádiz",
+      "description": "Gobierno y oposición municipal coinciden en buscar más suelo público para su uso por parte de los perros Hay solares mal aprovechados que podían ser utilizados por estos animales El boom de las mascotas llega a Cádi",
+      "url": "https://www.diariodecadiz.es/cadiz/lobby-canino-le-gana-partida_0_2007619132.html",
+      "urlToImage": "https://static.grupojoly.com/clip/01558326-ce65-4ba8-b005-2dabb9db7f63_source-aspect-ratio_default_0.jpg",
+      "publishedAt": "2026-07-31 05:00:18",
+      "sourceName": "diariodecadiz"
+    },
+    {
+      "id": "es-1",
+      "title": "Rescatan a perro que cae a noria",
+      "description": "Mencionaron que la mascota cayó accidentalmente cuando lo sacó su dueño a pesar en la zona.",
+      "url": "https://www.elporvenir.mx/justicia/rescatan-a-perro-que-cae-a-noria/1011315",
+      "urlToImage": "https://blob.elporvenir.mx/images/2026/07/30/popo--2-focus-0-0-960-690.jpg",
+      "publishedAt": "2026-07-31 04:31:00",
+      "sourceName": "elporvenir_mx"
+    },
+    {
+      "id": "es-2",
       "title": "Muere \"Boss\", perro de la Fiscalía de CDMX: misterioso caso en la Unidad Canina",
       "description": "\"Boss\" era un pastor alemán que ayudaba a la Fiscalía de CDMX para detectar sustancias ilícitas y localizar restos humanos; su muerte ha causado misterio.",
       "url": "https://www.tvazteca.com/aztecanoticias/muere-perro-boss-pastor-aleman-fiscalia-cdmx-polica-investigacion/",
@@ -11,7 +29,7 @@
       "sourceName": "tvazteca"
     },
     {
-      "id": "es-1",
+      "id": "es-3",
       "title": "El perro Bailey supera las secuelas tras permanecer 29 días bajo los escombros en Caracas: “No teníamos esperanza de conseguirlo vivo”",
       "description": "Dueños del canino relataron la alegría de saber que el perro fue rescatado.",
       "url": "https://www.elpais.com.co/mundo/el-perro-bailey-supera-las-secuelas-tras-permanecer-29-dias-bajo-los-escombros-en-caracas-no-teniamos-esperanza-de-conseguirlo-vivo-3006.html",
@@ -20,7 +38,7 @@
       "sourceName": "elpaiscl"
     },
     {
-      "id": "es-2",
+      "id": "es-4",
       "title": "¿Tiene un perro con energía de sobra? Podrá competir en Canisalto durante Expopet 2026",
       "description": "El evento se llevará a cabo del 13 al 17 de agosto en Corferias, por lo que cada asistente debe seguir las recomendaciones de las autoridades.",
       "url": "https://www.eltiempo.com/cultura/gente/tiene-un-perro-con-energia-de-sobra-podra-competir-en-canisalto-durante-expopet-3574995",
@@ -29,7 +47,7 @@
       "sourceName": "eltiempocl"
     },
     {
-      "id": "es-3",
+      "id": "es-5",
       "title": "6 razas de perros que más sufren en calor extremo",
       "description": "Estas son las razas de perros que más sufren en el calor extremo, desde los bulldogs de cara plana hasta los huskies de pelo grueso diseñados para el frío, no para el verano.",
       "url": "https://es.qz.com/razas-de-perros-que-luchan-en-calor-extremo",
@@ -38,7 +56,7 @@
       "sourceName": "qz_es"
     },
     {
-      "id": "es-4",
+      "id": "es-6",
       "title": "Los veterinarios lo tienen claro: cortar el pelo a tu perro en verano no es la solución contra el calor, sino que los expertos recomiendan esta alternativa",
       "description": "Cuando se piensa en los animales de compañía y el verano, a muchos se les viene a la cabeza la imagen de un perro con pelo largo paseando bajo el sol, jadeando por el calor. Lo cierto es que muchos perros lo pasan mal ",
       "url": "https://www.eleconomista.es/actualidad/noticias/14005476/07/26/los-veterinarios-lo-tienen-claro-cortar-el-pelo-a-tu-perro-en-verano-no-es-la-solucion-contra-el-calor-sino-que-los-expertos-recomiendan-esta-alternativa.html",
@@ -47,7 +65,7 @@
       "sourceName": "eleconomista_es"
     },
     {
-      "id": "es-5",
+      "id": "es-7",
       "title": "Alerta en La Calera: hallan perro infestado por gusano barrenador (VIDEO)",
       "description": "Esta mañana, vecinos de la zona de La Calera alertaron a las autoridades e instituciones de protección animal tras detectar a un canino atacado por gusano barrenador. 🚨🐶 ¡Alerta en La Calera! Reportan a perrito afect",
       "url": "https://www.diariocambio.com.mx/2026/municipios/puebla-municipios/alerta-en-la-calera-hallan-perro-infestado-por-gusano-barrenador-video/",
@@ -56,7 +74,7 @@
       "sourceName": "diariocambio"
     },
     {
-      "id": "es-6",
+      "id": "es-8",
       "title": "Victor Mañero, adiestrador canino, sobre cómo pasear a tu mascota: “Un paquete de salchichas, una correa larga y 15 minutos o 20 minutos en la calle bajan el nivel de estrés del perro”",
       "description": "El especialista con más de 15 años de experiencia ofreció recomendaciones sobre la forma adecuada para pasear al mejor amigo del hombre.",
       "url": "https://www.clarin.com/estados-unidos/victor-manero-adiestrador-canino-pasear-mascota-paquete-salchichas-correa-larga-15-minutos-20-minutos-calle-bajan-nivel-estres-perro_0_WqqN9xsNJh.html",
@@ -65,7 +83,7 @@
       "sourceName": "clarin"
     },
     {
-      "id": "es-7",
+      "id": "es-9",
       "title": "Alberto Sanz, adiestrador canino: “Los perros aprenden mucho más de los gestos que de las palabras”",
       "description": "Hablar con un perro es algo que la mayoría de los cuidadores hace de forma completamente natural. Les damos los buenos días, les explicamos por qué no pueden hacer algo o incluso tratamos de convencerlos de que se com",
       "url": "https://expertoanimal.elperiodico.com/alberto-sanz-adiestrador-canino-los-perros-aprenden-mucho-mas-de-los-gestos-que-de-las-palabras-28594.html",
@@ -74,7 +92,7 @@
       "sourceName": "laopiniondezamora"
     },
     {
-      "id": "es-8",
+      "id": "es-10",
       "title": "Víctor Padilla, educador canino: \"La relación que establecemos es muy profunda y no es la misma que con un hijo\"",
       "description": "Alba Fernández y Víctor Padilla , educadores caninos, han presentado en ' Mundo Deportivo ' su nueva publicación, 'Tu perro habla. Aprende a entenderlo'. Además, son fundadores de la escuela ' Olfateando el mundo ', ",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260730/1004211645/victor-padilla-educador-canino-relacion-establecemos-profunda-no-hijo-expt-dct.html",
@@ -83,7 +101,7 @@
       "sourceName": "mundodeportivo"
     },
     {
-      "id": "es-9",
+      "id": "es-11",
       "title": "Víctor Padilla, entrenador canino: \"Hay personas que prefieren que el perro no suba a la cama y otras que lo disfrutan. Ninguna opción es mejor o peor por sí misma\"",
       "description": "En las familias donde hay un perro, tarde o temprano surge el eterno debate. ¿Le dejamos dormir sobre nuestra cama, o le obligamos a dormir siempre en su cesta? Y casi siempre la respuesta llega cargada de opiniones ajen",
       "url": "https://decoracion.trendencias.com/varios/victor-padilla-entrenador-canino-hay-personas-que-prefieren-que-perro-no-suba-a-cama-otras-que-disfrutan-ninguna-opcion-mejor-peor",
@@ -92,7 +110,7 @@
       "sourceName": "decoracion_trendencias"
     },
     {
-      "id": "es-10",
+      "id": "es-12",
       "title": "Perro muerde a mujer de 47 años en La Merced",
       "description": "Paramédicos de Bomberos atendieron a la víctima en el lugar tras sufrir una herida avulsiva en la pierna izquierda El cargo Perro muerde a mujer de 47 años en La Merced apareció primero en El Imparcial de Oaxaca .",
       "url": "https://imparcialoaxaca.mx/policiaca/perro-muerde-a-mujer-de-47-anos-en-la-merced/",
@@ -101,7 +119,7 @@
       "sourceName": "imparcialoaxaca"
     },
     {
-      "id": "es-11",
+      "id": "es-13",
       "title": "Uno de cada dos trabajadores valoraría cambiar de empleo por una oficina 'pet friendly'",
       "description": "Algunas empresas ya permiten acudir con perro al trabajo, pero los especialistas recuerdan que no todos los animales lo disfrutan.",
       "url": "https://www.20minutos.es/animaleros/perros/uno-cada-dos-trabajadores-valoraria-cambiar-empleo-por-una-oficina-pet-friendly_7008027_0.html",
@@ -110,7 +128,7 @@
       "sourceName": "minutos20"
     },
     {
-      "id": "es-12",
+      "id": "es-14",
       "title": "Crueldad animal en Cherokee deja dos personas detenidas",
       "description": "Arresto por maltrato canino en la carretera del condado 24 David Canipe y Dimples Kanipe enfrentan cargos por crueldad hacia los animales tras una investigación llevada a cabo por los agentes del alguacil en el condado ",
       "url": "https://latino-news.com/crueldad-animal-en-cherokee-deja-dos-personas-detenidas/",
@@ -119,7 +137,7 @@
       "sourceName": "latino_news"
     },
     {
-      "id": "es-13",
+      "id": "es-15",
       "title": "Lugo, la ciudad de los 22.000 perros, tendrá un albergue canino digno a finales de 2027",
       "description": "Xunta, Diputación y Concello suscribieron este jueves el convenio que permitirá financiar las obras de las instalaciones de la Protectora, que supondrán una inversión conjunta de 745.000 euros",
       "url": "https://www.elprogreso.es/articulo/lugo/ciudad-22000-perros-tendra-albergue-digno-finales-2027/202607300500471988386.html",
@@ -128,7 +146,7 @@
       "sourceName": "elprogreso"
     },
     {
-      "id": "es-14",
+      "id": "es-16",
       "title": "Lucas, primer perro que recibirá pensión alimenticia tras el divorcio de sus dueños",
       "description": "Un tribunal determinó asignar pensión alimenticia para un perro tras la separación legal de sus tutores en un fallo sin precedentes. El cargo Lucas, primer perro que recibirá pensión alimenticia tras el divorcio de ",
       "url": "https://tribunademexico.com/pension-alimenticia-perro/",
@@ -137,7 +155,7 @@
       "sourceName": "tribunademexico"
     },
     {
-      "id": "es-15",
+      "id": "es-17",
       "title": "Kayra, la perrita rescatista que salvó una vida en Venezuela, fue ovacionada durante la Gran Parada y Desfile Cívico Militar 2026",
       "description": "Su participación en el desfile permitió visibilizar el trabajo del programa canino de los bomberos, cuyos perros reciben años de entrenamiento para intervenir en desastres y emergencias complejas",
       "url": "https://www.infobae.com/peru/2026/07/30/kayra-la-perrita-rescatista-que-salvo-una-vida-en-venezuela-fue-ovacionada-durante-la-gran-parada-y-desfile-civico-militar-2026/",
@@ -146,7 +164,7 @@
       "sourceName": "infobae"
     },
     {
-      "id": "es-16",
+      "id": "es-18",
       "title": "Los expertos en psicología coinciden: acariciar perros en la calle es una ventana abierta a nuestro estado emocional",
       "description": "Los especialistas aseguran que el contacto espontáneo con mascotas desconocidas funciona como una radiografía directa de nuestra estructura de personalidad",
       "url": "https://www.lanacion.com.ar/lifestyle/mascotas/los-expertos-en-psicologia-coinciden-acariciar-perros-en-la-calle-es-una-ventana-abierta-a-nuestro-nid29072026/",
@@ -155,7 +173,7 @@
       "sourceName": "lanacion"
     },
     {
-      "id": "es-17",
+      "id": "es-19",
       "title": "Fiscalía descarta que perro haya sido enterrado vivo en Saltillo; muerte fue por infestación de garrapatas",
       "description": "La Fiscalía General del Estado de Coahuila descartó que un perro haya sido enterrado vivo en Saltillo, luego de realizar las investigaciones correspondientes y analizar las condiciones en las que fue localizado el anim",
       "url": "https://vanguardia.com.mx/coahuila/fiscalia-descarta-que-perro-haya-sido-enterrado-vivo-en-saltillo-muerte-fue-por-infestacion-de-garrapatas-CF22507757",
@@ -164,7 +182,7 @@
       "sourceName": "vanguardia"
     },
     {
-      "id": "es-18",
+      "id": "es-20",
       "title": "EXCLUSIVO: Entrenador de Tsunami impulsa la creación de una academia canina para intervención de desastres en Latinoamérica",
       "description": "Jorge Beans, rescatista y entrenador canino, visitó la sala de redacción de 2001 on line junto a Tsunami, perro rescatista que ...",
       "url": "https://2001online.com/nacionales/exclusivo-entrenador-de-tsunami-impulsa-la-creacion-de-una-academia-canina-para-intervencion-de-desastres-en-latinoamerica-202672915310",
@@ -173,16 +191,7 @@
       "sourceName": "2001online"
     },
     {
-      "id": "es-19",
-      "title": "20 cosas que hacen los perros que la mayoría de los dueños piensan que son tiernas, pero en realidad son señales de estrés",
-      "description": "Las señales de estrés en los perros a menudo parecen amor, desde pedir caricias en la barriga hasta mirar con culpa, pero generalmente significan que tu perro necesita espacio.",
-      "url": "https://es.qz.com/seales-de-estrs-en-perros-confundidas-con-afecto",
-      "urlToImage": "https://qz.com/cdn-cgi/image/width=300,height=300,fit=cover,quality=85,format=auto/https://assets.qz.com/media/pexels-babydov-7788880.jpg",
-      "publishedAt": "2026-07-29 15:56:34",
-      "sourceName": "qz_es"
-    },
-    {
-      "id": "es-20",
+      "id": "es-21",
       "title": "Enrique Molina, adiestrador canino: \"No debemos dormir con nuestro perro, porque invade un espacio muy personal del dueño\"",
       "description": "Enrique Molina es un conocido adiestrador canino que ayuda a dueños de perros a saber cómo educar a su mascota para que sepa comportarse en casa, entre otras ...",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260510/1004181518/enrique-molina-adiestrador-canino-no-debemos-dormir-nuestro-perro-invade-espacio-personal-dueno-dct.html",
@@ -191,7 +200,7 @@
       "sourceName": "mundodeportivo.com"
     },
     {
-      "id": "es-21",
+      "id": "es-22",
       "title": "Alan Peiró, adiestrador canino: “Cuando un perro se muestra agresivo, lo hace por miedo”",
       "description": "El experto en comportamiento animal brindó consejos para tratar las reacciones violentas de las mascotas.",
       "url": "https://tn.com.ar/mascotas/2026/03/27/alan-peiro-adiestrador-canino-cuando-un-perro-se-muestra-agresivo-lo-hace-por-miedo/",
@@ -200,7 +209,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-22",
+      "id": "es-23",
       "title": "Juan Cervantes, adiestrador canino: “Al volver a tu casa debés ignorar al perro por 5 minutos”",
       "description": "Un experto en mascotas explicó por qué no saludar a tu mascota al regresar al hogar y las consecuencias que eso genera.",
       "url": "https://tn.com.ar/sociedad/2026/03/20/juan-cervantes-adiestrador-canino-al-volver-a-tu-casa-debes-ignorar-al-perro-por-5-minutos/",
@@ -209,7 +218,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-23",
+      "id": "es-24",
       "title": "Juan Cervantes, adiestrador canino: “Cuanto más llames a tu perro por su nombre, menos caso te hace”",
       "description": "El experto influencer explicó el motivo por el que utilizar esta técnica no es la mejor forma para llamar la atención de tu mascota.",
       "url": "https://tn.com.ar/sociedad/2026/03/19/juan-cervantes-adiestrador-canino-cuanto-mas-llames-a-tu-perro-por-su-nombre-menos-caso-te-hace/",
@@ -218,7 +227,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-24",
+      "id": "es-25",
       "title": "Qué siente tu perro cuando sale a pasear, según expertos en comportamiento canino",
       "description": "Ese momento cotidiano es mucho más importante de lo que parece. La ciencia del comportamiento canino explica cómo impacta en el equilibrio emocional, la condu...",
       "url": "https://tn.com.ar/sociedad/2026/02/22/que-siente-tu-perro-cuando-sale-a-pasear-segun-expertos-en-comportamiento-canino/",
@@ -227,7 +236,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-25",
+      "id": "es-26",
       "title": "Qué siente tu perro cuando le gritás, según expertos en comportamiento canino",
       "description": "El tono de voz humano tiene un impacto directo en las emociones de los animales.",
       "url": "https://tn.com.ar/sociedad/2026/02/16/que-siente-tu-perro-cuando-le-gritas-segun-expertos-en-comportamiento-canino/",
@@ -236,7 +245,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-26",
+      "id": "es-27",
       "title": "Por qué no hay que saludar al perro al llegar a casa, según un entrenador canino",
       "description": "Víctor Mañero, reconocido adiestrador canino, reveló el motivo por el cual esta acción puede generarles a los animales gran estrés y ansiedad; qué dijo - ...",
       "url": "https://www.lanacion.com.ar/lifestyle/mascotas/por-que-no-hay-que-saludar-al-perro-al-llegar-a-casa-segun-un-entrenador-canino-nid02052025/",
@@ -245,7 +254,7 @@
       "sourceName": "lanacion.com.ar"
     },
     {
-      "id": "es-27",
+      "id": "es-28",
       "title": "“Perro gay”: ovacionan a un canino en marcha LGBT+ de Guadalajara",
       "description": "El divertido y controversial momento sucedió cuando su cuidadora lo alzó y todos los asistentes no dudaron en gritar y aclamarlo mientras él sacaba su lengua...",
       "url": "https://www.infobae.com/america/entretenimiento/2022/06/19/perro-gay-ovacionan-a-un-canino-en-marcha-lgbt-de-guadalajara/",
