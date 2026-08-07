@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T23:04:33.955Z",
+  "generatedAt": "2026-08-07T23:57:34.782Z",
   "es": [
     {
       "id": "es-0",
@@ -225,20 +225,33 @@
       "urlToImage": null,
       "publishedAt": "2026-08-06 01:50:39",
       "sourceName": "mixvale"
-    },
-    {
-      "id": "es-25",
-      "title": "Mujer de 60 años es atacada por un pitbull en Zapopan; podría perder una mano",
-      "description": "La víctima fue trasladada en estado crítico a la Cruz Verde Federalismo tras sufrir graves lesiones; el perro quedó bajo resguardo de las autoridades",
-      "url": "https://www.informador.mx/jalisco/zapopan-mujer-de-60-anos-es-atacada-por-un-pitbull-podria-perder-una-mano-20260805-0155.html",
-      "urlToImage": "https://www.informador.mx/__export/1785973532740/sites/elinformador/img/2026/07/12/cinta_amarilla.jpeg_586859685.jpeg",
-      "publishedAt": "2026-08-05 23:45:00",
-      "sourceName": "informador_mx"
     }
   ],
   "en": [
     {
       "id": "en-0",
+      "title": "Our pets know they are about to die and wish us an emotional farewell - I'm convinced these stories prove it, by eminent biologist RUPERT SHELDRAKE",
+      "description": "Piglet the Jack Russell seemed to be fading away. He was half blind, barely able to walk and spent most of his days asleep. But one morning, Piglet seemed to be rejuvenated.",
+      "url": "https://www.dailymail.com/lifestyle/article-13552249/pets-know-die-wish-emotional-farewell-Im-convinced-stories-prove-eminent-biologist-RUPERT-SHELDRAKE.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/08/07/11/110496005-0-image-m-26_1786099003971.jpg",
+      "publishedAt": "2026-08-07 11:09:39",
+      "sourceName": "dailymailuk",
+      "title_es": "Nuestras mascotas saben que están a punto de morir y nos desean un emotivo adiós. Estoy convencido de que estas historias lo demuestran, del eminente biólogo RUPERT SHELDRAKE",
+      "description_es": "Piglet the Jack Russell parecía estar desapareciendo. Estaba medio ciego, apenas podía caminar y pasaba la mayor parte de sus días dormido. Pero una mañana, Piglet parecía estar rejuvenecido."
+    },
+    {
+      "id": "en-1",
+      "title": "Vets tell Brits to ditch Pugs for Jugs and Puggles: Crossbreeds have the same lovable personalities as flat-faced breeds - but a fraction of the health problems",
+      "description": "It's one of the most popular dog breeds in the UK. But if you're considering getting a Pug, vets suggest you look at Jugs or Puggles instead.",
+      "url": "https://www.dailymail.com/sciencetech/article-16036065/Vets-Brits-ditch-Pugs-Jugs-Puggles-Crossbreeds.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/08/07/11/110495697-0-image-m-26_1786097595121.jpg",
+      "publishedAt": "2026-08-07 11:05:11",
+      "sourceName": "dailymailuk",
+      "title_es": "Los veterinarios les dicen a los británicos que abandonen a los pugs por jarras y pugs: los mestizos tienen las mismas personalidades adorables que las razas de cara plana, pero una fracción de los problemas de salud",
+      "description_es": "Es una de las razas de perros más populares en el Reino Unido. Pero si estás considerando obtener un Pug, los veterinarios sugieren que busques Jugs o Puggles en su lugar."
+    },
+    {
+      "id": "en-2",
       "title": "How Uncle Dogs turned dog keeping into a thriving business",
       "description": "Kampala, Uganda | THE INDEPENDENT | By the time most people are waking up in Buwate, a bustling suburb of Kampala, Sharif Ssemwanga is already with his four-legged companions. They are more than pets or guard dogs. They ",
       "url": "https://www.independent.co.ug/how-uncle-dogs-turned-dog-keeping-into-a-thriving-business/",
@@ -249,7 +262,7 @@
       "description_es": "Kampala, Uganda | The INDEPENDENT | Cuando la mayoría de la gente se despierta en Buwate, un bullicioso suburbio de Kampala, Sharif Ssemwanga ya está con sus compañeros de cuatro patas. Son más que mascotas o perros guardianes."
     },
     {
-      "id": "en-1",
+      "id": "en-3",
       "title": "Catch 1 Billion Ducks: A beginner's guide",
       "description": "Catch 1 Billion Ducks is a Roblox experience where you can hunt ducks alongside your trusty dog.",
       "url": "https://www.sportskeeda.com/roblox-news/catch-1-billion-ducks-a-beginner-s-guide",
@@ -260,7 +273,7 @@
       "description_es": "Captura mil millones de patos es una experiencia Roblox en la que puedes cazar patos junto a tu perro de confianza."
     },
     {
-      "id": "en-2",
+      "id": "en-4",
       "title": "Why dogs stare at owners: from deep affection to warning signs",
       "description": "When a dog maintains prolonged eye contact with its owner, the behavior can range from a sign of deep affection to a warning of aggression or a symptom of physical distress. Understanding this communication requires look",
       "url": "https://english.pravda.ru/news/animal/167698-dog-eye-contact/",
@@ -271,7 +284,7 @@
       "description_es": "Cuando un perro mantiene un contacto visual prolongado con su dueño, el comportamiento puede variar desde un signo de profundo afecto hasta una advertencia de agresión o un síntoma de angustia física. Comprender esta comunicación requiere mirar"
     },
     {
-      "id": "en-3",
+      "id": "en-5",
       "title": "Heart of the Beast: Brad Pitt says his co-star Odin is film's real hero",
       "description": "A new Heart of the Beast video offers a behind-the-scenes look at Brad Pitt's bond with his canine co-star, Odin. Calling the German Shepherd the film's \"real star,\" Pitt shares his experience working with the dog in the",
       "url": "https://www.mid-day.com/entertainment/hollywood-news/article/heart-of-the-beast-brad-pitt-says-his-co-star-odin-is-films-real-hero-23643655",
@@ -282,7 +295,7 @@
       "description_es": "Un nuevo video de El corazón de la bestia ofrece una mirada entre bastidores al vínculo de Brad Pitt con su coprotagonista canino, Odin. Al llamar al pastor alemán la \"verdadera estrella\" de la película, Pitt comparte su experiencia trabajando con el perro en el"
     },
     {
-      "id": "en-4",
+      "id": "en-6",
       "title": "‘Ohh My Dog’ Twitter review: Oscar steals show from Pankaj Tripathi",
       "description": "'Ohh My Dog' has struck a chord with audiences, who commend its touching storytelling and appeal to families. The standout actor, Oscar, is generating buzz as the film's highlight. Viewers were delighted by the cleverly ",
       "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ohh-my-dog-twitter-review-oscar-steals-show-from-pankaj-tripathi-in-heartwarming-family-entertainer-viewers-call-it-a-pleasant-surprise-every-scene-has-so-much-warmth-and-sincerity/articleshow/133030618.cms",
@@ -293,7 +306,7 @@
       "description_es": "'Ohh My Dog' ha tocado la fibra sensible del público, que elogia su conmovedora narración y su atractivo para las familias. El destacado actor, Oscar, está generando rumores como el punto culminante de la película. Los espectadores quedaron encantados con la ingeniosa"
     },
     {
-      "id": "en-5",
+      "id": "en-7",
       "title": "Attention dog lovers: Dog Royal takes over Down Royal",
       "description": "Down Royal Racecourse has announced the return of Dog Royal, sponsored by GAIN Elite, taking place on Sunday August 9, 2026.",
       "url": "https://www.northernirelandworld.com/whats-on/things-to-do/attention-dog-lovers-dog-royal-takes-over-down-royal-8844653",
@@ -304,7 +317,7 @@
       "description_es": "Down Royal Racecourse ha anunciado el regreso de Dog Royal, patrocinado por GAIN Elite, que tendrá lugar el domingo 9 de agosto de 2026."
     },
     {
-      "id": "en-6",
+      "id": "en-8",
       "title": "Ohh My Dog Review: Critics Praise Pankaj Tripathi’s Emotional Family Thriller, Say Bruno’s Oscar Is The Film’s Biggest Strength",
       "description": "Directed by Amit Rai, Ohh My Dog follows a young child who teams up with a heroic dog named Oscar to uncover a network involved in pet theft and animal trafficking. The post Ohh My Dog Review: Critics Praise Pankaj Tripa",
       "url": "https://sundayguardianlive.com/entertainment-news/ohh-my-dog-review-critics-praise-pankaj-tripathis-emotional-family-thriller-say-brunos-oscar-is-the-films-biggest-strength-255590/",
@@ -315,7 +328,7 @@
       "description_es": "Dirigida por Amit Rai, Ohh My Dog sigue a un niño pequeño que se une a un perro heroico llamado Oscar para descubrir una red involucrada en el robo de mascotas y el tráfico de animales. The post Revisión de Ohh My Dog: los críticos elogian a Pankaj Tripa"
     },
     {
-      "id": "en-7",
+      "id": "en-9",
       "title": "Raveena Tandon urges compassion for stray animals at ‘Ohh My Dog’ screening",
       "description": "MUMBAI: Actor Raveena Tandon has voiced the need to show compassion towards animals, expressing concern over what she described as a growing rise in cruelty against stray animals. On the sidelines of a special screening ",
       "url": "https://english.publictv.in/raveena-tandon-urges-compassion-for-stray-animals-at-ohh-my-dog-screening/",
@@ -326,7 +339,7 @@
       "description_es": "MUMBAI: La actriz Raveena Tandon ha expresado la necesidad de mostrar compasión hacia los animales, expresando su preocupación por lo que describió como un aumento creciente de la crueldad contra los animales callejeros. Al margen de una proyección especial"
     },
     {
-      "id": "en-8",
+      "id": "en-10",
       "title": "Brad Pitt’s Heart of the Beast and the most memorable Dog films",
       "description": "Brad Pitt's Heart of the Beast joins 777 Charlie, Oh My Dog, Teri Meherbaniyan and Hachi among unforgettable films celebrating the timeless bond between humans and dogs.",
       "url": "https://glamsham.com/hollywood/special-feature/brad-pitt-heart-of-the-beast-and-the-most-memorable-dog-films/",
@@ -337,7 +350,7 @@
       "description_es": "El corazón de la bestia de Brad Pitt se une a 777 Charlie, Oh My Dog, Teri Meherbaniyan y Hachi entre las películas inolvidables que celebran el vínculo atemporal entre humanos y perros."
     },
     {
-      "id": "en-9",
+      "id": "en-11",
       "title": "Raveena Tandon, Pankaj Tripathi, Rupali Ganguly And More Attend Star-Studded Screening of Ohh My Dog in Mumbai",
       "description": "The special screening of Ohh My Dog turned into a glamorous Bollywood affair as several celebrities from the film and television industry gathered in Mumbai on Thursday, August 6, 2026, to celebrate the upcoming family..",
       "url": "https://www.socialnews.xyz/2026/08/07/raveena-tandon-pankaj-tripathi-rupali-ganguly-and-more-attend-star-studded-screening-of-ohh-my-dog-in-mumbai/",
@@ -348,7 +361,7 @@
       "description_es": "La proyección especial de Ohh My Dog se convirtió en un glamuroso asunto de Bollywood cuando varias celebridades de la industria del cine y la televisión se reunieron en Mumbai el jueves 6 de agosto de 2026 para celebrar a la próxima familia."
     },
     {
-      "id": "en-10",
+      "id": "en-12",
       "title": "Abandoned dog left for dead loses one leg but doesn't stop living life to the fullest",
       "description": "Snowy, a three-legged dog, was abandoned on the streets, where he was left to fend for himself for at least three months.",
       "url": "https://www.express.co.uk/life-style/life/2235970/abandoned-dog-left-for-dead-heartbreaking-wish",
@@ -359,7 +372,7 @@
       "description_es": "Snowy, un perro de tres patas, fue abandonado en las calles, donde tuvo que valerse por sí mismo durante al menos tres meses."
     },
     {
-      "id": "en-11",
+      "id": "en-13",
       "title": "Minor Raped And Killed By Youth In MP’s Narsinghpur District; Locals Demand Bulldozer Action",
       "description": "Police said the accused allegedly joined the search for the missing child before being identified through leads and a sniffer dog, while authorities assured the case would be tried in a fast-track court",
       "url": "https://www.outlookindia.com/national/minor-raped-and-killed-by-youth-in-mps-narsinghpur-district-locals-demand-bulldozer-action",
@@ -370,7 +383,7 @@
       "description_es": "La policía dijo que el acusado supuestamente se unió a la búsqueda del niño desaparecido antes de ser identificado a través de pistas y un perro rastreador, mientras que las autoridades aseguraron que el caso sería juzgado en un tribunal de vía rápida"
     },
     {
-      "id": "en-12",
+      "id": "en-14",
       "title": "Ohh My Dog FIRST Review: Pankaj Tripathi's Heartwarming Tale Wins With Its Stray Dogs",
       "description": "Ohh My Dogg FIRST Review: Amit Rai's Ohh My Dog blends emotion, adventure and family entertainment through the story of two loyal stray dogs and the people searching for them. While the film has its flaws, its heartfelt ",
       "url": "https://newsable.asianetnews.com/entertainment/ohh-my-dog-first-review-pankaj-tripathi-heartwarming-tale-wins-with-its-stray-dogs-articleshow-zf5xxx8",
@@ -381,29 +394,25 @@
       "description_es": "Ohh My Dogg FIRST Review: Amit Rai's Ohh My Dog combina emoción, aventura y entretenimiento familiar a través de la historia de dos perros callejeros leales y las personas que los buscan. Si bien la película tiene sus defectos, su sentido"
     },
     {
-      "id": "en-13",
+      "id": "en-15",
       "title": "‘Ohh My Dog’ Movie Review: A Canine Caper That Refuses to Quit While It’s Ahead",
       "description": "‘Oh My God 2’ director Amit Rai returns with a heartfelt but overlong adventure about heroic dogs, spirited children and questionable adults",
       "url": "https://www.hollywoodreporterindia.com/reviews/theatrical/ohh-my-dog-movie-review-a-canine-caper-that-refuses-to-quit-while-its-ahead",
       "urlToImage": "https://media.assettype.com/hollywoodreporterindia/2026-08-07/wgn68sih/a-still-from-Oh.jpg",
       "publishedAt": "2026-08-07 06:22:19",
-      "sourceName": "hollywoodreporterindia",
-      "title_es": "‘Ohh My Dog’ Reseña de la película: Una travesura canina que se niega a renunciar mientras está por venir",
-      "description_es": "El director de ‘Oh My God 2’, Amit Rai, regresa con una sincera pero larga aventura sobre perros heroicos, niños animados y adultos cuestionables"
+      "sourceName": "hollywoodreporterindia"
     },
     {
-      "id": "en-14",
+      "id": "en-16",
       "title": "Ohh My Dog review: This Pankaj Tripathi starrer about fur babies is family friendly, yet too predictable to leave a mark",
       "description": "Ohh My Dog review: Predictable plot and execution detract from its overall emotional impact.",
       "url": "https://www.hindustantimes.com/entertainment/bollywood/ohh-my-dog-review-this-pankaj-tripathi-starrer-about-fur-babies-is-family-friendly-yet-too-predictable-to-leave-a-mark-101786082144264.html",
       "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/08/07/1600x900/logo/ohh_my_dog_1786082539643_1786082546670_37b72b24-731d-4f8d-994b-084f0f3231d5.jpg",
       "publishedAt": "2026-08-07 06:08:26",
-      "sourceName": "hindustantimes",
-      "title_es": "Revisión de Ohh My Dog: esta estrella de Pankaj Tripathi sobre bebés peludos es apta para familias, pero demasiado predecible para dejar una marca",
-      "description_es": "Revisión de Ohh My Dog: la trama y la ejecución predecibles restan valor a su impacto emocional general."
+      "sourceName": "hindustantimes"
     },
     {
-      "id": "en-15",
+      "id": "en-17",
       "title": "Did Raveena Tandon Get Bit by a Dog at ‘Ohh My Dog’ Screening in Mumbai? Actress Clarifies Viral Video After Fan Concerns",
       "description": "Raveena Tandon calmly handled an excited dog grabbing her outfit at the 'Ohh My Dog' screening in Mumbai, clarifying the viral video was not an attack. The Bollywood actress, a known animal lover's composure earned prais",
       "url": "https://www.latestly.com/entertainment/bollywood/did-raveena-tandon-get-bit-by-a-dog-at-ohh-my-dog-screening-in-mumbai-actress-clarifies-viral-video-after-fan-concerns-7549107.html",
@@ -412,7 +421,7 @@
       "sourceName": "latestly"
     },
     {
-      "id": "en-16",
+      "id": "en-18",
       "title": "WATCH: Raveena Tandon Almost Bitten by Dog at 'Ohh My Dog' Screening; Pankaj Tripathi's Reaction Wins Hearts",
       "description": "Raveena Tandon’s latest video is becoming popular on the internet, she attended the special screening of Pankaj Tripathi’s flick Ohh My Dog in Mumbai.",
       "url": "https://newsable.asianetnews.com/entertainment/raveena-tandon-almost-bitten-by-dog-at-ohh-my-dog-screening-articleshow-rdd1t9h",
@@ -421,22 +430,13 @@
       "sourceName": "newsable_asianetnews"
     },
     {
-      "id": "en-17",
+      "id": "en-19",
       "title": "Ohh My Dog Review: Pankaj Tripathi Film Is Fun, Gripping And Charming",
       "description": "Watch the film if you love dogs and especially if you don't.",
       "url": "https://www.ndtv.com/entertainment/ohh-my-dog-review-pankaj-tripathi-film-is-funny-gripping-and-charming-3-stars-11877896",
       "urlToImage": "https://c.ndtvimg.com/2026-08/kbnl2m1s_pankaj-_625x300_07_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
       "publishedAt": "2026-08-07 05:43:16",
       "sourceName": "ndtv"
-    },
-    {
-      "id": "en-18",
-      "title": "Brad Pitt Calls His Dog Co Star The Real Hero In Heart Of The Beast Featurette",
-      "description": "Brad Pitt opens up about his special bond with canine co star Uber in a new Heart of the Beast featurette ahead of the survival thriller's September 25 release.",
-      "url": "https://glamsham.com/hollywood/entertainment-news/brad-pitt-calls-his-dog-co-star-the-real-hero-in-heart-of-the-beast-featurette/",
-      "urlToImage": "https://glamsham.com/wp-content/uploads/2026/08/Brad-Pitt_pic-courtesy-Youtube.jpg",
-      "publishedAt": "2026-08-07 05:34:43",
-      "sourceName": "glamsham"
     }
   ]
 }
