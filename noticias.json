@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T20:24:40.598Z",
+  "generatedAt": "2026-08-08T20:57:45.029Z",
   "es": [
     {
       "id": "es-0",
@@ -171,20 +171,22 @@
       "urlToImage": "https://www.eluniversal.com.mx/resizer/v2/TVMVBKFND5GWRNLIM3NX6TMZ2Q.jpg?auth=5394ca695b45af3f4f0d64cee005be070f9d7ee2704caae65964c82516dafb5e&smart=true&width=1201&height=740",
       "publishedAt": "2026-08-06 23:24:29",
       "sourceName": "eluniversal"
-    },
-    {
-      "id": "es-19",
-      "title": "Videos: Surfista tico conmueve a las redes al despedir a su perro",
-      "description": "Diego Jiménez agradeció a su mascota Thai por todos los momentos vividos The post Videos: Surfista tico conmueve a las redes al despedir a su perro appeared first on Diario Extra .",
-      "url": "https://www.diarioextra.com/noticia/videos-surfista-tico-conmueve-a-las-redes-al-despedir-a-su-perro/",
-      "urlToImage": "https://gxtra-cr-dxtra.cdn.mediatiquepress.com/wp-content/uploads/2026/08/Margenes-de-foto-1200x800-1-2.jpg",
-      "publishedAt": "2026-08-06 20:47:36",
-      "sourceName": "diarioextra"
     }
   ],
   "en": [
     {
       "id": "en-0",
+      "title": "Ohh My Dog Box Office Collection Day 1: Amit Rai-Directed Opens On A Decent Note",
+      "description": "Ohh My Dog, directed by Amit Rai, opened its collections on a decent note with first day earnings of around 1 crore.",
+      "url": "https://www.iwmbuzz.com/movies/news-movies/ohh-my-dog-box-office-collection-day-1-amit-rai-directed-opens-on-a-decent-note/2026/08/08",
+      "urlToImage": "https://www.iwmbuzz.com/wp-content/uploads/2026/08/ohh-my-dog-box-office-collection-day-1-amit-rai-directed-opens-on-a-decent-note.jpg",
+      "publishedAt": "2026-08-08 08:26:58",
+      "sourceName": "iwmbuzz",
+      "title_es": "Ohh My Dog Box Office Collection Día 1: Amit Rai-Directed Opens On A Decent Note",
+      "description_es": "Ohh My Dog, dirigida por Amit Rai, abrió sus colecciones con una nota decente con ganancias del primer día de alrededor de 1 crore."
+    },
+    {
+      "id": "en-1",
       "title": "Tested: What my fussy dogs thought about every treat in this £13 Forthglade bundle",
       "description": "Forthglade’s subscription service promises regular deliveries, lower prices and plenty of choice, but the real test was whether Rupert and Honey would actually eat everything",
       "url": "https://www.hartlepoolmail.co.uk/recommended/forthglade-dogs-treats-subscription-multipack-8839188",
@@ -195,7 +197,7 @@
       "description_es": "El servicio de suscripción de Forthglade promete entregas regulares, precios más bajos y muchas opciones, pero la verdadera prueba era si Rupert y Honey realmente se comerían todo"
     },
     {
-      "id": "en-1",
+      "id": "en-2",
       "title": "The Little Frenchie Who Changed Our Family Forever",
       "description": "Since I was 11 years old, I only wanted two things in life: to work at NASA and to have a dog. I started applying (and getting rejected) to NASA internships in high school, and on the pet front, I didn’t get my first dog",
       "url": "https://www.dogster.com/doggos-weekly/the-little-frenchie-who-changed-our-family-forever/",
@@ -206,7 +208,7 @@
       "description_es": "Desde que tenía 11 años, solo quería dos cosas en la vida: trabajar en la NASA y tener un perro. Empecé a aplicar (y ser rechazado) a las pasantías de la NASA en la escuela secundaria, y en el frente de las mascotas, no conseguí mi primer perro"
     },
     {
-      "id": "en-2",
+      "id": "en-3",
       "title": "Pit Bulls, Unbanned: How One County Is Putting An End to Unreliable Breed-Specific Legislation",
       "description": "If you've ever had a dog labeled a \"Pit Bull\" by a shelter, a landlord, an insurance adjuster, or a stranger at the park, there's a real chance that label was wrong. Not just wrong in the sense of opinion, but wrong in a",
       "url": "https://www.dogster.com/barking-news/pit-bull-unbanned-how-one-county-is-putting-an-end-to-unreliable-breed-specific-legislation/",
@@ -217,7 +219,7 @@
       "description_es": "Si alguna vez un refugio, un propietario, un ajustador de seguros o un extraño en el parque ha etiquetado a un perro como \"Pit Bull\", existe una posibilidad real de que esa etiqueta estuviera equivocada. No solo es incorrecto en el sentido de la opinión, sino incorrecto en un"
     },
     {
-      "id": "en-3",
+      "id": "en-4",
       "title": "Dogster’s Weekly Photo Contest Winners: Yes, I Made a Mess (August 3, 2026)",
       "description": "Every week our team gets the privilege of sorting through our readers photos to choose what dogs will win this weeks contest! See all the winners here",
       "url": "https://www.dogster.com/doggos-weekly/photo-contest-august-3-2026/",
@@ -228,7 +230,7 @@
       "description_es": "¡Cada semana nuestro equipo tiene el privilegio de ordenar las fotos de nuestros lectores para elegir qué perros ganarán el concurso de esta semana! Ver todos los ganadores aquí"
     },
     {
-      "id": "en-4",
+      "id": "en-5",
       "title": "Meko: The Dog Who Helped Me Find My Way Back",
       "description": "Meko is my miniature Dachshund, but calling him “just a dog” has never captured what he truly is in my life. He has been my companion, my comfort, and a steady presence through some of the most difficult years I’ve ever ",
       "url": "https://www.dogster.com/doggos-weekly/meko-the-dog-who-helped-me-find-my-way-back/",
@@ -239,7 +241,7 @@
       "description_es": "Meko es mi perro salchicha en miniatura, pero llamarlo \"solo un perro\" nunca ha capturado lo que realmente es en mi vida. Él ha sido mi compañero, mi consuelo y una presencia constante durante algunos de los años más difíciles que he tenido"
     },
     {
-      "id": "en-5",
+      "id": "en-6",
       "title": "Hidden Dangers at Home: The Everyday Items That Are Secretly Poisonous to Dogs",
       "description": "Most dog owners know the classic dangers: chocolate, grapes, certain medications. But the list of household items that can seriously harm or kill a dog is considerably longer than most people realize, and some of the mos",
       "url": "https://www.dogster.com/dog-health-care/hidden-dangers-at-home-for-dogs/",
@@ -250,7 +252,7 @@
       "description_es": "La mayoría de los dueños de perros conocen los peligros clásicos: chocolate, uvas, ciertos medicamentos. Pero la lista de artículos para el hogar que pueden dañar o matar seriamente a un perro es considerablemente más larga de lo que la mayoría de la gente cree, y algunos de los"
     },
     {
-      "id": "en-6",
+      "id": "en-7",
       "title": "From Rescue to Rescuer: How an Abandoned Border Collie Became Venezuela's Earthquake Hero",
       "description": "The bond between people and their dogs is often described as unconditional, but some stories remind us just how profound that connection can be. In Brazil, a dog named Bob spent 10 years faithfully returning to his owner",
       "url": "https://www.dogster.com/barking-news/how-an-abandoned-border-collie-became-venezuelas-earthquake-hero/",
@@ -261,7 +263,7 @@
       "description_es": "El vínculo entre las personas y sus perros a menudo se describe como incondicional, pero algunas historias nos recuerdan cuán profunda puede ser esa conexión. En Brasil, un perro llamado Bob pasó 10 años devolviéndole fielmente a su dueño"
     },
     {
-      "id": "en-7",
+      "id": "en-8",
       "title": "Ask Dr. Paola - My Husky-Lab Keeps Breaking Into Lunchboxes! (July 27, 2026)",
       "description": "Welcome to our \"Ask Dr. Paola\" series, where every Monday we bring expert advice straight from Dr. Paola Cuevas (MVZ) to help our readers better understand their dog's health and well-being. Whether you're a new pet pare",
       "url": "https://www.dogster.com/ask-dr-paola/july-27-2026/",
@@ -272,61 +274,73 @@
       "description_es": "Bienvenido a nuestra serie \"Pregúntale a la Dra. Paola\", donde todos los lunes traemos consejos expertos directamente de la Dra. Paola Cuevas (MVZ) para ayudar a nuestros lectores a comprender mejor la salud y el bienestar de su perro. Tanto si eres una mascota nueva como si no"
     },
     {
-      "id": "en-8",
+      "id": "en-9",
       "title": "Why Modern Dog Care is Quietly Shifting From Treatment to Lifespan Stewardship",
       "description": "Our dogs are our close companions. We love and care for them as if they were family members, like in millions of households across the United States. And with advances in veterinary care, dogs are not only living longer ",
       "url": "https://www.dogster.com/dog-health-care/why-modern-dog-care-is-quietly-shifting-from-treatment-to-lifespan-stewardship/",
       "urlToImage": "https://storage.dogster.com/uploads/2026/07/cfcb9e9a-b328-42c9-946b-6fcd89962eca.png",
       "publishedAt": "Mon, 27 Jul 2026 15:38:38 GMT",
-      "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts"
+      "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts",
+      "title_es": "Por qué el cuidado moderno de los perros está cambiando silenciosamente del tratamiento a la administración de la vida útil",
+      "description_es": "Nuestros perros son nuestros compañeros cercanos. Los amamos y cuidamos como si fueran miembros de la familia, como en millones de hogares en los Estados Unidos. Y con los avances en la atención veterinaria, los perros no solo viven más tiempo"
     },
     {
-      "id": "en-9",
+      "id": "en-10",
       "title": "How a NASA Rocket Scientist Invented a Better, Safer Dog Toy",
       "description": "Since I was 11 years old, I only wanted two things in life: to work at NASA and to have a dog. I started applying (and getting rejected) to NASA internships in high school, and on the pet front, I didn’t get my first dog",
       "url": "https://www.dogster.com/doggos-weekly/how-a-nasa-rocket-scientist-invented-a-better-safer-dog-toy/",
       "urlToImage": "https://storage.dogster.com/uploads/2026/07/f95751c2-d179-40a2-8a42-7e0a9b2f0109.jpg",
       "publishedAt": "Thu, 23 Jul 2026 14:54:47 GMT",
-      "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts"
+      "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts",
+      "title_es": "Cómo un científico de cohetes de la NASA inventó un juguete para perros mejor y más seguro",
+      "description_es": "Desde que tenía 11 años, solo quería dos cosas en la vida: trabajar en la NASA y tener un perro. Empecé a aplicar (y ser rechazado) a las pasantías de la NASA en la escuela secundaria, y en el frente de las mascotas, no conseguí mi primer perro"
     },
     {
-      "id": "en-10",
+      "id": "en-11",
       "title": "Why on Earth Do Dogs Eat Socks, Rocks, and Dirt?",
       "description": "Dogs will put almost anything in their mouths – socks, soil, plastic, paper, rocks, things that defy explanation, and some items too disgusting to mention. Sometimes it’s harmless; sometimes it’s not. For many dog owners",
       "url": "https://www.dogster.com/dog-health-care/why-on-earth-do-dogs-eat-socks-rocks-and-dirt/",
       "urlToImage": "https://storage.dogster.com/uploads/2024/04/two-dogs-eating-dirt-outside_RJ22_Shutterstock.jpeg",
       "publishedAt": "Wed, 22 Jul 2026 12:35:20 GMT",
-      "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts"
+      "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts",
+      "title_es": "¿Por qué los perros comen calcetines, rocas y suciedad?",
+      "description_es": "Los perros se llevan casi cualquier cosa a la boca: calcetines, tierra, plástico, papel, piedras, cosas que desafían cualquier explicación y algunos artículos demasiado desagradables para mencionarlos. A veces es inofensivo; a veces no lo es. Para muchos dueños de perros"
     },
     {
-      "id": "en-11",
+      "id": "en-12",
       "title": "Till Death and Beyond: How One Dog's Loyalty Inspired a Law for Eternal Companionship",
       "description": "The bond between people and their dogs is often described as unconditional, but some stories remind us just how profound that connection can be. In Brazil, a dog named Bob spent 10 years faithfully returning to his owner",
       "url": "https://www.dogster.com/barking-news/how-one-dogs-loyalty-inspired-a-law-for-eternal-companionship/",
       "urlToImage": "https://storage.dogster.com/uploads/2026/07/bcef0fea-3aa4-4c54-bc2d-bcfb9046bec8.png",
       "publishedAt": "Tue, 21 Jul 2026 16:53:21 GMT",
-      "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts"
+      "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts",
+      "title_es": "Hasta la muerte y más allá: cómo la lealtad de un perro inspiró una ley de compañía eterna",
+      "description_es": "El vínculo entre las personas y sus perros a menudo se describe como incondicional, pero algunas historias nos recuerdan cuán profunda puede ser esa conexión. En Brasil, un perro llamado Bob pasó 10 años devolviéndole fielmente a su dueño"
     },
     {
-      "id": "en-12",
+      "id": "en-13",
       "title": "Whole Food Meets Convenience: Why I Chose The Honest Kitchen’s Whole Food Clusters",
       "description": "As responsible dog owners, we want to feed our dogs the same way we feed ourselves: with quality ingredients, less processing, and meals that feel nourishing from the inside out. But finding that balance isn’t always eas",
       "url": "https://www.dogster.com/dog-nutrition/whole-food-meets-convenience/",
       "urlToImage": "https://storage.dogster.com/uploads/2026/07/35016303-c03a-4a99-8c08-24a91c170478.jpg",
       "publishedAt": "Tue, 21 Jul 2026 14:27:47 GMT",
-      "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts"
+      "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts",
+      "title_es": "Whole Food Meets Convenience: Why I Chose The Honest Kitchen's Whole Food Clusters",
+      "description_es": "Como dueños de perros responsables, queremos alimentar a nuestros perros de la misma manera que nos alimentamos a nosotros mismos: con ingredientes de calidad, menos procesamiento y comidas que se sienten nutritivas de adentro hacia afuera. Pero encontrar ese equilibrio no siempre es fácil"
     },
     {
-      "id": "en-13",
+      "id": "en-14",
       "title": "Dogster’s Weekly Photo Contest Winners: A Day by the Water (July 20, 2026)",
       "description": "Every week our team gets the privilege of sorting through our readers photos to choose what dogs will win this weeks contest! See all the winners here",
       "url": "https://www.dogster.com/doggos-weekly/photo-contest-july-20-2026/",
       "urlToImage": "https://storage.dogster.com/uploads/2026/07/8ecb5653-67f1-4945-9639-c0152ec564d4.png",
       "publishedAt": "Mon, 20 Jul 2026 17:00:54 GMT",
-      "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts"
+      "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts",
+      "title_es": "Ganadores del concurso fotográfico semanal de Dogster: Un día junto al agua (20 de julio de 2026)",
+      "description_es": "¡Cada semana nuestro equipo tiene el privilegio de ordenar las fotos de nuestros lectores para elegir qué perros ganarán el concurso de esta semana! Ver todos los ganadores aquí"
     },
     {
-      "id": "en-14",
+      "id": "en-15",
       "title": "I Never Planned to Keep Piglet, the Deaf Blind Pink Puppy",
       "description": "I'm a small animal housecall veterinarian. When I agreed to foster Piglet, I turned to Facebook to help find him his forever home. We had no intention of keeping him, so I needed a place to network and raise awareness fo",
       "url": "https://www.dogster.com/doggos-weekly/i-never-planned-to-keep-piglet-the-deaf-blind-pink-puppy/",
@@ -335,7 +349,7 @@
       "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts"
     },
     {
-      "id": "en-15",
+      "id": "en-16",
       "title": "The One Important Thing Most Dogs Are Missing Out On",
       "description": "When it comes to physical exercise, most dog owners know the drill, with walkies, running, a game of fetch, or a trip to the park being pretty standard fare. Mental stimulation, on the other hand, is often overlooked. Ve",
       "url": "https://www.dogster.com/dog-health-care/the-one-important-thing-most-dogs-are-missing-out-on/",
@@ -344,7 +358,7 @@
       "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts"
     },
     {
-      "id": "en-16",
+      "id": "en-17",
       "title": "Forget Botox, Think SnoreTox – New Treatment Offers Hope for Dogs",
       "description": "A new injectable treatment developed in Australia could one day help dogs with serious breathing problems breathe more comfortably. Called Snoretox-1, the experimental therapy recently showed promising results in a small",
       "url": "https://www.dogster.com/barking-news/forget-botox-think-snoretox-new-treatment-offers-hope-for-dogs/",
@@ -353,7 +367,7 @@
       "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts"
     },
     {
-      "id": "en-17",
+      "id": "en-18",
       "title": "Ask Dr. Paola - Help! How Do I Break the Cycle of Ear Infections? (July 13, 2026)",
       "description": "Welcome to our \"Ask Dr. Paola\" series, where every Monday we bring expert advice straight from Dr. Paola Cuevas (MVZ) to help our readers better understand their dog's health and well-being. Whether you're a new pet pare",
       "url": "https://www.dogster.com/ask-dr-paola/july-13-2026/",
@@ -362,7 +376,7 @@
       "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts"
     },
     {
-      "id": "en-18",
+      "id": "en-19",
       "title": "11 Vet-Verified Reasons to Get a Dog: Why They Are the Best Pets",
       "description": "While any avid owner can gladly expound on the meaning their pets bring into their lives, would-be pet parents can’t always see the rationale in getting a dog. After all, dogs cost money and time, often hampering social ",
       "url": "https://www.dogster.com/lifestyle/reasons-to-get-a-dog/",
@@ -371,7 +385,7 @@
       "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts"
     },
     {
-      "id": "en-19",
+      "id": "en-20",
       "title": "Meet Sterling & Colin: The Golden Retriever Duo Stealing Hearts Online",
       "description": "If you've ever smiled at one of Sterling and Colin's videos, chances are you've already fallen in love with these two Golden Retrievers. Sterling, the gentle \"old soul,\" and Colin, the lovable whirlwind, have built a dev",
       "url": "https://www.dogster.com/doggos-weekly/meet-sterling-and-colin-golden-retriever-duo-stealing-hearts-online/",
@@ -380,7 +394,7 @@
       "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts"
     },
     {
-      "id": "en-20",
+      "id": "en-21",
       "title": "What Vets Say About Acupuncture as a Treatment for Dogs",
       "description": "Acupuncture has moved well beyond its origins as an ancient Chinese healing practice and is now showing up more frequently in veterinary treatment plans. The technique involves placing very fine needles into the skin, of",
       "url": "https://www.dogster.com/dog-health-care/what-vets-say-about-acupuncture-as-a-treatment-for-dogs/",
@@ -389,7 +403,7 @@
       "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts"
     },
     {
-      "id": "en-21",
+      "id": "en-22",
       "title": "Don't Let the Flesheating Screwworm Fly Screw Up Your Trip to Mexico",
       "description": "The first confirmed canine screwworm case in the current U.S. outbreak has pet parents and vets on high alert. If Mexico is on your travel itinerary this year and your dog is coming along for the adventure, there is an i",
       "url": "https://www.dogster.com/barking-news/dont-let-the-flesheating-screwworm-fly-screw-up-your-trip-to-mexico/",
@@ -398,7 +412,7 @@
       "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts"
     },
     {
-      "id": "en-22",
+      "id": "en-23",
       "title": "Why Mental Stimulation Is Crucial for Dogs: 6 Vet-Approved Reasons",
       "description": "We hear a lot about how important it is that dogs get their daily dose of exercise in. Of course, regular physical activity is a necessity for overall health, but so is mental stimulation. Now, the two can go hand in han",
       "url": "https://www.dogster.com/dog-health-care/why-mental-stimulation-is-crucial-for-dogs/",
@@ -407,7 +421,7 @@
       "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts"
     },
     {
-      "id": "en-23",
+      "id": "en-24",
       "title": "Having a Dog in New York City: 9 Tips for Empire Staters",
       "description": "It may seem as though dog ownership is difficult to manage while living in the hustle and bustle of New York City. However, despite the city’s lack of modern suburbia, it is considered one of the most dog-friendly cities",
       "url": "https://www.dogster.com/lifestyle/having-a-dog-in-new-york-city/",
@@ -416,7 +430,7 @@
       "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts"
     },
     {
-      "id": "en-24",
+      "id": "en-25",
       "title": "Superior Care White Dogs Grain-Free Small Breed Dog Food Review 2026: Our Expert’s Opinion",
       "description": "A lustrous, healthy coat is something all dog owners want for their best friend, but this is especially important for white dogs. These dogs are more prone to skin sensitivities, are more likely to show coat-specific sig",
       "url": "https://www.dogster.com/dog-nutrition/superior-care-white-dogs-grain-free-small-breed-dog-food-review/",
@@ -425,7 +439,7 @@
       "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts"
     },
     {
-      "id": "en-25",
+      "id": "en-26",
       "title": "Dogster’s Weekly Photo Contest Winners: Me & My Ball (July 6, 2026)",
       "description": "Every week our team gets the privilege of sorting through our readers photos to choose what dogs will win this weeks contest! See all the winners here",
       "url": "https://www.dogster.com/doggos-weekly/photo-contest-july-6-2026/",
@@ -434,7 +448,7 @@
       "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts"
     },
     {
-      "id": "en-26",
+      "id": "en-27",
       "title": "Weenect XT Dog GPS Tracker Review 2026: Our Expert’s Opinion",
       "description": "Use code DOGSTER at checkout There is no worse feeling in the world than discovering your dog has gone missing. Whether you have a known escape artist or live out in the country with a dog who likes to roam, this is a ni",
       "url": "https://www.dogster.com/lifestyle/weenect-xt-dog-gps-tracker-review/",
@@ -443,7 +457,7 @@
       "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts"
     },
     {
-      "id": "en-27",
+      "id": "en-28",
       "title": "11 Best Salmon Oil Supplements for Dogs in 2026 - Reviews & Top Picks",
       "description": "We all want what is best for our pets, and this may include giving your beloved canine supplements. While some people argue that a dog eating a balanced diet shouldn’t need nutritional supplements, studies show better ov",
       "url": "https://www.dogster.com/dog-health-care/best-salmon-oil-supplements-for-dogs/",
@@ -452,7 +466,7 @@
       "sourceName": "RSS – Dogster: Dog Care & Health Guides by Veterinarians & Experts"
     },
     {
-      "id": "en-28",
+      "id": "en-29",
       "title": "Carolina Dog: Breed Info, Pictures, Care, Traits & More",
       "description": "If you’ve ever seen a yellow or tan dog that looks a bit like a wild dingo, you may have come across one of the rare Carolina Dogs. Known for their skeptical nature, loyalty, and uncanny resemblance to dingoes, the previ",
       "url": "https://www.dogster.com/dog-breeds/carolina-dog/",
