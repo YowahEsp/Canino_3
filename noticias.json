@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T11:53:17.749Z",
+  "generatedAt": "2026-08-08T12:40:01.514Z",
   "es": [
     {
       "id": "es-0",
@@ -284,6 +284,17 @@
   "en": [
     {
       "id": "en-0",
+      "title": "Reno, Sparks See’s Candies raising money for shelter dogs one treat at a time in August",
+      "description": "The chocolatier's fourth annual fundraiser covers medical costs to remove adoption barriers for vulnerable dogs.",
+      "url": "https://www.kolotv.com/2026/08/08/reno-sparks-sees-candies-raising-money-shelter-dogs-one-treat-time-august/",
+      "urlToImage": "https://gray-kolo-prod.gtv-cdn.com/resizer/v2/KMT7TB25MJHU7P6TCBUVEFR3JQ.png?auth=698a412ed765d2a79bd29e771b6dd7f801d7afda142dc9bdc34f94ed379efa11&width=1200&height=600&smart=true",
+      "publishedAt": "2026-08-08 00:30:03",
+      "sourceName": "kolotv",
+      "title_es": "Reno, Sparks See's Candies recauda dinero para perros de refugio un regalo a la vez en agosto",
+      "description_es": "El cuarto evento anual de recaudación de fondos de la chocolatería cubre los costos médicos para eliminar las barreras de adopción para perros vulnerables."
+    },
+    {
+      "id": "en-1",
       "title": "Darien, IL Overnight Dog Boarding For Short Stays With Supervision Announced",
       "description": "Darien pet owners who need a safe, comfortable place for their dog during an overnight or short trip can now board their canine companion at Belle Aire Kennels, as the family-owned facility expands its service area cover",
       "url": "https://www.financialcontent.com/article/marketersmedia-2026-8-7-darien-il-overnight-dog-boarding-for-short-stays-with-supervision-announced",
@@ -294,7 +305,7 @@
       "description_es": "Los dueños de mascotas de Darién que necesiten un lugar seguro y cómodo para su perro durante un viaje nocturno o corto ahora pueden alojar a su compañero canino en Belle Aire Kennels, ya que las instalaciones de propiedad familiar amplían su cobertura de área de servicio"
     },
     {
-      "id": "en-1",
+      "id": "en-2",
       "title": "Aaron Eckhart’s Most Intense Action Movie Returns With a New Hulu Release",
       "description": "Aaron Eckhart‘s intense action canine movie returns with a new release on Hulu. The Muzzle sequel is available in the streamer’s library from August 7, 2026. The sequel picks up from the first part of the franchise, deli",
       "url": "https://www.mandatory.com/movies/1826255-aaron-eckhart-muzzle-city-of-wolves-hulu-streaming",
@@ -305,7 +316,7 @@
       "description_es": "La película canina de acción intensa de Aaron Eckhart regresa con un nuevo lanzamiento en Hulu. La secuela de Muzzle estará disponible en la biblioteca del streamer a partir del 7 de agosto de 2026. La secuela retoma la primera parte de la franquicia, Deli"
     },
     {
-      "id": "en-2",
+      "id": "en-3",
       "title": "'Ohh My Dog' movie review: An underdog story worth chasing",
       "description": "'Ohh My Dog' movie review: An underdog story worth chasing",
       "url": "https://www.deccanherald.com/entertainment/ohh-my-dog-movie-review-an-underdog-story-worth-chasing-4103288",
@@ -316,7 +327,7 @@
       "description_es": "'Ohh My Dog' reseña de la película: Una historia de perdedores que vale la pena perseguir"
     },
     {
-      "id": "en-3",
+      "id": "en-4",
       "title": "Allergic to dogs? These genetically modified Beagles could change everything",
       "description": "For people who love dogs but start sneezing, wheezing or itching whenever one comes near them, owning a pet can [...]",
       "url": "https://euroweeklynews.com/2026/08/07/allergic-to-dogs-these-genetically-modified-beagles-could-change-everything/",
@@ -327,7 +338,7 @@
       "description_es": "Para las personas que aman a los perros pero comienzan a estornudar, sibilar o picar cada vez que uno se acerca a ellos, tener una mascota puede [...]"
     },
     {
-      "id": "en-4",
+      "id": "en-5",
       "title": "Cobourg Police bring back canine unit",
       "description": "Photo (left to right): Chair Adam Bureau and ret. Sergeant Don Missen presenting Constable Amrit Gill and Atos with the K-9 Badge / Submitted.",
       "url": "https://www.inquinte.ca/2026/08/cobourg-police-bring-back-canine-unit/",
@@ -338,7 +349,7 @@
       "description_es": "Foto (de izquierda a derecha): Silla Adam Bureau y ret. Sargento Don Missen presentando al agente Amrit Gill y Atos la insignia K-9/ Presentado."
     },
     {
-      "id": "en-5",
+      "id": "en-6",
       "title": "Glass Fibers in Pet Medication Spurs FDA Recall",
       "description": "The FDA said concerns about the presence of glass fibers led American Regent of Shirley, New York to withdraw Adequan® Canine Injection for dogs and Adequan® i.m. Injection for horses.",
       "url": "https://www.ntd.com/glass-fibers-in-pet-medication-spurs-fda-recall_1164935.html",
@@ -349,7 +360,7 @@
       "description_es": "La FDA dijo que las preocupaciones sobre la presencia de fibras de vidrio llevaron a American Regent de Shirley, Nueva York, a retirar Adequan® Canine Injection para perros y Adequan® i.m. Injection para caballos."
     },
     {
-      "id": "en-6",
+      "id": "en-7",
       "title": "Gene-edited beagles may be future of allergy-free dogs, company claims",
       "description": "A biotechnology company used genetic editing to breed two beagle puppies without a major dog allergen.",
       "url": "https://www.usatoday.com/story/pets-animals/dog/2026/08/07/scientists-use-genetic-editing-breed-allergy-free-beagle-puppies/91201344007/",
@@ -360,7 +371,7 @@
       "description_es": "Una compañía de biotecnología utilizó la edición genética para criar dos cachorros de beagle sin un alérgeno canino importante."
     },
     {
-      "id": "en-7",
+      "id": "en-8",
       "title": "Southern Maryland Pet-Friendly Guide: Where To Eat, Play, Shop And Explore",
       "description": "SOUTHERN MARYLAND, Md. —In Southern Maryland, pets are part of the family, so it only makes sense to include them in the fun. Whether you are looking for a patio where your dog can relax beside you, a sweet stop offering",
       "url": "https://thebaynet.com/the-ultimate-pet-friendly-guide-to-southern-maryland/",
@@ -371,7 +382,7 @@
       "description_es": "SOUTHERN MARYLAND, Md. -En el sur de Maryland, las mascotas son parte de la familia, por lo que solo tiene sentido incluirlas en la diversión. Ya sea que esté buscando un patio donde su perro pueda relajarse a su lado, una dulce oferta de parada"
     },
     {
-      "id": "en-8",
+      "id": "en-9",
       "title": "United Hatzalah’s first therapy dog dies after 11 years of service",
       "description": "Lucy “never knew that she was doing something extraordinary,” handler Batya Yaffe said. “She simply gave people love when they needed it most.”",
       "url": "https://www.jns.org/news/israel-news/united-hatzalahs-first-therapy-dog-dies-after-11-years-of-service",
@@ -382,7 +393,7 @@
       "description_es": "Lucy \"nunca supo que estaba haciendo algo extraordinario\", dijo la adiestradora Batya Yaffe. \"Simplemente le dio amor a la gente cuando más lo necesitaban\"."
     },
     {
-      "id": "en-9",
+      "id": "en-10",
       "title": "Man armed with flamethrower and his canine accomplice set house on fire and escape on golf cart",
       "description": "A man and his \"hot dog\" accomplice were caught on video lighting a Washington garage on fire this week while the homeowner was still inside.",
       "url": "https://nypost.com/2026/08/07/us-news/man-armed-with-flamethrower-and-his-canine-accomplice-set-house-on-fire-and-escape-on-golf-cart/",
@@ -393,7 +404,7 @@
       "description_es": "Esta semana, un hombre y su cómplice de \"perritos calientes\" fueron captados en un video que prendía fuego a un garaje de Washington mientras el dueño de la casa todavía estaba dentro."
     },
     {
-      "id": "en-10",
+      "id": "en-11",
       "title": "Ohh My Dog movie review: Oscar deserves an Oscar!",
       "description": "For the love of dog — you mustn’t miss this masterfully scripted mystery-thriller...",
       "url": "https://www.mid-day.com/entertainment/bollywood-news/article/ohh-my-dog-movie-review-amit-rai-pankaj-tripathi-23643707",
@@ -404,7 +415,7 @@
       "description_es": "Por amor al perro, no debes perderte este thriller de misterio con un guión magistral..."
     },
     {
-      "id": "en-11",
+      "id": "en-12",
       "title": "An ‘Odyssey,’ From a Dog’s Perspective",
       "description": "Plus, a satire about a Nigerian on holiday, and more international fiction in August.",
       "url": "https://foreignpolicy.com/2026/08/07/international-fiction-releases-etna-paul-yoon-whyteface-a-igoni-barrett/",
@@ -415,7 +426,7 @@
       "description_es": "Plus, una sátira sobre un nigeriano de vacaciones y más ficción internacional en agosto."
     },
     {
-      "id": "en-12",
+      "id": "en-13",
       "title": "LA Dog Park Coyote Video Goes Viral Amid Safety Warnings",
       "description": "A coyote played with dogs at a Los Angeles dog park in viral footage, but experts warn habituated coyotes pose real risks to pets.",
       "url": "https://hoodline.com/2026/08/viral-la-dog-park-coyote-video-charms-instagram-alarms-wildlife-experts/",
@@ -426,7 +437,7 @@
       "description_es": "Un coyote jugó con perros en un parque para perros de Los Ángeles en imágenes virales, pero los expertos advierten que los coyotes habituados representan un riesgo real para las mascotas."
     },
     {
-      "id": "en-13",
+      "id": "en-14",
       "title": "Meet Yuko, the beloved Ada County Courthouse dog retiring after years of service",
       "description": "Yuko, the victim support dog at the Ada County Prosecutor’s Office.",
       "url": "https://www.idahostatesman.com/news/local/article316803133.html",
@@ -437,18 +448,16 @@
       "description_es": "Yuko, la perra de apoyo a las víctimas de la Fiscalía del Condado de Ada."
     },
     {
-      "id": "en-14",
+      "id": "en-15",
       "title": "Dog owners hit with hidden £145.90 fee each year",
       "description": "One thing is costing the nation's dog owners an estimated £1.4 billion a year.",
       "url": "https://www.express.co.uk/finance/personalfinance/2237134/dog-owners-hidden-annual-fee",
       "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/23/237x141/2237134_1.jpg",
       "publishedAt": "2026-08-07 15:09:00",
-      "sourceName": "expresscouk",
-      "title_es": "Los dueños de perros pagan una tarifa oculta de £ 145.90 cada año",
-      "description_es": "Una cosa les está costando a los dueños de perros de la nación un estimado de £ 1.4 mil millones al año."
+      "sourceName": "expresscouk"
     },
     {
-      "id": "en-15",
+      "id": "en-16",
       "title": "Gene-edited beagles may be future of allergy-free dogs, company says",
       "description": "A biotechnology company used genetic editing to breed two beagle puppies without a major dog allergen.",
       "url": "https://www.njherald.com/story/pets-animals/dog/2026/08/07/scientists-use-genetic-editing-breed-allergy-free-beagle-puppies/91201344007/",
@@ -457,7 +466,7 @@
       "sourceName": "njherald"
     },
     {
-      "id": "en-16",
+      "id": "en-17",
       "title": "Ready to meet your new best friend? These adorable pets are waiting for a forever home",
       "description": "Meet Randy, Resilience and Arik, Turnip and Marty, plus how to apply online to adopt from North Shore Animal League America.",
       "url": "https://www.nbcnewyork.com/clear-the-shelters/adorable-pets-adoption-north-shore-animal-league-america/6534685/",
@@ -466,22 +475,13 @@
       "sourceName": "nbcnewyork"
     },
     {
-      "id": "en-17",
+      "id": "en-18",
       "title": "Dog's Sudden Revival Before Demise Highlights Mysterious 'Last Rally' Phenomenon",
       "description": "A rare pediatric rescue of a Jack Russell named Piglet lasted only hours before a fatal seizure, a case that illustrates the fleeting phenomenon known as terminal lucidity or the last rally. Studies of such moments in an",
       "url": "https://us.headtopics.com/news/dog-s-sudden-revival-before-demise-highlights-mysterious-86382518",
       "urlToImage": "https://i.headtopics.com/images/2026/8/7/dailymail/dog-s-sudden-revival-before-demise-highlights-myst-dog-s-sudden-revival-before-demise-highlights-myst-D98B69AF5BE5A6E4C7CCBD29FB3E3F29.webp",
       "publishedAt": "2026-08-07 14:07:48",
       "sourceName": "headtopics"
-    },
-    {
-      "id": "en-18",
-      "title": "Ohh My Dog Movie Review | Anupama Chopra | THR India",
-      "description": "Anupama Chopra reviews Ohh My Dog, written, directed and produced by Amit Rai, a schmaltzy but well-meaning melodrama built on the idea that dogs aren't just man's best friends but saviours with semi-celestial powers.",
-      "url": "https://www.hollywoodreporterindia.com/thr-video/thr-reviews/ohh-my-dog-movie-review-anupama-chopra-thr-india",
-      "urlToImage": "https://media.assettype.com/hollywoodreporterindia/2026-08-07/5ek3o3g6/Anu-Oh-My-Dog-1.png",
-      "publishedAt": "2026-08-07 14:06:42",
-      "sourceName": "hollywoodreporterindia"
     },
     {
       "id": "en-19",
