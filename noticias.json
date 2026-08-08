@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T15:37:18.264Z",
+  "generatedAt": "2026-08-08T16:29:08.708Z",
   "es": [
     {
       "id": "es-0",
@@ -192,24 +192,6 @@
     },
     {
       "id": "es-21",
-      "title": "(Video) Rescata Seguridad Vial a perro maltratado",
-      "description": "Llevaba por correa una cadena metálica y mostraba signos de agresión en la cara y huellas de desnutrición",
-      "url": "https://diario.mx/juarez/2026/aug/06/video-rescata-seguridad-vial-a-perro-maltratado-1131840.html",
-      "urlToImage": "https://diario.mx/core/dmx/assets/images/2026/08/06/local001-5f92B11aH.jpg",
-      "publishedAt": "2026-08-06 16:04:25",
-      "sourceName": "diario"
-    },
-    {
-      "id": "es-22",
-      "title": "Sophie, la perra rescatada que ahora acompaña a su dueño con Parkinson en las caminatas de las 6",
-      "description": "Llegó desde Rumania paralizada por el miedo. La paciencia, el acompañamiento profesional y una rutina compartida cambiaron la vida de la perra.",
-      "url": "https://www.losandes.com.ar/mundo/sophie-la-perra-rescatada-que-ahora-acompana-su-dueno-parkinson-las-caminatas-las-6-n6000952",
-      "urlToImage": "https://media.losandes.com.ar/p/f441fcb5f6f939dc3dd7289b71c3ea46/adjuntos/368/imagenes/100/735/0100735048/1200x675/smart/sophie-junto-su-dueno-una-caminata-juntos.png",
-      "publishedAt": "2026-08-06 15:40:00",
-      "sourceName": "losandes"
-    },
-    {
-      "id": "es-23",
       "title": "Enrique Molina, adiestrador canino: \"No debemos dormir con nuestro perro, porque invade un espacio muy personal del dueño\"",
       "description": "Enrique Molina es un conocido adiestrador canino que ayuda a dueños de perros a saber cómo educar a su mascota para que sepa comportarse en casa, entre otras ...",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260510/1004181518/enrique-molina-adiestrador-canino-no-debemos-dormir-nuestro-perro-invade-espacio-personal-dueno-dct.html",
@@ -218,7 +200,7 @@
       "sourceName": "mundodeportivo.com"
     },
     {
-      "id": "es-24",
+      "id": "es-22",
       "title": "Alan Peiró, adiestrador canino: “Cuando un perro se muestra agresivo, lo hace por miedo”",
       "description": "El experto en comportamiento animal brindó consejos para tratar las reacciones violentas de las mascotas.",
       "url": "https://tn.com.ar/mascotas/2026/03/27/alan-peiro-adiestrador-canino-cuando-un-perro-se-muestra-agresivo-lo-hace-por-miedo/",
@@ -227,7 +209,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-25",
+      "id": "es-23",
       "title": "Juan Cervantes, adiestrador canino: “Al volver a tu casa debés ignorar al perro por 5 minutos”",
       "description": "Un experto en mascotas explicó por qué no saludar a tu mascota al regresar al hogar y las consecuencias que eso genera.",
       "url": "https://tn.com.ar/sociedad/2026/03/20/juan-cervantes-adiestrador-canino-al-volver-a-tu-casa-debes-ignorar-al-perro-por-5-minutos/",
@@ -236,7 +218,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-26",
+      "id": "es-24",
       "title": "Juan Cervantes, adiestrador canino: “Cuanto más llames a tu perro por su nombre, menos caso te hace”",
       "description": "El experto influencer explicó el motivo por el que utilizar esta técnica no es la mejor forma para llamar la atención de tu mascota.",
       "url": "https://tn.com.ar/sociedad/2026/03/19/juan-cervantes-adiestrador-canino-cuanto-mas-llames-a-tu-perro-por-su-nombre-menos-caso-te-hace/",
@@ -245,7 +227,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-27",
+      "id": "es-25",
       "title": "Qué siente tu perro cuando sale a pasear, según expertos en comportamiento canino",
       "description": "Ese momento cotidiano es mucho más importante de lo que parece. La ciencia del comportamiento canino explica cómo impacta en el equilibrio emocional, la condu...",
       "url": "https://tn.com.ar/sociedad/2026/02/22/que-siente-tu-perro-cuando-sale-a-pasear-segun-expertos-en-comportamiento-canino/",
@@ -254,7 +236,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-28",
+      "id": "es-26",
       "title": "Qué siente tu perro cuando le gritás, según expertos en comportamiento canino",
       "description": "El tono de voz humano tiene un impacto directo en las emociones de los animales.",
       "url": "https://tn.com.ar/sociedad/2026/02/16/que-siente-tu-perro-cuando-le-gritas-segun-expertos-en-comportamiento-canino/",
@@ -263,7 +245,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-29",
+      "id": "es-27",
       "title": "Por qué no hay que saludar al perro al llegar a casa, según un entrenador canino",
       "description": "Víctor Mañero, reconocido adiestrador canino, reveló el motivo por el cual esta acción puede generarles a los animales gran estrés y ansiedad; qué dijo - ...",
       "url": "https://www.lanacion.com.ar/lifestyle/mascotas/por-que-no-hay-que-saludar-al-perro-al-llegar-a-casa-segun-un-entrenador-canino-nid02052025/",
@@ -272,7 +254,7 @@
       "sourceName": "lanacion.com.ar"
     },
     {
-      "id": "es-30",
+      "id": "es-28",
       "title": "“Perro gay”: ovacionan a un canino en marcha LGBT+ de Guadalajara",
       "description": "El divertido y controversial momento sucedió cuando su cuidadora lo alzó y todos los asistentes no dudaron en gritar y aclamarlo mientras él sacaba su lengua...",
       "url": "https://www.infobae.com/america/entretenimiento/2022/06/19/perro-gay-ovacionan-a-un-canino-en-marcha-lgbt-de-guadalajara/",
@@ -284,6 +266,28 @@
   "en": [
     {
       "id": "en-0",
+      "title": "University study investigates farm dog behaviour spreading deadly parasite",
+      "description": "A new study is investigating how farm dog behaviour could be helping to spread a deadly parasite.",
+      "url": "https://www.rhyljournal.co.uk/news/26439814.study-investigates-farm-dogs-spreading-deadly-parasite/",
+      "urlToImage": null,
+      "publishedAt": "2026-08-08 04:00:00",
+      "sourceName": "rhyljournal",
+      "title_es": "Un estudio universitario investiga el comportamiento de los perros de granja que propagan parásitos mortales",
+      "description_es": "Un nuevo estudio está investigando cómo el comportamiento de los perros de granja podría estar ayudando a propagar un parásito mortal."
+    },
+    {
+      "id": "en-1",
+      "title": "17 new books for August 2026 including dogs, dragons, witches and toads",
+      "description": "Few things boast a sleeker summer look than a slim, 200-page novel.",
+      "url": "https://www.unionleader.com/nh/arts_and_ent/books/17-new-books-for-august-2026-including-dogs-dragons-witches-and-toads/article_50eedbd2-4144-4cf2-9623-ec4d84709a2c.html",
+      "urlToImage": "http://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/9/03/9031c476-47e7-4f6c-b17c-2659ad4db1d5/6a74e06ee8ee6.image.jpg?resize=300%2C436",
+      "publishedAt": "2026-08-08 04:00:00",
+      "sourceName": "unionleader",
+      "title_es": "17 nuevos libros para agosto de 2026 que incluyen perros, dragones, brujas y sapos",
+      "description_es": "Pocas cosas tienen un aspecto veraniego más elegante que una novela delgada de 200 páginas."
+    },
+    {
+      "id": "en-2",
       "title": "Reno, Sparks See’s Candies raising money for shelter dogs one treat at a time in August",
       "description": "The chocolatier's fourth annual fundraiser covers medical costs to remove adoption barriers for vulnerable dogs.",
       "url": "https://www.kolotv.com/2026/08/08/reno-sparks-sees-candies-raising-money-shelter-dogs-one-treat-time-august/",
@@ -294,7 +298,7 @@
       "description_es": "El cuarto evento anual de recaudación de fondos de la chocolatería cubre los costos médicos para eliminar las barreras de adopción para perros vulnerables."
     },
     {
-      "id": "en-1",
+      "id": "en-3",
       "title": "Four Seasons Hotel Bengaluru to Host Pet-Friendly Staycation",
       "description": "",
       "url": "https://hospitalitynews.in/news/four-seasons-hotel-bengaluru-to-host-pet-friendly-staycation-for-international-dog-day",
@@ -305,7 +309,7 @@
       "description_es": ""
     },
     {
-      "id": "en-2",
+      "id": "en-4",
       "title": "Darien, IL Overnight Dog Boarding For Short Stays With Supervision Announced",
       "description": "Darien pet owners who need a safe, comfortable place for their dog during an overnight or short trip can now board their canine companion at Belle Aire Kennels, as the family-owned facility expands its service area cover",
       "url": "https://www.financialcontent.com/article/marketersmedia-2026-8-7-darien-il-overnight-dog-boarding-for-short-stays-with-supervision-announced",
@@ -316,7 +320,7 @@
       "description_es": "Los dueños de mascotas de Darién que necesiten un lugar seguro y cómodo para su perro durante un viaje nocturno o corto ahora pueden alojar a su compañero canino en Belle Aire Kennels, ya que las instalaciones de propiedad familiar amplían su cobertura de área de servicio"
     },
     {
-      "id": "en-3",
+      "id": "en-5",
       "title": "Aaron Eckhart’s Most Intense Action Movie Returns With a New Hulu Release",
       "description": "Aaron Eckhart‘s intense action canine movie returns with a new release on Hulu. The Muzzle sequel is available in the streamer’s library from August 7, 2026. The sequel picks up from the first part of the franchise, deli",
       "url": "https://www.mandatory.com/movies/1826255-aaron-eckhart-muzzle-city-of-wolves-hulu-streaming",
@@ -327,7 +331,7 @@
       "description_es": "La película canina de acción intensa de Aaron Eckhart regresa con un nuevo lanzamiento en Hulu. La secuela de Muzzle estará disponible en la biblioteca del streamer a partir del 7 de agosto de 2026. La secuela retoma la primera parte de la franquicia, Deli"
     },
     {
-      "id": "en-4",
+      "id": "en-6",
       "title": "'Ohh My Dog' movie review: An underdog story worth chasing",
       "description": "'Ohh My Dog' movie review: An underdog story worth chasing",
       "url": "https://www.deccanherald.com/entertainment/ohh-my-dog-movie-review-an-underdog-story-worth-chasing-4103288",
@@ -338,7 +342,7 @@
       "description_es": "'Ohh My Dog' reseña de la película: Una historia de perdedores que vale la pena perseguir"
     },
     {
-      "id": "en-5",
+      "id": "en-7",
       "title": "Allergic to dogs? These genetically modified Beagles could change everything",
       "description": "For people who love dogs but start sneezing, wheezing or itching whenever one comes near them, owning a pet can [...]",
       "url": "https://euroweeklynews.com/2026/08/07/allergic-to-dogs-these-genetically-modified-beagles-could-change-everything/",
@@ -349,7 +353,7 @@
       "description_es": "Para las personas que aman a los perros pero comienzan a estornudar, sibilar o picar cada vez que uno se acerca a ellos, tener una mascota puede [...]"
     },
     {
-      "id": "en-6",
+      "id": "en-8",
       "title": "Cobourg Police bring back canine unit",
       "description": "Photo (left to right): Chair Adam Bureau and ret. Sergeant Don Missen presenting Constable Amrit Gill and Atos with the K-9 Badge / Submitted.",
       "url": "https://www.inquinte.ca/2026/08/cobourg-police-bring-back-canine-unit/",
@@ -360,7 +364,7 @@
       "description_es": "Foto (de izquierda a derecha): Silla Adam Bureau y ret. Sargento Don Missen presentando al agente Amrit Gill y Atos la insignia K-9/ Presentado."
     },
     {
-      "id": "en-7",
+      "id": "en-9",
       "title": "Glass Fibers in Pet Medication Spurs FDA Recall",
       "description": "The FDA said concerns about the presence of glass fibers led American Regent of Shirley, New York to withdraw Adequan® Canine Injection for dogs and Adequan® i.m. Injection for horses.",
       "url": "https://www.ntd.com/glass-fibers-in-pet-medication-spurs-fda-recall_1164935.html",
@@ -371,7 +375,7 @@
       "description_es": "La FDA dijo que las preocupaciones sobre la presencia de fibras de vidrio llevaron a American Regent de Shirley, Nueva York, a retirar Adequan® Canine Injection para perros y Adequan® i.m. Injection para caballos."
     },
     {
-      "id": "en-8",
+      "id": "en-10",
       "title": "Gene-edited beagles may be future of allergy-free dogs, company claims",
       "description": "A biotechnology company used genetic editing to breed two beagle puppies without a major dog allergen.",
       "url": "https://www.usatoday.com/story/pets-animals/dog/2026/08/07/scientists-use-genetic-editing-breed-allergy-free-beagle-puppies/91201344007/",
@@ -382,7 +386,7 @@
       "description_es": "Una compañía de biotecnología utilizó la edición genética para criar dos cachorros de beagle sin un alérgeno canino importante."
     },
     {
-      "id": "en-9",
+      "id": "en-11",
       "title": "Southern Maryland Pet-Friendly Guide: Where To Eat, Play, Shop And Explore",
       "description": "SOUTHERN MARYLAND, Md. —In Southern Maryland, pets are part of the family, so it only makes sense to include them in the fun. Whether you are looking for a patio where your dog can relax beside you, a sweet stop offering",
       "url": "https://thebaynet.com/the-ultimate-pet-friendly-guide-to-southern-maryland/",
@@ -393,7 +397,7 @@
       "description_es": "SOUTHERN MARYLAND, Md. -En el sur de Maryland, las mascotas son parte de la familia, por lo que solo tiene sentido incluirlas en la diversión. Ya sea que esté buscando un patio donde su perro pueda relajarse a su lado, una dulce oferta de parada"
     },
     {
-      "id": "en-10",
+      "id": "en-12",
       "title": "United Hatzalah’s first therapy dog dies after 11 years of service",
       "description": "Lucy “never knew that she was doing something extraordinary,” handler Batya Yaffe said. “She simply gave people love when they needed it most.”",
       "url": "https://www.jns.org/news/israel-news/united-hatzalahs-first-therapy-dog-dies-after-11-years-of-service",
@@ -404,7 +408,7 @@
       "description_es": "Lucy \"nunca supo que estaba haciendo algo extraordinario\", dijo la adiestradora Batya Yaffe. \"Simplemente le dio amor a la gente cuando más lo necesitaban\"."
     },
     {
-      "id": "en-11",
+      "id": "en-13",
       "title": "Man armed with flamethrower and his canine accomplice set house on fire and escape on golf cart",
       "description": "A man and his \"hot dog\" accomplice were caught on video lighting a Washington garage on fire this week while the homeowner was still inside.",
       "url": "https://nypost.com/2026/08/07/us-news/man-armed-with-flamethrower-and-his-canine-accomplice-set-house-on-fire-and-escape-on-golf-cart/",
@@ -415,7 +419,7 @@
       "description_es": "Esta semana, un hombre y su cómplice de \"perritos calientes\" fueron captados en un video que prendía fuego a un garaje de Washington mientras el dueño de la casa todavía estaba dentro."
     },
     {
-      "id": "en-12",
+      "id": "en-14",
       "title": "Ohh My Dog movie review: Oscar deserves an Oscar!",
       "description": "For the love of dog — you mustn’t miss this masterfully scripted mystery-thriller...",
       "url": "https://www.mid-day.com/entertainment/bollywood-news/article/ohh-my-dog-movie-review-amit-rai-pankaj-tripathi-23643707",
@@ -426,53 +430,31 @@
       "description_es": "Por amor al perro, no debes perderte este thriller de misterio con un guión magistral..."
     },
     {
-      "id": "en-13",
+      "id": "en-15",
       "title": "An ‘Odyssey,’ From a Dog’s Perspective",
       "description": "Plus, a satire about a Nigerian on holiday, and more international fiction in August.",
       "url": "https://foreignpolicy.com/2026/08/07/international-fiction-releases-etna-paul-yoon-whyteface-a-igoni-barrett/",
       "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/08/Books-in-brief-fiction-foreign-policy-August-2026-.png",
       "publishedAt": "2026-08-07 18:00:10",
-      "sourceName": "foreignpolicy",
-      "title_es": "An ‘Odyssey’, From a Dog's Perspective",
-      "description_es": "Plus, una sátira sobre un nigeriano de vacaciones y más ficción internacional en agosto."
+      "sourceName": "foreignpolicy"
     },
     {
-      "id": "en-14",
+      "id": "en-16",
       "title": "LA Dog Park Coyote Video Goes Viral Amid Safety Warnings",
       "description": "A coyote played with dogs at a Los Angeles dog park in viral footage, but experts warn habituated coyotes pose real risks to pets.",
       "url": "https://hoodline.com/2026/08/viral-la-dog-park-coyote-video-charms-instagram-alarms-wildlife-experts/",
       "urlToImage": "https://img.hoodline.com/2026/8/la-dog-park-coyote-video-goes-viral-amid-safety-warnings-2.webp",
       "publishedAt": "2026-08-07 17:33:18",
-      "sourceName": "hoodline",
-      "title_es": "El video del coyote del parque para perros de Los Ángeles se vuelve viral en medio de advertencias de seguridad",
-      "description_es": "Un coyote jugó con perros en un parque para perros de Los Ángeles en imágenes virales, pero los expertos advierten que los coyotes habituados representan un riesgo real para las mascotas."
+      "sourceName": "hoodline"
     },
     {
-      "id": "en-15",
+      "id": "en-17",
       "title": "Meet Yuko, the beloved Ada County Courthouse dog retiring after years of service",
       "description": "Yuko, the victim support dog at the Ada County Prosecutor’s Office.",
       "url": "https://www.idahostatesman.com/news/local/article316803133.html",
       "urlToImage": "https://www.idahostatesman.com/public/latest-news/esot4r/picture316803584/alternates/FREE_1140/95404104_110975923938418_2124559732504002560_n.jpg",
       "publishedAt": "2026-08-07 17:33:03",
       "sourceName": "idahostatesman"
-    },
-    {
-      "id": "en-16",
-      "title": "Dog owners hit with hidden £145.90 fee each year",
-      "description": "One thing is costing the nation's dog owners an estimated £1.4 billion a year.",
-      "url": "https://www.express.co.uk/finance/personalfinance/2237134/dog-owners-hidden-annual-fee",
-      "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/23/237x141/2237134_1.jpg",
-      "publishedAt": "2026-08-07 15:09:00",
-      "sourceName": "expresscouk"
-    },
-    {
-      "id": "en-17",
-      "title": "Gene-edited beagles may be future of allergy-free dogs, company says",
-      "description": "A biotechnology company used genetic editing to breed two beagle puppies without a major dog allergen.",
-      "url": "https://www.njherald.com/story/pets-animals/dog/2026/08/07/scientists-use-genetic-editing-breed-allergy-free-beagle-puppies/91201344007/",
-      "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2026/08/07/USAT/91215388007-alfie-and-bailey-5.jpg?auto=webp&crop=8112,4563,x0,y0&format=pjpg&width=1200",
-      "publishedAt": "2026-08-07 15:07:00",
-      "sourceName": "njherald"
     },
     {
       "id": "en-18",
