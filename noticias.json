@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T07:51:31.870Z",
+  "generatedAt": "2026-08-09T08:37:41.449Z",
   "es": [
     {
       "id": "es-0",
@@ -165,15 +165,6 @@
     },
     {
       "id": "es-18",
-      "title": "Barcelona invierte más de 3 millones de euros en renovar 12 áreas para perros: estos son los parques elegidos",
-      "description": "El estado de un parque canino puede influir mucho más de lo que parece en el bienestar de un perro. Un suelo deteriorado, la acumulación de barro cuando llueve o la seguridad en los accesos pueden convertir un espacio ",
-      "url": "https://expertoanimal.elperiodico.com/barcelona-invierte-mas-de-3-millones-de-euros-en-renovar-12-areas-para-perros-estos-son-los-parques-elegidos-28620.html",
-      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/d752e627-8aca-4104-a222-3b2cb992dc67_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "publishedAt": "2026-08-07 08:00:00",
-      "sourceName": "elperiodicodearagon"
-    },
-    {
-      "id": "es-19",
       "title": "Enrique Molina, adiestrador canino: \"No debemos dormir con nuestro perro, porque invade un espacio muy personal del dueño\"",
       "description": "Enrique Molina es un conocido adiestrador canino que ayuda a dueños de perros a saber cómo educar a su mascota para que sepa comportarse en casa, entre otras ...",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260510/1004181518/enrique-molina-adiestrador-canino-no-debemos-dormir-nuestro-perro-invade-espacio-personal-dueno-dct.html",
@@ -182,7 +173,7 @@
       "sourceName": "mundodeportivo.com"
     },
     {
-      "id": "es-20",
+      "id": "es-19",
       "title": "Alan Peiró, adiestrador canino: “Cuando un perro se muestra agresivo, lo hace por miedo”",
       "description": "El experto en comportamiento animal brindó consejos para tratar las reacciones violentas de las mascotas.",
       "url": "https://tn.com.ar/mascotas/2026/03/27/alan-peiro-adiestrador-canino-cuando-un-perro-se-muestra-agresivo-lo-hace-por-miedo/",
@@ -191,7 +182,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-21",
+      "id": "es-20",
       "title": "Juan Cervantes, adiestrador canino: “Al volver a tu casa debés ignorar al perro por 5 minutos”",
       "description": "Un experto en mascotas explicó por qué no saludar a tu mascota al regresar al hogar y las consecuencias que eso genera.",
       "url": "https://tn.com.ar/sociedad/2026/03/20/juan-cervantes-adiestrador-canino-al-volver-a-tu-casa-debes-ignorar-al-perro-por-5-minutos/",
@@ -200,7 +191,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-22",
+      "id": "es-21",
       "title": "Juan Cervantes, adiestrador canino: “Cuanto más llames a tu perro por su nombre, menos caso te hace”",
       "description": "El experto influencer explicó el motivo por el que utilizar esta técnica no es la mejor forma para llamar la atención de tu mascota.",
       "url": "https://tn.com.ar/sociedad/2026/03/19/juan-cervantes-adiestrador-canino-cuanto-mas-llames-a-tu-perro-por-su-nombre-menos-caso-te-hace/",
@@ -209,7 +200,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-23",
+      "id": "es-22",
       "title": "Qué siente tu perro cuando sale a pasear, según expertos en comportamiento canino",
       "description": "Ese momento cotidiano es mucho más importante de lo que parece. La ciencia del comportamiento canino explica cómo impacta en el equilibrio emocional, la condu...",
       "url": "https://tn.com.ar/sociedad/2026/02/22/que-siente-tu-perro-cuando-sale-a-pasear-segun-expertos-en-comportamiento-canino/",
@@ -218,7 +209,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-24",
+      "id": "es-23",
       "title": "Qué siente tu perro cuando le gritás, según expertos en comportamiento canino",
       "description": "El tono de voz humano tiene un impacto directo en las emociones de los animales.",
       "url": "https://tn.com.ar/sociedad/2026/02/16/que-siente-tu-perro-cuando-le-gritas-segun-expertos-en-comportamiento-canino/",
@@ -227,7 +218,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-25",
+      "id": "es-24",
       "title": "Por qué no hay que saludar al perro al llegar a casa, según un entrenador canino",
       "description": "Víctor Mañero, reconocido adiestrador canino, reveló el motivo por el cual esta acción puede generarles a los animales gran estrés y ansiedad; qué dijo - ...",
       "url": "https://www.lanacion.com.ar/lifestyle/mascotas/por-que-no-hay-que-saludar-al-perro-al-llegar-a-casa-segun-un-entrenador-canino-nid02052025/",
@@ -236,7 +227,7 @@
       "sourceName": "lanacion.com.ar"
     },
     {
-      "id": "es-26",
+      "id": "es-25",
       "title": "“Perro gay”: ovacionan a un canino en marcha LGBT+ de Guadalajara",
       "description": "El divertido y controversial momento sucedió cuando su cuidadora lo alzó y todos los asistentes no dudaron en gritar y aclamarlo mientras él sacaba su lengua...",
       "url": "https://www.infobae.com/america/entretenimiento/2022/06/19/perro-gay-ovacionan-a-un-canino-en-marcha-lgbt-de-guadalajara/",
@@ -248,6 +239,17 @@
   "en": [
     {
       "id": "en-0",
+      "title": "Atlas dog park will be closed through Aug. 17",
+      "description": "The Atlas Canine Recreation Dog Park through Monday, Aug. 17. Read more: Atlas dog park will be closed through Aug. 17",
+      "url": "https://www.villages-news.com/2026/08/08/atlas-dog-park-will-be-closed-through-aug-17/",
+      "urlToImage": "https://www.villages-news.com/wp-content/uploads/2019/02/Atlas-Canine-600x419.jpg",
+      "publishedAt": "2026-08-08 20:00:31",
+      "sourceName": "villages_news",
+      "title_es": "Atlas Dog Park permanecerá cerrado hasta el 17 de agosto",
+      "description_es": "The Atlas Canine Recreation Dog Park hasta el lunes 17 de agosto. Leer más: El parque para perros Atlas permanecerá cerrado hasta el 17 de agosto"
+    },
+    {
+      "id": "en-1",
       "title": "I’m a canine behaviour expert - these are the 3 popular dog breeds I'd never own",
       "description": "The dog aficionado has shared the breeds he wouldn't want to own himself, including one that can exhibit \"severe\" behavioural problems.",
       "url": "https://www.express.co.uk/news/uk/2237346/expert-family-dog-breeds",
@@ -258,7 +260,7 @@
       "description_es": "El aficionado a los perros ha compartido las razas que no le gustaría tener, incluida una que puede presentar problemas de comportamiento \"graves\"."
     },
     {
-      "id": "en-1",
+      "id": "en-2",
       "title": "The Hound Hygienist in Lanchester",
       "description": "Millie has turned her passion for animals into an award-winning career at The Hound Hygienist in Lanchester, combining professional dog grooming with specialist canine dental hygiene.",
       "url": "https://consettmagazine.com/a-clean-bill-of-hound/",
@@ -269,7 +271,7 @@
       "description_es": "Millie ha convertido su pasión por los animales en una carrera galardonada en The Hound Hygienist en Lanchester, combinando el aseo profesional de perros con la higiene dental canina especializada."
     },
     {
-      "id": "en-2",
+      "id": "en-3",
       "title": "Service dog Millie retires after 10 years at Peyton Manning Children’s Hospital",
       "description": "Millie, a golden retriever service dog who assisted pediatric patients at Peyton Manning Children's Hospital for nearly a decade, is retiring to live as a pet with her handler.",
       "url": "https://www.wishtv.com/pet-pals-tv/service-dog-millie-retires/",
@@ -280,7 +282,7 @@
       "description_es": "Millie, una perra de servicio golden retriever que asistió a pacientes pediátricos en el Peyton Manning Children's Hospital durante casi una década, se jubila para vivir como mascota con su cuidador."
     },
     {
-      "id": "en-3",
+      "id": "en-4",
       "title": "Nationwide recall issued for dog, horse medications after glass fibers found in vials",
       "description": "A nationwide recall has been issued for certain veterinary medications after glass fibers were discovered in some injection vials during routine testing.",
       "url": "https://us.headtopics.com/news/nationwide-recall-issued-for-dog-horse-medications-after-86414609",
@@ -291,7 +293,7 @@
       "description_es": "Se ha emitido un retiro a nivel nacional para ciertos medicamentos veterinarios después de que se descubrieron fibras de vidrio en algunos viales de inyección durante las pruebas de rutina."
     },
     {
-      "id": "en-4",
+      "id": "en-5",
       "title": "Tele Vet on the simple risks to watch out for when you're taking your dog for a walk",
       "description": "Tele Vet Neil McIntosh on why a walk with your dog may occasionally not be so good for them.",
       "url": "https://www.greenocktelegraph.co.uk/news/26440724.dog-walk-isnt-always-good-furry-friend/",
@@ -302,7 +304,7 @@
       "description_es": "Tele veterinario Neil McIntosh sobre por qué un paseo con tu perro a veces puede no ser tan bueno para él."
     },
     {
-      "id": "en-5",
+      "id": "en-6",
       "title": "Dog Tied to Pipe Outside Jacksonville Vet Survives 36 Hours in Summer Heat",
       "description": "A couple tied a dog to a pipe outside a Jacksonville vet clinic for 36 hours in summer heat. Staff named him Ralph and he survived.",
       "url": "https://hoodline.com/2026/08/dog-tied-to-pipe-outside-jacksonville-vet-survives-36-hours-in-summer-heat/",
@@ -313,7 +315,7 @@
       "description_es": "Una pareja ató un perro a una pipa fuera de una clínica veterinaria de Jacksonville durante 36 horas en el calor del verano. El personal lo llamó Ralph y sobrevivió."
     },
     {
-      "id": "en-6",
+      "id": "en-7",
       "title": "Miami luxury hotels are rolling out the red carpet for dogs. Here’s what to know",
       "description": "Dogs are treated like royalty at Miami’s InterContinental five-star luxury hotel The hotel just won a 2026 Canine Hospitality award",
       "url": "https://www.miamiherald.com/news/business/article316801855.html",
@@ -324,7 +326,7 @@
       "description_es": "Los perros son tratados como miembros de la realeza en el hotel de lujo InterContinental de Miami El hotel acaba de ganar un premio Canine Hospitality 2026"
     },
     {
-      "id": "en-7",
+      "id": "en-8",
       "title": "PET OF THE WEEK: Mia’s a smart cookie who learns best with a tasty treat",
       "description": "Young Bulldog would do well with a family experienced with larger, energetic dogs",
       "url": "https://www.oakvillenews.org/columns/adopt-me/pet-of-the-week-mias-a-smart-cookie-who-learns-best-with-a-tasty-treat-12631602",
@@ -335,7 +337,7 @@
       "description_es": "Young Bulldog le iría bien con una familia con perros más grandes y enérgicos"
     },
     {
-      "id": "en-8",
+      "id": "en-9",
       "title": "Farm dog spread of life-endangering worm disease investigated",
       "description": "Researchers will use GPS collars to track the movements of free roaming farm dogs",
       "url": "https://www.cambrian-news.co.uk/news/farming/farm-dog-spread-of-life-endangering-worm-disease-investigated-934125",
@@ -346,7 +348,7 @@
       "description_es": "Los investigadores utilizarán collares GPS para rastrear los movimientos de los perros de granja en itinerancia libre"
     },
     {
-      "id": "en-9",
+      "id": "en-10",
       "title": "Segregation for large and small dogs in Summerland? (Summerland)",
       "description": "A small portion of the popular dog park at Peach Orchard Beach Park will be fenced off to allow smaller dogs to roam free without being intimidated or having to interact with larger dogs. The decision to fence off a port",
       "url": "https://www.castanet.net/news/Summerland/627398/Segregation-for-large-and-small-dogs-in-Summerland",
@@ -357,7 +359,7 @@
       "description_es": "Una pequeña parte del popular parque para perros en Peach Orchard Beach Park estará cercada para permitir que los perros más pequeños deambulen libremente sin sentirse intimidados ni tener que interactuar con perros más grandes. La decisión de cercar un puerto"
     },
     {
-      "id": "en-10",
+      "id": "en-11",
       "title": "Canine competitors set to descend on Weston Beach Lawns",
       "description": "From high-energy flyball to scent work and races, this new beach-front festival promises something for every four-legged visitor",
       "url": "https://www.thewestonmercury.co.uk/news/26445017.dog-festival-coming-weston-super-mare-beach-lawns/",
@@ -368,7 +370,7 @@
       "description_es": "Este nuevo festival frente a la playa promete algo para cada visitante de cuatro patas, desde flyball de alta energía hasta trabajo con olores y carreras"
     },
     {
-      "id": "en-11",
+      "id": "en-12",
       "title": "Ohh My Dog box office collection Day 1: Amid Spider-Man wave, Pankaj Tripathi's small-budget opens better than Main Vaapas Aaunga, Laapataa Ladies, earns...",
       "description": "While the cinemas are still dominated by Spider-Man: Brand New Day, the small-budget film, Ohh My Dog, opens at remarkably good numbers.",
       "url": "https://www.dnaindia.com/bollywood/report-ohh-my-dog-box-office-collection-amid-spider-man-wave-pankaj-tripathi-s-small-budget-opens-better-than-main-vaapas-aaunga-12th-fail-laapataa-ladies-3218063",
@@ -379,7 +381,7 @@
       "description_es": "Mientras que los cines todavía están dominados por Spider-Man: Brand New Day, la película de pequeño presupuesto, Ohh My Dog, se abre con números notablemente buenos."
     },
     {
-      "id": "en-12",
+      "id": "en-13",
       "title": "San Antonio, be on the lookout for the dog-goat buddy tandem of Bruno & Mars",
       "description": "Columnist Cary Clack recounts his encounters this past week with a goat and a dog wandering San Antonio's East Side. Life is full of surprises.",
       "url": "https://www.expressnews.com/opinion/commentary/article/goat-dog-friends-wandering-east-side-22377424.php",
@@ -390,7 +392,7 @@
       "description_es": "El columnista Cary Clack relata sus encuentros la semana pasada con una cabra y un perro deambulando por el East Side de San Antonio. La vida está llena de sorpresas."
     },
     {
-      "id": "en-13",
+      "id": "en-14",
       "title": "Ohh My Dog Box Office Collection Day 1: Amit Rai-Directed Opens On A Decent Note",
       "description": "Ohh My Dog, directed by Amit Rai, opened its collections on a decent note with first day earnings of around 1 crore.",
       "url": "https://www.iwmbuzz.com/movies/news-movies/ohh-my-dog-box-office-collection-day-1-amit-rai-directed-opens-on-a-decent-note/2026/08/08",
@@ -401,18 +403,16 @@
       "description_es": "Ohh My Dog, dirigida por Amit Rai, abrió sus colecciones con una nota decente con ganancias del primer día de alrededor de 1 crore."
     },
     {
-      "id": "en-14",
+      "id": "en-15",
       "title": "Tested: What my fussy dogs thought about every treat in this £13 Forthglade bundle",
       "description": "Forthglade’s subscription service promises regular deliveries, lower prices and plenty of choice, but the real test was whether Rupert and Honey would actually eat everything",
       "url": "https://www.hartlepoolmail.co.uk/recommended/forthglade-dogs-treats-subscription-multipack-8839188",
       "urlToImage": "https://www.hartlepoolmail.co.uk/jpim-static/image/2026/08/04/14/51/WhatsApp-Image-2026-08-04-at-15-28-37.jpeg?width=1200&auto=webp&trim=87%2C0%2C89%2C0",
       "publishedAt": "2026-08-08 07:30:58",
-      "sourceName": "hartlepoolmail",
-      "title_es": "Probado: lo que mis perros quisquillosos pensaban sobre cada golosina en este paquete de Forthglade de £ 13",
-      "description_es": "El servicio de suscripción de Forthglade promete entregas regulares, precios más bajos y muchas opciones, pero la verdadera prueba era si Rupert y Honey realmente se comerían todo"
+      "sourceName": "hartlepoolmail"
     },
     {
-      "id": "en-15",
+      "id": "en-16",
       "title": "Canine cardio? How a mobile dog gym keeps your pup healthy",
       "description": "Waggin' Wheels is a mobile dog gym in Halifax that comes right to your door. The business helps dogs exercise safely in the heat of summer or in the dead of win...",
       "url": "https://www.cbc.ca/player/play/video/9.6888463?cmp=rss",
@@ -421,7 +421,7 @@
       "sourceName": "cbc.ca"
     },
     {
-      "id": "en-16",
+      "id": "en-17",
       "title": "Truck Swerves To Hit Dog, Misses, Then Crushes Pregnant Canine In 2nd Try",
       "description": "A heart-wrenching video from Jaipur shows a pickup truck swerving to allegedly try and run over a dog and then crushing another pregnant canine to death.",
       "url": "https://www.ndtv.com/india-news/jaipur-truck-swerves-to-hit-dog-crushes-pregnant-canine-when-1st-attempt-fails-8181842",
@@ -430,7 +430,7 @@
       "sourceName": "ndtv.com"
     },
     {
-      "id": "en-17",
+      "id": "en-18",
       "title": "Madras Canine Club’s dog shows draw to a close",
       "description": "All Breeds Championship dog shows by Madras Canine Club conclude with German Shepherds and Doberman winning top prizes.",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-dog-shows-draw-to-a-close/article69116790.ece",
@@ -439,7 +439,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-18",
+      "id": "en-19",
       "title": "Is dog perfume necessary for your canine companion?",
       "description": "Luxury fashion house Dolce & Gabbana has unveiled a new dog perfume named \"Fefé.\"",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/is-dog-perfume-necessary-for-your-canine-companion/",
@@ -448,7 +448,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-19",
+      "id": "en-20",
       "title": "Recognising signs of canine asthma in your Dog",
       "description": "Asthma in dogs is an allergic disease characterised by inflammation and constriction of the small airways in the lungs...",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/recognising-signs-of-canine-asthma-in-your-dog/",
@@ -457,7 +457,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-20",
+      "id": "en-21",
       "title": "Taiwan to soon welcome its first indigenous dog as a police canine",
       "description": "",
       "url": "https://focustaiwan.tw/society/202404200004",
@@ -466,7 +466,7 @@
       "sourceName": "focustaiwan.tw"
     },
     {
-      "id": "en-21",
+      "id": "en-22",
       "title": "Detroit TSA canine handler suspended over video of him pulling dog",
       "description": "A TSA canine handler was suspended from his duties after a viral video captured him aggressively yanking a bomb-detecting dog in a busy airport.",
       "url": "https://nypost.com/2023/05/08/detroit-tsa-worker-suspended-over-video-of-him-pulling-dog/",
@@ -475,7 +475,7 @@
       "sourceName": "nypost.com"
     },
     {
-      "id": "en-22",
+      "id": "en-23",
       "title": "Curtains come down on Madras Canine Club’s dog shows",
       "description": "570 dogs belonging to 69 breeds participated in the two-day event",
       "url": "https://www.thehindu.com/news/cities/chennai/curtains-come-down-on-madras-canine-clubs-dog-shows/article65880058.ece",
@@ -484,7 +484,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-23",
+      "id": "en-24",
       "title": "Madras Canine Club’s All Breeds Championship Dog Shows begin",
       "description": "Over 570 canines from 69 different breeds have registered this year",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-all-breeds-championship-dog-shows-begin/article65875162.ece",
