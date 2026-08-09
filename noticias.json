@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T19:29:54.257Z",
+  "generatedAt": "2026-08-09T20:00:02.286Z",
   "es": [
     {
       "id": "es-0",
@@ -135,15 +135,6 @@
       "urlToImage": "https://www.levelup.com/resizer/v2/QSSKIHLIWFDPJOZQJBPSRJH3VA.jpg?auth=01f7ceff4c655a9d37bdabeab7fac63d0086f890ae1510ba7bf82a796484130c&smart=true&width=1200&height=900",
       "publishedAt": "2026-08-07 20:25:47",
       "sourceName": "levelup"
-    },
-    {
-      "id": "es-15",
-      "title": "Víctor Padilla, educador canino: \"La soledad no forma parte de su naturaleza social\"",
-      "description": "Alba Fernández y Víctor Padilla , educadores caninos, han presentado en Mundo Deportivo su nueva publicación, 'Tu perro habla. Aprende a entenderlo'. Además, son fundadores de la escuela ' Olfateando el mundo ', a la",
-      "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260807/1004214156/victor-padilla-educador-canino-soledad-no-forma-parte-naturaleza-social-perro-tanto-no-todos-gestionan-manera-expt-dct.html",
-      "urlToImage": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2026/06/02/6a1ec464d5275.r_d.1055-427-0.jpeg",
-      "publishedAt": "2026-08-07 19:38:58",
-      "sourceName": "mundodeportivo"
     }
   ],
   "en": [
@@ -270,6 +261,17 @@
     },
     {
       "id": "en-11",
+      "title": "Pet care: Why dogs can’t resist stealing food",
+      "description": "First in a series.Dogs are known to pilfer and eat some unusual food and often junk that’s not even ...",
+      "url": "https://www.abqjournal.com/lifestyles/pet-care-why-dogs-cant-resist-stealing-food/3098644",
+      "urlToImage": "https://image.abqjournal.com/?imageId=352913&format=webp&width=1200",
+      "publishedAt": "2026-08-08 22:28:00",
+      "sourceName": "abqjournal",
+      "title_es": "Cuidado de mascotas: por qué los perros no pueden resistirse a robar comida",
+      "description_es": "Primera de una serie. Se sabe que los perros roban y comen comida inusual y, a menudo, basura que ni siquiera ..."
+    },
+    {
+      "id": "en-12",
       "title": "From shelter to stage: Renowned trainer Bill Berloni selects a new dog for 'Annie' at Goodspeed",
       "description": "",
       "url": "https://theday.com/news/909722/from-shelter-to-stage-renowned-trainer-bill-berloni-selects-a-new-dog-for-annie-at-goodspeed/",
@@ -280,7 +282,7 @@
       "description_es": ""
     },
     {
-      "id": "en-12",
+      "id": "en-13",
       "title": "More than a pet: Can autism assistance dogs gain a foothold in Singapore?",
       "description": "Autism assistance dogs can interrupt harmful repetitive behaviours such as skin-picking or head-banging.",
       "url": "https://www.straitstimes.com/singapore/more-than-a-pet-can-autism-assistance-dogs-gain-a-foothold-in-singapore",
@@ -291,7 +293,7 @@
       "description_es": "Los perros de asistencia para el autismo pueden interrumpir comportamientos repetitivos dañinos, como rascarse la piel o golpearse la cabeza."
     },
     {
-      "id": "en-13",
+      "id": "en-14",
       "title": "Atlas dog park will be closed through Aug. 17",
       "description": "The Atlas Canine Recreation Dog Park through Monday, Aug. 17. Read more: Atlas dog park will be closed through Aug. 17",
       "url": "https://www.villages-news.com/2026/08/08/atlas-dog-park-will-be-closed-through-aug-17/",
@@ -302,18 +304,16 @@
       "description_es": "The Atlas Canine Recreation Dog Park hasta el lunes 17 de agosto. Leer más: El parque para perros Atlas permanecerá cerrado hasta el 17 de agosto"
     },
     {
-      "id": "en-14",
+      "id": "en-15",
       "title": "I’m a canine behaviour expert - these are the 3 popular dog breeds I'd never own",
       "description": "The dog aficionado has shared the breeds he wouldn't want to own himself, including one that can exhibit \"severe\" behavioural problems.",
       "url": "https://www.express.co.uk/news/uk/2237346/expert-family-dog-breeds",
       "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/1/237x141/2237346_1.jpg",
       "publishedAt": "2026-08-08 19:38:00",
-      "sourceName": "expresscouk",
-      "title_es": "Soy un experto en comportamiento canino: estas son las 3 razas de perros populares que nunca tendría",
-      "description_es": "El aficionado a los perros ha compartido las razas que no le gustaría tener, incluida una que puede presentar problemas de comportamiento \"graves\"."
+      "sourceName": "expresscouk"
     },
     {
-      "id": "en-15",
+      "id": "en-16",
       "title": "The Hound Hygienist in Lanchester",
       "description": "Millie has turned her passion for animals into an award-winning career at The Hound Hygienist in Lanchester, combining professional dog grooming with specialist canine dental hygiene.",
       "url": "https://consettmagazine.com/a-clean-bill-of-hound/",
@@ -322,7 +322,7 @@
       "sourceName": "consettmagazine"
     },
     {
-      "id": "en-16",
+      "id": "en-17",
       "title": "Service dog Millie retires after 10 years at Peyton Manning Children’s Hospital",
       "description": "Millie, a golden retriever service dog who assisted pediatric patients at Peyton Manning Children's Hospital for nearly a decade, is retiring to live as a pet with her handler.",
       "url": "https://www.wishtv.com/pet-pals-tv/service-dog-millie-retires/",
@@ -331,7 +331,7 @@
       "sourceName": "wishtv"
     },
     {
-      "id": "en-17",
+      "id": "en-18",
       "title": "Nationwide recall issued for dog, horse medications after glass fibers found in vials",
       "description": "A nationwide recall has been issued for certain veterinary medications after glass fibers were discovered in some injection vials during routine testing.",
       "url": "https://us.headtopics.com/news/nationwide-recall-issued-for-dog-horse-medications-after-86414609",
@@ -340,7 +340,7 @@
       "sourceName": "headtopics"
     },
     {
-      "id": "en-18",
+      "id": "en-19",
       "title": "Tele Vet on the simple risks to watch out for when you're taking your dog for a walk",
       "description": "Tele Vet Neil McIntosh on why a walk with your dog may occasionally not be so good for them.",
       "url": "https://www.greenocktelegraph.co.uk/news/26440724.dog-walk-isnt-always-good-furry-friend/",
@@ -349,7 +349,7 @@
       "sourceName": "greenocktelegrapha"
     },
     {
-      "id": "en-19",
+      "id": "en-20",
       "title": "Dog Tied to Pipe Outside Jacksonville Vet Survives 36 Hours in Summer Heat",
       "description": "A couple tied a dog to a pipe outside a Jacksonville vet clinic for 36 hours in summer heat. Staff named him Ralph and he survived.",
       "url": "https://hoodline.com/2026/08/dog-tied-to-pipe-outside-jacksonville-vet-survives-36-hours-in-summer-heat/",
@@ -358,7 +358,7 @@
       "sourceName": "hoodline"
     },
     {
-      "id": "en-20",
+      "id": "en-21",
       "title": "Miami luxury hotels are rolling out the red carpet for dogs. Here’s what to know",
       "description": "Dogs are treated like royalty at Miami’s InterContinental five-star luxury hotel The hotel just won a 2026 Canine Hospitality award",
       "url": "https://www.miamiherald.com/news/business/article316801855.html",
