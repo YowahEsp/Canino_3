@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T03:17:59.351Z",
+  "generatedAt": "2026-08-11T04:48:22.881Z",
   "es": [
     {
       "id": "es-0",
@@ -147,12 +147,12 @@
     },
     {
       "id": "es-16",
-      "title": "Juan Manuel, adiestrador canino: “Adoptar un perro implica tiempo y que tengas ganas de informarte y aprender porque vas a vivir muchos años con ellos”",
-      "description": "Este especialista del comportamiento en este tipo de animales recomienda una serie de rutinas que deberías hacer con tu mascota para no provocarle crisis de estrés que repercutan en la convivencia del hogar",
+      "title": "Juan Manuel, adiestrador canino: “Adoptar un perro implica tiempo y que tengas ganas de informarte y aprender porque vas a vivir muchos años con ellos”",
+      "description": "Este especialista del comportamiento en este tipo de animales recomienda una serie de rutinas que deberías hacer con tu mascota para no provocarle crisis de estrés que repercutan en la convivencia del hogar",
       "url": "https://www.infobae.com/espana/2026/08/09/juan-manuel-adiestrador-canino-adoptar-un-perro-implica-tiempo-y-que-tengas-ganas-de-informarte-y-aprender-porque-vas-a-vivir-muchos-anos-con-ellos/",
-      "urlToImage": "https://www.infobae.com/resizer/v2/E4GM4YDOAJCFTKG73VZUCLQ4VY.jpg?auth=6fdc0e545873e85f81b78afa18beb53a4933714b09187c7b7fa949715e12cb22&smart=true&width=1920&height=1080",
-      "publishedAt": "2026-08-09 03:30:00",
-      "sourceName": "infobae"
+      "urlToImage": "https://www.infobae.com/resizer/v2/E4GM4YDOAJCFTKG73VZUCLQ4VY.jpg?auth=6fdc0e545873e85f81b78afa18beb53a4933714b09187c7b7fa949715e12cb22&smart=true&width=1200&height=630&quality=85",
+      "publishedAt": "2026-08-09 03:30:00 +0000",
+      "sourceName": "Jorge Ortega"
     },
     {
       "id": "es-17",
@@ -396,6 +396,17 @@
     },
     {
       "id": "en-2",
+      "title": "The Dogist Joins the 2026 World’s Cutest Rescue Dog Contest as a Celebrity Judge",
+      "description": "Elias Weiss Friedman, the photographer behind the wildly successful Dogist online platform, will help choose a winner for the 2026 contest",
+      "url": "https://ca.news.yahoo.com/dogist-joins-2026-world-cutest-163642982.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8d45ae8afebaa0c940c433f25531dba8a553fbfcdf94bb8d3b2fd8f43718a5fc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F7380ffbced5d438fee028857d1a81182",
+      "publishedAt": "2026-08-10 16:36:42",
+      "sourceName": "yahoo",
+      "title_es": "The Dogist se une al concurso de perros de rescate más lindos del mundo de 2026 como juez de celebridades",
+      "description_es": "Elias Weiss Friedman, el fotógrafo detrás de la exitosa plataforma en línea Dogist, ayudará a elegir un ganador para el concurso de 2026"
+    },
+    {
+      "id": "en-3",
       "title": "Scientists may have found a cure for allergies: gene-edited dogs",
       "description": "A pair of extra hypoallergenic dogs was created using CRISPR",
       "url": "https://theweek.com/science/scientists-cure-allergies-gene-dogs",
@@ -406,18 +417,51 @@
       "description_es": "Se creó un par de perros hipoalergénicos adicionales usando CRISPR"
     },
     {
-      "id": "en-3",
+      "id": "en-4",
       "title": "Why some dogs react strongly to their owner's emotional state",
-      "description": "Emotional sensitivity in dogs stems from their ability to read non-verbal cues. Learn how environmental triggers affect them and when to see a veterinarian.",
+      "description": "Some dogs exhibit a high sensitivity to their owner's emotional state, changes in daily routines, and the general atmosphere of the home. This behavior stems from the animal's ability to read human non-verbal cues—a trai",
       "url": "https://english.pravda.ru/news/animal/167816-sensitive-dog-behavior/",
       "urlToImage": "https://english.pravda.ru/image/preview/article/8/1/6/167816_amp.jpeg",
-      "publishedAt": "2026-08-10 16:23:00 +0000",
-      "sourceName": "Angela Antonova",
+      "publishedAt": "2026-08-10 16:23:00",
+      "sourceName": "pravda_ru",
       "title_es": "Por qué algunos perros reaccionan fuertemente al estado emocional de su dueño",
-      "description_es": "La sensibilidad emocional en los perros se debe a su capacidad para leer señales no verbales. Aprende cómo les afectan los desencadenantes ambientales y cuándo ver a un veterinario."
+      "description_es": "Algunos perros muestran una alta sensibilidad al estado emocional de su dueño, a los cambios en las rutinas diarias y al ambiente general del hogar. Este comportamiento se deriva de la capacidad del animal para leer señales no verbales humanas: un TRAI"
     },
     {
-      "id": "en-4",
+      "id": "en-5",
+      "title": "Animal advocates celebrate one year since hospital canine research exposed",
+      "description": "Animal advocates gathered outside St. Joseph’s Hospital in London, Ont. to mark the one-year anniversary of the exposing of canine research.",
+      "url": "https://www.ctvnews.ca/london/article/animal-advocates-celebrate-one-year-since-hospital-canine-research-exposed/",
+      "urlToImage": "https://www.ctvnews.ca/resizer/v2/A6NVNASG5JEQHCW3YZDU5APTQY.jpg?auth=7fc8b0dea4378915bdd4add63c51cbcf93f06d34f26223e3763bd01db28e5360&smart=true&width=1920&height=1080",
+      "publishedAt": "2026-08-10 15:52:17",
+      "sourceName": "ctvnews",
+      "title_es": "Los defensores de los animales celebran un año desde que se expuso la investigación canina en el hospital",
+      "description_es": "Los defensores de los animales se reunieron frente al Hospital St. Joseph en Londres, Ontario, para conmemorar el primer aniversario de la exposición de la investigación canina."
+    },
+    {
+      "id": "en-6",
+      "title": "Stray dog bites 130 people in seven hours in Maharashtra",
+      "description": "Thane: A rabid stray dog attacked and bit near ly 130 people within seven hours in an area in Kalyan (west) in Thane district of Maharashtra, necessitating hospitalisation for 25 victims and advanced medi cal care for a ",
+      "url": "https://www.orissapost.com/stray-dog-bites-130-people-in-seven-hours-in-maharashtra/",
+      "urlToImage": "https://www.orissapost.com/wp-content/uploads/2021/05/Stray-dogs.jpg",
+      "publishedAt": "2026-08-10 15:47:31",
+      "sourceName": "orissapost",
+      "title_es": "Perro callejero muerde a 130 personas en siete horas en Maharashtra",
+      "description_es": "Thane: Un perro callejero rabioso atacó y mordió a 130 personas en siete horas en un área en Kalyan (oeste) en el distrito de Thane de Maharashtra, lo que requirió la hospitalización de 25 víctimas y atención médica avanzada para un"
+    },
+    {
+      "id": "en-7",
+      "title": "England stars’ World Cup bomb scare revealed after police dog ‘smelled EXPLOSIVES on team bus ahead of Argentina match",
+      "description": "ENGLAND'S stars were allegedly caught up in a World Cup bomb scare ahead of their semi-final clash against Argentina. A leaked security services' report, seen by Informacion.es, details a number of terror attempts includ",
+      "url": "https://www.thesun.co.uk/sport/40017430/england-world-cup-bomb-scare-police-explosives-team-bus/",
+      "urlToImage": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F08%2Fnewspress-collage-5op3xx3an-1786375272926.jpg?quality%3D90%26strip%3Dall%261786378885%261786378885",
+      "publishedAt": "2026-08-10 15:27:08",
+      "sourceName": "thesun",
+      "title_es": "El susto de bomba de las estrellas de Inglaterra en la Copa del Mundo se reveló después de que un perro policía oliera EXPLOSIVOS en el autobús del equipo antes del partido de Argentina",
+      "description_es": "Las estrellas de INGLATERRA supuestamente se vieron atrapadas en un susto de bomba en la Copa del Mundo antes de su choque de semifinales contra Argentina. Un informe filtrado de los servicios de seguridad, visto por Informacion.es, detalla una serie de intentos de terrorismo que incluyen"
+    },
+    {
+      "id": "en-8",
       "title": "Dogs Discern Human Fear, Sadness",
       "description": "Scientists—and dog lovers—have long known that dogs are remarkably good at interpreting our laughs, frowns, and tears. But the biology behind this",
       "url": "https://www.miragenews.com/dogs-discern-human-fear-sadness-1724630/",
@@ -428,7 +472,7 @@
       "description_es": "Los científicos, y los amantes de los perros, saben desde hace mucho tiempo que los perros son muy buenos para interpretar nuestras risas, fruncimientos y lágrimas. Pero la biología detrás de esto"
     },
     {
-      "id": "en-5",
+      "id": "en-9",
       "title": "Dogs can tell if you're angry, scared, or sad",
       "description": "Our canine companions may really understand what we're going through, new study suggests.",
       "url": "https://us.headtopics.com/news/dogs-can-tell-if-you-re-angry-scared-or-sad-86471750",
@@ -439,7 +483,7 @@
       "description_es": "Un estudio reciente sugiere que nuestros compañeros caninos pueden entender realmente por lo que estamos pasando."
     },
     {
-      "id": "en-6",
+      "id": "en-10",
       "title": "Can dogs read your facial expressions? It depends on your mood",
       "description": "Dogs are known to recognize and respond to human facial expressions, but a new study shows how deeply they understand our mood",
       "url": "https://www.scientificamerican.com/article/can-dogs-read-your-facial-expressions-it-depends-on-your-mood/",
@@ -450,7 +494,7 @@
       "description_es": "Se sabe que los perros reconocen y responden a las expresiones faciales humanas, pero un nuevo estudio muestra hasta qué punto entienden nuestro estado de ánimo"
     },
     {
-      "id": "en-7",
+      "id": "en-11",
       "title": "Dogs can tell if you're scared or sad",
       "description": "fMRI scans show happiness, fear, anger, and sadness have distinct brain activity patterns in doggy brains.",
       "url": "https://arstechnica.com/science/2026/08/dogs-can-tell-if-youre-scared-or-sad/",
@@ -461,7 +505,7 @@
       "description_es": "Las resonancias magnéticas muestran que la felicidad, el miedo, la ira y la tristeza tienen distintos patrones de actividad cerebral en los cerebros de los perros."
     },
     {
-      "id": "en-8",
+      "id": "en-12",
       "title": "Sad or afraid? Dogs may be able to read your face",
       "description": "A new brain-imaging study suggests that dogs may be able to distinguish between certain negative human emotions just by looking at people’s faces.",
       "url": "https://www.sciencenews.org/article/dogs-understand-emotions-humans-face",
@@ -472,7 +516,7 @@
       "description_es": "Un nuevo estudio de imágenes cerebrales sugiere que los perros pueden ser capaces de distinguir entre ciertas emociones humanas negativas con solo mirar las caras de las personas."
     },
     {
-      "id": "en-9",
+      "id": "en-13",
       "title": "Experts reject claim black bear hunting with dogs helps caribou conservation",
       "description": "The 2026 hunting regulations allowing dogs to help with the hunt of black bears state the changes aim to support predator management in areas where caribou recovery is a concern.",
       "url": "https://www.rmoutlook.com/canmore/experts-reject-claim-black-bear-hunting-with-dogs-helps-caribou-conservation-12628418",
@@ -483,7 +527,7 @@
       "description_es": "Las regulaciones de caza de 2026 que permiten a los perros ayudar con la caza de osos negros establecen que los cambios tienen como objetivo apoyar el manejo de depredadores en áreas donde la recuperación del caribú es una preocupación."
     },
     {
-      "id": "en-10",
+      "id": "en-14",
       "title": "Sam Neill on making Hunt for the Wilderpeople: ‘We were attacked by a puppet pig!’",
       "description": "Speaking just before his death, the actor recalled his hostile hunting dog Zag, director Taika Waititi’s comedy genius – and the wild boar scene that left children traumatised • Warning: contains spoilers Taika Waititi’s",
       "url": "https://www.theguardian.com/film/2026/aug/10/sam-neill-taika-waititi-hunt-for-the-wilderpeople-julian-dennison",
@@ -494,51 +538,43 @@
       "description_es": "Hablando justo antes de su muerte, el actor recordó a su hostil perro de caza Zag, el genio de la comedia del director Taika Waititi, y la escena del jabalí que dejó a los niños traumatizados • Advertencia: contiene spoilers de Taika Waititi"
     },
     {
-      "id": "en-11",
+      "id": "en-15",
       "title": "WCSO Celebrates First Rescue K-9s Trained for School Safety",
       "description": "The Williamson County Sheriff’s Office is celebrating a milestone with the introduction of its first rescue dogs trained and certified as narcotics detection K-9s for use in local schools. More Crime News The three dogs ",
       "url": "https://williamsonsource.com/wcso-celebrates-first-rescue-k-9s-trained-for-school-safety/",
       "urlToImage": "https://williamsonsource.com/wp-content/uploads/2026/08/rescue-k9-sro.jpg",
       "publishedAt": "2026-08-10 14:05:06",
-      "sourceName": "williamsonsource",
-      "title_es": "La WCSO celebra los primeros K-9 de rescate entrenados para la seguridad escolar",
-      "description_es": "La Oficina del Sheriff del Condado de Williamson está celebrando un hito con la introducción de sus primeros perros de rescate entrenados y certificados como K-9 de detección de narcóticos para su uso en las escuelas locales. Más noticias sobre crímenes Los tres perros"
+      "sourceName": "williamsonsource"
     },
     {
-      "id": "en-12",
+      "id": "en-16",
       "title": "We should smile at our dogs - a new scientific study reveals why",
       "description": "Scientists have worked out what is going on inside a dog's brain when it sees a human smiling or scowling.",
       "url": "https://www.bbc.co.uk/news/articles/ce8kr3yrl6eo",
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19cf/live/c28f81a0-925b-11f1-b9ff-37ae3aba3894.jpg",
       "publishedAt": "2026-08-10 14:02:57",
-      "sourceName": "bbc",
-      "title_es": "Deberíamos sonreír a nuestros perros: un nuevo estudio científico revela por qué",
-      "description_es": "Los científicos han descubierto lo que sucede dentro del cerebro de un perro cuando ve a un humano sonriendo o frunciendo el ceño."
+      "sourceName": "bbc"
     },
     {
-      "id": "en-13",
+      "id": "en-17",
       "title": "Rabid stray dog attacks nearly 130 people in 7 hours in Maharashtra’s Kalyan",
       "description": "A rabid stray dog attacked nearly 130 people in seven hours in Kalyan, Maharashtra, leaving 25 hospitalised and an 11-year-old girl critically injured. Residents accused KDMC of delayed action and demanded an investigati",
       "url": "https://telanganatoday.com/rabid-stray-dog-attacks-nearly-130-people-in-7-hours-in-maharashtras-kalyan",
       "urlToImage": "https://media.telanganatoday.com/wp-content/uploads/2026/06/dogs-1.jpg",
       "publishedAt": "2026-08-10 13:01:50",
-      "sourceName": "telanganatoday",
-      "title_es": "Perro callejero rabioso ataca a casi 130 personas en 7 horas en Kalyan de Maharashtra",
-      "description_es": "Un perro callejero rabioso atacó a casi 130 personas en siete horas en Kalyan, Maharashtra, dejando 25 hospitalizados y una niña de 11 años gravemente herida. Los residentes acusaron a KDMC de retrasar la acción y exigieron una investigación"
+      "sourceName": "telanganatoday"
     },
     {
-      "id": "en-14",
+      "id": "en-18",
       "title": "Bernalillo County celebrates reopening of canine rooms",
       "description": "ALBUQUERQUE, N.M. (KRQE) — Dogs at the Bernalillo County Animal Care and Resource Center are going to be more comfortable with the reopening of the …",
       "url": "https://www.krqe.com/news/new-mexico/bernalillo-county-celebrates-reopening-of-canine-rooms/",
       "urlToImage": "None",
       "publishedAt": "2026-08-10 12:35:26 +0000",
-      "sourceName": "by: Isaac Cruz",
-      "title_es": "El condado de Bernalillo celebra la reapertura de las salas caninas",
-      "description_es": "ALBUQUERQUE, N.M. (KRQE) — Los perros del Centro de Recursos y Cuidado de Animales del Condado de Bernalillo se sentirán más cómodos con la reapertura del ..."
+      "sourceName": "by: Isaac Cruz"
     },
     {
-      "id": "en-15",
+      "id": "en-19",
       "title": "Floppy ears & hidden dangers: Why your dog needs this ear care",
       "description": "Regular ear cleaning prevents infections and inflammation that often lead to expensive veterinary treatments. The primary objective is the removal of excess wax and debris which, due to canine anatomy, may not always be ",
       "url": "https://english.pravda.ru/news/animal/167798-dog-ear-hygiene/",
@@ -547,7 +583,7 @@
       "sourceName": "pravda_ru"
     },
     {
-      "id": "en-16",
+      "id": "en-20",
       "title": "Ohh My Dog Box Office Day 3: Pankaj Tripathi & Oscar's Heart-Warming Film Sees 38.8% Jump From The Opening Day! - Koimoi",
       "description": "Ohh My Dog Box Office Day 3: Pankaj Tripathi & Oscar's Heart-Warming Film Sees 38.8% Jump From The Opening Day! Koimoi ‘Ohh My Dog’ review: Oscar is the star, but Amit Rai’s canine adventure needed a tighter leash Telegr",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWjNkTndvdXltcHdMRDFraXRsTWtVVVd0ZW5yaEI2dWE5eEJGM0hmaVZmZ295cHA2MWM3Y2ZtLS1xNUtNNkptaFMyOXlvYzhqVmV0YnhfTUZOTUR5cngzbW1VNnFNSmMtVXg4b3dheVJ6Tmk4V09QaEk1QVlJZnhab3dzMEU3RDE0SmdoQkpKM29tV0pHd1pnWUFuR05LUTlhdEI1V1hUZ0tHbnVwYXdwYTVNdkhUa3o0TmpYY2JXMm14X3NXSXVHc2lZQUxkTGFFbkJrTVlZMA?oc=5",
@@ -556,7 +592,7 @@
       "sourceName": "google"
     },
     {
-      "id": "en-17",
+      "id": "en-21",
       "title": "Poochmaxxing: the wellness industry is coming for your pets",
       "description": "Pet owners want what's best for their doggos, but it's easy to get fooled.",
       "url": "https://www.zmescience.com/science/news-science/poochmaxxing-the-wellness-industry-is-coming-for-your-pets/",
@@ -565,7 +601,7 @@
       "sourceName": "Jacqueline Boyd"
     },
     {
-      "id": "en-18",
+      "id": "en-22",
       "title": "Everything You Need To Know Before Buying A Dog Whistle",
       "description": "Training dogs is an important part of responsible pet parenting and a dog whistle can help you communicate with your dog.",
       "url": "https://www.dailypress.com/2026/08/10/everything-you-need-to-know-before-buying-a-dog-whistle/",
@@ -574,7 +610,7 @@
       "sourceName": "dailypress"
     },
     {
-      "id": "en-19",
+      "id": "en-23",
       "title": "Stray Dog Bites Nearly 150 People In Maharashtra's Kalyan In Just 6 Hours; Several Hospitalised",
       "description": "A stray dog allegedly injured around 130-150 people in 6-7 hours across the stretch from Sandeep Hotel to Khadakpada. Nearly 25 persons have been hospitalised.",
       "url": "https://www.etvbharat.com/en/state/stray-dog-bites-nearly-150-people-in-maharashtra-kalyan-in-just-six-hours-several-hospitalised-enn26081002653",
@@ -583,7 +619,7 @@
       "sourceName": "etvbharat"
     },
     {
-      "id": "en-20",
+      "id": "en-24",
       "title": "Indoor Dog Parks Near Me | Find 500+ Dog Parks & Play Areas",
       "description": "Find the best indoor dog parks near you. Search our directory of 500+ climate-controlled dog parks, dog bars, and play areas across the US. View reviews, hours, and pricing.",
       "url": "https://www.indoordogpark.org",
@@ -592,7 +628,7 @@
       "sourceName": "Indoor Dog Park Team; Indoor Dog Park"
     },
     {
-      "id": "en-21",
+      "id": "en-25",
       "title": "Urgent warning to Bury pet owners over 'near-invisible' parasite",
       "description": "Pet owners in Greater Manchester are being warned about dangerous seasonal parasites, including harvest mites and lungworm, lurking in gardens and parks",
       "url": "https://www.burytimes.co.uk/news/26449693.bury-pet-owners-warned-near-invisible-parasite/",
@@ -601,7 +637,7 @@
       "sourceName": "burytimes_uk"
     },
     {
-      "id": "en-22",
+      "id": "en-26",
       "title": "Dog in a raincoat on a walk with pet parent",
       "description": "For pets, the rains can be the beginning of a season of itching, infections and stomach troubles. Follow this expert guide for pet parents.",
       "url": "https://www.etvbharat.com/en/health/complete-guide-monsoon-proof-pet-health-enn26081003289",
@@ -610,49 +646,13 @@
       "sourceName": "etvbharat"
     },
     {
-      "id": "en-23",
-      "title": "‘Justice for Chilli’: Dog lovers seek accountability as Pitt County K9 dies after being left in hot car",
-      "description": "Netizens and dog lovers are demanding justice after a Pitt County Sheriff’s Office K-9, Chilli, died after allegedly being left in a hot car by its handler.",
-      "url": "https://www.hindustantimes.com/trending/us/justice-for-chilli-dog-lovers-seek-accountability-as-pitt-county-k9-dies-after-being-left-in-hot-car-101786344698582.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/08/10/1600x900/logo/bbhyuui_1786344958499_1786344963954_6603bb8d-d607-4fe2-8063-0b50b71d073c.jpg",
-      "publishedAt": "2026-08-10 06:57:55",
-      "sourceName": "hindustantimes"
-    },
-    {
-      "id": "en-24",
-      "title": "For 15,000 years, humans and dogs have been changing each other",
-      "description": "Dogs have been shaping—and being shaped by—humans for about 15,000 years, evolving from early partners of hunter-gatherers into an astonishing range of specialized companions. Across the globe, they adapted alongside peo",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260810015700.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/man-and-wolf.webp",
-      "publishedAt": "2026-08-10 05:57:00",
-      "sourceName": "sciencedaily"
-    },
-    {
-      "id": "en-25",
+      "id": "en-27",
       "title": "15 Dog Breeds That Are The Least Aggressive - Doggodigest",
       "description": "Check out the least aggressive dog breeds known for their calm nature. Find out how they create wonderful bonds with their humans.",
       "url": "https://doggodigest.com/15-dog-breeds-that-are-the-least-aggressive-3-344443/",
       "urlToImage": "https://doggodigest.com/wp-content/uploads/2025/06/1749231984724_photo-1620058069144-9f639235faea",
       "publishedAt": "2026-08-10 05:26:00 +0000",
       "sourceName": "Esther Evangeline; Editor"
-    },
-    {
-      "id": "en-26",
-      "title": "Ohh My Dog Box Office Collection Day 3: Pankaj Tripathi's Film About Fur Babies Closes First Weekend At ₹3.25 Crore In India",
-      "description": "Pankaj Tripathi’s latest film Ohh My Dog recorded a modest opening weekend at the Indian box office, earning Rs 3.25 crore net. The film collected Rs 1.25 crore on Day 3, up 13.6% from its Rs 1.10-crore Day 2 earnings.",
-      "url": "https://www.freepressjournal.in/entertainment/ohh-my-dog-box-office-collection-day-3-pankaj-tripathis-film-about-fur-babies-closes-first-weekend-at-325-crore-in-india",
-      "urlToImage": "https://media.assettype.com/freepressjournal/2026-08-08/e1zwyvfc/hh-My-Dog-Box-Office-Collection-Day-1.jpg?w=280",
-      "publishedAt": "2026-08-10 05:09:36",
-      "sourceName": "freepressjournal"
-    },
-    {
-      "id": "en-27",
-      "title": "Netflix’s The Last House ending explained: Please leave the dogs out of this escalating weirdness",
-      "description": "Sea monsters, sentient rain and one dog that haunts the whole finale",
-      "url": "https://gulfnews.com/entertainment/netflixs-the-last-house-ending-explained-please-leave-the-dogs-out-of-this-escalating-weirdness-1.500635698",
-      "urlToImage": "https://media.assettype.com/gulfnews/2026-08-09/6odomep4/thelasthouse.webp?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
-      "publishedAt": "2026-08-10 03:50:00",
-      "sourceName": "gulfnews"
     },
     {
       "id": "en-28",
