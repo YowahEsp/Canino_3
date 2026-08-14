@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T05:53:55.309Z",
+  "generatedAt": "2026-08-14T07:19:05.637Z",
   "es": [
     {
       "id": "es-0",
@@ -401,6 +401,17 @@
   "en": [
     {
       "id": "en-0",
+      "title": "These dogs in Malaysia are taken on a 'school bus' for outdoor adventures",
+      "description": "As more pet owners rethink care, this dog daycare offers to bring furry friends on adventures to encourage exploration and socialising.",
+      "url": "https://www.thestar.com.my/lifestyle/living/2026/08/14/these-dogs-in-malaysia-hop-onto-a-039school-bus039-for-outdoor-adventures-with-furry-friends",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/13/4057788.jpeg",
+      "publishedAt": "2026-08-14 06:20:59 +0000",
+      "sourceName": "NATASHA A",
+      "title_es": "Estos perros en Malasia se llevan en un \"autobús escolar\" para aventuras al aire libre",
+      "description_es": "A medida que más dueños de mascotas se replantean el cuidado, esta guardería para perros ofrece llevar a amigos peludos a aventuras para fomentar la exploración y la socialización."
+    },
+    {
+      "id": "en-1",
       "title": "Indian Startup Leans On Cancer-Sniffing Dogs And AI For Early Detection",
       "description": "Billy, Jessie and Banu are part of a team of beagles, labradors, Dutch shepherds and other dog breeds being trained by startup Dognosis to sniff out traces of cancer in human breath.",
       "url": "https://www.ndtvprofit.com/science/indian-startup-leans-on-cancer-sniffing-dogs-and-ai-for-early-detection-11908086",
@@ -411,7 +422,7 @@
       "description_es": "Billy, Jessie y Banu forman parte de un equipo de beagles, labradores, pastores holandeses y otras razas de perros entrenados por la startup Dognosis para detectar rastros de cáncer en el aliento humano."
     },
     {
-      "id": "en-1",
+      "id": "en-2",
       "title": "Can Dogs Transform Cancer Screening?",
       "description": "Dogs have been used to sniff out drugs, explosives and even Covid. Could cancer be next? An Indian startup is combining canine noses with AI in an effort to make cancer screening cheaper and more accessible. (Source: Blo",
       "url": "https://www.bloomberg.com/news/videos/2026-08-14/can-dogs-transform-cancer-screening-video",
@@ -422,7 +433,7 @@
       "description_es": "Los perros se han utilizado para detectar drogas, explosivos e incluso Covid. ¿Podría ser el cáncer el siguiente? Una startup india está combinando narices caninas con IA en un esfuerzo por hacer que la detección del cáncer sea más barata y accesible. (Fuente: Blo"
     },
     {
-      "id": "en-2",
+      "id": "en-3",
       "title": "Anne Hathaway Shares Her Rule for Dogs Dying in Movies, Teases Fate of 'End of Oak Street' Pup",
       "description": "It's been a banner year for Anna Hathaway at the box office, and apparently it's been a barking good year for Hollywood's canine actors as well.",
       "url": "https://www.thewrap.com/creative-content/movies/anne-hathaway-shares-her-one-rule-for-dogs-dying-in-films/",
@@ -433,7 +444,40 @@
       "description_es": "Ha sido un año excepcional para Anna Hathaway en la taquilla, y aparentemente también ha sido un buen año para los actores caninos de Hollywood."
     },
     {
-      "id": "en-3",
+      "id": "en-4",
+      "title": "Heart of the Beast: Pitt's Dog Film Gets Oxytocin and PTSD Neuroscience Right",
+      "description": "Heart of the Beast Brad Pitt survival film releases September 25, 2026. Five peer-reviewed studies confirm the film gets two non-obvious claims right: mutual eye contact between human and dog triggers the same pharmacolo",
+      "url": "https://www.techtimes.com/articles/324352/20260813/heart-beast-pitts-dog-film-gets-oxytocin-ptsd-neuroscience-right.htm",
+      "urlToImage": "https://d.techtimes.com/en/full/472649/heart-beast.jpg",
+      "publishedAt": "2026-08-13 18:38:11",
+      "sourceName": "techtimes",
+      "title_es": "Heart of the Beast: Pitt's Dog Film Gets Oxytocin and PTSD Neuroscience Right",
+      "description_es": "La película de supervivencia de Brad Pitt Heart of the Beast se estrena el 25 de septiembre de 2026. Cinco estudios revisados por pares confirman que la película tiene dos afirmaciones no obvias correctas: el contacto visual mutuo entre humanos y perros desencadena el mismo fármaco"
+    },
+    {
+      "id": "en-5",
+      "title": "Service Dog Proves Life Changing For Above-The-Knee Amputee",
+      "description": "Dana Lawson says Franz, a Canine Companions graduate, is so impactful to herself and the women who raised him that she calls it “The Franz Effect.”",
+      "url": "https://www.forbes.com/sites/jenreeder/2026/08/13/service-dog-proves-life-changing-for-above-the-knee-amputee/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a7e00b4c6c6f676cc3db313/0x0.jpg",
+      "publishedAt": "2026-08-13 18:21:53",
+      "sourceName": "forbes",
+      "title_es": "Perro de servicio demuestra que la vida cambia para un amputado por encima de la rodilla",
+      "description_es": "Dana Lawson dice que Franz, una graduada de Canine Companions, es tan impactante para ella y para las mujeres que lo criaron que lo llama \"El efecto Franz\"."
+    },
+    {
+      "id": "en-6",
+      "title": "Heart Of The Beast New Trailer Out: Brad Pitt Battles Harsh Wilderness With His Combat Dog After Plane Crash – Here’s When The Film Releases",
+      "description": "Heart Of The Beast New Trailer: The new trailer takes viewers into a dangerous survival story where a Special Forces officer, James (Brad Pitt) and his combat dog are left stranded after a plane crash. The post Heart Of ",
+      "url": "https://sundayguardianlive.com/entertainment-news/heart-of-the-beast-new-trailer-out-brad-pitt-battles-harsh-wilderness-with-his-combat-dog-after-plane-crash-heres-when-the-film-releases-260648/",
+      "urlToImage": "https://sundayguardianlive.com/wp-content/uploads/2026/08/brad-pitt-heart-of-the-beast-new-trailer.jpg",
+      "publishedAt": "2026-08-13 18:12:35",
+      "sourceName": "thesundayguardian",
+      "title_es": "Nuevo tráiler de Heart Of The Beast: Brad Pitt lucha contra el desierto con su perro de combate después de un accidente aéreo – Aquí es cuando se estrena la película",
+      "description_es": "Nuevo tráiler de Heart Of The Beast: El nuevo tráiler lleva a los espectadores a una peligrosa historia de supervivencia donde un oficial de las Fuerzas Especiales, James (Brad Pitt) y su perro de combate quedan varados después de un accidente aéreo. The post Heart Of"
+    },
+    {
+      "id": "en-7",
       "title": "FDA issues nationwide recall of popular dog medicine due to glass",
       "description": "The medicine is typically prescribed by veterinarians and can be administered by pet owners.",
       "url": "https://us.headtopics.com/news/fda-issues-nationwide-recall-of-popular-dog-medicine-due-to-86595212",
@@ -444,7 +488,7 @@
       "description_es": "El medicamento generalmente es recetado por veterinarios y puede ser administrado por dueños de mascotas."
     },
     {
-      "id": "en-4",
+      "id": "en-8",
       "title": "Tryon Dog Mayor election to take place during August’s Fourth Friday event",
       "description": "TRYON—The annual Tryon Dog Mayor election will take place August 28 from 5 to 7 p.m. during Fourth Friday in downtown Tryon, giving residents a chance to meet the canine [...]",
       "url": "https://tryondailybulletin.com/2026/08/13/tryon-dog-mayor-election-to-take-place-during-augusts-fourth-friday-event/",
@@ -455,7 +499,7 @@
       "description_es": "TRYON-La elección anual del alcalde de Tryon Dog tendrá lugar el 28 de agosto de 5 a 7 p.m. durante el cuarto viernes en el centro de Tryon, dando a los residentes la oportunidad de conocer al perro [...]"
     },
     {
-      "id": "en-5",
+      "id": "en-9",
       "title": "Kildare Rescue Tails: Besties Sam & Tara joy to behold after puppy farm ordeal",
       "description": "",
       "url": "https://www.kildare-nationalist.ie/life/kildare-rescue-tails-besties-sam-tara-joy-to-behold-after-puppy-farm-ordeal_arid-107481.html",
@@ -466,7 +510,7 @@
       "description_es": ""
     },
     {
-      "id": "en-6",
+      "id": "en-10",
       "title": "Warrington dog owner caged skeletal lurcher suffering from pressure sores",
       "description": "WARNING: The following story concludes with a graphic image supplied by the RSPCA to show the severity of the case.",
       "url": "https://www.warringtonguardian.co.uk/news/26462595.dog-owner-prosecuted-rspca-neglect-warrington/",
@@ -477,7 +521,7 @@
       "description_es": "ADVERTENCIA: La siguiente historia concluye con una imagen gráfica proporcionada por la RSPCA para mostrar la gravedad del caso."
     },
     {
-      "id": "en-7",
+      "id": "en-11",
       "title": "Understanding Addison’s disease in dogs | Ask Dr. Kait",
       "description": "Addison’s disease (hypoadrenocorticism) is a rare incurable disease that occurs in dogs. Addison's disease is named after Dr. Thomas Addison, the British physician who first discovered the condition in 1855.",
       "url": "https://hanfordsentinel.com/lifestyles/understanding-addison-s-disease-in-dogs-ask-dr-kait/article_f95505b4-ab6c-48f7-8f42-30edcdc0a5ea.html",
@@ -488,7 +532,7 @@
       "description_es": "La enfermedad de Addison (hipoadrenocorticismo) es una enfermedad incurable rara que ocurre en perros. La enfermedad de Addison lleva el nombre del Dr. Thomas Addison, el médico británico que descubrió la enfermedad por primera vez en 1855."
     },
     {
-      "id": "en-8",
+      "id": "en-12",
       "title": "One lot of Oma's Pride dog food recalled for salmonella risk",
       "description": "One lot of the Woof Complete Canine Chicken Recipe was recalled.",
       "url": "https://www.newsday.com/business/omas-pride-recall-fda-ydz1szs6",
@@ -499,7 +543,7 @@
       "description_es": "Se retiró un lote de la receta completa de pollo canino Woof."
     },
     {
-      "id": "en-9",
+      "id": "en-13",
       "title": "Canines trump humans in ‘Ohh My Dog’, an overlong chase drama with a message",
       "description": "Despite a clunky storyline and some half-baked treatment, the film proves that when it comes to unconditional love and loyalty, nobody can beat dogs",
       "url": "https://www.indiatoday.in/india-today-insight/story/canines-trump-humans-in-ohh-my-dog-an-overlong-chase-drama-with-a-message-2970538-2026-08-13",
@@ -510,7 +554,7 @@
       "description_es": "A pesar de una historia torpe y un tratamiento a medias, la película demuestra que cuando se trata de amor incondicional y lealtad, nadie puede vencer a los perros"
     },
     {
-      "id": "en-10",
+      "id": "en-14",
       "title": "‘Heart of the Beast’ Official Trailer 2 – Brad Pitt and His Combat Canine Fight to Survive This September",
       "description": "From director David Ayer (Suicide Squad, Fury), Heart of the Beast stars Brad Pitt and a really good boy named Odin, and Paramount has released the new official trailer today. Heart of the Beast will hit theaters on Sept",
       "url": "https://bloody-disgusting.com/movie/3963475/heart-of-the-beast-official-trailer-2-brad-pitt-and-his-combat-canine-fight-to-survive-this-september/",
@@ -521,51 +565,43 @@
       "description_es": "Del director David Ayer (Suicide Squad, Fury), las estrellas de Heart of the Beast Brad Pitt y un chico realmente bueno llamado Odin, y Paramount han lanzado hoy el nuevo tráiler oficial. Heart of the Beast llegará a los cines en septiembre"
     },
     {
-      "id": "en-11",
+      "id": "en-15",
       "title": "After nearly 5 years of waiting, Jersey Shore shelter dog finally adopted",
       "description": "After nearly five years at the Humane Society of Ocean City, Duke has been adopted and is \"flourishing\" in his new home.",
       "url": "https://www.nbcphiladelphia.com/clear-the-shelters/longtime-shelter-dog-finds-home-humane-society-of-ocean-city-new-jersey-shore/4447678/",
       "urlToImage": "https://media.nbcphiladelphia.com/2026/08/Untitled-design-1.png?fit=1600,900&quality=85&strip=all",
       "publishedAt": "2026-08-13 13:37:07",
-      "sourceName": "nbcphiladelphia",
-      "title_es": "Después de casi 5 años de espera, el perro del refugio Jersey Shore finalmente fue adoptado",
-      "description_es": "Después de casi cinco años en la Sociedad Protectora de Animales de Ocean City, Duke ha sido adoptado y está \"floreciendo\" en su nuevo hogar."
+      "sourceName": "nbcphiladelphia"
     },
     {
-      "id": "en-12",
+      "id": "en-16",
       "title": "Dog food sold in 11 states recalled over salmonella contamination",
       "description": "Dog food sold in 11 states has been recalled because it’s contaminated with salmonella.",
       "url": "https://www.fox10phoenix.com/news/dog-food-sold-11-states-recalled-over-salmonella-contamination",
       "urlToImage": "https://static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/gettyimages-117581168-1-scaled.jpg",
       "publishedAt": "2026-08-13 13:31:38",
-      "sourceName": "fox10phoenix",
-      "title_es": "Los alimentos para perros vendidos en 11 estados han sido retirados del mercado por contaminación por salmonela",
-      "description_es": "Los alimentos para perros vendidos en 11 estados han sido retirados del mercado porque están contaminados con salmonela."
+      "sourceName": "fox10phoenix"
     },
     {
-      "id": "en-13",
+      "id": "en-17",
       "title": "Midland teen dog trainer advances to America’s Got Talent live shows",
       "description": "The 17-year-old dog trainer and her canine companion Zeke impressed judges at a callback at Sofia Vergara's home, earning a spot in the Aug. 18 live show where viewers nationwide can vote.",
       "url": "https://www.mlive.com/news/saginaw-bay-city/2026/08/midland-teen-dog-trainer-advances-to-americas-got-talent-live-shows.html",
       "urlToImage": "https://www.mlive.com/resizer/v2/LMGDEGU6VJE2LE7JBB6KR5LZHA.jpg?auth=05325966ea629dc09ef3ace1a511d5efcc35d0dc40b1cb73070af0d404fffe3d&smart=true&height=1200",
       "publishedAt": "2026-08-13 13:25:45",
-      "sourceName": "mlive",
-      "title_es": "La entrenadora de perros adolescente de Midland avanza a los espectáculos en vivo de America's Got Talent",
-      "description_es": "La entrenadora de perros de 17 años y su compañera canina Zeke impresionaron a los jueces en una devolución de llamada en la casa de Sofía Vergara, ganándose un lugar en el espectáculo en vivo del 18 de agosto donde los espectadores de todo el país pueden votar."
+      "sourceName": "mlive"
     },
     {
-      "id": "en-14",
+      "id": "en-18",
       "title": "Spotlight on vitreoretinal surgery",
       "description": "Endocyclophotocoagulation via the pars plana approach to manage glaucoma and preserve vision in dogs.",
       "url": "https://www.veterinarypracticenews.com/spotlight-vitreoretinal-surgery/",
       "urlToImage": "https://www.veterinarypracticenews.com/wp-content/uploads/2026/08/Figure-4-Hoffman.jpg",
       "publishedAt": "2026-08-13 12:41:27",
-      "sourceName": "veterinarypracticenews",
-      "title_es": "Enfoque en la cirugía vitreorretiniana",
-      "description_es": "Endociclofotocoagulación a través del enfoque pars plana para controlar el glaucoma y preservar la visión en perros."
+      "sourceName": "veterinarypracticenews"
     },
     {
-      "id": "en-15",
+      "id": "en-19",
       "title": "Duke the dog gets adopted after spending nearly 5 years in New Jersey shelter",
       "description": "Duke, a coonhound mix, found his forever home after spending nearly five years at the Humane Society of Ocean City in New Jersey.",
       "url": "https://www.nbcdfw.com/clear-the-shelters/longtime-shelter-dog-finds-home-humane-society-of-ocean-city-new-jersey-shore/4062294/",
@@ -574,7 +610,7 @@
       "sourceName": "nbcdfw"
     },
     {
-      "id": "en-16",
+      "id": "en-20",
       "title": "James Middleton shares a sweet photo of his son, Inigo, as the pair enjoy the solar eclipse with their canine companions",
       "description": "The Princess of Wales' brother joined the nation to watch the eclipse on Wednesday, bringing his young family along for the ride",
       "url": "https://www.tatler.com/article/james-middleton-shares-a-sweet-photo-of-his-son-inigo-as-the-pair-enjoy-the-solar-eclipse-with-their-canine-companions",
@@ -583,7 +619,7 @@
       "sourceName": "tatler"
     },
     {
-      "id": "en-17",
+      "id": "en-21",
       "title": "Ohh My Dog Star Oscar Aka Bruno Celebrated With 'Pup Cakes', Flowers At Mumbai Park After Winning Hearts With His Performance | WATCH",
       "description": "Following the Ohh My Dog's success, Bruno, one of the lead pet characters in the film, was given a special celebration by his caretakers at a Mumbai park. The celebration was attended by several other dogs, turning the o",
       "url": "https://www.freepressjournal.in/lifestyle/ohh-my-dog-star-oscar-aka-bruno-celebrated-with-pup-cakes-flowers-at-mumbai-park-after-winning-hearts-with-his-performance-watch",
@@ -592,7 +628,7 @@
       "sourceName": "freepressjournal"
     },
     {
-      "id": "en-18",
+      "id": "en-22",
       "title": "10 simple ways to keep your dog cool as UK temperatures hit 37°C",
       "description": "Dogs, like humans, will be struggling to stay cool during the warmer temperatures, but thankfully, a canine expert has shared some advice",
       "url": "https://www.express.co.uk/life-style/life/2238800/effective-ways-dog-cool-uk-heatwave",
@@ -601,7 +637,7 @@
       "sourceName": "expresscouk"
     },
     {
-      "id": "en-19",
+      "id": "en-23",
       "title": "Biting Dogs Breed Advice 2026: Here are the 20 breeds of adorable dog most and least likely to bite, snap and nip - from Dachshund to loving Labrador 🐶",
       "description": "Different breeds of dog have very different records when it comes to biting.",
       "url": "https://www.scotsman.com/lifestyle/family/biting-dogs-breed-advice-2026-here-are-the-20-breeds-of-adorable-dog-most-and-least-likely-to-bite-snap-and-nip-from-dachshund-to-loving-labrador-8913154",
@@ -610,7 +646,7 @@
       "sourceName": "scotsman"
     },
     {
-      "id": "en-20",
+      "id": "en-24",
       "title": "Validation for Pet Parents: Science Confirms Dogs Can Read Sadness, Fear, and Anger",
       "description": "Dog owners have long insisted that their pets seem to possess an uncanny ability to sense when something is wrong. Now, scientific research confirms what pet parents knew intuitively: dogs can distinguish between distinc",
       "url": "https://www.newspointapp.com/english/lifestyle/dog-parents-you-were-right-all-along-scientists-find-dogs-can-tell-when-youre-sad-scared-or-angry/articleshow/133209969.cms",
@@ -619,7 +655,7 @@
       "sourceName": "newspointapp"
     },
     {
-      "id": "en-21",
+      "id": "en-25",
       "title": "Lexington animal control looking for owners of six dogs who escaped during storms",
       "description": "The storms brought nearly 4 inches of rain to Lexington during a two-day timeframe.",
       "url": "https://www.kentucky.com/news/local/counties/fayette-county/article316865322.html",
@@ -628,52 +664,7 @@
       "sourceName": "Christopher Leach"
     },
     {
-      "id": "en-22",
-      "title": "Vets say dogs and cats at risk if owners don't do simple 30-second task",
-      "description": "The Met Office have urged pet owners to do one task for dogs and cats during the heatwave.",
-      "url": "https://www.liverpoolecho.co.uk/whats-on/vets-say-dogs-cats-risk-34451354",
-      "urlToImage": "https://i2-prod.birminghammail.co.uk/incoming/article34451470.ece/ALTERNATES/s615/0_GettyImages-1468949816-1.jpg",
-      "publishedAt": "2026-08-13 10:28:52",
-      "sourceName": "liverpoolecho"
-    },
-    {
-      "id": "en-23",
-      "title": "Paws-itive Perspectives: What if we sent our dogs to school?",
-      "description": "It’s almost that time of year again. The season of learning and stretching our kid’s minds. We try to instill in them a love for learning with the hope they will enjoy a lifetime of learning new skills, whether for work ",
-      "url": "https://medicinehatnews.com/commentary/opinions/2026/08/13/paws-itive-perspectives-what-if-we-sent-our-dogs-to-school/",
-      "urlToImage": "https://medicinehatnews.com/wp-content/uploads/2022/05/medicinehatnewslogo-square.jpg",
-      "publishedAt": "2026-08-13 10:25:05",
-      "sourceName": "medicinehatnews"
-    },
-    {
-      "id": "en-24",
-      "title": "United Kingdom’s Quirkiest Museums Turn Strange Ideas Into Must Visit Travel Experiences Across Britain",
-      "description": "Explore the UK’s quirkiest museums featuring crab science in Margate, lawnmower history in Southport, dog collars at Leeds Castle and... Read More Source: Travel And Tour World TTW-1959231-1786616467",
-      "url": "https://www.travelandtourworld.com/news/article/q6x6k4xksh5l/",
-      "urlToImage": "https://www.travelandtourworld.com/wp-content/uploads/2026/08/museum.jpg",
-      "publishedAt": "2026-08-13 10:16:35",
-      "sourceName": "travelandtourworld"
-    },
-    {
-      "id": "en-25",
-      "title": "Holidaying in Croatia with your dog: The best dog-friendly beaches and what you need to know",
-      "description": "Croatia’s spectacular Adriatic coastline is one of Europe’s favourite summer destinations, and for many travellers, a holiday wouldn’t be complete without bringing along their four-legged family member. Fortunately, the ",
-      "url": "https://vjesnik.com.au/2026/08/holidaying-in-croatia-with-your-dog-the-best-dog-friendly-beaches-and-what-you-need-to-know/",
-      "urlToImage": "https://vjesnik.com.au/wp-content/uploads/2026/08/Screenshot-2026-08-04-at-6.54.46-AM.png",
-      "publishedAt": "2026-08-13 10:00:00",
-      "sourceName": "vjesnik"
-    },
-    {
       "id": "en-26",
-      "title": "Pitbull attack in Patiala: What legal action can dog owners face if pet canine causes injuries?",
-      "description": "A routine visit to inquire about a rented house turned into a nightmare for a couple in Punjab’s Patiala after a Pitbull attacked them. The incident, reported from Ghuman Nagar, was captured on CCTV and has reportedly go",
-      "url": "https://odishatv.in/national/pitbull-attack-in-patiala-what-legal-action-can-dog-owners-face-if-pet-canine-causes-injuries-12256760",
-      "urlToImage": "https://img-cdn.publive.online/fit-in/1280x960/odishatv/media/media_files/2026/08/13/pitbull-2026-08-13-15-03-56.jpg",
-      "publishedAt": "2026-08-13 09:34:08",
-      "sourceName": "odishatv"
-    },
-    {
-      "id": "en-27",
       "title": "The 11 best tips for keeping dogs cool and safe in a heatwave",
       "description": "Unlike humans, dogs struggle to regulate their temperature during hot weather",
       "url": "https://www.independent.co.uk/life-style/dog-walking-temperature-hot-cooling-mat-heatwave-b3032396.html",
@@ -682,7 +673,7 @@
       "sourceName": "Camilla Foster"
     },
     {
-      "id": "en-28",
+      "id": "en-27",
       "title": "Pregnant dog discovered in Ohsweken dumpster now on the mend",
       "description": "Simcoe and District Humane Society volunteers were already stretched thin when a pregnant dog was found abandoned in a dumpster last month.",
       "url": "https://www.simcoereformer.ca/news/local-news/pregnant-dog-discovered-in-ohsweken-dumpster-now-on-the-mend",
@@ -691,7 +682,7 @@
       "sourceName": "Jacob Robinson"
     },
     {
-      "id": "en-29",
+      "id": "en-28",
       "title": "Top dog names in US revealed in new analysis of 500,000 owners",
       "description": "",
       "url": "https://www.independent.co.uk/bulletin/lifestyle/most-popular-dog-names-us-bella-luna-max-b3031981.html",
@@ -700,7 +691,7 @@
       "sourceName": "Erin Keller"
     },
     {
-      "id": "en-30",
+      "id": "en-29",
       "title": "These are the most popular dog names in America",
       "description": "The results are in, and these dog names are fetching plenty of attention",
       "url": "https://www.independent.co.uk/life-style/most-popular-dog-names-2026-b3031836.html",
@@ -709,7 +700,7 @@
       "sourceName": "Erin Keller"
     },
     {
-      "id": "en-31",
+      "id": "en-30",
       "title": "Watch: Dog missing for over a month found trapped in storm drain - UPI.com",
       "description": "A small dog found trapped in a California storm drain was later found to have been missing from her family's home for over a month.",
       "url": "https://www.upi.com/Odd_News/2026/08/12/storm-drain-dog-San-Diego-County-California/8541786545187/",
@@ -718,7 +709,7 @@
       "sourceName": "Ben Hooper"
     },
     {
-      "id": "en-32",
+      "id": "en-31",
       "title": "Luke Healy: 'I have a big beef with rom-coms that have realistic endings'",
       "description": "Dublin cartoonist Luke Healy tells Don O'Mahony about his canine take on the romantic comedy",
       "url": "https://www.irishexaminer.com/lifestyle/artsandculture/arid-41894227.html",
@@ -727,7 +718,7 @@
       "sourceName": "Don O’Mahony"
     },
     {
-      "id": "en-33",
+      "id": "en-32",
       "title": "Research Shows Dogs Can Tell When a Familiar Person Is Approaching From Their Footsteps Alone - Doggodigest",
       "description": "If you have a dog, you’ve probably sworn at some point that they somehow just know it’s you coming up the stairs or walking up the driveway. The door has ... Read more",
       "url": "https://doggodigest.com/research-shows-dogs-can-tell-when-a-familiar-person-is-approaching-from-their-footsteps-alone-1-405571/",
@@ -736,7 +727,7 @@
       "sourceName": "Gargi Chakravorty"
     },
     {
-      "id": "en-34",
+      "id": "en-33",
       "title": "Dogs can tell when you’re happy, sad or frustrated, study shows",
       "description": "Researchers took brain scans mostly of border collies because they are highly skilled at following social cues and particularly willing to interact with humans.",
       "url": "https://www.washingtonpost.com/lifestyle/2026/08/11/dogs-can-tell-when-you-happy-scared-or-sad-new-brain-scans-show/",
@@ -745,7 +736,7 @@
       "sourceName": "Kathleen Felton"
     },
     {
-      "id": "en-35",
+      "id": "en-34",
       "title": "Your Dog Can Tell the Difference Between Your Fear and Your Sadness, New Brain Study Finds",
       "description": "Any dog owner who’s watched their pup slink away from a bad mood, or quietly lean in during a good cry, has suspected it: dogs can read how we feel. Now, brain scans are offering some of the strongest evidence yet that c",
       "url": "https://people.com/dogs-brains-respond-differently-to-fear-anger-and-sadness-new-study-shows-12057303",
@@ -754,7 +745,7 @@
       "sourceName": "Moná Thomas"
     },
     {
-      "id": "en-36",
+      "id": "en-35",
       "title": "Dogs can distinguish different types of human emotions, study shows",
       "description": "Researchers looked into canines' brain activity using MRIs and found they can tell when people are happy, sad or frightened.",
       "url": "https://www.phillyvoice.com/dogs-human-emotions-happy-sad-frightened/",
@@ -763,7 +754,7 @@
       "sourceName": "Michaela Althouse PhillyVoice Staff"
     },
     {
-      "id": "en-37",
+      "id": "en-36",
       "title": "Off-leash dogs increase chance of human-bear conflict: study",
       "description": "A high-profile encounter with a grizzly bear that was caught on camera, and a new study analyzing human-bear conflicts that involved dogs, are highlighting the need to keep dogs on-leash when hiking.",
       "url": "https://www.cbc.ca/news/canada/calgary/grizzly-bear-dogs-banff-national-park-9.7300379",
@@ -772,7 +763,7 @@
       "sourceName": "Greg Colgan"
     },
     {
-      "id": "en-38",
+      "id": "en-37",
       "title": "Raising Dog Builds Personalized Training Plans for More Than 230 Breeds — Including Mixed Breeds",
       "description": "Raising Dog offers fully personalized training books covering 230+ breeds, paired with a companion app for daily guidance, progress tracking, and tips....",
       "url": "https://www.globenewswire.com/news-release/2026/08/11/3342921/0/en/raising-dog-builds-personalized-training-plans-for-more-than-230-breeds-including-mixed-breeds.html",
@@ -781,7 +772,7 @@
       "sourceName": "Raising dog"
     },
     {
-      "id": "en-39",
+      "id": "en-38",
       "title": "Dogs can tell fear from sadness — and scientists saw it in their brains",
       "description": "Dogs may understand our emotions more deeply than scientists realized. Brain scans show that happy human faces activate regions in dogs linked to higher-level processing and reward, suggesting that smiles carry special e",
       "url": "https://www.sciencedaily.com/releases/2026/08/260811011132.htm",
@@ -790,7 +781,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-40",
+      "id": "en-39",
       "title": "Hidden canine reactions exposed: Scanning reveals how dogs process human facial distress",
       "description": "New fMRI research reveals how dogs process human sadness, anger, and fear through specific neural patterns. Discover the science behind canine empathy.",
       "url": "https://english.pravda.ru/news/science/167836-canine-brain-human-emotion-recognition/",
@@ -799,7 +790,7 @@
       "sourceName": "Pavel Morozov"
     },
     {
-      "id": "en-41",
+      "id": "en-40",
       "title": "Dog owners urged to keep pets inside at 7pm on Wednesday",
       "description": "Anyone with pets have been issued a reminder ahead of the solar eclipse on Wednesday evening",
       "url": "https://www.walesonline.co.uk/news/uk-news/dog-owners-urged-keep-pets-34438624",
@@ -808,7 +799,7 @@
       "sourceName": "Ethan Evans"
     },
     {
-      "id": "en-42",
+      "id": "en-41",
       "title": "Scientists scanned 14 canine brains. They found another reason to love dogs",
       "description": "The research shows why you must smile at every dog you see on the street.",
       "url": "https://www.brisbanetimes.com.au/national/scientists-scanned-14-canine-brains-they-found-another-reason-to-love-dogs-20260811-p60n61.html",
@@ -817,7 +808,7 @@
       "sourceName": "Angus Dalton"
     },
     {
-      "id": "en-43",
+      "id": "en-42",
       "title": "Your dog can spot when you are happy or scared, scientists find",
       "description": "Brain scans revealed dogs can interpret different facial expressions",
       "url": "https://www.independent.co.uk/news/uk/home-news/dog-tell-emotion-human-face-b3030357.html",
@@ -826,7 +817,7 @@
       "sourceName": "Rebecca Whittaker"
     },
     {
-      "id": "en-44",
+      "id": "en-43",
       "title": "The Worst Behaved Dog Breed in the World According to Data - Doggodigest",
       "description": "Dogs are adorable despite their quirks and personality. However some can be quite mishievous, so lets see which is the worst behaved dog",
       "url": "https://doggodigest.com/the-worst-behaved-dog-breed-in-the-world-according-to-data-3-342931/",
@@ -835,7 +826,7 @@
       "sourceName": "Andrew Alpin"
     },
     {
-      "id": "en-45",
+      "id": "en-44",
       "title": "8 Habits That Damage a Dog's Emotional Stability - Doggodigest",
       "description": "You ever notice how your dog can pick up on the tiniest shift in your mood, almost like they’ve got a sixth sense tuned directly into your heart? Dogs are ... Read more",
       "url": "https://doggodigest.com/8-habits-that-damage-a-dogs-emotional-stability-2-376187/",
@@ -844,7 +835,7 @@
       "sourceName": "Gargi Chakravorty"
     },
     {
-      "id": "en-46",
+      "id": "en-45",
       "title": "8 Secret Signs Your Dog Loves You More Than You Think - Doggodigest",
       "description": "You probably already know your dog loves you. Those enthusiastic greetings at the door, the way they curl up next to you on the couch, or how they seem ... Read more",
       "url": "https://doggodigest.com/8-secret-signs-your-dog-loves-you-more-than-you-think-2-376143/",
@@ -853,7 +844,7 @@
       "sourceName": "Andrew Alpin"
     },
     {
-      "id": "en-47",
+      "id": "en-46",
       "title": "American Humane Society Announces 25 Semi-Finalists of 16th Annual Hero Dog Awards",
       "description": "Voting is now open for the annual campaign to honor America’s top dogs....",
       "url": "https://www.globenewswire.com/news-release/2026/08/10/3342156/0/en/american-humane-society-announces-25-semi-finalists-of-16th-annual-hero-dog-awards.html",
@@ -862,7 +853,7 @@
       "sourceName": "American Humane"
     },
     {
-      "id": "en-48",
+      "id": "en-47",
       "title": "Scientists may have found a cure for allergies: gene-edited dogs",
       "description": "A pair of extra hypoallergenic dogs was created using CRISPR",
       "url": "https://theweek.com/science/scientists-cure-allergies-gene-dogs",
@@ -871,7 +862,7 @@
       "sourceName": "Justin Klawans; The Week US"
     },
     {
-      "id": "en-49",
+      "id": "en-48",
       "title": "Why some dogs react strongly to their owner's emotional state",
       "description": "Emotional sensitivity in dogs stems from their ability to read non-verbal cues. Learn how environmental triggers affect them and when to see a veterinarian.",
       "url": "https://english.pravda.ru/news/animal/167816-sensitive-dog-behavior/",
@@ -880,7 +871,7 @@
       "sourceName": "Angela Antonova"
     },
     {
-      "id": "en-50",
+      "id": "en-49",
       "title": "Dogs know when humans are happy—and it shows in their brains",
       "description": "Dogs are known to recognize and respond to human facial expressions, but a new study shows how deeply they understand our mood",
       "url": "https://www.scientificamerican.com/article/can-dogs-read-your-facial-expressions-it-depends-on-your-mood/",
@@ -889,7 +880,7 @@
       "sourceName": "Jackie Flynn Mogensen"
     },
     {
-      "id": "en-51",
+      "id": "en-50",
       "title": "Dogs can tell if you're scared or sad",
       "description": "fMRI scans show happiness, fear, anger, and sadness have distinct brain activity patterns in doggy brains.",
       "url": "https://arstechnica.com/science/2026/08/dogs-can-tell-if-youre-scared-or-sad/",
@@ -898,7 +889,7 @@
       "sourceName": "Jennifer Ouellette"
     },
     {
-      "id": "en-52",
+      "id": "en-51",
       "title": "We should smile at our dogs - a new scientific study reveals why",
       "description": "Scientists have worked out what is going on inside a dog's brain when it sees a human smiling or scowling.",
       "url": "https://www.bbc.co.uk/news/articles/ce8kr3yrl6eo",
@@ -907,7 +898,7 @@
       "sourceName": "Victoria Gill"
     },
     {
-      "id": "en-53",
+      "id": "en-52",
       "title": "Bernalillo County celebrates reopening of canine rooms",
       "description": "ALBUQUERQUE, N.M. (KRQE) — Dogs at the Bernalillo County Animal Care and Resource Center are going to be more comfortable with the reopening of the …",
       "url": "https://www.krqe.com/news/new-mexico/bernalillo-county-celebrates-reopening-of-canine-rooms/",
@@ -916,7 +907,7 @@
       "sourceName": "by: Isaac Cruz"
     },
     {
-      "id": "en-54",
+      "id": "en-53",
       "title": "Floppy ears & hidden dangers: Why your dog needs this ear care",
       "description": "Ensure your dog's health with essential ear hygiene tips. Learn how to prevent infections, identify high-risk breeds, and follow safe cleaning methods from veterinary",
       "url": "https://english.pravda.ru/news/animal/167798-dog-ear-hygiene/",
@@ -925,7 +916,7 @@
       "sourceName": "Evgeniya Petrova"
     },
     {
-      "id": "en-55",
+      "id": "en-54",
       "title": "Poochmaxxing: the wellness industry is coming for your pets",
       "description": "Pet owners want what's best for their doggos, but it's easy to get fooled.",
       "url": "https://www.zmescience.com/science/news-science/poochmaxxing-the-wellness-industry-is-coming-for-your-pets/",
@@ -934,7 +925,7 @@
       "sourceName": "Jacqueline Boyd"
     },
     {
-      "id": "en-56",
+      "id": "en-55",
       "title": "Indoor Dog Parks Near Me | Find 500+ Dog Parks & Play Areas",
       "description": "Find the best indoor dog parks near you. Search our directory of 500+ climate-controlled dog parks, dog bars, and play areas across the US. View reviews, hours, and pricing.",
       "url": "https://www.indoordogpark.org",
@@ -943,7 +934,7 @@
       "sourceName": "Indoor Dog Park Team; Indoor Dog Park"
     },
     {
-      "id": "en-57",
+      "id": "en-56",
       "title": "15 Dog Breeds That Are The Least Aggressive - Doggodigest",
       "description": "Check out the least aggressive dog breeds known for their calm nature. Find out how they create wonderful bonds with their humans.",
       "url": "https://doggodigest.com/15-dog-breeds-that-are-the-least-aggressive-3-344443/",
@@ -952,7 +943,7 @@
       "sourceName": "Esther Evangeline; Editor"
     },
     {
-      "id": "en-58",
+      "id": "en-57",
       "title": "AI-Generated Ad for 'The End of Oak Street' Draws Backlash for Warner Bros.",
       "description": "Warner Bros.' use of an AI-generated ad featuring podcasting dogs for \"The End of Oak Street\" has drawn backlash.",
       "url": "https://www.thewrap.com/creative-content/movies/ai-dog-ad-end-of-oak-street-backlash-warner-bros/",
@@ -961,7 +952,7 @@
       "sourceName": "J Kim Murphy"
     },
     {
-      "id": "en-59",
+      "id": "en-58",
       "title": "Every Dog Breed Attracts a Certain Kind of Owner — Here's What Yours Says About You - Thedogsnobs",
       "description": "They say dogs are man’s best friend, but let’s be honest—your favourite dog says a lot more about you than you probably realise. Whether you’re into pampered",
       "url": "https://thedogsnobs.com/every-dog-breed-attracts-a-certain-kind-of-owner-heres-what-yours-says-about-you/",
@@ -970,7 +961,7 @@
       "sourceName": "Amanda OBrien"
     },
     {
-      "id": "en-60",
+      "id": "en-59",
       "title": "Subtle signs your dog isn't actually calm—they're secretly shutting down",
       "description": "Ali Smith, canine behavior consultant at Maven, said a quiet dog can be misleading because it is an emotion and not a behavior.",
       "url": "https://www.newsweek.com/subtle-signs-dog-not-calm-secretly-shutting-down-12281817",
@@ -979,7 +970,7 @@
       "sourceName": "Liz O'Connell"
     },
     {
-      "id": "en-61",
+      "id": "en-60",
       "title": "5 Common Habits That Are Accidentally Confusing Your Dog - Doggodigest",
       "description": "You probably think you know your dog pretty well. After all, you’re the one who feeds them, walks them, and gives them belly rubs. Yet despite all that devotion, there’s ... Read more",
       "url": "https://doggodigest.com/5-common-habits-that-are-accidentally-confusing-your-dog-2-375550/",
@@ -988,7 +979,7 @@
       "sourceName": "Andrew Alpin"
     },
     {
-      "id": "en-62",
+      "id": "en-61",
       "title": "7 Signs Your Dog Trusts You Completely and Feels Safe in Your Home - Doggodigest",
       "description": "Trust is the foundation of every meaningful relationship, and the bond between you and your dog is no different. Your furry companion expresses love in ways that go far beyond ... Read more",
       "url": "https://doggodigest.com/7-signs-your-dog-trusts-you-completely-and-feels-safe-in-your-home-2-375181/",
@@ -997,7 +988,7 @@
       "sourceName": "Gargi Chakravorty"
     },
     {
-      "id": "en-63",
+      "id": "en-62",
       "title": "Kitten discovered alone and lethargic by cat momma’s dog while on walkies given furever home with 3 cat children and a canine sibling who loves him: ‘He's currently curled up with my son sleeping.’",
       "description": "It is not often that the initial rescuer, the first snout on the scene if you will as a dog and not a hooman. But that is very much the case in this story where a very large dog has the golden opportunity to show just ho",
       "url": "https://cheezburger.com/46313477/kitten-discovered-alone-and-lethargic-by-cat-mommas-dog-while-on-walkies-given-furever-home-with-3",
@@ -1006,7 +997,7 @@
       "sourceName": "Laurent Shinar"
     },
     {
-      "id": "en-64",
+      "id": "en-63",
       "title": "This Pasco nonprofit helps retired police dogs live out their golden years in comfort",
       "description": "Pasco’s Retired K-9 Foundation has been working to help canines for nearly a decade.",
       "url": "https://www.tampabay.com/news/pasco/2026/08/08/retired-police-k9s-dogs-charity-nonprofit-new-port-richey/",
@@ -1015,7 +1006,7 @@
       "sourceName": "Mike Camunas"
     },
     {
-      "id": "en-65",
+      "id": "en-64",
       "title": "International Assistance Dog Week - Fox 59",
       "description": "In Indiana, the Indiana Canine Assistant Network celebrates these dogs and helps create future service dogs. On Thursday, Samantha Thompson and Amy ...",
       "url": "https://fox59.com/morning-news/international-assistance-dog-week/",
@@ -1024,7 +1015,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-66",
+      "id": "en-65",
       "title": "7 Ways Your Dog Shows They Love Their Senior Human Best - Doggodigest",
       "description": "Ever noticed the gentle way your dog rests their head on your lap when you’re tired, or how they seem to instinctively know when you need comfort? Dogs are experts ... Read more",
       "url": "https://doggodigest.com/7-ways-your-dog-shows-they-love-their-senior-human-best-2-375663/",
@@ -1033,7 +1024,7 @@
       "sourceName": "Andrew Alpin"
     },
     {
-      "id": "en-67",
+      "id": "en-66",
       "title": "Lewisville pet boarder charged after Goldendoodle dies under her care",
       "description": "Court documents describe unsafe conditions, past complaints, and limited efforts to find the missing dog.",
       "url": "https://www.cbsnews.com/texas/news/lewisville-pet-boarder-charged-goldendoodle-death-july-2026/",
@@ -1042,7 +1033,7 @@
       "sourceName": "Erin Jones"
     },
     {
-      "id": "en-68",
+      "id": "en-67",
       "title": "10 Best Lap Dogs For Senior People - Doggodigest",
       "description": "There’s something magical about the way a small dog can transform a quiet afternoon into a moment of pure connection. For senior adults, choosing the right canine companion goes beyond ... Read more",
       "url": "https://doggodigest.com/10-best-lap-dogs-for-senior-people-2-375749/",
@@ -1051,16 +1042,7 @@
       "sourceName": "Gargi Chakravorty"
     },
     {
-      "id": "en-69",
-      "title": "13 Breeds That Rank Highest in Canine Intelligence",
-      "description": "Animals Around The Globe is a travel platform focused on wildlife and unique destinations, where you can discover all your favourite animal encounters.",
-      "url": "https://www.animalsaroundtheglobe.com/13-breeds-that-rank-highest-in-canine-intelligence-fb-237-370015/",
-      "urlToImage": "https://www.animalsaroundtheglobe.com/wp-content/uploads/2024/07/Depositphotos_714176514_XL-scaled.jpg",
-      "publishedAt": "2026-08-07 20:33:56 +0000",
-      "sourceName": "Andrew Alpin"
-    },
-    {
-      "id": "en-70",
+      "id": "en-68",
       "title": "Canine cardio? How a mobile dog gym keeps your pup healthy",
       "description": "Waggin' Wheels is a mobile dog gym in Halifax that comes right to your door. The business helps dogs exercise safely in the heat of summer or in the dead of win...",
       "url": "https://www.cbc.ca/player/play/video/9.6888463?cmp=rss",
@@ -1069,7 +1051,7 @@
       "sourceName": "cbc.ca"
     },
     {
-      "id": "en-71",
+      "id": "en-69",
       "title": "Truck Swerves To Hit Dog, Misses, Then Crushes Pregnant Canine In 2nd Try",
       "description": "A heart-wrenching video from Jaipur shows a pickup truck swerving to allegedly try and run over a dog and then crushing another pregnant canine to death.",
       "url": "https://www.ndtv.com/india-news/jaipur-truck-swerves-to-hit-dog-crushes-pregnant-canine-when-1st-attempt-fails-8181842",
@@ -1078,7 +1060,7 @@
       "sourceName": "ndtv.com"
     },
     {
-      "id": "en-72",
+      "id": "en-70",
       "title": "Madras Canine Club’s dog shows draw to a close",
       "description": "All Breeds Championship dog shows by Madras Canine Club conclude with German Shepherds and Doberman winning top prizes.",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-dog-shows-draw-to-a-close/article69116790.ece",
@@ -1087,7 +1069,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-73",
+      "id": "en-71",
       "title": "Is dog perfume necessary for your canine companion?",
       "description": "Luxury fashion house Dolce & Gabbana has unveiled a new dog perfume named \"Fefé.\"",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/is-dog-perfume-necessary-for-your-canine-companion/",
@@ -1096,7 +1078,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-74",
+      "id": "en-72",
       "title": "Recognising signs of canine asthma in your Dog",
       "description": "Asthma in dogs is an allergic disease characterised by inflammation and constriction of the small airways in the lungs...",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/recognising-signs-of-canine-asthma-in-your-dog/",
@@ -1105,7 +1087,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-75",
+      "id": "en-73",
       "title": "Taiwan to soon welcome its first indigenous dog as a police canine",
       "description": "",
       "url": "https://focustaiwan.tw/society/202404200004",
@@ -1114,7 +1096,7 @@
       "sourceName": "focustaiwan.tw"
     },
     {
-      "id": "en-76",
+      "id": "en-74",
       "title": "Detroit TSA canine handler suspended over video of him pulling dog",
       "description": "A TSA canine handler was suspended from his duties after a viral video captured him aggressively yanking a bomb-detecting dog in a busy airport.",
       "url": "https://nypost.com/2023/05/08/detroit-tsa-worker-suspended-over-video-of-him-pulling-dog/",
@@ -1123,7 +1105,7 @@
       "sourceName": "nypost.com"
     },
     {
-      "id": "en-77",
+      "id": "en-75",
       "title": "Curtains come down on Madras Canine Club’s dog shows",
       "description": "570 dogs belonging to 69 breeds participated in the two-day event",
       "url": "https://www.thehindu.com/news/cities/chennai/curtains-come-down-on-madras-canine-clubs-dog-shows/article65880058.ece",
@@ -1132,7 +1114,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-78",
+      "id": "en-76",
       "title": "Madras Canine Club’s All Breeds Championship Dog Shows begin",
       "description": "Over 570 canines from 69 different breeds have registered this year",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-all-breeds-championship-dog-shows-begin/article65875162.ece",
