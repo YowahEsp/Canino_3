@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T13:52:15.570Z",
+  "generatedAt": "2026-08-15T14:18:23.334Z",
   "es": [
     {
       "id": "es-0",
@@ -295,7 +295,7 @@
       "id": "en-0",
       "title": "Rescued pug earns top honors at World’s Ugliest Dog Contest",
       "description": "Rescued pug Jinny Lu won the World’s Ugliest Dog Contest in California, highlighting rescue animals and celebrating canine individuality.",
-      "url": "https://www.katc.com/life/pets/rescued-pug-earns-top-honors-at-worlds-ugliest-dog-contest",
+      "url": "https://www.denver7.com/life/pets/rescued-pug-earns-top-honors-at-worlds-ugliest-dog-contest",
       "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/93b81da/2147483647/strip/true/crop/1024x538+0+72/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F4e%2F78%2Fbe3a9a224669a210ce9c166b8f29%2Fap26227114122981.jpg",
       "publishedAt": "2026-08-15 13:13:45 +0000",
       "sourceName": "Justin Boggs",
@@ -315,6 +315,17 @@
     },
     {
       "id": "en-2",
+      "title": "Anne Hathaway calls for an automatic R rating for any movie where the dog dies",
+      "description": "Anne Hathaway calls for an automatic R rating for any movie where the dog dies",
+      "url": "https://us.headtopics.com/news/anne-hathaway-calls-for-an-automatic-r-rating-for-any-movie-86643025",
+      "urlToImage": "https://i.headtopics.com/images/2026/8/15/theavclub/anne-hathaway-calls-for-an-automatic-r-rating-for--anne-hathaway-calls-for-an-automatic-r-rating-for--23500313363E237BF87CFC8809619AAA.webp",
+      "publishedAt": "2026-08-15 02:07:35",
+      "sourceName": "headtopics",
+      "title_es": "Anne Hathaway pide una clasificación R automática para cualquier película en la que muera el perro",
+      "description_es": "Anne Hathaway pide una clasificación R automática para cualquier película en la que muera el perro"
+    },
+    {
+      "id": "en-3",
       "title": "Dog food recalled because of illnesses",
       "description": "Oma's Pride of Avon, CT, is recalling Woof Complete Canine Chicken Recipe in 6-pound bags because it is contaminated with Salmonella. The recall was initiated after FDA received a consumer complaint and subsequently coll",
       "url": "https://www.foodsafetynews.com/2026/08/dog-food-recalled-because-of-illnesses/",
@@ -323,17 +334,6 @@
       "sourceName": "foodsafetynews",
       "title_es": "Comida para perros retirada del mercado debido a enfermedades",
       "description_es": "Oma's Pride of Avon, CT, está retirando del mercado Woof Complete Canine Chicken Recipe en bolsas de 6 libras porque está contaminada con Salmonella. El retiro se inició después de que la FDA recibiera una queja del consumidor y, posteriormente,"
-    },
-    {
-      "id": "en-3",
-      "title": "Anne Hathaway calls for an automatic R rating for any movie where the dog dies",
-      "description": "Amazingly, Hathaway was not talking about John Leguizamo casually chucking a puppy off a cliff in The Odyssey.",
-      "url": "https://www.avclub.com/anne-hathaway-r-rating-movie-if-the-dog-dies",
-      "urlToImage": "https://img.pastemagazine.com/wp-content/avuploads/large/2026/08/14/end-of-oak-street-dog.jpg",
-      "publishedAt": "2026-08-15 00:51:04",
-      "sourceName": "avclub",
-      "title_es": "Anne Hathaway pide una calificación R automática para cualquier película en la que el perro muera",
-      "description_es": "Sorprendentemente, Hathaway no estaba hablando de John Leguizamo arrojando casualmente un cachorro por un acantilado en La Odisea."
     },
     {
       "id": "en-4",
@@ -521,15 +521,6 @@
     },
     {
       "id": "en-22",
-      "title": "America’s Most Popular Dog Names for 2026",
-      "description": "Apparently, even our dogs aren’t immune to baby-name trends. A new ranking reveals America’s most popular dog names — and while some classics are still fetching plenty of attention, a few pop-culture-inspired picks are m",
-      "url": "https://www.wfxb.com/2026/08/14/americas-most-popular-dog-names-for-2026/",
-      "urlToImage": "https://www.wfxb.com/content/uploads/2026/08/m/w/1786719152-6a8fe99cffc4c82d19958b2322d3409c38897ed1.jpg",
-      "publishedAt": "2026-08-14 15:10:05",
-      "sourceName": "wfxb"
-    },
-    {
-      "id": "en-23",
       "title": "Dog food voluntarily recalled for potential salmonella contamination - ABC News",
       "description": "The recall affects one lot of the company's Woof Complete Canine Chicken Recipe dog food, according to a company recall announcement posted to the ...",
       "url": "https://abcnews.com/amp/GMA/Living/dog-food-recalled-potential-salmonella-omas-pride/story?id=135639213",
@@ -538,7 +529,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-24",
+      "id": "en-23",
       "title": "Anne Hathaway calls for films with dogs dying to be 'rated R'",
       "description": "Anne Hathaway has called for films featuring dog deaths to be 'automatically rated R'.",
       "url": "https://www.dailymail.com/tvshowbiz/article-16052495/Anne-Hathaway-calls-films-dogs-dying-automatically-rated-R-says-filmmakers-leaving-viewers-traumatised-scared-casually-killing-fictional-canines.html",
@@ -547,7 +538,7 @@
       "sourceName": "Ciara Farmer"
     },
     {
-      "id": "en-25",
+      "id": "en-24",
       "title": "At the high-altitude birthplace of Saint Bernards, huge dogs are a big draw",
       "description": "Switzerland’s national canine has its own attraction, the world’s only theme park dedicated to the giant breed.",
       "url": "https://www.washingtonpost.com/travel/2026/08/14/birthplace-st-bernards-huge-dogs-are-big-draw/",
@@ -556,7 +547,7 @@
       "sourceName": "Andrea Sachs"
     },
     {
-      "id": "en-26",
+      "id": "en-25",
       "title": "South Korea’s hot day festival marks last season of legal dog meat trade",
       "description": "Black goat stew is replacing dog meat",
       "url": "https://www.independent.co.uk/asia/east-asia/dog-meat-ban-festival-south-korea-b3032969.html",
@@ -565,7 +556,7 @@
       "sourceName": "Kyu-seok Shim"
     },
     {
-      "id": "en-27",
+      "id": "en-26",
       "title": "Indian startup leans on cancer-sniffing dogs and AI for early detection",
       "description": "On a two-acre farm outside Bengaluru in southern India, Billy, Jessie and Banu put on their gear, enter a laboratory packed with samples and clock in for a shift detecting early signs of cancer.",
       "url": "https://www.thestar.com.my/tech/tech-news/2026/08/14/indian-startup-leans-on-cancer-sniffing-dogs-and-ai-for-early-detection",
@@ -574,7 +565,7 @@
       "sourceName": "Satviki Sanjay"
     },
     {
-      "id": "en-28",
+      "id": "en-27",
       "title": "These dogs in Malaysia are taken on a 'school bus' for outdoor adventures",
       "description": "As more pet owners rethink care, this dog daycare offers to bring furry friends on adventures to encourage exploration and socialising.",
       "url": "https://www.thestar.com.my/lifestyle/living/2026/08/14/these-dogs-in-malaysia-hop-onto-a-039school-bus039-for-outdoor-adventures-with-furry-friends",
@@ -583,7 +574,7 @@
       "sourceName": "NATASHA A"
     },
     {
-      "id": "en-29",
+      "id": "en-28",
       "title": "Can Dogs Transform Cancer Screening?",
       "description": "Dogs have been used to sniff out drugs, explosives and even Covid. Could cancer be next? An Indian startup is combining canine noses with AI in an effort to make cancer screening cheaper and more accessible. (Source: Blo",
       "url": "https://www.bloomberg.com/news/videos/2026-08-14/can-dogs-transform-cancer-screening-video",
@@ -592,7 +583,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-30",
+      "id": "en-29",
       "title": "Anne Hathaway Shares Her Rule for Dogs Dying in Movies, Teases Fate of 'End of Oak Street' Pup",
       "description": "It's been a banner year for Anna Hathaway at the box office, and apparently it's been a barking good year for Hollywood's canine actors as well.",
       "url": "https://www.thewrap.com/creative-content/movies/anne-hathaway-shares-her-one-rule-for-dogs-dying-in-films/",
@@ -601,7 +592,7 @@
       "sourceName": "Daren DeFrank"
     },
     {
-      "id": "en-31",
+      "id": "en-30",
       "title": "Canines trump humans in ‘Ohh My Dog’, an overlong chase drama with a message",
       "description": "Despite a clunky storyline and some half-baked treatment, the film proves that when it comes to unconditional love and loyalty, nobody can beat dogs",
       "url": "https://www.indiatoday.in/india-today-insight/story/canines-trump-humans-in-ohh-my-dog-an-overlong-chase-drama-with-a-message-2970538-2026-08-13",
@@ -610,7 +601,7 @@
       "sourceName": "Suhani Singh"
     },
     {
-      "id": "en-32",
+      "id": "en-31",
       "title": "James Middleton shares a sweet photo of his son, Inigo, as the pair enjoy the solar eclipse with their canine companions",
       "description": "The Princess of Wales' brother joined the nation to watch the eclipse on Wednesday, bringing his young family along for the ride",
       "url": "https://www.tatler.com/article/james-middleton-shares-a-sweet-photo-of-his-son-inigo-as-the-pair-enjoy-the-solar-eclipse-with-their-canine-companions",
@@ -619,7 +610,7 @@
       "sourceName": "Isaac Bickerstaff"
     },
     {
-      "id": "en-33",
+      "id": "en-32",
       "title": "10 simple ways to keep your dog cool as UK temperatures hit 37°C",
       "description": "Dogs, like humans, will be struggling to stay cool during the warmer temperatures, but thankfully, a canine expert has shared some advice",
       "url": "https://www.express.co.uk/life-style/life/2238800/effective-ways-dog-cool-uk-heatwave",
@@ -628,7 +619,7 @@
       "sourceName": "Chloe Dobinson"
     },
     {
-      "id": "en-34",
+      "id": "en-33",
       "title": "Lexington animal control looking for owners of six dogs who escaped during storms",
       "description": "The storms brought nearly 4 inches of rain to Lexington during a two-day timeframe.",
       "url": "https://www.kentucky.com/news/local/counties/fayette-county/article316865322.html",
@@ -637,7 +628,7 @@
       "sourceName": "Christopher Leach"
     },
     {
-      "id": "en-35",
+      "id": "en-34",
       "title": "The 11 best tips for keeping dogs cool and safe in a heatwave",
       "description": "Unlike humans, dogs struggle to regulate their temperature during hot weather",
       "url": "https://www.independent.co.uk/life-style/dog-walking-temperature-hot-cooling-mat-heatwave-b3032396.html",
@@ -646,7 +637,7 @@
       "sourceName": "Camilla Foster"
     },
     {
-      "id": "en-36",
+      "id": "en-35",
       "title": "Pregnant dog discovered in Ohsweken dumpster now on the mend",
       "description": "Simcoe and District Humane Society volunteers were already stretched thin when a pregnant dog was found abandoned in a dumpster last month.",
       "url": "https://www.simcoereformer.ca/news/local-news/pregnant-dog-discovered-in-ohsweken-dumpster-now-on-the-mend",
@@ -655,7 +646,7 @@
       "sourceName": "Jacob Robinson"
     },
     {
-      "id": "en-37",
+      "id": "en-36",
       "title": "Top dog names in US revealed in new analysis of 500,000 owners",
       "description": "",
       "url": "https://www.independent.co.uk/bulletin/lifestyle/most-popular-dog-names-us-bella-luna-max-b3031981.html",
@@ -664,7 +655,7 @@
       "sourceName": "Erin Keller"
     },
     {
-      "id": "en-38",
+      "id": "en-37",
       "title": "These are the most popular dog names in America",
       "description": "The results are in, and these dog names are fetching plenty of attention",
       "url": "https://www.independent.co.uk/life-style/most-popular-dog-names-2026-b3031836.html",
@@ -673,7 +664,7 @@
       "sourceName": "Erin Keller"
     },
     {
-      "id": "en-39",
+      "id": "en-38",
       "title": "Watch: Dog missing for over a month found trapped in storm drain - UPI.com",
       "description": "A small dog found trapped in a California storm drain was later found to have been missing from her family's home for over a month.",
       "url": "https://www.upi.com/Odd_News/2026/08/12/storm-drain-dog-San-Diego-County-California/8541786545187/",
@@ -682,7 +673,7 @@
       "sourceName": "Ben Hooper"
     },
     {
-      "id": "en-40",
+      "id": "en-39",
       "title": "Luke Healy: 'I have a big beef with rom-coms that have realistic endings'",
       "description": "Dublin cartoonist Luke Healy tells Don O'Mahony about his canine take on the romantic comedy",
       "url": "https://www.irishexaminer.com/lifestyle/artsandculture/arid-41894227.html",
@@ -691,7 +682,7 @@
       "sourceName": "Don O’Mahony"
     },
     {
-      "id": "en-41",
+      "id": "en-40",
       "title": "Research Shows Dogs Can Tell When a Familiar Person Is Approaching From Their Footsteps Alone - Doggodigest",
       "description": "If you have a dog, you’ve probably sworn at some point that they somehow just know it’s you coming up the stairs or walking up the driveway. The door has ... Read more",
       "url": "https://doggodigest.com/research-shows-dogs-can-tell-when-a-familiar-person-is-approaching-from-their-footsteps-alone-1-405571/",
@@ -700,7 +691,7 @@
       "sourceName": "Gargi Chakravorty"
     },
     {
-      "id": "en-42",
+      "id": "en-41",
       "title": "Dogs can tell when you’re happy, sad or frustrated, study shows",
       "description": "Researchers took brain scans mostly of border collies because they are highly skilled at following social cues and particularly willing to interact with humans.",
       "url": "https://www.washingtonpost.com/lifestyle/2026/08/11/dogs-can-tell-when-you-happy-scared-or-sad-new-brain-scans-show/",
@@ -709,7 +700,7 @@
       "sourceName": "Kathleen Felton"
     },
     {
-      "id": "en-43",
+      "id": "en-42",
       "title": "Your Dog Can Tell the Difference Between Your Fear and Your Sadness, New Brain Study Finds",
       "description": "Any dog owner who’s watched their pup slink away from a bad mood, or quietly lean in during a good cry, has suspected it: dogs can read how we feel. Now, brain scans are offering some of the strongest evidence yet that c",
       "url": "https://people.com/dogs-brains-respond-differently-to-fear-anger-and-sadness-new-study-shows-12057303",
@@ -718,7 +709,7 @@
       "sourceName": "Moná Thomas"
     },
     {
-      "id": "en-44",
+      "id": "en-43",
       "title": "Dogs can distinguish different types of human emotions, study shows",
       "description": "Researchers looked into canines' brain activity using MRIs and found they can tell when people are happy, sad or frightened.",
       "url": "https://www.phillyvoice.com/dogs-human-emotions-happy-sad-frightened/",
@@ -727,7 +718,7 @@
       "sourceName": "Michaela Althouse PhillyVoice Staff"
     },
     {
-      "id": "en-45",
+      "id": "en-44",
       "title": "Off-leash dogs increase chance of human-bear conflict: study",
       "description": "A high-profile encounter with a grizzly bear that was caught on camera, and a new study analyzing human-bear conflicts that involved dogs, are highlighting the need to keep dogs on-leash when hiking.",
       "url": "https://www.cbc.ca/news/canada/calgary/grizzly-bear-dogs-banff-national-park-9.7300379",
@@ -736,7 +727,7 @@
       "sourceName": "Greg Colgan"
     },
     {
-      "id": "en-46",
+      "id": "en-45",
       "title": "Raising Dog Builds Personalized Training Plans for More Than 230 Breeds — Including Mixed Breeds",
       "description": "Raising Dog offers fully personalized training books covering 230+ breeds, paired with a companion app for daily guidance, progress tracking, and tips....",
       "url": "https://www.globenewswire.com/news-release/2026/08/11/3342921/0/en/raising-dog-builds-personalized-training-plans-for-more-than-230-breeds-including-mixed-breeds.html",
@@ -745,7 +736,7 @@
       "sourceName": "Raising dog"
     },
     {
-      "id": "en-47",
+      "id": "en-46",
       "title": "Dogs can tell fear from sadness — and scientists saw it in their brains",
       "description": "Dogs may understand our emotions more deeply than scientists realized. Brain scans show that happy human faces activate regions in dogs linked to higher-level processing and reward, suggesting that smiles carry special e",
       "url": "https://www.sciencedaily.com/releases/2026/08/260811011132.htm",
@@ -754,7 +745,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-48",
+      "id": "en-47",
       "title": "Hidden canine reactions exposed: Scanning reveals how dogs process human facial distress",
       "description": "New fMRI research reveals how dogs process human sadness, anger, and fear through specific neural patterns. Discover the science behind canine empathy.",
       "url": "https://english.pravda.ru/news/science/167836-canine-brain-human-emotion-recognition/",
@@ -763,7 +754,7 @@
       "sourceName": "Pavel Morozov"
     },
     {
-      "id": "en-49",
+      "id": "en-48",
       "title": "Dog owners urged to keep pets inside at 7pm on Wednesday",
       "description": "Anyone with pets have been issued a reminder ahead of the solar eclipse on Wednesday evening",
       "url": "https://www.walesonline.co.uk/news/uk-news/dog-owners-urged-keep-pets-34438624",
@@ -772,7 +763,7 @@
       "sourceName": "Ethan Evans"
     },
     {
-      "id": "en-50",
+      "id": "en-49",
       "title": "Scientists scanned 14 canine brains. They found another reason to love dogs",
       "description": "The research shows why you must smile at every dog you see on the street.",
       "url": "https://www.brisbanetimes.com.au/national/scientists-scanned-14-canine-brains-they-found-another-reason-to-love-dogs-20260811-p60n61.html",
@@ -781,7 +772,7 @@
       "sourceName": "Angus Dalton"
     },
     {
-      "id": "en-51",
+      "id": "en-50",
       "title": "Your dog can spot when you are happy or scared, scientists find",
       "description": "Brain scans revealed dogs can interpret different facial expressions",
       "url": "https://www.independent.co.uk/news/uk/home-news/dog-tell-emotion-human-face-b3030357.html",
@@ -790,7 +781,7 @@
       "sourceName": "Rebecca Whittaker"
     },
     {
-      "id": "en-52",
+      "id": "en-51",
       "title": "The Worst Behaved Dog Breed in the World According to Data - Doggodigest",
       "description": "Dogs are adorable despite their quirks and personality. However some can be quite mishievous, so lets see which is the worst behaved dog",
       "url": "https://doggodigest.com/the-worst-behaved-dog-breed-in-the-world-according-to-data-3-342931/",
@@ -799,7 +790,7 @@
       "sourceName": "Andrew Alpin"
     },
     {
-      "id": "en-53",
+      "id": "en-52",
       "title": "8 Habits That Damage a Dog's Emotional Stability - Doggodigest",
       "description": "You ever notice how your dog can pick up on the tiniest shift in your mood, almost like they’ve got a sixth sense tuned directly into your heart? Dogs are ... Read more",
       "url": "https://doggodigest.com/8-habits-that-damage-a-dogs-emotional-stability-2-376187/",
@@ -808,7 +799,7 @@
       "sourceName": "Gargi Chakravorty"
     },
     {
-      "id": "en-54",
+      "id": "en-53",
       "title": "8 Secret Signs Your Dog Loves You More Than You Think - Doggodigest",
       "description": "You probably already know your dog loves you. Those enthusiastic greetings at the door, the way they curl up next to you on the couch, or how they seem ... Read more",
       "url": "https://doggodigest.com/8-secret-signs-your-dog-loves-you-more-than-you-think-2-376143/",
@@ -817,7 +808,7 @@
       "sourceName": "Andrew Alpin"
     },
     {
-      "id": "en-55",
+      "id": "en-54",
       "title": "American Humane Society Announces 25 Semi-Finalists of 16th Annual Hero Dog Awards",
       "description": "Voting is now open for the annual campaign to honor America’s top dogs....",
       "url": "https://www.globenewswire.com/news-release/2026/08/10/3342156/0/en/american-humane-society-announces-25-semi-finalists-of-16th-annual-hero-dog-awards.html",
@@ -826,7 +817,7 @@
       "sourceName": "American Humane"
     },
     {
-      "id": "en-56",
+      "id": "en-55",
       "title": "Scientists may have found a cure for allergies: gene-edited dogs",
       "description": "A pair of extra hypoallergenic dogs was created using CRISPR",
       "url": "https://theweek.com/science/scientists-cure-allergies-gene-dogs",
@@ -835,7 +826,7 @@
       "sourceName": "Justin Klawans; The Week US"
     },
     {
-      "id": "en-57",
+      "id": "en-56",
       "title": "Why some dogs react strongly to their owner's emotional state",
       "description": "Emotional sensitivity in dogs stems from their ability to read non-verbal cues. Learn how environmental triggers affect them and when to see a veterinarian.",
       "url": "https://english.pravda.ru/news/animal/167816-sensitive-dog-behavior/",
@@ -844,7 +835,7 @@
       "sourceName": "Angela Antonova"
     },
     {
-      "id": "en-58",
+      "id": "en-57",
       "title": "Dogs know when humans are happy—and it shows in their brains",
       "description": "Dogs are known to recognize and respond to human facial expressions, but a new study shows how deeply they understand our mood",
       "url": "https://www.scientificamerican.com/article/can-dogs-read-your-facial-expressions-it-depends-on-your-mood/",
@@ -853,7 +844,7 @@
       "sourceName": "Jackie Flynn Mogensen"
     },
     {
-      "id": "en-59",
+      "id": "en-58",
       "title": "Dogs can tell if you're scared or sad",
       "description": "fMRI scans show happiness, fear, anger, and sadness have distinct brain activity patterns in doggy brains.",
       "url": "https://arstechnica.com/science/2026/08/dogs-can-tell-if-youre-scared-or-sad/",
@@ -862,7 +853,7 @@
       "sourceName": "Jennifer Ouellette"
     },
     {
-      "id": "en-60",
+      "id": "en-59",
       "title": "We should smile at our dogs - a new scientific study reveals why",
       "description": "Scientists have worked out what is going on inside a dog's brain when it sees a human smiling or scowling.",
       "url": "https://www.bbc.co.uk/news/articles/ce8kr3yrl6eo",
@@ -871,7 +862,7 @@
       "sourceName": "Victoria Gill"
     },
     {
-      "id": "en-61",
+      "id": "en-60",
       "title": "Bernalillo County celebrates reopening of canine rooms",
       "description": "ALBUQUERQUE, N.M. (KRQE) — Dogs at the Bernalillo County Animal Care and Resource Center are going to be more comfortable with the reopening of the …",
       "url": "https://www.krqe.com/news/new-mexico/bernalillo-county-celebrates-reopening-of-canine-rooms/",
@@ -880,7 +871,7 @@
       "sourceName": "by: Isaac Cruz"
     },
     {
-      "id": "en-62",
+      "id": "en-61",
       "title": "Floppy ears & hidden dangers: Why your dog needs this ear care",
       "description": "Ensure your dog's health with essential ear hygiene tips. Learn how to prevent infections, identify high-risk breeds, and follow safe cleaning methods from veterinary",
       "url": "https://english.pravda.ru/news/animal/167798-dog-ear-hygiene/",
@@ -889,22 +880,13 @@
       "sourceName": "Evgeniya Petrova"
     },
     {
-      "id": "en-63",
+      "id": "en-62",
       "title": "Poochmaxxing: the wellness industry is coming for your pets",
       "description": "Pet owners want what's best for their doggos, but it's easy to get fooled.",
       "url": "https://www.zmescience.com/science/news-science/poochmaxxing-the-wellness-industry-is-coming-for-your-pets/",
       "urlToImage": "https://cdn.zmescience.com/wp-content/uploads/2026/08/meagan-barr-3hqKBIBgGc8-unsplash-scaled.jpg",
       "publishedAt": "2026-08-10 11:22:00 +0000",
       "sourceName": "Jacqueline Boyd"
-    },
-    {
-      "id": "en-64",
-      "title": "Indoor Dog Parks Near Me | Find 500+ Dog Parks & Play Areas",
-      "description": "Find the best indoor dog parks near you. Search our directory of 500+ climate-controlled dog parks, dog bars, and play areas across the US. View reviews, hours, and pricing.",
-      "url": "https://www.indoordogpark.org",
-      "urlToImage": "https://www.indoordogpark.org/images/hero/hero.webp",
-      "publishedAt": "2026-08-10 10:02:53 +0000",
-      "sourceName": "Indoor Dog Park Team; Indoor Dog Park"
     }
   ]
 }
