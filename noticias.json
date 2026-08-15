@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T17:17:56.622Z",
+  "generatedAt": "2026-08-15T17:44:54.470Z",
   "es": [
     {
       "id": "es-0",
@@ -12,6 +12,15 @@
     },
     {
       "id": "es-1",
+      "title": "Un hogar para Musa, Nemo, Churrete y Ringo",
+      "description": "Distintos perros acogidos por el Refugio de Torres buscan una familia en la jornada de adopción de la ciudad, este domingo en los jardines de La Asunción",
+      "url": "https://www.eldiariomontanes.es/torrelavega/hogar-musa-nemo-churrete-ringo-20260815073751-nt.html",
+      "urlToImage": "https://s3.ppllstatics.com/eldiariomontanes/www/multimedia/local/2026/08/14/perros-e-kDiC-U301293589259jEE-1200x840@Diario%20Montanes.jpg",
+      "publishedAt": "2026-08-15 05:37:51",
+      "sourceName": "eldiariomontanes"
+    },
+    {
+      "id": "es-2",
       "title": "Experto en adiestramiento canino advierte que humanizar demasiado a los perros puede aumentar su dependencia emocional, provocar ansiedad por separación y dificultar la convivencia",
       "description": "Fran Estévez, especialista con cerca de dos décadas de experiencia y más de 800 casos atendidos, señala la importancia de establecer límites claros y trabajar la educación y socialización desde la etapa de cachorr",
       "url": "https://www.elimparcial.com/locurioso/2026/08/14/experto-en-adiestramiento-canino-advierte-que-humanizar-demasiado-a-los-perros-puede-aumentar-su-dependencia-emocional-provocar-ansiedad-por-separacion-y-dificultar-la-convivencia/",
@@ -20,7 +29,7 @@
       "sourceName": "elimparcial"
     },
     {
-      "id": "es-2",
+      "id": "es-3",
       "title": "Héroes sin capa: Bomberos rescatan a perrito tras caer a vaso regulador en Cuautlancingo",
       "description": "Bomberos de Cuautlancingo rescataron a un lomito que cayó al vaso regulador ubicado en la calle 20 de noviembre, luego de que vecinos alertaran sobre sus aullidos. De acuerdo con los reportes, el canino se habría acerc",
       "url": "https://www.diariocambio.com.mx/2026/municipios/cuautlancingo/heroes-sin-capa-bomberos-rescatan-a-perrito-tras-caer-a-vaso-regulador-en-cuautlancingo/",
@@ -29,7 +38,7 @@
       "sourceName": "diariocambio"
     },
     {
-      "id": "es-3",
+      "id": "es-4",
       "title": "Qué hacer si tu perro se queda solo en casa: consejos para evitar el estrés",
       "description": "¿Tu perro se queda solo en casa? Sigue estos consejos para reducir su estrés, mantenerlo tranquilo y hacer más llevadero el tiempo sin ti.",
       "url": "https://www.nuevamujer.com/lifestyle/2026/08/14/que-hacer-si-tu-perro-se-queda-solo-en-casa-consejos-para-evitar-el-estres/",
@@ -38,7 +47,7 @@
       "sourceName": "nuevamujer"
     },
     {
-      "id": "es-4",
+      "id": "es-5",
       "title": "10 cosas sobre el lenguaje corporal de tu perro que la mayoría de los dueños interpretan mal constantemente",
       "description": "Es fácil cometer errores con el lenguaje corporal de los perros, ya que una cola moviéndose, una barriga expuesta y un bostezo rara vez significan lo que la mayoría de los dueños asumen.",
       "url": "https://es.qz.com/errores-que-cometen-los-dueos-sobre-el-lenguaje-corporal-de-los-perros",
@@ -47,7 +56,7 @@
       "sourceName": "qz_es"
     },
     {
-      "id": "es-5",
+      "id": "es-6",
       "title": "Blacky casi muere en las vías del Metro CDMX: Así fue su rescate y regreso a casa",
       "description": "Un perro rescatado en la Línea B del Metro logró sobrevivir a una peligrosa descarga eléctrica y su historia dio un giro inesperado",
       "url": "https://www.elgrafico.mx//al-dia/2026/08/14/blacky-casi-muere-en-las-vias-del-metro-cdmx-asi-fue-su-rescate-y-regreso-a-casa/",
@@ -56,7 +65,7 @@
       "sourceName": "elgrafico"
     },
     {
-      "id": "es-6",
+      "id": "es-7",
       "title": "Estos 5 perros son los mejores guardianes para tu hogar",
       "description": "Descubre cuáles son las razas caninas más confiables, leales y valientes que garantizarán la seguridad de tu familia sin alterar la tranquilidad de tu casa",
       "url": "https://www.informador.mx/estilo/mascotas-estos-5-perros-son-los-mejores-guardianes-para-tu-hogar-20260814-0062.html",
@@ -65,7 +74,7 @@
       "sourceName": "informador_mx"
     },
     {
-      "id": "es-7",
+      "id": "es-8",
       "title": "Los milagros en cuatro patas, tras el devastador terremoto en Cali: vuelve la esperanza por el rescate de 70 mascotas",
       "description": "Bajo lo que era el edificio Torres del Limonar y de otros en zonas del desastre se han rescatado animales con vida. Van 298 desaparecidos.",
       "url": "https://www.eltiempo.com/colombia/cali/los-milagros-en-cuatro-patas-tras-el-devastador-terremoto-en-cali-vuelve-la-esperanza-por-el-rescate-de-70-mascotas-3578409",
@@ -74,7 +83,7 @@
       "sourceName": "eltiempocl"
     },
     {
-      "id": "es-8",
+      "id": "es-9",
       "title": "Matan a tiros a perro en Tecámac; investigan a presunto responsable",
       "description": "La muerte de un perro identificado como “El Güero” generó indignación entre habitantes de Tecámac, Estado de México, luego de que un hombre presuntamente le disparara en repetidas ocasiones dentro de una unidad habi",
       "url": "https://24horaspuebla.com/2026/08/matan-a-tiros-a-perro-en-tecamac-investigan-a-presunto-responsable/",
@@ -83,7 +92,7 @@
       "sourceName": "24horaspuebla"
     },
     {
-      "id": "es-9",
+      "id": "es-10",
       "title": "Vuelve GuauFest: el primer parque de diversiones 100% para perros abre la preventa de su esperada segunda edición",
       "description": "GuauFest, el inédito festival nacional diseñado y pensado exclusivamente para el bienestar y disfrute de los caninos, confirma su segunda edición.",
       "url": "https://lahora.cl/estilo-de-vida/2026/08/14/vuelve-guaufest-el-primer-parque-de-diversiones-100-para-perros-abre-la-preventa-de-su-esperada-segunda-edicion/",
@@ -92,7 +101,7 @@
       "sourceName": "lahora_cl"
     },
     {
-      "id": "es-10",
+      "id": "es-11",
       "title": "Fran Estévez, campeón de adiestramiento canino: «La humanización de los perros puede provocar problemas de conducta»",
       "description": "La tendencia actual de tratar a los perros como si fueran seres humanos genera consecuencias directas en su equilibrio psicológico. Fran Estévez, experto con cerca de dos décadas de experiencia y referente en la modif",
       "url": "https://okdiario.com/mascotas/fran-estevez-campeon-adiestramiento-canino-humanizacion-perros-puede-provocar-problemas-conducta-17769284",
@@ -101,7 +110,7 @@
       "sourceName": "okdiario"
     },
     {
-      "id": "es-11",
+      "id": "es-12",
       "title": "El perro Duke es adoptado tras pasar casi 5 años en un refugio de Nueva Jersey",
       "description": "La Sociedad Protectora de Animales de Ocean City compartió que Duke se está adaptando a su nuevo hogar después de pasar casi cinco años en el refugio.",
       "url": "https://www.telemundo20.com/especiales/desocupar-los-albergues/perro-duke-adoptado-refugio-nueva-jersey/2537809/",
@@ -110,7 +119,7 @@
       "sourceName": "telemundo20"
     },
     {
-      "id": "es-12",
+      "id": "es-13",
       "title": "Fiscalía del Edomex investiga la muerte de 12 perros encontrados en Naucalpan: Alcalde señala que pudieron ser usados en peleas clandestinas",
       "description": "Los restos de los canes fueron abandonados en una zona serrana de Santiago Tepatlaxco",
       "url": "https://www.infobae.com/mexico/2026/08/14/fiscalia-del-edomex-investiga-la-muerte-de-12-perros-encontrados-en-naucalpan-alcalde-senala-que-pudieron-ser-usados-en-peleas-clandestinas/",
@@ -119,7 +128,7 @@
       "sourceName": "Jorge Contreras"
     },
     {
-      "id": "es-13",
+      "id": "es-14",
       "title": "Por presuntamente morder a su hijo, sujeto balea a perro en Tecámac",
       "description": "Un hombre baleó y mató a un perrito en una unidad habitacional en Tecámac, al parecer mordió a su hijo y decidió acabar con el animal.",
       "url": "https://24-horas.mx/mexico/por-presuntamente-morder-a-su-hijo-sujeto-balea-a-perro-en-tecamac/",
@@ -128,7 +137,7 @@
       "sourceName": "24horas"
     },
     {
-      "id": "es-14",
+      "id": "es-15",
       "title": "Triste despedida del perro a Lenny Ruiz, mujer que murió protegiendo a su mascota en terremoto",
       "description": "Así fue la despedida de Lenny Ruiz, mujer que murió protegiendo a su perro en el terremoto de Cali. La mascota no se despegó del ataúd.",
       "url": "https://www.pulzo.com/nacion/despedida-perro-lenny-ruiz-tras-proteger-su-mascota-terremoto-PP5274473A",
@@ -137,7 +146,7 @@
       "sourceName": "pulzo"
     },
     {
-      "id": "es-15",
+      "id": "es-16",
       "title": "En imágenes: así fue el funeral de la joven que murió en el terremoto protegiendo a su perro en Cali",
       "description": "Lenny Fernández perdió la vida tratando de proteger a su perro Salomón.",
       "url": "https://www.elpais.com.co/cali/en-imagenes-asi-fue-el-funeral-de-la-joven-que-murio-en-el-terremoto-protegiendo-a-su-perro-en-cali-1336.html",
@@ -146,22 +155,13 @@
       "sourceName": "elpaiscl"
     },
     {
-      "id": "es-16",
+      "id": "es-17",
       "title": "Hombre mata a disparos a un perro en Tecámac: ¿Ya fue detenido el agresor?",
       "description": "Los vecinos de la zona denunciaron la identidad del sujeto; conoce qué se sabe sobre el atacante",
       "url": "https://www.cronica.com.mx/metropoli/2026/08/13/hombre-mata-a-disparos-a-un-perro-en-tecamac-ya-fue-detenido-el-agresor/",
       "urlToImage": "https://www.cronica.com.mx/resizer/v2/CVLNDVNYRBDU5EKUCDNNRTAABA.png?auth=0c528c46234868fb0baf88db185493ffb2bdf02052a7ea835aeafdbfd204b6a6&smart=true&width=1200&height=900",
       "publishedAt": "2026-08-14 01:45:51",
       "sourceName": "cronica_mx"
-    },
-    {
-      "id": "es-17",
-      "title": "Esto también es ciencia: Roy, el perro entrenado para buscar pichiciegos y combatir la enfermedad de Chagas",
-      "description": "El canino se incorpora como parte del avance en esta línea de investigación. El proyecto conecta la mejora de la salud, con la preservación de la fauna local.",
-      "url": "https://www.mdzol.com/sociedad/esto-tambien-es-ciencia-roy-el-perro-entrenado-buscar-pichiciegos-y-combatir-la-enfermedad-chagas-n1585548",
-      "urlToImage": "https://media.mdzol.com/p/742299a994bf010cef32c4a7f6622828/adjuntos/373/imagenes/001/978/0001978961/1200x675/smart/portada-roy.jpeg",
-      "publishedAt": "2026-08-14 01:20:00",
-      "sourceName": "mdzol"
     },
     {
       "id": "es-18",
