@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T08:38:35.318Z",
+  "generatedAt": "2026-08-17T09:36:57.287Z",
   "es": [
     {
       "id": "es-0",
@@ -12,6 +12,15 @@
     },
     {
       "id": "es-1",
+      "title": "Otro ataque canino fatal: Hombre muere tras ser mordido por un perro en el CETRAM Indios Verdes",
+      "description": "Un hombre en posible situación vulnerable murió tras ser atacado por un perro en el CETRAM Indios Verdes, en Gustavo A. Madero",
+      "url": "https://www.reporteindigo.com/cdmx/hombre-muere-tras-ser-mordido-por-un-perro-en-indios-verdes-metro-cdmx-20260816-0023.html",
+      "urlToImage": "https://assets.reporteindigo.com/__export/1786913432978/sites/reporteindigo/img/2026/08/16/hombre_muere_tras_ser_mordido_por_un_perro_en_indios_verdes_metro_cdmx.jpg_402404520.jpg",
+      "publishedAt": "2026-08-16 20:50:35",
+      "sourceName": "reporteindigo"
+    },
+    {
+      "id": "es-2",
       "title": "Hasta 4 millones de pesos podrían pagar los dueños que mantengan a sus perros y gatos en azoteas en España",
       "description": "En España, tener un perro o gato ocasionalmente en una azotea no está prohibido por sí mismo. La Ley de Bienestar Animal sanciona mantenerlos allí de forma habitual o permanente y establece obligaciones adicionales p",
       "url": "https://www.elimparcial.com/mundo/2026/08/16/hasta-4-millones-de-pesos-podrian-pagar-los-duenos-que-mantengan-a-sus-perros-y-gatos-en-azoteas-en-espana/",
@@ -20,7 +29,7 @@
       "sourceName": "elimparcial"
     },
     {
-      "id": "es-2",
+      "id": "es-3",
       "title": "Víctor, educador canino: \"Hemos pasado de pegar perros a que sean más importantes que los niños\"",
       "description": "España se está convirtiendo en una sociedad con más perros que niños, y las estadísticas lo confirman . Cada vez hay una mayor protección y cariño hacia las mascotas, mientras que las circunstancias de inestabilid",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260816/1004216723/victor-manero-educador-canino-no-saluda-perros-entrada-no-duerme-no-les-da-comida-mesa-hemos-pasado-pegar-perros-sean-mas-importantes-ninos-casa-dct.html",
@@ -29,7 +38,7 @@
       "sourceName": "mundodeportivo"
     },
     {
-      "id": "es-3",
+      "id": "es-4",
       "title": "Speed se convierte en el primer perro de los Mossos d'Esquadra especializado en la Detección de Acelerantes de Fuego (DAF)",
       "description": "",
       "url": "https://www.marca.com/tiramillas/sociedad/2026/08/16/speed-convierte-primer-perro-mossos-d-esquadra-especializado-deteccion-acelerantes-fuego-daf.html",
@@ -38,7 +47,7 @@
       "sourceName": "marca"
     },
     {
-      "id": "es-4",
+      "id": "es-5",
       "title": "Tras denuncia viral: Mujer fue detenida en Maipú por maltrato animal",
       "description": "La detención se produjo tras una denuncia en redes sociales que apuntaba a que el perro habría pertenecido a Carabineros, versión que fue descartada gracias a su número de chip.",
       "url": "https://www.chilevision.cl/noticias/casos-policiales/mujer-fue-detenida-en-maipu-por-maltrato-animal-tras-denuncia-viral/",
@@ -47,7 +56,7 @@
       "sourceName": "chilevision_cl"
     },
     {
-      "id": "es-5",
+      "id": "es-6",
       "title": "Promueve control canino la adopción responsable de perros",
       "description": "La adopción contribuye a reducir la sobre población de perros en situación de calle La entrada Promueve control canino la adopción responsable de perros se publicó primero en El Heraldo de Saltillo .",
       "url": "https://elheraldodesaltillo.mx/2026/08/16/promueve-control-canino-la-adopcion-responsable-de-perros/",
@@ -56,7 +65,7 @@
       "sourceName": "elheraldodesaltillo_mx"
     },
     {
-      "id": "es-6",
+      "id": "es-7",
       "title": "5 razas de perros ideales para departamentos pequeños en Jalisco",
       "description": "Conoce las mejores opciones caninas para vivir en espacios reducidos dentro de la zona metropolitana y otras ciudades jaliscienses, según expertos en bienestar animal",
       "url": "https://www.informador.mx/estilo/5-razas-de-perros-ideales-para-departamentos-pequenos-en-jalisco-20260814-0102.html",
@@ -65,7 +74,7 @@
       "sourceName": "informador_mx"
     },
     {
-      "id": "es-7",
+      "id": "es-8",
       "title": "Hombre muere tras ataque de perro pitbull afuera del Metro Indios Verdes",
       "description": "Un hombre murió luego de ser atacado por un perro pitbull en las inmediaciones del Metro Indios Verdes, alcaldía Gustavo A. Madero de la Ciudad de México. Dicha agresión ocurrió la mañana del sábado 15 de agosto d",
       "url": "https://entrelineas.com.mx/hombre-muere-tras-ataque-de-perro-pitbull-afuera-del-metro-indios-verdes/",
@@ -74,7 +83,7 @@
       "sourceName": "entrelineas"
     },
     {
-      "id": "es-8",
+      "id": "es-9",
       "title": "Así es 'Speed', el primer perro de los Mossos que detecta incendios provocados: \"Posee una manera de olfatear innata\"",
       "description": "Tras una formación de un año, 'Speed' detecta gasolina, disolventes y otros acelerantes del fuego Este perro policía ya ha intervenido en su primer caso: un incendio en una nave de fruta de Lleida",
       "url": "https://www.telecinco.es/noticias/catalunya/20260816/speed-primer-perro-mossos-detecta-incendios-provocados-barcelona_18_019888414.html",
@@ -83,7 +92,7 @@
       "sourceName": "telecinco_es"
     },
     {
-      "id": "es-9",
+      "id": "es-10",
       "title": "Tras denuncia que se viralizó en redes sociales: Carabineros detuvo a mujer por maltrato animal contra perro",
       "description": "Una mujer de 54 años fue detenida luego que una denuncia publicada en TikTok se viralizara y alertara sobre el estado de salud del animal. Carabineros confirmó que el perro se encontraba en malas condiciones y descarto",
       "url": "https://www.theclinic.cl/2026/08/16/tras-denuncia-que-se-viralizo-en-redes-sociales-carabineros-detuvo-a-mujer-por-maltrato-animal-contra-perro/",
@@ -92,7 +101,7 @@
       "sourceName": "theclinic"
     },
     {
-      "id": "es-10",
+      "id": "es-11",
       "title": "Cuando un perro aúlla al escuchar una canción no necesariamente está protestando. Está recurriendo a una forma de comunicación que los lobos ya utilizaban mucho antes de la domesticación",
       "description": "Una melodía, una sirena o determinados sonidos sostenidos pueden terminar con el perro levantando el hocico y aullando. La ciencia no dice que esté “cantando”, pero sí que esa vocalización conserva una conexión sorp",
       "url": "https://es.gizmodo.com/los-perros-no-aullan-por-fastidio-cuando-suena-musica-responden-a-un-mecanismo-de-comunicacion-que-viene-de-eco-evolutivo-de-lobos-2000220361",
@@ -101,7 +110,7 @@
       "sourceName": "gizmodo_es"
     },
     {
-      "id": "es-11",
+      "id": "es-12",
       "title": "Paula Calvo, antrozoóloga: “Que tu perro bostece no siempre significa que tenga sueño; puede estar relacionado con la tensión, la activación o una forma de autorregularse”",
       "description": "La especialista de las relaciones entre humanos y personas explica qué funciones cumplen los bostezos en los perros",
       "url": "https://www.lavanguardia.com/mascotas/20260816/11614700/paula-calvo-antrozoologa-perro-bostece-siempre-significa-sueno-relacionado-activacion-tension-forma-regularse-epm.html",
@@ -110,7 +119,7 @@
       "sourceName": "lavanguardia"
     },
     {
-      "id": "es-12",
+      "id": "es-13",
       "title": "Enrique Molina, adiestrador canino: “No es recomendable dormir con tu perro porque invade un espacio muy personal”",
       "description": "El experto sostiene que compartir la cama con una mascota puede favorecer la humanización del animal y recomienda que tenga su propio lugar para descansar.",
       "url": "https://tn.com.ar/sociedad/2026/08/16/enrique-molina-adiestrador-canino-no-es-recomendable-dormir-con-tu-perro-porque-invade-un-espacio-muy-personal/",
@@ -119,7 +128,7 @@
       "sourceName": "tn"
     },
     {
-      "id": "es-13",
+      "id": "es-14",
       "title": "Ataque de un pitbull en CDMX deja muerto a un hombre en situación de calle en Indios Verdes",
       "description": "El incidente ocurre días después de que un niño de 11 años fue atacado por un canino de la misma raza en la alcaldía Iztapalapa",
       "url": "https://www.infobae.com/mexico/2026/08/16/ataque-de-un-pitbull-en-cdmx-deja-muerto-a-un-hombre-en-situacion-de-calle-en-indios-verdes/",
@@ -128,7 +137,7 @@
       "sourceName": "Víctor Cisneros"
     },
     {
-      "id": "es-14",
+      "id": "es-15",
       "title": "Distinguen a escuela de educación canina por su labor por el bienestar de las mascotas de compañía",
       "description": "Frente a la obediencia tradicional, la etología clínica promueve un enfoque basado en las emociones y las necesidades naturales de los perros. En diálogo con PERFIL, Juan Manuel Liquindoli, director del establecimiento d",
       "url": "https://www.perfil.com/noticias/sociedad/distinguen-a-escuela-de-educacion-canina-por-su-labor-por-el-bienestar-de-las-mascotas-de-compania.phtml",
@@ -137,7 +146,7 @@
       "sourceName": "Claudio Corsalini"
     },
     {
-      "id": "es-15",
+      "id": "es-16",
       "title": "Las vacaciones para los perros en Valladolid cuando sus dueños se van de veraneo: «Hay reservas desde enero»",
       "description": "Los propietarios buscan dejar a sus mascotas en las mejores manos durante la temporada estival y la adaptación tras la separación se convierte en su mayor preocupación",
       "url": "https://www.elnortedecastilla.es/valladolid/vacaciones-perros-valladolid-duenos-van-veraneo-reservas-20260816085432-nt.html",
@@ -146,7 +155,7 @@
       "sourceName": "elnortedecastilla"
     },
     {
-      "id": "es-16",
+      "id": "es-17",
       "title": "El hotel canino de Valladolid con originales cuidados: de comida en air fryer a la chancla como juguete",
       "description": "Algunas mascotas cuentan con cuidados peculiares que son transmitidos a los cuidadores para que los adapten a su rutina durante la estancia",
       "url": "https://www.elnortedecastilla.es/valladolid/cuidados-originales-perros-alojados-hotel-canino-valladolid-20260816171258-nt.html",
@@ -155,7 +164,7 @@
       "sourceName": "elnortedecastilla"
     },
     {
-      "id": "es-17",
+      "id": "es-18",
       "title": "Mantener la calma y tener un kit listo: las claves para proteger a sus mascotas en un temblor",
       "description": "Prepararse antes del temblor es la mejor de proteger a las mascotas cuando ocurren este tipo de eventos naturales The post Mantener la calma y tener un kit listo: las claves para proteger a sus mascotas en un temblor app",
       "url": "https://observador.cr/mantener-la-calma-y-tener-un-kit-listo-las-claves-para-proteger-a-sus-mascotas-en-un-temblor/",
@@ -164,7 +173,7 @@
       "sourceName": "observador_cr"
     },
     {
-      "id": "es-18",
+      "id": "es-19",
       "title": "Perro ataca a indigente y lo muerde del cuello; muere en calles de la GAM",
       "description": "Un indigente murió tras ser mordido en el cuello por un perro en calles de la GAM. Autoridades resguardan al canino para su evaluación.",
       "url": "https://www.tvazteca.com/aztecanoticias/indigente-muere-ser-mordido-por-un-perro-en-la-alcaldia-gam/",
@@ -173,7 +182,7 @@
       "sourceName": "tvazteca"
     },
     {
-      "id": "es-19",
+      "id": "es-20",
       "title": "Hombre muere por ataque de perro pitbull en paradero de Indios Verdes",
       "description": "Efectivos de la SSC recibieron alerta de una persona en situación vulnerable atacada por un canino cerca del paradero de Indios Verdes.",
       "url": "https://24-horas.mx/cdmx/hombre-muere-por-ataque-de-perro-pitbull-en-paradero-de-indios-verdes/",
@@ -182,7 +191,7 @@
       "sourceName": "24horas"
     },
     {
-      "id": "es-20",
+      "id": "es-21",
       "title": "Control Canino busca hogares para perros en Torreón",
       "description": "Control Canino Torreón mantiene un programa permanente de adopción responsable de perros por lo que llamó a la ciudadanía a considerar esta alternativ...",
       "url": "https://www.meganoticias.mx/torreon/noticia/control-canino-busca-hogares-para-perros-en-torre%C3%B3n/760640",
@@ -191,7 +200,7 @@
       "sourceName": "meganoticias_mx"
     },
     {
-      "id": "es-21",
+      "id": "es-22",
       "title": "Gorliz y Plentzia unificarán la normativa para no multar a los perros en la playa",
       "description": "El Ayuntamiento de la primera localidad modificará su ordenanza en «noviembre» para que pueda entrar en vigor el «próximo verano»",
       "url": "https://www.elcorreo.com/bizkaia/margen-derecha/gorliz-plentzia-unificaran-normativa-multar-perros-playa-20260815170024-nt.html",
@@ -200,7 +209,7 @@
       "sourceName": "elcorreo"
     },
     {
-      "id": "es-22",
+      "id": "es-23",
       "title": "Perro, mezcla de pitbull y rottweiler, ataca a una familia en El Rosario, La Paz",
       "description": "Socorristas de Comandos de Salvamento acudieron a la escena para brindar asistencia prehospitalaria a los afectados.",
       "url": "https://elblog.com/perro-mezcla-de-pitbull-y-rottweiler-ataca-a-una-familia-en-el-rosario-la-paz/",
@@ -209,7 +218,7 @@
       "sourceName": "elblog"
     },
     {
-      "id": "es-23",
+      "id": "es-24",
       "title": "En medio del terremoto, rescatan a un perro por la ventana de un edificio en Risaralda",
       "description": "Las escaleras se encontraban bloqueadas por los escombros, pero esto no impidió que el rescatista llegara hasta el lugar donde permanecía el animal.",
       "url": "https://www.elheraldo.co/colombia/2026/08/15/en-medio-del-terremoto-rescatan-a-un-perro-por-la-ventana-de-un-edificio-en-risaralda/",
@@ -218,7 +227,7 @@
       "sourceName": "elheraldo"
     },
     {
-      "id": "es-24",
+      "id": "es-25",
       "title": "Persona en situación vulnerable muere tras ataque de perro en Cetram Indios Verdes; policías resguardan la zona",
       "description": "El sujeto caminaba por el andén marcado con la letra K cuando fue atacado por un perro que lo mordió en varias ocasiones",
       "url": "https://www.eluniversal.com.mx/metropoli/persona-en-situacion-vulnerable-muere-tras-ataque-de-perro-en-cetram-indios-verdes-policias-resguardan-la-zona/",
@@ -227,7 +236,7 @@
       "sourceName": "eluniversal"
     },
     {
-      "id": "es-25",
+      "id": "es-26",
       "title": "“Me voy a morir”: perro ataca a niño que jugaba en calles de Iztapalapa y queda registrado en video",
       "description": "El menor jugaba con otro niño cuando el perro se lanzó contra él; varias personas intentaron detener al animal y su madre presentó una denuncia ante la Fiscalía capitalina",
       "url": "https://www.infobae.com/mexico/2026/08/15/me-voy-a-morir-perro-ataca-a-nino-que-jugaba-en-calles-de-iztapalapa-y-queda-registrado-en-video/",
@@ -236,7 +245,7 @@
       "sourceName": "infobae"
     },
     {
-      "id": "es-26",
+      "id": "es-27",
       "title": "Tu perro puede leer más de tu cara de lo que imaginas: su cerebro distingue si tienes miedo, estás triste o enfadado",
       "description": "Escáneres cerebrales muestran que los perros reaccionan de forma distinta al miedo, la tristeza y el enfado, y que las sonrisas activan áreas de recompensa",
       "url": "https://www.lavanguardia.com/mascotas/20260815/11614382/perro-leer-mas-cara-imaginas-cerebro-distingue-tienes-miedo-estas-triste-enfadado-epm.html",
@@ -245,22 +254,13 @@
       "sourceName": "lavanguardia"
     },
     {
-      "id": "es-27",
+      "id": "es-28",
       "title": "Rescatan a cuatro perros de presunto maltrato animal en Pachuca",
       "description": "Rescatan a cuatro perros de presunto maltrato animal en Pachuca",
       "url": "https://lajornadahidalgo.com/rescatan-a-cuatro-perros-de-presunto-maltrato-animal-en-pachuca/",
       "urlToImage": "https://lajornadahidalgo.com/wp-content/uploads/2026/08/maltrato-animal-en-Pachuca.jpg",
       "publishedAt": "2026-08-15 17:12:18",
       "sourceName": "lajornadahidalgo"
-    },
-    {
-      "id": "es-28",
-      "title": "Michael Shikashio, experto en comportamiento canino: “No todos los perros van a bostezar, lamerse los labios o quedarse inmóviles antes de atacar”",
-      "description": "El especialista en comportamiento canino explicó que cada animal puede manifestar el estrés de manera diferente y detalló cuáles son los signos a los que hay que prestar atención.",
-      "url": "https://www.canal26.com/tendencias/2026/08/15/michael-shikashio-experto-en-comportamiento-canino-no-todos-los-perros-van-a-bostezar-lamerse-los-labios-o-quedarse-inmoviles-antes-de-atacar/",
-      "urlToImage": "https://www.canal26.com/resizer/v2/3NGELENZ2BA3XOM2ORVG6IK27Q.jpg?auth=b8744727618f707447868364cc95734d04813d981f50ddc56ecbe345e5827bae&smart=true&width=1200&height=900",
-      "publishedAt": "2026-08-15 16:43:00",
-      "sourceName": "canal26"
     },
     {
       "id": "es-29",
