@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-08-19T11:21:35.582Z",
+  "generatedAt": "2026-08-19T11:49:59.886Z",
   "es": [
     {
       "id": "es-0",
+      "title": "Duke, el perro que pasó casi cinco años en un refugio y finalmente encontró una familia y ya tiene un nuevo amigo",
+      "description": "Durante ese tiempo apareció en medios de comunicación y en campañas para promover la adopción de animales, pero la familia que buscaba no llegaba.",
+      "url": "https://www.elimparcial.com/locurioso/2026/08/18/duke-el-perro-que-paso-casi-cinco-anos-en-un-refugio-y-finalmente-encontro-una-familia-y-ya-tiene-un-nuevo-amigo/",
+      "urlToImage": "https://www.elimparcial.com/resizer/v2/JJBBCPMKUZEPRJC2A6FCEXV4OQ.jpg?auth=501f8c256112fe1c9bc7ae6c49cf0f2e827404b947af5b6ec97a4fc0845c94b3&smart=true&width=1920&height=1200",
+      "publishedAt": "2026-08-18 23:25:40",
+      "sourceName": "elimparcial"
+    },
+    {
+      "id": "es-1",
       "title": "Video causa indignación en Cartagena: sujetos se grabaron pateando a un perro en condición de calle; piden ubicar al animal y a los responsables",
       "description": "La comunidad exige la aplicación de la Ley Ángel, que endurece las penas de cárcel por maltrato animal.",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/presunto-maltrato-animal-en-cartagena-sujetos-se-grabaron-pateando-a-un-perro-en-condicion-de-calle-piden-ubicar-al-animal-y-a-los-responsables-3579179",
@@ -11,7 +20,7 @@
       "sourceName": "eltiempocl"
     },
     {
-      "id": "es-1",
+      "id": "es-2",
       "title": "Agentes caninos de Vigilancia Aérea se jubilan tras años de servicio en detección de drogas y explosivos",
       "description": "Bronco, Kojak y Shek, agentes caninos del Servicio de Vigilancia Aérea, se jubilaron tras colaborar en aeropuertos y operativos policiales. The post Agentes caninos de Vigilancia Aérea se jubilan tras años de servicio",
       "url": "https://observador.cr/agentes-caninos-de-vigilancia-aerea-se-jubilan-tras-anos-de-servicio-en-deteccion-de-drogas-y-explosivos/",
@@ -20,7 +29,7 @@
       "sourceName": "observador_cr"
     },
     {
-      "id": "es-2",
+      "id": "es-3",
       "title": "¡Solo eso le faltaba! Perro orina a hombre en plena calle",
       "description": "¡Solo eso le faltaba! Perro orina a hombre en plena calle",
       "url": "https://www.tunota.com/entretenimiento/solo-eso-faltaba-perro-orina-hombre-plena-calle-2026-08-18",
@@ -29,7 +38,7 @@
       "sourceName": "tunota"
     },
     {
-      "id": "es-3",
+      "id": "es-4",
       "title": "Hallan 245 kilos de metanfetamina en AICM",
       "description": "Perro entrenado para detectar narcóticos localizó 245.5 kilogramos de metanfetamina en el Aeropuerto Internacional de la Ciudad de México",
       "url": "https://eldiariodechihuahua.mx/nacional/2026/aug/18/hallan-245-kilos-de-metanfetamina-en-aicm-828868.html",
@@ -38,7 +47,7 @@
       "sourceName": "eldiariodechihuahua"
     },
     {
-      "id": "es-4",
+      "id": "es-5",
       "title": "Rescatan a dos perros atrapados en canal de aguas pluviales en Tlajomulco",
       "description": "El incidente fue atendido por el Escuadrón Motorizado Jaguares de la Comisaría de la Policía Preventiva Municipal",
       "url": "https://www.informador.mx/jalisco/rescatan-a-dos-perros-atrapados-en-canal-de-aguas-pluviales-en-tlajomulco-20260818-0096.html",
@@ -47,7 +56,7 @@
       "sourceName": "Marck Hernández"
     },
     {
-      "id": "es-5",
+      "id": "es-6",
       "title": "Aplican tratamiento a perro con gusano barrenador en Samalayuca; hacen barrido en la zona",
       "description": "En un perro del poblado de Samalayuca se confirmó el primer caso de Gusano Barrenador del Ganado (GBG), el primero detectado en el Municipio de Juárez, pero ya la Secretaría de Desarrollo Rural (SDR) y el Servicio Nac",
       "url": "https://nortedigital.mx/aplican-tratamiento-a-perro-con-gusano-barrenador-en-samalayuca-hacen-barrido-en-la-zona/",
@@ -56,7 +65,7 @@
       "sourceName": "nortedigital_mx"
     },
     {
-      "id": "es-6",
+      "id": "es-7",
       "title": "Adoptar un perro o un gato: lo que debes saber antes de dar el paso",
       "description": "Estos son los puntos esenciales que cualquier persona debe considerar antes de incorporar un perro o un gato a su hogar.",
       "url": "https://www.publimetro.co/publipets/2026/08/18/adoptar-un-perro-o-un-gato-lo-que-debes-saber-antes-de-dar-el-paso/",
@@ -65,7 +74,7 @@
       "sourceName": "publimetro_co"
     },
     {
-      "id": "es-7",
+      "id": "es-8",
       "title": "Cómo la financiación militar de EU impulsó los perros robot de China",
       "description": "Unitree Robotics basó los diseños de sus robots con forma de perro más exitosos en innovaciones financiadas por el ejército estadounidense.",
       "url": "https://forbes.com.mx/como-la-financiacion-militar-de-eu-impulso-los-perros-robot-de-china/",
@@ -74,7 +83,7 @@
       "sourceName": "forbes_mx"
     },
     {
-      "id": "es-8",
+      "id": "es-9",
       "title": "Speed, el primer perro de los Mossos capaz de encontrar gasolina entre las cenizas de un incendio",
       "description": "Speed tiene poco más de dos años, trabaja con unos pequeños botines para proteger sus patas y posee un olfato capaz de proporcionar pistas decisivas en una investigación policial. Este springer spaniel se ha converti",
       "url": "https://expertoanimal.elperiodico.com/speed-el-primer-perro-de-los-mossos-capaz-de-encontrar-gasolina-entre-las-cenizas-de-un-incendio-28669.html",
@@ -83,7 +92,7 @@
       "sourceName": "elperiodicomediterraneo"
     },
     {
-      "id": "es-9",
+      "id": "es-10",
       "title": "Un año humano no son 7 de perro: ¿cómo saber la EDAD REAL de tu mascota, según la UNAM?",
       "description": "De acuerdo con los investigadores de la máxima casa de estudios, existen elementos como la raza y el tamaño del perro que pueden influir directamente en el envejecimiento",
       "url": "https://heraldodemexico.com.mx/tendencias/2026/8/18/un-ano-humano-no-son-de-perro-como-saber-la-edad-real-de-tu-mascota-segun-la-unam-871219.html",
@@ -92,7 +101,7 @@
       "sourceName": "heraldodemexico"
     },
     {
-      "id": "es-10",
+      "id": "es-11",
       "title": "¿Puede un perro calmar el estrés social de un adolescente, o solo consuela a quien ya sufre más?",
       "description": "Perros y estrés adolescente: dos estudios analizan si su compañía calma la presión social o si revela un malestar previo. Descubre qué dice la ciencia.",
       "url": "https://muyinteresante.okdiario.com/ciencia/perros-y-estres-adolescente.html",
@@ -101,7 +110,7 @@
       "sourceName": "muyinteresante"
     },
     {
-      "id": "es-11",
+      "id": "es-12",
       "title": "Los perros que se lanzan al mar para salvar vidas: así trabaja el singular equipo canino de Torrox",
       "description": "En una emergencia en el mar, regresar a tierra con una persona en dificultades puede resultar mucho más exigente que alcanzarla. En Torrox, Málaga, los socorristas cuentan desde 2025 con una ayuda poco habitual para af",
       "url": "https://expertoanimal.elperiodico.com/los-perros-que-se-lanzan-al-mar-para-salvar-vidas-asi-trabaja-el-singular-equipo-canino-de-torrox-28668.html",
@@ -110,7 +119,7 @@
       "sourceName": "laopiniondemalaga"
     },
     {
-      "id": "es-12",
+      "id": "es-13",
       "title": "Un perrito ayuda a sepultar a su amigo canino muerto",
       "description": "En redes sociales se ha hecho viral un conmovedor video que muestra cómo un perrito se acerca hasta donde está siendo enterrado su amigo canino y ayuda a sus dueños a cubrirlo de tierra. Una familia estaba enterrando ",
       "url": "https://entrelineas.com.mx/un-perrito-ayuda-a-sepultar-a-su-amigo-canino-muerto/",
@@ -119,7 +128,7 @@
       "sourceName": "entrelineas"
     },
     {
-      "id": "es-13",
+      "id": "es-14",
       "title": "La reflexión de un educador canino que hace estallar a los dueños de perros: «Hemos pasado de pegar perros a que sean más importantes que los niños»",
       "description": "En España ya hay más perros que niños. No se trata de una opinión ni de una crítica, sino de una realidad respaldada por datos oficiales. Un informe publicado por el Gobierno confirma que actualmente hay más perros",
       "url": "https://okdiario.com/mascotas/reflexion-educador-canino-que-hace-estallar-duenos-perros-hemos-pasado-pegar-perros-que-sean-mas-importantes-que-ninos-19552911",
@@ -128,7 +137,7 @@
       "sourceName": "okdiario"
     },
     {
-      "id": "es-14",
+      "id": "es-15",
       "title": "¿Qué hacer si mi perro no quiere comer? Señales de alerta que no debes ignorar",
       "description": "Conoce los motivos detrás del rechazo de tu lomito a su plato de comida; así como las señales de alerta.",
       "url": "https://www.excelsior.com.mx/estilo-de-vida/que-hacer-si-perro-no-quiere-comer-senales-alerta-que-no-debes-ignorar",
@@ -137,7 +146,7 @@
       "sourceName": "excelsior"
     },
     {
-      "id": "es-15",
+      "id": "es-16",
       "title": "Especialistas en adiestramiento canino concuerdan: “Saludar a tu perro cuando entras en casa es la semilla de la mala educación”",
       "description": "Educadores caninos advierten que responder con caricias y atención cuando el perro está sobreexcitado puede reforzar malos hábitos.",
       "url": "https://www.canal26.com/tendencias/2026/08/17/especialistas-en-adiestramiento-canino-concuerdan-saludar-a-tu-perro-cuando-entras-en-casa-es-la-semilla-de-la-mala-educacion/",
@@ -146,7 +155,7 @@
       "sourceName": "canal26"
     },
     {
-      "id": "es-16",
+      "id": "es-17",
       "title": "Viral: Perrito ayuda a sepultar a su pana muerto (video)",
       "description": "En redes sociales se ha hecho viral un conmovedor video que muestra cómo un perrito se acerca hasta donde está siendo enterrado su amigo canino y ayuda a sus dueños a cubrirlo de tierra. Aunque no se especifica el lug",
       "url": "https://remolacha.net/2026/08/perro-entierra-pana/",
@@ -155,7 +164,7 @@
       "sourceName": "remolacha"
     },
     {
-      "id": "es-17",
+      "id": "es-18",
       "title": "El ADN revela que la edad de los perros no equivale a siete años humanos por cada uno y ofrece un reloj biológico más preciso por raza",
       "description": "Un estudio de la Universidad de California muestra un envejecimiento acelerado de los canes durante sus primeros años para ralentizar su desarrollo en la madurez",
       "url": "https://www.larazon.es/tecnologia-consumo/ciencia/adn-revela-edad-perros-no-equivale-siete-anos-humanos-cada-uno-ofrece-reloj-biologico-preciso-raza_202608176a82f68271b42a0b5df4391a.html",
@@ -164,7 +173,7 @@
       "sourceName": "andro4all"
     },
     {
-      "id": "es-18",
+      "id": "es-19",
       "title": "Los veterinarios coinciden: si tu perro duerme boca arriba puede ser porque se siente seguro, pero también por este otro motivo",
       "description": "Encontrar al perro completamente tumbado boca arriba, con las patas apuntando hacia el techo y el abdomen descubierto, puede resultar bastante cómico, e incluso tierno. La postura en la que duerme el animal se encuentra",
       "url": "https://expertoanimal.elperiodico.com/los-veterinarios-coinciden-si-tu-perro-duerme-boca-arriba-puede-ser-porque-se-siente-seguro-pero-tambien-por-este-otro-motivo-28652.html",
@@ -173,7 +182,7 @@
       "sourceName": "elperiodicoextremadura"
     },
     {
-      "id": "es-19",
+      "id": "es-20",
       "title": "Una veterinaria es clara cuando un perro tiene miedo o ansiedad: “No hay que recompensarlo, sino mantener una actitud neutral”",
       "description": "Una especialista dio recomendaciones para aprender a identificar cuándo una mascota siente temor o pánico.",
       "url": "https://tn.com.ar/sociedad/2026/08/17/una-veterinaria-es-clara-cuando-un-perro-tiene-miedo-o-ansiedad-no-hay-que-recompensarlo-sino-mantener-una-actitud-neutral/",
@@ -182,7 +191,7 @@
       "sourceName": "tn"
     },
     {
-      "id": "es-20",
+      "id": "es-21",
       "title": "Quiso llevarse un Pitbull de una casa y terminó detenido",
       "description": "Un hombre de 41 años fue aprehendido luego de que la propietaria de una vivienda denunciara que había abierto el portón e intentado llevarse a su perro de raza Pitbull",
       "url": "https://www.eldiariodecarlospaz.com.ar/sucesos/2026/8/17/quiso-llevarse-un-pitbull-de-una-casa-y-termino-detenido-257612.html",
@@ -191,7 +200,7 @@
       "sourceName": "eldiariodecarlospaz_ar"
     },
     {
-      "id": "es-21",
+      "id": "es-22",
       "title": "“La socialización no es que tu perro sea el alma de todos los pipicanes”: 4 claves para ayudarlo a estar con otros compañeros",
       "description": "Dos educadores y divulgadores caninos en redes sociales muestran la importancia de este tipo de interacciones y la actitud de de los dueños que las acompañan",
       "url": "https://www.infobae.com/espana/2026/08/17/la-socializacion-no-es-que-tu-perro-sea-el-alma-de-todos-los-pipicanes-4-claves-para-ayudarlo-a-estar-con-otros-companeros/",
@@ -200,7 +209,7 @@
       "sourceName": "Jorge Ortega"
     },
     {
-      "id": "es-22",
+      "id": "es-23",
       "title": "5 razas de perros ideales para departamentos pequeños en Jalisco",
       "description": "Conoce las mejores opciones caninas para vivir en espacios reducidos dentro de la zona metropolitana y otras ciudades jaliscienses, según expertos en bienestar animal",
       "url": "https://www.informador.mx/estilo/5-razas-de-perros-ideales-para-departamentos-pequenos-en-jalisco-20260814-0102.html",
@@ -209,7 +218,7 @@
       "sourceName": "Luz Borja"
     },
     {
-      "id": "es-23",
+      "id": "es-24",
       "title": "Ataque de un pitbull en CDMX deja muerto a un hombre en situación de calle en Indios Verdes",
       "description": "El incidente ocurre días después de que un niño de 11 años fue atacado por un canino de la misma raza en la alcaldía Iztapalapa",
       "url": "https://www.infobae.com/mexico/2026/08/16/ataque-de-un-pitbull-en-cdmx-deja-muerto-a-un-hombre-en-situacion-de-calle-en-indios-verdes/",
@@ -218,7 +227,7 @@
       "sourceName": "Víctor Cisneros"
     },
     {
-      "id": "es-24",
+      "id": "es-25",
       "title": "Distinguen a escuela de educación canina por su labor por el bienestar de las mascotas de compañía",
       "description": "Frente a la obediencia tradicional, la etología clínica promueve un enfoque basado en las emociones y las necesidades naturales de los perros. En diálogo con PERFIL, Juan Manuel Liquindoli, director del establecimiento d",
       "url": "https://www.perfil.com/noticias/sociedad/distinguen-a-escuela-de-educacion-canina-por-su-labor-por-el-bienestar-de-las-mascotas-de-compania.phtml",
@@ -227,7 +236,7 @@
       "sourceName": "Claudio Corsalini"
     },
     {
-      "id": "es-25",
+      "id": "es-26",
       "title": "Anastasia, diseñadora de bozales caninos: 'Se usan para mucho más que con perros agresivos, algunos los llevan para no comer basura o cosas tóxicas del suelo'",
       "description": "“Un bozal nunca debe sentirse como un castigo”, sostiene.",
       "url": "https://www.huffingtonpost.es/life/animales/anastasia-disenadora-bozales-caninos-se-mas-perros-agresivos-llevan-comer-basura-cosas-toxicas-suelo-f202608.html",
@@ -236,7 +245,7 @@
       "sourceName": "Sandra Hernández Jiménez"
     },
     {
-      "id": "es-26",
+      "id": "es-27",
       "title": "Mascotas: Estos 5 perros son los mejores guardianes para tu hogar",
       "description": "Descubre cuáles son las razas caninas más confiables, leales y valientes que garantizarán la seguridad de tu familia sin alterar la tranquilidad de tu casa",
       "url": "https://www.informador.mx/estilo/mascotas-estos-5-perros-son-los-mejores-guardianes-para-tu-hogar-20260814-0062.html",
@@ -245,7 +254,7 @@
       "sourceName": "Paola Regalado"
     },
     {
-      "id": "es-27",
+      "id": "es-28",
       "title": "Fiscalía del Edomex investiga la muerte de 12 perros encontrados en Naucalpan: Alcalde señala que pudieron ser usados en peleas clandestinas",
       "description": "Los restos de los canes fueron abandonados en una zona serrana de Santiago Tepatlaxco",
       "url": "https://www.infobae.com/mexico/2026/08/14/fiscalia-del-edomex-investiga-la-muerte-de-12-perros-encontrados-en-naucalpan-alcalde-senala-que-pudieron-ser-usados-en-peleas-clandestinas/",
@@ -254,7 +263,7 @@
       "sourceName": "Jorge Contreras"
     },
     {
-      "id": "es-28",
+      "id": "es-29",
       "title": "Dastan y Gasper, los perros rescatistas que trabajan en la búsqueda de sobrevivientes del terremoto en Cali",
       "description": "Estos animales reciben una preparación exhaustiva y participan en operaciones de asistencia durante desastres naturales en diferentes regiones del mundo",
       "url": "https://www.infobae.com/colombia/2026/08/12/dastan-y-gasper-los-perros-rescatistas-que-trabajan-en-la-busqueda-de-sobrevivientes-del-terremoto-en-cali/",
@@ -263,7 +272,7 @@
       "sourceName": "Angie Julieth Cicua Caballero"
     },
     {
-      "id": "es-29",
+      "id": "es-30",
       "title": "“Si un animal se convierte en un riesgo, pasa a ser un problema de salud pública”: qué sucederá con el perro que mató a Salvador",
       "description": "La perra que atacó al niño de 3 años permanece judicializada y bajo observación en el Instituto Antirrábico. Un etólogo deberá evaluar su conducta para determinar, junto con la Justicia, qué medidas se tomarán sobre el c",
       "url": "https://www.perfil.com/noticias/cordoba/si-un-animal-se-convierte-en-un-riesgo-pasa-a-ser-un-problema-de-salud-publica-que-sucedera-con-el-perro-que-mato-a-salvador.phtml",
@@ -272,7 +281,7 @@
       "sourceName": "María Juliana Lucero"
     },
     {
-      "id": "es-30",
+      "id": "es-31",
       "title": "Urko, otro héroe canino que trabaja en la búsqueda de sobrevivientes del terremoto en Colombia",
       "description": "No necesitan entender las palabras que acompañan una emergencia. Basta una señal de su guía para comenzar. Entonces, el juego queda atrás y aparece el entrenamiento: el olfato …",
       "url": "https://lapatilla.com/2026/08/12/urko-otro-heroe-canino-que-trabaja-en-la-busqueda-de-sobrevivientes-del-terremoto-en-colombia/",
@@ -281,7 +290,7 @@
       "sourceName": "Pingüinito; PingÃ¼inito"
     },
     {
-      "id": "es-31",
+      "id": "es-32",
       "title": "Enrique Molina, adiestrador canino: \"No debemos dormir con nuestro perro, porque invade un espacio muy personal del dueño\"",
       "description": "Enrique Molina es un conocido adiestrador canino que ayuda a dueños de perros a saber cómo educar a su mascota para que sepa comportarse en casa, entre otras ...",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260510/1004181518/enrique-molina-adiestrador-canino-no-debemos-dormir-nuestro-perro-invade-espacio-personal-dueno-dct.html",
@@ -290,7 +299,7 @@
       "sourceName": "mundodeportivo.com"
     },
     {
-      "id": "es-32",
+      "id": "es-33",
       "title": "Alan Peiró, adiestrador canino: “Cuando un perro se muestra agresivo, lo hace por miedo”",
       "description": "El experto en comportamiento animal brindó consejos para tratar las reacciones violentas de las mascotas.",
       "url": "https://tn.com.ar/mascotas/2026/03/27/alan-peiro-adiestrador-canino-cuando-un-perro-se-muestra-agresivo-lo-hace-por-miedo/",
@@ -299,7 +308,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-33",
+      "id": "es-34",
       "title": "Juan Cervantes, adiestrador canino: “Al volver a tu casa debés ignorar al perro por 5 minutos”",
       "description": "Un experto en mascotas explicó por qué no saludar a tu mascota al regresar al hogar y las consecuencias que eso genera.",
       "url": "https://tn.com.ar/sociedad/2026/03/20/juan-cervantes-adiestrador-canino-al-volver-a-tu-casa-debes-ignorar-al-perro-por-5-minutos/",
@@ -308,7 +317,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-34",
+      "id": "es-35",
       "title": "Juan Cervantes, adiestrador canino: “Cuanto más llames a tu perro por su nombre, menos caso te hace”",
       "description": "El experto influencer explicó el motivo por el que utilizar esta técnica no es la mejor forma para llamar la atención de tu mascota.",
       "url": "https://tn.com.ar/sociedad/2026/03/19/juan-cervantes-adiestrador-canino-cuanto-mas-llames-a-tu-perro-por-su-nombre-menos-caso-te-hace/",
@@ -317,7 +326,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-35",
+      "id": "es-36",
       "title": "Qué siente tu perro cuando sale a pasear, según expertos en comportamiento canino",
       "description": "Ese momento cotidiano es mucho más importante de lo que parece. La ciencia del comportamiento canino explica cómo impacta en el equilibrio emocional, la condu...",
       "url": "https://tn.com.ar/sociedad/2026/02/22/que-siente-tu-perro-cuando-sale-a-pasear-segun-expertos-en-comportamiento-canino/",
@@ -326,7 +335,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-36",
+      "id": "es-37",
       "title": "Qué siente tu perro cuando le gritás, según expertos en comportamiento canino",
       "description": "El tono de voz humano tiene un impacto directo en las emociones de los animales.",
       "url": "https://tn.com.ar/sociedad/2026/02/16/que-siente-tu-perro-cuando-le-gritas-segun-expertos-en-comportamiento-canino/",
@@ -335,7 +344,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-37",
+      "id": "es-38",
       "title": "Por qué no hay que saludar al perro al llegar a casa, según un entrenador canino",
       "description": "Víctor Mañero, reconocido adiestrador canino, reveló el motivo por el cual esta acción puede generarles a los animales gran estrés y ansiedad; qué dijo - ...",
       "url": "https://www.lanacion.com.ar/lifestyle/mascotas/por-que-no-hay-que-saludar-al-perro-al-llegar-a-casa-segun-un-entrenador-canino-nid02052025/",
@@ -344,7 +353,7 @@
       "sourceName": "lanacion.com.ar"
     },
     {
-      "id": "es-38",
+      "id": "es-39",
       "title": "“Perro gay”: ovacionan a un canino en marcha LGBT+ de Guadalajara",
       "description": "El divertido y controversial momento sucedió cuando su cuidadora lo alzó y todos los asistentes no dudaron en gritar y aclamarlo mientras él sacaba su lengua...",
       "url": "https://www.infobae.com/america/entretenimiento/2022/06/19/perro-gay-ovacionan-a-un-canino-en-marcha-lgbt-de-guadalajara/",
