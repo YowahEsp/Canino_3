@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T20:22:28.636Z",
+  "generatedAt": "2026-08-19T20:53:29.796Z",
   "es": [
     {
       "id": "es-0",
@@ -314,6 +314,28 @@
     },
     {
       "id": "en-6",
+      "title": "Pet owners warned as popular dog food brand recalled after reports of eye issues",
+      "description": "Years has recalled its Signature Meals, which are stocked at major brands Pets at Home and Just for Pets.",
+      "url": "https://www.heraldseries.co.uk/news/26476664.years-dog-food-recalled-amid-fears-causing-eye-issues/",
+      "urlToImage": null,
+      "publishedAt": "2026-08-19 08:39:15",
+      "sourceName": "heraldseries_uk",
+      "title_es": "Los dueños de mascotas advirtieron que la popular marca de alimentos para perros fue retirada después de informes de problemas oculares",
+      "description_es": "Years ha retirado sus comidas exclusivas, que se encuentran en las principales marcas Pets at Home y Just for Pets."
+    },
+    {
+      "id": "en-7",
+      "title": "Urgent recall for dog food brand after pets develop serious eye problems",
+      "description": "Years has recalled its Signature Meals, which are stocked at major brands Pets at Home and Just for Pets.",
+      "url": "https://www.whitehavennews.co.uk/news/26476595.years-dog-food-recalled-amid-fears-causing-eye-issues/",
+      "urlToImage": "https://www.whitehavennews.co.uk/resources/images/21338991/",
+      "publishedAt": "2026-08-19 08:29:37",
+      "sourceName": "whitehavennews_co_uk",
+      "title_es": "Retiro urgente de la marca de alimentos para perros después de que las mascotas desarrollen problemas oculares graves",
+      "description_es": "Years ha retirado sus comidas exclusivas, que se encuentran en las principales marcas Pets at Home y Just for Pets."
+    },
+    {
+      "id": "en-8",
       "title": "Man dressed as dog protests stray dog menace in Khandwa’s Jan Sunwai",
       "description": "A man wearing a dog mask joined Khandwa Municipal Corporation opposition leader Deepak Rathore at a public hearing to protest the city’s stray dog problem. Rathore alleged irregularities in a four-year sterilisation prog",
       "url": "https://www.news9live.com/viral-news/man-dressed-as-dog-protests-stray-dog-menace-in-khandwas-jan-sunwai-3000753",
@@ -324,18 +346,7 @@
       "description_es": "Un hombre con una máscara de perro se unió al líder de la oposición de la Corporación Municipal de Khandwa, Deepak Rathore, en una audiencia pública para protestar contra el problema de los perros callejeros de la ciudad. Rathore alegó irregularidades en un programa de esterilización de cuatro años"
     },
     {
-      "id": "en-7",
-      "title": "Pet owners warned as popular dog food brand recalled after reports of eye issues",
-      "description": "Years has recalled its Signature Meals, which are stocked at major brands Pets at Home and Just for Pets.",
-      "url": "https://www.leaderlive.co.uk/news/26476458.years-dog-food-recalled-amid-fears-causing-eye-issues/",
-      "urlToImage": null,
-      "publishedAt": "2026-08-19 07:56:40",
-      "sourceName": "leaderlive",
-      "title_es": "Los dueños de mascotas advirtieron que la popular marca de alimentos para perros fue retirada después de informes de problemas oculares",
-      "description_es": "Years ha retirado sus comidas exclusivas, que se encuentran en las principales marcas Pets at Home y Just for Pets."
-    },
-    {
-      "id": "en-8",
+      "id": "en-9",
       "title": "Khandwa man dresses as a dog in front of ADM to protest against stray dog menace",
       "description": "Khandwa dog protest: A man wearing a dog mask entered the Khandwa Collectorate during a public hearing to protest the city’s stray dog menace. Municipal Corporation opposition leader Deepak Rathore alleged that Rs 40 lak",
       "url": "https://economictimes.indiatimes.com/news/new-updates/khandwa-man-dresses-as-dog-to-protest-in-front-of-district-majistrate-gainst-stray-dog-menace/articleshow/133341381.cms",
@@ -346,7 +357,7 @@
       "description_es": "Protesta del perro khandwa: un hombre con una máscara de perro ingresó al Coleccionismo Khandwa durante una audiencia pública para protestar contra la amenaza del perro callejero de la ciudad. El líder de la oposición de la Corporación Municipal, Deepak Rathore, alegó que Rs 40 lak"
     },
     {
-      "id": "en-9",
+      "id": "en-10",
       "title": "Wagga greyhound killed after breaking front legs, sparking cover-up accusations",
       "description": "A greyhound welfare group has accused Greyhound Racing NSW (GRNSW) of covering up the severity of a racing incident in which a two-year-old black female dog was euthanised after breaking both front legs at Wagga on Tuesd",
       "url": "https://regionriverina.com.au/wagga-greyhound-killed-after-breaking-front-legs-sparking-cover-up-accusations/132533/",
@@ -357,7 +368,7 @@
       "description_es": "Un grupo de bienestar de galgos ha acusado a Greyhound Racing NSW (GRNSW) de encubrir la gravedad de un incidente de carreras en el que una perra negra de dos años fue sacrificada después de romperse ambas patas delanteras en Wagga el martes"
     },
     {
-      "id": "en-10",
+      "id": "en-11",
       "title": "We need more house and pet sitters – Could it be you?",
       "description": "We’re aways looking for new house and pet sitters to join our community. Have you ever thought about offering your [...]",
       "url": "https://euroweeklynews.com/2026/08/19/we-need-more-house-and-pet-sitters-could-it-be-you/",
@@ -368,7 +379,7 @@
       "description_es": "Siempre estamos buscando nuevos cuidadores de casas y mascotas para que se unan a nuestra comunidad. ¿Alguna vez has pensado en ofrecer tu [...]"
     },
     {
-      "id": "en-11",
+      "id": "en-12",
       "title": "Frozen dog food recalled over salmonella contamination that led to multiple pet illnesses",
       "description": "Oma's Pride recalled more than 600 bags of frozen dog food distributed to 11 states after a Food and Drug Administration inspection revealed salmonella contamination.",
       "url": "https://www.foxbusiness.com/economy/frozen-dog-food-recalled-over-salmonella-contamination-led-multiple-pet-illnesses",
@@ -379,7 +390,7 @@
       "description_es": "Oma's Pride retiró del mercado más de 600 bolsas de comida congelada para perros distribuidas en 11 estados después de que una inspección de la Administración de Alimentos y Medicamentos revelara contaminación por salmonela."
     },
     {
-      "id": "en-12",
+      "id": "en-13",
       "title": "Hornets start each morning with Rooster",
       "description": "As students climbed out of cars, trucks and SUVs to start the 2026-2027 school year, they were greeted by a familiar face. Rooster, the school’s therapy dog, waiting at the drop-off line for every pat and smile.",
       "url": "https://www.wcleaderjournal.com/news/article_4ccb0e94-5148-42e9-83c3-2a29d80a6ca4.html",
@@ -390,7 +401,7 @@
       "description_es": "Mientras los estudiantes bajaban de los automóviles, camiones y SUV para comenzar el año escolar 2026-2027, fueron recibidos por una cara familiar. Gallo, el perro de terapia de la escuela, esperando en la línea de entrega por cada palmadita y sonrisa."
     },
     {
-      "id": "en-13",
+      "id": "en-14",
       "title": "Watch: Man dons dog mask to protest canine menace at Khandwa's Jan Sunwai",
       "description": "A man in a dog costume joined a protest against Khandwa's rising stray dog population. He highlighted alleged financial irregularities in the municipal corporation's dog management efforts. Opposition leaders insisted th",
       "url": "https://timesofindia.indiatimes.com/city/indore/watch-man-dons-dog-mask-to-protest-canine-menace-at-khandwas-jan-sunwai/articleshow/133339487.cms",
@@ -401,72 +412,16 @@
       "description_es": "Un hombre disfrazado de perro se unió a una protesta contra la creciente población de perros callejeros de Khandwa. Destacó supuestas irregularidades financieras en los esfuerzos de manejo de perros de la corporación municipal. Los líderes de la oposición insistieron en que"
     },
     {
-      "id": "en-14",
+      "id": "en-15",
       "title": "Lexus treats dogs, owners to ‘Crafted Companionship’",
       "description": "Lexus Philippines marked National Dog Month with its Crafted Companionship lifestyle pop-up, featuring a pet bento workshop and photography experience for dogs and their owners.",
       "url": "https://tribune.net.ph/2026/08/19/lexus-treats-dogs-owners-to-crafted-companionship",
       "urlToImage": "https://images.assettype.com/tribune/2026-08-19/bjem507p/0-02-06-bf65fc46667439a4ecec48965748ee56554f57a54858cce2e8b515ff20b25b8b22464aa6550.jpg?w=1200&auto=format&mode=crop&crop=focalpoint&ar=16%3A10&fp-x=0.532&fp-y=0.372&fp-z=1",
       "publishedAt": "2026-08-19 05:04:29",
-      "sourceName": "tribune",
-      "title_es": "Lexus regala a los dueños de perros «Crafted Companionship»",
-      "description_es": "Lexus Filipinas celebró el Mes Nacional del Perro con su ventana emergente de estilo de vida de Crafted Companionship, que incluye un taller de bento para mascotas y una experiencia fotográfica para perros y sus dueños."
-    },
-    {
-      "id": "en-15",
-      "title": "Learn how to engage better with your dog at this unique session in Mumbai",
-      "description": "Learn how to communicate better with your dog, learn cool tricks, and end it with a dance routine at this ethical, expert-led session",
-      "url": "https://www.mid-day.com/mumbai-guide/things-to-do/article/learn-how-to-engage-better-with-your-dog-at-this-unique-session-in-mumbai-23645420",
-      "urlToImage": "https://images.mid-day.com/images/images/2026/aug/Dog-show-1-1787069842232_d.png",
-      "publishedAt": "2026-08-19 04:03:43",
-      "sourceName": "mid_day"
+      "sourceName": "tribune"
     },
     {
       "id": "en-16",
-      "title": "Owner arrested over fatal Yuen Long dog attacks, killer dog may be euthanised if not reclaimed",
-      "description": "The owner of a large dog suspected of mauling two smaller dogs to death in Yuen Long has been arrested. The Agriculture, Fisheries and Conservation Department (AFCD) said in a statement on Tuesday night that it had arres",
-      "url": "https://hongkongfp.com/2026/08/19/owner-arrested-over-fatal-yuen-long-dog-attacks-killer-dog-may-be-euthanised-if-not-reclaimed/",
-      "urlToImage": "https://hongkongfp.com/wp-content/uploads/2026/08/AFCD-dogs.jpg",
-      "publishedAt": "2026-08-19 03:55:10",
-      "sourceName": "hongkongfp"
-    },
-    {
-      "id": "en-17",
-      "title": "'Dog in Yuen Long mauling may be put down'",
-      "description": "An official on Wednesday said a large unleashed dog that attacked and killed two smaller pets by a Yuen Long mall on Monday could be put down if the owner decides to hand the animal over to the authorities. Jackie Yip, a",
-      "url": "https://news.rthk.hk/rthk/en/component/k2/1866687-20260819.htm",
-      "urlToImage": "https://newsstatic.rthk.hk/images/mfile_1866687_1_M_20260819103657.jpg",
-      "publishedAt": "2026-08-19 02:36:57",
-      "sourceName": "rthk_en"
-    },
-    {
-      "id": "en-18",
-      "title": "Dogue 2026 Spotlights Celebrity Pets Including Bad Bunny's Sansa and Millie Bobby Brown's Winnie",
-      "description": "The latest Dogue issue features celebrity dogs in stylish portraits and personal profiles, including Bad Bunny's spaghetti-loving beagle Sansa, Millie Bobby Brown's anxiety-support poodle Winnie, and Lena Dunham's dogs I",
-      "url": "https://us.headtopics.com/news/dogue-2026-spotlights-celebrity-pets-including-bad-bunny-s-86771159",
-      "urlToImage": "https://i.headtopics.com/images/2026/8/19/dailymail/dogue-2026-spotlights-celebrity-pets-including-bad-dogue-2026-spotlights-celebrity-pets-including-bad-1901C8ECF3D254DA549A61BE591CDE4C.webp",
-      "publishedAt": "2026-08-19 02:06:49",
-      "sourceName": "headtopics"
-    },
-    {
-      "id": "en-19",
-      "title": "Labrador Dog Leads Officer to Criminal Hideout After Illegal e‐Scooter Escape",
-      "description": "A Labrador guided police to a 41‐year‐old offender who fled in an illegal e‐scooter, resulting in a prison sentence and driving ban.",
-      "url": "https://us.headtopics.com/news/labrador-dog-leads-officer-to-criminal-hideout-after-86771193",
-      "urlToImage": "https://i.headtopics.com/images/2026/8/19/dailymail/labrador-dog-leads-officer-to-criminal-hideout-aft-labrador-dog-leads-officer-to-criminal-hideout-aft-8444977BB2558408735979C9EB2F2B73.webp",
-      "publishedAt": "2026-08-19 02:06:49",
-      "sourceName": "headtopics"
-    },
-    {
-      "id": "en-20",
-      "title": "When a dog’s nose meets AI in the fight against cancer",
-      "description": "Dognosis is combining trained dogs with sensors and artificial intelligence to detect cancer associated signals in human breath.",
-      "url": "https://www.thehansindia.com/business/market-compass/when-a-dogs-nose-meets-ai-in-the-fight-against-cancer-1111331",
-      "urlToImage": "https://assets.thehansindia.com/h-upload/2026/08/19/1691344-doo.webp",
-      "publishedAt": "2026-08-19 01:15:17",
-      "sourceName": "thehansindia"
-    },
-    {
-      "id": "en-21",
       "title": "Vote now for the TSA's cutest dog in the semifinals",
       "description": "Public voting is currently underway in the semifinal round of the TSA's 2026 Cutest Canine Contest, featuring working dogs like Bolt from Dallas Fort Worth International Airport.",
       "url": "https://cw33.com/news/local/vote-now-for-the-tsas-cutest-dog-in-the-semifinals/",
@@ -475,7 +430,7 @@
       "sourceName": "Chanel Young"
     },
     {
-      "id": "en-22",
+      "id": "en-17",
       "title": "Footy for Fido: Adidas drops dog kits for 2026-27",
       "description": "Adidas has released its Clubs Pet Collection with seven different mini kits specialized for your beloved canines.",
       "url": "https://www.espn.com/soccer/story/_/id/49650740/footy-fido-adidas-drops-dog-kits-2026-27",
@@ -484,7 +439,7 @@
       "sourceName": "Chris Wright"
     },
     {
-      "id": "en-23",
+      "id": "en-18",
       "title": "Bring Your Dogue to Work Day",
       "description": "In honor of our merch collaborations with J.Crew, Alex Mill, and Henry Holland, some of our favorite canine models were invited to make their Vogue debut.",
       "url": "https://www.vogue.com/article/vogue-staff-dogs-dogue-2026",
@@ -493,7 +448,7 @@
       "sourceName": "Anna Grace Lee; Rafael Martínez; Rafael MartÃnez"
     },
     {
-      "id": "en-24",
+      "id": "en-19",
       "title": "Insight: How US military funding propelled China’s robot dogs",
       "description": "China’s Unitree Robotics – the world's biggest producer of humanoid and canine robots – based designs for its most successful four-legged machines on innovations funded by the U.S. military, according to three top roboti",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/insight-how-us-military-funding-propelled-chinas-robot-dogs/videoshow/133324305.cms",
@@ -502,7 +457,7 @@
       "sourceName": "ET Online"
     },
     {
-      "id": "en-25",
+      "id": "en-20",
       "title": "When prey instinct strikes: how to save small pets from large threats",
       "description": "Experts offer tips on how to keep small pets safe from aggressive dogs and how owners should train their large canines.",
       "url": "https://www.scmp.com/news/hong-kong/society/article/3364461/when-prey-instinct-strikes-fast-ways-save-small-pets-big-dogs",
@@ -511,7 +466,7 @@
       "sourceName": "Kristen Cheung"
     },
     {
-      "id": "en-26",
+      "id": "en-21",
       "title": "The Best Part of Riding the Subway Is a Chance Encounter With a Subway Dog",
       "description": "Uptown or downtown, express or local, an unexpected benefit of New York’s public transit system is coming face-to-face with a four-legged friend.",
       "url": "https://www.vogue.com/slideshow/subway-dogs-dogue-2026",
@@ -520,7 +475,7 @@
       "sourceName": "Max Berlinger; Hannah La Follette Ryan"
     },
     {
-      "id": "en-27",
+      "id": "en-22",
       "title": "On Beauty, Bias, and Belonging at the World’s Ugliest Dog Contest",
       "description": "One magical, mange-dodging day with the contestants at the Sonoma County Fair’s 50th Annual World’s Ugliest Dog Competition",
       "url": "https://www.vogue.com/slideshow/worlds-ugliest-dog-contest-2026",
@@ -529,7 +484,7 @@
       "sourceName": "Emma Specter"
     },
     {
-      "id": "en-28",
+      "id": "en-23",
       "title": "From the Archives: A Look Back at Bruce Weber’s June 1998 Puppy Wedding Portraits",
       "description": "When the cameras are turned on a canine couple, the traditional wedding portraits go straight to the dogs.",
       "url": "https://www.vogue.com/article/from-the-archives-puppy-love",
@@ -538,7 +493,7 @@
       "sourceName": "Bruce Weber"
     },
     {
-      "id": "en-29",
+      "id": "en-24",
       "title": "Edinburgh care home hosts canine school",
       "description": "Edinburgh care home hosts canine school",
       "url": "https://www.edinburghnews.scotsman.com/your-world/edinburgh-care-home-hosts-canine-school-8927254",
@@ -547,7 +502,7 @@
       "sourceName": "Newsdesk Newsdesk"
     },
     {
-      "id": "en-30",
+      "id": "en-25",
       "title": "Pet owner arrested following unleashed dog attack",
       "description": "The Agriculture, Fisheries and Conservation Department on Tuesday arrested the owner of an unleashed, 60kg dog that alle...",
       "url": "https://news.rthk.hk/rthk/en/component/k2/1866597-20260818.htm",
@@ -556,7 +511,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-31",
+      "id": "en-26",
       "title": "Authorities consider prosecution after large dog mauls 2 smaller pets to death in Yuen Long",
       "description": "The Agriculture, Fisheries and Conservation Department (AFCD) has said it may prosecute the owner of a large dog suspected of mauling two smaller pet dogs to death in separate incidents. The Hong K…",
       "url": "https://hongkongfp.com/2026/08/18/authorities-consider-prosecution-after-large-dog-mauls-2-smaller-pets-to-death-in-yuen-long/",
@@ -565,7 +520,7 @@
       "sourceName": "Irene Chan"
     },
     {
-      "id": "en-32",
+      "id": "en-27",
       "title": "Shiba Inu Says Even Ghosts Need a 'Guard Dog,' Then Casually Auditions Its Canine Mascot as the Ultimate",
       "description": "Shiba Inu token's official X account dropped a witty Hungry Ghost Festival reference on Monday, August 17, positioning the Shiba Inu as the ghosts’ loyal guard dog.",
       "url": "https://www.benzinga.com/crypto/cryptocurrency/26/08/61264974/shiba-inu-ghosts-guard-dog-canine-mascot",
@@ -574,7 +529,7 @@
       "sourceName": "Aniket Verma"
     },
     {
-      "id": "en-33",
+      "id": "en-28",
       "title": "Dog food recalled in 11 states after deadly bacteria discovered",
       "description": "Dog owners are being urged to check their freezers after a popular dog food leaves three pets sick.",
       "url": "https://www.dailymail.com/yourmoney/article-16057769/dog-food-recall-bacteria-raw-chicken-recipe.html",
@@ -583,7 +538,7 @@
       "sourceName": "Sadie Whitelocks"
     },
     {
-      "id": "en-34",
+      "id": "en-29",
       "title": "The Most Photographed Dog Breed in the World Is No. 1 for a Reason, and We Totally Get It",
       "description": "For the average dog parent, taking several photos of their beloved canine friend daily is completely normal.Photos of your dog sleeping, eating, …",
       "url": "https://paradepets.com/pet-news/most-photographed-dog-breed-in-the-world-no-1-for-reason",
@@ -592,7 +547,7 @@
       "sourceName": "Meredith Lepore"
     },
     {
-      "id": "en-35",
+      "id": "en-30",
       "title": "St. Louis airport security dog makes TSA's Cutest Canine semifinals",
       "description": "A canine crime solver from St. Louis is in the final four of the Transportation Security Administration’s Cutest Canine Contest.",
       "url": "https://fox2now.com/news/missouri/st-louis-airport-security-dog-makes-tsas-cutest-canine-semifinals/",
@@ -601,7 +556,7 @@
       "sourceName": "Kevin S. Held"
     },
     {
-      "id": "en-36",
+      "id": "en-31",
       "title": "Fringe Review: Hilarious and harrowing, Short King a healer for all ages",
       "description": "Gordon Neill’s moving kids play about a tiny king who tries to ban shadows and shut himself away from the world after his dog Wheels dies",
       "url": "https://edmontonjournal.com/entertainment/theatre/fringe-review-hilarious-and-harrowing-short-king-a-healer-for-all-ages",
@@ -610,7 +565,7 @@
       "sourceName": "Fish Griwkowsky"
     },
     {
-      "id": "en-37",
+      "id": "en-32",
       "title": "In 'Etna,' a canine narrator delivers a poignant anti-war message",
       "description": "Paul Yoon's new novel follows a dog conscripted into an unnamed war in an unnamed country. From the very first page, Etna's voice is somber and poetic in its simplicity.",
       "url": "https://www.npr.org/2026/08/17/nx-s1-5935270/etna-paul-yoon-review",
@@ -619,7 +574,7 @@
       "sourceName": "Maureen Corrigan"
     },
     {
-      "id": "en-38",
+      "id": "en-33",
       "title": "AFCD arrests dog keeper",
       "description": "The Agriculture, Fisheries & Conservation Department arrests the keeper of the dog involved in the case where a dog attacked other dogs in Yuen Long on August 17.",
       "url": "http://www.news.gov.hk/eng/2026/08/20260818/20260818_184229_131.html",
@@ -628,7 +583,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-39",
+      "id": "en-34",
       "title": "AKC Canine Partners Unveils Refreshed Brand and Launches Photo Contest Celebrating Mixed-Breed Dogs",
       "description": "NEW YORK, Aug. 17, 2026 (GLOBE NEWSWIRE) -- The American Kennel Club (AKC®), a not-for-profit organization, the world's largest registry of purebred and...",
       "url": "https://www.globenewswire.com/news-release/2026/08/17/3346266/0/en/akc-canine-partners-unveils-refreshed-brand-and-launches-photo-contest-celebrating-mixed-breed-dogs.html",
@@ -637,7 +592,7 @@
       "sourceName": "The American Kennel Club"
     },
     {
-      "id": "en-40",
+      "id": "en-35",
       "title": "Large dog suspected of killing two canines: police",
       "description": "Police on Monday said two dogs have succumbed to their injuries after a large dog was suspected of attacking them in Yue...",
       "url": "https://news.rthk.hk/rthk/en/component/k2/1866489-20260817.htm",
@@ -646,7 +601,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-41",
+      "id": "en-36",
       "title": "Four dog breeds that often live up to 20 years",
       "description": "Explore which dog breeds tend to live the longest, from Chihuahuas to Australian Cattle Dogs, and the biological factors that impact canine longevity.",
       "url": "https://english.pravda.ru/news/animal/168000-canine-longevity-breeds/",
@@ -655,7 +610,7 @@
       "sourceName": "Angela Antonova"
     },
     {
-      "id": "en-42",
+      "id": "en-37",
       "title": "From a 15-Second Walk to a Digital Memory: Building a Canine Cognitive Twin",
       "description": "This is a submission for Weekend Challenge: Dog Days Edition What I Built Canine...",
       "url": "https://dev.to/prince_panchani_f971a20ec/from-a-15-second-walk-to-a-digital-memory-building-a-canine-cognitive-twin-476c",
@@ -664,7 +619,7 @@
       "sourceName": "Prince Panchani"
     },
     {
-      "id": "en-43",
+      "id": "en-38",
       "title": "The Vacuum Approaches — you are the dog",
       "description": "This is a submission for Weekend Challenge: Dog Days Edition The Vacuum Approaches is a tiny...",
       "url": "https://dev.to/namingthingsishard/the-vacuum-approaches-you-are-the-dog-4bf1",
@@ -673,7 +628,7 @@
       "sourceName": "Shwetha"
     },
     {
-      "id": "en-44",
+      "id": "en-39",
       "title": "Map shows 11 states where dog food recalled over salmonella risk",
       "description": "Hundreds of bags of frozen dog food have been recalled in 11 states over the risk of salmonella contamination.",
       "url": "https://www.newsweek.com/map-shows-11-states-where-dog-food-recalled-over-salmonella-risk-12328942",
@@ -682,7 +637,7 @@
       "sourceName": "Giulia Carbonaro"
     },
     {
-      "id": "en-45",
+      "id": "en-40",
       "title": "BarkToTheFuture — What Is Your Dog REALLY Thinking?",
       "description": "This is a submission for Weekend Challenge: Dog Days Edition What I Built I built...",
       "url": "https://dev.to/muhammad_zeeshan_6499a22a/barktothefuture-what-is-your-dog-really-thinking-54fj",
@@ -691,7 +646,7 @@
       "sourceName": "Muhammad Zeeshan"
     },
     {
-      "id": "en-46",
+      "id": "en-41",
       "title": "Dogs kick legs back after pooing for key reason – not to cover mess",
       "description": "Clinical canine behaviourist Will Atherton explained why your dog kicks its back legs after going to the toilet - and whether it's something you should be concerned about",
       "url": "https://www.mirror.co.uk/lifestyle/dogs-kick-legs-back-after-37557381",
@@ -700,7 +655,7 @@
       "sourceName": "Paige Freshwater"
     },
     {
-      "id": "en-47",
+      "id": "en-42",
       "title": "Dog trainer explains what cats actually do to a dog's personality",
       "description": "Dogs may not become cats, but living with one can influence their habits, behavior and even how they respond to the world.",
       "url": "https://www.newsweek.com/dog-trainer-explains-what-cats-actually-do-to-dogs-personality-12294971",
@@ -709,7 +664,7 @@
       "sourceName": "Liz O'Connell"
     },
     {
-      "id": "en-48",
+      "id": "en-43",
       "title": "CT art gallery is going to the dogs with exhibit exploring canine imagery and meaning",
       "description": "\"Deus Ex Bark-ina,\" at the Ely Center of Contemporary Art in New Haven through Sept. 13, invited dozens of artists to contribute works where dogs are the main theme.",
       "url": "https://www.courant.com/2026/08/16/ct-art-gallery-is-going-to-the-dogs-with-exhibit-exploring-canine-imagery-and-meaning/",
@@ -718,7 +673,7 @@
       "sourceName": "Christopher Arnott"
     },
     {
-      "id": "en-49",
+      "id": "en-44",
       "title": "Tail Talk: reading the half of the conversation your dog is already having",
       "description": "This is a submission for Weekend Challenge: Dog Days Edition What I Built Tail Talk reads...",
       "url": "https://dev.to/benjaminsqlserver/tail-talk-reading-the-half-of-the-conversation-your-dog-is-already-having-3eno",
@@ -727,7 +682,7 @@
       "sourceName": "Benjamin Fadina"
     },
     {
-      "id": "en-50",
+      "id": "en-45",
       "title": "12 Weird Dog Behaviors That Actually Have A Sweet Meaning - Doggodigest",
       "description": "Dogs are fascinating creatures with a unique set of behaviors that can often leave us scratching our heads. As much as these furry friends are part of our families, they ... Read more",
       "url": "https://doggodigest.com/12-weird-dog-behaviors-that-actually-have-a-sweet-meaning-4-290347/",
@@ -736,7 +691,7 @@
       "sourceName": "Amy-Leigh; Editor"
     },
     {
-      "id": "en-51",
+      "id": "en-46",
       "title": "Woof-worthy cause: Gyeonggi Province hosts adoption drive for its darkest-coated dogs - The Korea Times",
       "description": "In the age of online adoption listings and social media feeds, shelter pets face a surprisingly modern hurdle: dark fur simply doesn’t always captu...",
       "url": "https://www.koreatimes.co.kr/southkorea/environment-animals/20260816/woof-worthy-cause-gyeonggi-province-hosts-adoption-drive-for-its-darkest-coated-dogs",
@@ -745,7 +700,7 @@
       "sourceName": "Jhoo Dong-chan"
     },
     {
-      "id": "en-52",
+      "id": "en-47",
       "title": "Anne Hathaway Knows You're Worried About Starbuck The Dog",
       "description": "Worried about the dog in the sci-fi apocalypse thriller The End of Oak Street? Star Anne Hathaway has just the spoiler for you.",
       "url": "https://deadline.com/2026/08/anne-hathaway-starbuck-end-of-oak-street-1237041593/",
@@ -754,7 +709,7 @@
       "sourceName": "Greg Evans"
     },
     {
-      "id": "en-53",
+      "id": "en-48",
       "title": "Topical clove oil for canine sarcoptic mange promises faster, plant-based treatment",
       "description": "Canine sarcoptic mange (scabies) is a skin condition in which microscopic mites (Sarcoptes scabiei) infest dogs' skin. The condition is contagious and zoonotic and can be difficult to detect. If left untreated, it can ca",
       "url": "https://phys.org/news/2026-08-topical-clove-oil-canine-sarcoptic.html",
@@ -763,7 +718,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-54",
+      "id": "en-49",
       "title": "Start-up leans on cancer-sniffing dogs and AI for early detection",
       "description": "On a 0.8 hectare farm outside Bengaluru, India, Billy, Jessie and Banu put on their gear, enter a laboratory packed with samples and clock in for a shift detecting early signs of cancer. Their most important diagnostic e",
       "url": "https://www.taipeitimes.com/News/biz/archives/2026/08/16/2003862554",
@@ -772,7 +727,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-55",
+      "id": "en-50",
       "title": "Rescued pug earns top honors at World’s Ugliest Dog Contest",
       "description": "Rescued pug Jinny Lu won the World’s Ugliest Dog Contest in California, highlighting rescue animals and celebrating canine individuality.",
       "url": "https://www.denver7.com/life/pets/rescued-pug-earns-top-honors-at-worlds-ugliest-dog-contest",
@@ -781,7 +736,7 @@
       "sourceName": "Justin Boggs"
     },
     {
-      "id": "en-56",
+      "id": "en-51",
       "title": "CanineWhisperer",
       "description": "What I Built Overview & Purpose Canine AI Whisperer is an intelligent multimodal...",
       "url": "https://dev.to/zenieverse/caninewhisperer-3no0",
@@ -790,7 +745,7 @@
       "sourceName": "Nga Nguyen"
     },
     {
-      "id": "en-57",
+      "id": "en-52",
       "title": "Anne Hathaway calls for an automatic R rating for any movie where the dog dies",
       "description": "Anne Hathaway calls for an automatic R rating for any movie where the dog dies",
       "url": "https://www.avclub.com/anne-hathaway-r-rating-movie-if-the-dog-dies",
@@ -799,7 +754,7 @@
       "sourceName": "William Hughes; August"
     },
     {
-      "id": "en-58",
+      "id": "en-53",
       "title": "Anne Hathaway Says ‘Movies That Kill Dogs Should Automatically Be Rated R’",
       "description": "Anne Hathaway assures moviegoers seeing \"The End of Oak Street\" that the dog Starbuck does not die in the movie.",
       "url": "https://variety.com/2026/film/news/anne-hathaway-movies-dog-deaths-rated-r-1236834811/",
@@ -808,7 +763,7 @@
       "sourceName": "Zack Sharf"
     },
     {
-      "id": "en-59",
+      "id": "en-54",
       "title": "Latest salmonella outbreak is in dog food: Map shows states impacted",
       "description": "Oma's Pride announced the voluntary recall of a specific lot of its Woof Complete Canine Chicken Recipe.",
       "url": "https://www.newsweek.com/dog-food-salmonella-recall-egg-omas-pride-map-12325274",
@@ -817,7 +772,7 @@
       "sourceName": "Suzanne Blake"
     },
     {
-      "id": "en-60",
+      "id": "en-55",
       "title": "Dogs understand human emotions through facial expressions: study - National | Globalnews.ca",
       "description": "A team from the University of Vienna scanned the brains of several dogs to reveal how the animals’ brains respond differently depending on humans facial expressions,",
       "url": "https://globalnews.ca/news/12021499/dogs-human-emotions-facial-expressions-study/",
@@ -826,7 +781,7 @@
       "sourceName": "Adriana Fallico"
     },
     {
-      "id": "en-61",
+      "id": "en-56",
       "title": "Dog food sold in 11 states recalled over deadly Salmonella contamination fears",
       "description": "Woof! Both you and your furry friend may now be eating food that causes diarrhea as cyclospora isn’t the only illness to worry about.",
       "url": "https://nypost.com/2026/08/14/lifestyle/dog-food-sold-in-11-states-recalled-fearing-salmonella-contamination/",
@@ -835,7 +790,7 @@
       "sourceName": "Aurielle Weiss"
     },
     {
-      "id": "en-62",
+      "id": "en-57",
       "title": "Dog food voluntarily recalled for potential salmonella contamination - ABC News",
       "description": "The recall affects one lot of the company's Woof Complete Canine Chicken Recipe dog food, according to a company recall announcement posted to the ...",
       "url": "https://abcnews.com/amp/GMA/Living/dog-food-recalled-potential-salmonella-omas-pride/story?id=135639213",
@@ -844,7 +799,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-63",
+      "id": "en-58",
       "title": "Anne Hathaway calls for films with dogs dying to be 'rated R'",
       "description": "Anne Hathaway has called for films featuring dog deaths to be 'automatically rated R'.",
       "url": "https://www.dailymail.com/tvshowbiz/article-16052495/Anne-Hathaway-calls-films-dogs-dying-automatically-rated-R-says-filmmakers-leaving-viewers-traumatised-scared-casually-killing-fictional-canines.html",
@@ -853,7 +808,7 @@
       "sourceName": "Ciara Farmer"
     },
     {
-      "id": "en-64",
+      "id": "en-59",
       "title": "At the high-altitude birthplace of Saint Bernards, huge dogs are a big draw",
       "description": "Switzerland’s national canine has its own attraction, the world’s only theme park dedicated to the giant breed.",
       "url": "https://www.washingtonpost.com/travel/2026/08/14/birthplace-st-bernards-huge-dogs-are-big-draw/",
@@ -862,7 +817,7 @@
       "sourceName": "Andrea Sachs"
     },
     {
-      "id": "en-65",
+      "id": "en-60",
       "title": "South Korea’s hot day festival marks last season of legal dog meat trade",
       "description": "Black goat stew is replacing dog meat",
       "url": "https://www.independent.co.uk/asia/east-asia/dog-meat-ban-festival-south-korea-b3032969.html",
@@ -871,7 +826,7 @@
       "sourceName": "Kyu-seok Shim"
     },
     {
-      "id": "en-66",
+      "id": "en-61",
       "title": "Indian startup leans on cancer-sniffing dogs and AI for early detection",
       "description": "On a two-acre farm outside Bengaluru in southern India, Billy, Jessie and Banu put on their gear, enter a laboratory packed with samples and clock in for a shift detecting early signs of cancer.",
       "url": "https://www.thestar.com.my/tech/tech-news/2026/08/14/indian-startup-leans-on-cancer-sniffing-dogs-and-ai-for-early-detection",
@@ -880,7 +835,7 @@
       "sourceName": "Satviki Sanjay"
     },
     {
-      "id": "en-67",
+      "id": "en-62",
       "title": "These dogs in Malaysia are taken on a 'school bus' for outdoor adventures",
       "description": "As more pet owners rethink care, this dog daycare offers to bring furry friends on adventures to encourage exploration and socialising.",
       "url": "https://www.thestar.com.my/lifestyle/living/2026/08/14/these-dogs-in-malaysia-hop-onto-a-039school-bus039-for-outdoor-adventures-with-furry-friends",
