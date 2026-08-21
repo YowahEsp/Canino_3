@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T23:20:09.880Z",
+  "generatedAt": "2026-08-21T23:47:42.316Z",
   "es": [
     {
       "id": "es-0",
@@ -282,15 +282,6 @@
     },
     {
       "id": "es-31",
-      "title": "¿Cuántos años tiene realmente tu perro? Así puedes calcular su edad",
-      "description": "No exactamente. La famosa regla de multiplicar la edad del perro por siete es una forma sencilla de hacer una estimación, pero no considera que los perros envejecen mucho más rápido durante sus primeros años de vida.",
-      "url": "https://vanguardia.com.mx/informacion/cuantos-anos-tiene-realmente-tu-perro-asi-puedes-calcular-su-edad-GN22944839",
-      "urlToImage": "https://vanguardia.com.mx/binrepository/an-os-perro_1-16657598_20260819234801.jpg",
-      "publishedAt": "2026-08-19 23:42:55",
-      "sourceName": "vanguardia"
-    },
-    {
-      "id": "es-32",
       "title": "Rescatan a dos perros atrapados en canal de aguas pluviales en Tlajomulco",
       "description": "El incidente fue atendido por el Escuadrón Motorizado Jaguares de la Comisaría de la Policía Preventiva Municipal",
       "url": "https://www.informador.mx/jalisco/rescatan-a-dos-perros-atrapados-en-canal-de-aguas-pluviales-en-tlajomulco-20260818-0096.html",
@@ -299,7 +290,7 @@
       "sourceName": "Marck Hernández"
     },
     {
-      "id": "es-33",
+      "id": "es-32",
       "title": "“La socialización no es que tu perro sea el alma de todos los pipicanes”: 4 claves para ayudarlo a estar con otros compañeros",
       "description": "Dos educadores y divulgadores caninos en redes sociales muestran la importancia de este tipo de interacciones y la actitud de de los dueños que las acompañan",
       "url": "https://www.infobae.com/espana/2026/08/17/la-socializacion-no-es-que-tu-perro-sea-el-alma-de-todos-los-pipicanes-4-claves-para-ayudarlo-a-estar-con-otros-companeros/",
@@ -308,7 +299,7 @@
       "sourceName": "Jorge Ortega"
     },
     {
-      "id": "es-34",
+      "id": "es-33",
       "title": "5 razas de perros ideales para departamentos pequeños en Jalisco",
       "description": "Conoce las mejores opciones caninas para vivir en espacios reducidos dentro de la zona metropolitana y otras ciudades jaliscienses, según expertos en bienestar animal",
       "url": "https://www.informador.mx/estilo/5-razas-de-perros-ideales-para-departamentos-pequenos-en-jalisco-20260814-0102.html",
@@ -317,7 +308,7 @@
       "sourceName": "Luz Borja"
     },
     {
-      "id": "es-35",
+      "id": "es-34",
       "title": "Ataque de un pitbull en CDMX deja muerto a un hombre en situación de calle en Indios Verdes",
       "description": "El incidente ocurre días después de que un niño de 11 años fue atacado por un canino de la misma raza en la alcaldía Iztapalapa",
       "url": "https://www.infobae.com/mexico/2026/08/16/ataque-de-un-pitbull-en-cdmx-deja-muerto-a-un-hombre-en-situacion-de-calle-en-indios-verdes/",
@@ -326,7 +317,7 @@
       "sourceName": "Víctor Cisneros"
     },
     {
-      "id": "es-36",
+      "id": "es-35",
       "title": "Distinguen a escuela de educación canina por su labor por el bienestar de las mascotas de compañía",
       "description": "Frente a la obediencia tradicional, la etología clínica promueve un enfoque basado en las emociones y las necesidades naturales de los perros. En diálogo con PERFIL, Juan Manuel Liquindoli, director del establecimiento d",
       "url": "https://www.perfil.com/noticias/sociedad/distinguen-a-escuela-de-educacion-canina-por-su-labor-por-el-bienestar-de-las-mascotas-de-compania.phtml",
@@ -335,7 +326,7 @@
       "sourceName": "Claudio Corsalini"
     },
     {
-      "id": "es-37",
+      "id": "es-36",
       "title": "Anastasia, diseñadora de bozales caninos: 'Se usan para mucho más que con perros agresivos, algunos los llevan para no comer basura o cosas tóxicas del suelo'",
       "description": "“Un bozal nunca debe sentirse como un castigo”, sostiene.",
       "url": "https://www.huffingtonpost.es/life/animales/anastasia-disenadora-bozales-caninos-se-mas-perros-agresivos-llevan-comer-basura-cosas-toxicas-suelo-f202608.html",
@@ -369,6 +360,17 @@
     },
     {
       "id": "en-2",
+      "title": "Kendall Jenner supports Jacob Elordi at London premiere",
+      "description": "Kendall Jenner supported Jacob Elordi at the London premiere of The Dog Stars, staying close to the actor despite skipping their red-carpet debut as a couple. Jenner was spotted holding Elordi’s hand as they left the ven",
+      "url": "https://dailytimes.com.pk/1541691/kendall-jenner-supports-jacob-elordi-at-london-premiere/",
+      "urlToImage": "https://dailytimes.com.pk/assets/uploads/2026/08/21/Kendall-Jenner-supports-Jacob-Elordi-at-London-premiere.webp",
+      "publishedAt": "2026-08-21 11:37:03",
+      "sourceName": "dailytimes_pk",
+      "title_es": "Kendall Jenner apoya a Jacob Elordi en el estreno de Londres",
+      "description_es": "Kendall Jenner apoyó a Jacob Elordi en el estreno de Londres de The Dog Stars, manteniéndose cerca del actor a pesar de saltarse su debut en la alfombra roja como pareja. Jenner fue vista sosteniendo la mano de Elordi cuando salían del ven"
+    },
+    {
+      "id": "en-3",
       "title": "UVA football player Solomon Beebe faces animal cruelty charges after witness alleges he punched dog: report",
       "description": "University of Virginia's expected kick returner Solomon Marshall Beebe faces three animal cruelty charges after a housekeeper saw him punch his dog.",
       "url": "https://www.foxnews.com/outkick-sports/uva-football-player-solomon-beebe-faces-animal-cruelty-charges-witness-alleges-punched-dog-report",
@@ -379,7 +381,7 @@
       "description_es": "Solomon Marshall Beebe, quien se espera que regrese a patadas de la Universidad de Virginia, se enfrenta a tres cargos por crueldad animal después de que un ama de llaves lo viera golpear a su perro."
     },
     {
-      "id": "en-3",
+      "id": "en-4",
       "title": "Move over cockapoos – adorable ‘smiley dog’ made famous by Taylor Swift is soaring in popularity, say experts",
       "description": "COCKAPOOS may soon be knocked off the top spot as \"trendiest dog\" - as an unlikely contender could become the nation's most popular pet. Taylor Swift's canine companion has wooed pet lovers with its \"smiley\" appearance. ",
       "url": "https://www.thescottishsun.co.uk/news/16714652/taylor-swift-dog-breeds-soaring-popularity/",
@@ -390,7 +392,7 @@
       "description_es": "COCKAPOOS pronto podría ser eliminado del primer lugar como el \"perro más moderno\", ya que un contendiente poco probable podría convertirse en la mascota más popular de la nación. La compañera canina de Taylor Swift ha cortejado a los amantes de las mascotas con su apariencia \"sonriente\"."
     },
     {
-      "id": "en-4",
+      "id": "en-5",
       "title": "Jacob Elordi Doesn’t Mind Being Mogged by His Co-Star, Rak the Dog",
       "description": "Oh, to be a Dogue, posing alongside Jacob Elordi—the co-stars appeared together on the red carpet for the world premiere of Ridley Scott’s “The Dog Stars.”",
       "url": "https://www.vogue.com/article/jacob-elordi-rak-the-dog-the-dog-stars-premiere-london",
@@ -401,7 +403,7 @@
       "description_es": "Oh, para ser un Dogo, posando junto a Jacob Elordi, las coprotagonistas aparecieron juntas en la alfombra roja para el estreno mundial de \"The Dog Stars\" de Ridley Scott."
     },
     {
-      "id": "en-5",
+      "id": "en-6",
       "title": "Pets at Home to launch new service for dog and cat owners from September",
       "description": "UK pet retailer Pets at Home is launching a new service with three new products for cat and dog owners.",
       "url": "https://www.lancashiretelegraph.co.uk/news/26484200.pets-home-launch-new-service-dog-cat-owners/",
@@ -412,7 +414,7 @@
       "description_es": "El minorista de mascotas del Reino Unido Pets at Home lanzará un nuevo servicio con tres nuevos productos para dueños de gatos y perros."
     },
     {
-      "id": "en-6",
+      "id": "en-7",
       "title": "Inside Topanga’s ‘Disneyland for dogs,’ a luxury canine retreat like no other",
       "description": "With bone-shaped pools, a chauffeured shuttle service and sprawling fantasy playgrounds, this canine retreat is like no other.",
       "url": "https://www.latimes.com/travel/story/2026-08-21/topanga-canyon-view-ranch-disneyland-for-dogs",
@@ -423,7 +425,7 @@
       "description_es": "Con piscinas en forma de hueso, un servicio de transporte con chófer y extensos parques infantiles de fantasía, este refugio canino es único."
     },
     {
-      "id": "en-7",
+      "id": "en-8",
       "title": "Optimism 'essential' in Ridley Scott's sci-fi thriller 'The Dog Stars'",
       "description": "The \"Alien\", \"Gladiator\" and \"The ​Martian\" filmmaker's latest movie \"The Dog Stars\" is based on Peter Heller's 2012 book of the ‌same name and set in a post-apocalyptic world.",
       "url": "https://www.tbsnews.net/splash/optimism-essential-ridley-scotts-sci-fi-thriller-dog-stars-1521136",
@@ -434,7 +436,7 @@
       "description_es": "La última película del cineasta \"Alien\", \"Gladiator\" y \"The ​Martian\" \"The Dog Stars\" se basa en el libro de Peter Heller de 2012 del mismo nombre y ambientado en un mundo post-apocalíptico."
     },
     {
-      "id": "en-8",
+      "id": "en-9",
       "title": "Margaret Qualley wears controversial barefoot Chanel sandals for The Dog Stars premiere",
       "description": "Margaret Qualley attended the London world premiere of her upcoming film, The Dog Stars, wearing controversial Chanel sandals which only consisted of a heel with her toes exposed",
       "url": "https://www.ok.co.uk/celebrity-news/margaret-qualley-wears-controversial-barefoot-37576737",
@@ -445,7 +447,7 @@
       "description_es": "Margaret Qualley asistió al estreno mundial en Londres de su próxima película, The Dog Stars, usando polémicas sandalias Chanel que solo consistían en un tacón con los dedos de los pies expuestos"
     },
     {
-      "id": "en-9",
+      "id": "en-10",
       "title": "Divya Dutta urges compassion for stray dogs after emotional encounter on film set",
       "description": "Mumbai, Aug 21 (IANS) Actress Divya Dutta shared an emotional experience involving a stray dog she encountered on a film set. The incident left her reflecting on how stray animals are treated and prompted her to urge peo",
       "url": "https://www.thehawk.in/news/showbiz/divya-dutta-urges-compassion-for-stray-dogs-after-emotional-encounter-on-film-set",
@@ -456,7 +458,7 @@
       "description_es": "Mumbai, 21 de agosto (IANS) La actriz Divya Dutta compartió una experiencia emocional que involucró a un perro callejero que encontró en un set de filmación. El incidente la dejó reflexionando sobre cómo se trata a los animales callejeros y la llevó a instar a las personas"
     },
     {
-      "id": "en-10",
+      "id": "en-11",
       "title": "Ridley Scott returns to sci-fi with ‘The Dog Stars,’ a dystopian story built on hope",
       "description": "Ridley Scott directs 'The Dog Stars,' a film set after a devastating pandemic. Jacob Elordi stars as a survivor searching for connection and hope. The story focuses on human resilience and the willingness to love again. ",
       "url": "https://economictimes.indiatimes.com/news/international/global-trends/ridley-scott-returns-to-sci-fi-with-the-dog-stars-a-dystopian-story-built-on-hope/articleshow/133405944.cms",
@@ -467,7 +469,7 @@
       "description_es": "Ridley Scott dirige 'The Dog Stars', una película ambientada después de una devastadora pandemia. Jacob Elordi interpreta a un sobreviviente en busca de conexión y esperanza. La historia se centra en la resiliencia humana y la voluntad de volver a amar."
     },
     {
-      "id": "en-11",
+      "id": "en-12",
       "title": "Out-of-control dogs: it’s best to act before the worst happens",
       "description": "Jackie Drakeford on what the Dangerous Dogs Act and the Dogs Act 1871 really offer when a loose dog charges yours, and how to spot trouble coming.",
       "url": "https://www.shootinguk.co.uk/gundogs/out-of-control-dogs-reading-the-danger/",
@@ -478,7 +480,7 @@
       "description_es": "Jackie Drakeford sobre lo que realmente ofrecen la Ley de Perros Peligrosos y la Ley de Perros de 1871 cuando un perro suelto carga el tuyo, y cómo detectar problemas."
     },
     {
-      "id": "en-12",
+      "id": "en-13",
       "title": "Dog mauling death fuels push for stricter laws",
       "description": "Lawmaker Judy Chan has urged the government to introduce stricter regulations for animal care centres and improve microchipping requirements, following the death of a woman in what is believed to be a dog attack at a lic",
       "url": "https://news.rthk.hk/rthk/en/component/k2/1867001-20260821.htm",
@@ -489,7 +491,7 @@
       "description_es": "La legisladora Judy Chan ha instado al gobierno a introducir regulaciones más estrictas para los centros de cuidado de animales y mejorar los requisitos de microchip, tras la muerte de una mujer en lo que se cree que es un ataque de perro en un centro de cuidado de animales"
     },
     {
-      "id": "en-13",
+      "id": "en-14",
       "title": "5 dog breeds known for their intelligence and that are easy to train — full list",
       "description": "A pet expert has shared the five smartest dog breeds, explaining that canine intelligence is measured by how quickly a dog learns new commands and how reliably it obeys",
       "url": "https://www.mirror.co.uk/lifestyle/5-dog-breeds-known-intelligence-37572855",
@@ -500,18 +502,16 @@
       "description_es": "Un experto en mascotas ha compartido las cinco razas de perros más inteligentes, explicando que la inteligencia canina se mide por la rapidez con la que un perro aprende nuevas órdenes y la fiabilidad con la que obedece"
     },
     {
-      "id": "en-14",
+      "id": "en-15",
       "title": "Animal lover Jojo remembered for a life dedicated to saving stray dogs",
       "description": "A 33-year-old animal welfare advocate known affectionately as Jojo, has left behind a legacy defined by her boundless compassion for abandoned animals following her tragic passing in Ta Kwu Ling.",
       "url": "https://www.thestandard.com.hk/news/article/340599/Animal-lover-Jojo-remembered-for-a-life-dedicated-to-saving-stray-dogs",
       "urlToImage": "https://image.hkstandard.com.hk/f/1024p0/0x0/100/none/4014b3c0834f431223a787318abb9cee/2026-08/KF_8_.png",
       "publishedAt": "2026-08-21 06:08:11",
-      "sourceName": "thestandard_hk",
-      "title_es": "Jojo, amante de los animales recordada por una vida dedicada a salvar perros callejeros",
-      "description_es": "Una defensora del bienestar animal de 33 años conocida cariñosamente como Jojo, ha dejado un legado definido por su compasión ilimitada por los animales abandonados tras su trágico fallecimiento en Ta Kwu Ling."
+      "sourceName": "thestandard_hk"
     },
     {
-      "id": "en-15",
+      "id": "en-16",
       "title": "Kendall Jenner supports Jacob Elordi at ‘The Dog Stars' London premiere",
       "description": "Kendall Jenner supports Jacob Elordi at ‘The Dog Stars’ London premiere Though Kendall Jenner skipped the opportunity to make the red-carpet debut as a couple with Jacob Elordi, she stayed close to him in London. The Eup",
       "url": "https://www.geo.tv/latest/678569-kendall-jenner-supports-jacob-elordi-at-the-dog-stars-london-premiere",
@@ -520,7 +520,7 @@
       "sourceName": "geo"
     },
     {
-      "id": "en-16",
+      "id": "en-17",
       "title": "Meet the Owens to Dog Park: the seven best shows to stream this week",
       "description": "Is Michael Owen really boring? That’s the elephant in the room in a new documentary that goes inside the former football star’s home and racing empire. Plus, a lovely canine-centred meet-cute comedy",
       "url": "https://www.theguardian.com/tv-and-radio/2026/aug/21/meet-the-owens-to-dog-park-the-seven-best-shows-to-stream-this-week",
@@ -529,22 +529,13 @@
       "sourceName": "Phil Harrison"
     },
     {
-      "id": "en-17",
+      "id": "en-18",
       "title": "Hong Kong woman, 33, dies after being mauled by dog at Ta Kwu Ling animal shelter",
       "description": "A Hong Kong woman was found dead at a licensed animal shelter in Ta Kwu Ling on Thursday after she was mauled by a dog, adding to a string of attacks this week involving canines. Police said on Thursday night that a 33-y",
       "url": "https://hongkongfp.com/2026/08/21/hong-kong-woman-33-dies-after-mauled-by-dog-in-licensed-ta-kwu-ling-animal-shelter/",
       "urlToImage": "https://hongkongfp.com/wp-content/uploads/2026/08/RENAME-before-upload1.jpg",
       "publishedAt": "2026-08-21 05:24:39",
       "sourceName": "hongkongfp"
-    },
-    {
-      "id": "en-18",
-      "title": "Probe into canine deaths at Blue Water Hotel",
-      "description": "Police have launched an investigation into the deaths of 04 dogs after they were allegedly electrocuted by an electrified boundary fence installed at the The Blue Water Hotel and Spa in Thalpitiya, Wadduwa. The Blue Wate",
-      "url": "https://srilankamirror.com/news/probe-into-canine-deaths-at-blue-water-hotel/",
-      "urlToImage": "https://srilankamirror.com/wp-content/uploads/2026/08/Blue-Waters_Wadduwa_1200x675px_21_08_26-1000x600.jpg",
-      "publishedAt": "2026-08-21 05:01:14",
-      "sourceName": "srilankamirror"
     },
     {
       "id": "en-19",
