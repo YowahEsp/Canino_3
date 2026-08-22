@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T20:18:19.744Z",
+  "generatedAt": "2026-08-22T20:47:57.446Z",
   "es": [
     {
       "id": "es-0",
@@ -250,6 +250,17 @@
     },
     {
       "id": "en-1",
+      "title": "Four-legged lifesavers: Inside Korea’s growing canine blood donation network",
+      "description": "SEOUL: Cappu is seven years old, weighs 31 kilogrammes and, by most measures, lives an ordinary golden retriever's life. But over the past four years, he has quietly built up an unusual record: 10 blood donations.",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/22/four-legged-lifesavers-inside-koreas-growing-canine-blood-donation-network",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/08/22/4072751.jpg",
+      "publishedAt": "2026-08-22 08:22:00",
+      "sourceName": "thestar_my",
+      "title_es": "Salvavidas de cuatro patas: dentro de la creciente red de donación de sangre canina de Corea",
+      "description_es": "SEÚL: Cappu tiene siete años, pesa 31 kilogramos y, según la mayoría de las medidas, vive la vida de un golden retriever común. Pero en los últimos cuatro años, ha acumulado silenciosamente un registro inusual: 10 donaciones de sangre."
+    },
+    {
+      "id": "en-2",
       "title": "Police dogs to remain under state's care after retirement: Maharashtra CM",
       "description": "The move comes after consistent concerns regarding the emotional and mental well being of police dogs after being put up for external adoption.",
       "url": "https://www.hindustantimes.com/cities/mumbai-news/devendra-fadnavis-maharashtra-police-dogs-retirement-home-department-101787381831438.html",
@@ -260,7 +271,7 @@
       "description_es": "La medida se produce después de las preocupaciones constantes sobre el bienestar emocional y mental de los perros policía después de ser dados en adopción externa."
     },
     {
-      "id": "en-2",
+      "id": "en-3",
       "title": "Maharashtra To Let Retired Police Dogs Stay With Handlers At State Expense",
       "description": "The decision addresses issue regarding the emotional and psychological health of service dogs",
       "url": "https://www.ndtv.com/india-news/maharashtra-to-let-retired-police-dogs-stay-with-handlers-at-state-expense-11944029",
@@ -271,7 +282,7 @@
       "description_es": "La decisión aborda un problema relacionado con la salud emocional y psicológica de los perros de servicio"
     },
     {
-      "id": "en-3",
+      "id": "en-4",
       "title": "Maharashtra to retain retired police dogs with handlers, bear lifetime care costs",
       "description": "Maharashtra has announced a new policy allowing retired police dogs to stay with their handlers for life. With full funding from the state for living and medical expenses, this initiative addresses the emotional needs of",
       "url": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-to-retain-retired-police-dogs-with-handlers-bear-lifetime-care-costs/articleshow/133419483.cms",
@@ -280,17 +291,6 @@
       "sourceName": "toi",
       "title_es": "Maharashtra retendrá perros policías jubilados con cuidadores, asumiendo los costos de cuidado de por vida",
       "description_es": "Maharashtra ha anunciado una nueva política que permite que los perros policías jubilados permanezcan con sus cuidadores de por vida. Con fondos completos del estado para gastos de manutención y médicos, esta iniciativa aborda las necesidades emocionales de"
-    },
-    {
-      "id": "en-4",
-      "title": "Four-legged lifesavers: Inside Korea’s growing canine blood donation network",
-      "description": "Cappu is 7 years old, weighs 31 kilograms and, by most measures, lives an ordinary golden retriever’s life. But over the past four years, he has quietly built up an unusual record: 10 blood donations. His latest and fina",
-      "url": "https://www.koreaherald.com/article/10846963",
-      "urlToImage": "https://wimg.heraldcorp.com/news/cms/2026/08/20/news-p.v1.20260820.efbe5858963245dabb6a8d20421288e1_T1.jpg",
-      "publishedAt": "2026-08-22 07:00:00",
-      "sourceName": "koreaherald",
-      "title_es": "Salvavidas de cuatro patas: dentro de la creciente red de donación de sangre canina de Corea",
-      "description_es": "Cappu tiene 7 años, pesa 31 kilogramos y, según la mayoría de las medidas, vive la vida de un golden retriever común. Pero en los últimos cuatro años, ha acumulado silenciosamente un registro inusual: 10 donaciones de sangre. Su última y fina"
     },
     {
       "id": "en-5",
