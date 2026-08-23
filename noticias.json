@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T20:18:05.170Z",
+  "generatedAt": "2026-08-23T21:17:58.427Z",
   "es": [
     {
       "id": "es-0",
@@ -12,6 +12,33 @@
     },
     {
       "id": "es-1",
+      "title": "Cuatro patas, muchos amigos y una plaza que los reúne",
+      "description": "La banda de El Brete reúne a unos 70 dueños que coordinan encuentros cotidianos para que sus perros compartan juegos, aprendan a vincularse y fortalezcan lazos",
+      "url": "https://www.elterritorio.com.ar/noticias/2026/08/23/908284-cuatro-patas-muchos-amigos-y-una-plaza-que-los-reune",
+      "urlToImage": "https://elterritorio-s3.cdn.net.ar/s3i233/2026/08/elterritorio/images/02/73/77/2737771_1784965ef78855c633212aea01d6bac660934168a4560680ede1fe1b1d03ab3e/md.webp",
+      "publishedAt": "2026-08-23 09:05:49",
+      "sourceName": "elterritorio"
+    },
+    {
+      "id": "es-2",
+      "title": "Una necesidad impulsó un servicio de niñera de mascotas",
+      "description": "Con atención personalizada y rutinas adaptadas a cada animal, la propuesta permite a sus dueños viajar o trabajar con tranquilidad mientras reciben cuidados",
+      "url": "https://www.elterritorio.com.ar/noticias/2026/08/23/908299-una-necesidad-impulso-un-servicio-de-ninera-de-mascotas",
+      "urlToImage": "https://elterritorio-s3.cdn.net.ar/s3i233/2026/08/elterritorio/images/02/73/77/2737773_b2209201807e7290def0a3ae1646e9f62e11fe8529da207b7f069d6477a41368/md.webp",
+      "publishedAt": "2026-08-23 09:05:49",
+      "sourceName": "elterritorio"
+    },
+    {
+      "id": "es-3",
+      "title": "Cuando la mascota pasa a formar parte de la familia",
+      "description": "El psicólogo Marcos Díaz Videla habla de familias multiespecie y que esa transformación incorpora términos como \"perrhijo\"",
+      "url": "https://www.elterritorio.com.ar/noticias/2026/08/23/908308-cuando-la-mascota-pasa-a-formar-parte-de-la-familia",
+      "urlToImage": "https://www.elterritorio.com.ar/images/custom/sin-imagen.webp",
+      "publishedAt": "2026-08-23 09:05:49",
+      "sourceName": "elterritorio"
+    },
+    {
+      "id": "es-4",
       "title": "Los perros quintuplican a los menores de ocho años en Cáceres: \"Los jóvenes se han vuelto más egoístas\"",
       "description": "Miguel Ángel estaba pendiente de sus dos hijas en el parque de Cánovas cuando respondió a este diario sobre lo que supone para él la paternidad: «No hay nada más bonito». Martín paseaba con su pequeño perro de raz",
       "url": "https://www.elperiodicoextremadura.com/caceres-local/2026/08/23/perros-quintuplican-menores-caceres-egoistas-133100899.html",
@@ -20,7 +47,7 @@
       "sourceName": "elperiodicoextremadura"
     },
     {
-      "id": "es-2",
+      "id": "es-5",
       "title": "¿Quién dijo que es sólo una mascota?",
       "description": "Ya no se trata solamente de tener un animal en casa, sino de una sociedad que transforma sus hábitos, espacios y servicios a partir de una convivencia cada vez más cercana y que convierte a perros, gatos y otras especi",
       "url": "https://www.elterritorio.com.ar/noticias/2026/08/23/908320-quien-dijo-que-es-solo-una-mascota",
@@ -29,7 +56,7 @@
       "sourceName": "elterritorio"
     },
     {
-      "id": "es-3",
+      "id": "es-6",
       "title": "Un fin de semana único: «Alquilamos una aldea gallega entera para ir con perros»",
       "description": "Aislados en plena naturaleza. Un grupo de amantes de los animales convivirán durante un fin de semana en un entorno seguro y único con un programa pensado en todos",
       "url": "https://www.lavozdegalicia.es/noticia/coruna/bergondo/2026/08/22/alquilamos-aldea-gallega-entera-ir-perros/0003_202608SY22P14991.htm",
@@ -38,7 +65,7 @@
       "sourceName": "lavozdegalicia"
     },
     {
-      "id": "es-4",
+      "id": "es-7",
       "title": "El desesperante rescate de un perro empetrolado en Comodoro: \"Ayuda, sigue respirando\"",
       "description": "El animal logró ser retirado gracias a la colaboración de bomberos, la policía y vecinos. Ya se encuentra siendo asistido. (IMÁGENES SENSIBLES)",
       "url": "https://www.adnsur.com.ar/sociedad/el-desesperante-rescate-de-un-perro-empetrolado-en-comodoro---ayuda--sigue-respirando-_a6a8a4dcdfa90492fd6746cb0",
@@ -47,7 +74,7 @@
       "sourceName": "adnsur"
     },
     {
-      "id": "es-5",
+      "id": "es-8",
       "title": "El valor de descifrar a un perro de trabajo: la vida cotidiana de Kindu",
       "description": "Tras una destacada labor en la sección Canes Detectores, una afección física aceleró su retiro a los cinco años. Próximo a cumplir los nueve, transita un presente adaptado junto a Nahuel Camezzana, en un proceso do",
       "url": "https://www.diariodemocracia.com/ciudad/junin/343623-el-valor-de-descifrar-a-un-perro-de-trabajo-la-vid/",
@@ -56,7 +83,7 @@
       "sourceName": "diariodemocracia"
     },
     {
-      "id": "es-6",
+      "id": "es-9",
       "title": "Rescatan a tres perros maltratados: Estaban atados y sin alimento",
       "description": "Personal del Instituto Municipal de Protección Animal de El Marqués retiró a tres perros que se encontraban atados, sin agua ni alimento, dentro de un...",
       "url": "https://www.meganoticias.mx/queretaro/noticia/rescatan-a-tres-perros-maltratados-estaban-atados-y-sin-alimento/762792",
@@ -65,7 +92,7 @@
       "sourceName": "meganoticias_mx"
     },
     {
-      "id": "es-7",
+      "id": "es-10",
       "title": "El tiempo que tarda tu cachorro en aprender una orden",
       "description": "Especialistas en comportamiento animal revelan los plazos reales que necesita el cerebro de un perro joven para asimilar comandos básicos mediante refuerzo positivo",
       "url": "https://www.informador.mx/estilo/el-tiempo-exacto-que-tarda-tu-cachorro-en-aprender-una-orden-y-como-acelerarlo-20260820-0130.html",
@@ -74,7 +101,7 @@
       "sourceName": "informador_mx"
     },
     {
-      "id": "es-8",
+      "id": "es-11",
       "title": "¿Tu perro comió basura? Esto debes hacer",
       "description": "La ingesta de desechos o alimentos altos en grasa puede desencadenar desde malestares leves hasta pancreatitis severa, advierten especialistas",
       "url": "https://www.informador.mx/estilo/tu-perro-comio-basura-esto-debes-hacer-20260820-0136.html",
@@ -83,7 +110,7 @@
       "sourceName": "informador_mx"
     },
     {
-      "id": "es-9",
+      "id": "es-12",
       "title": "María, veterinaria: “Estas son las cinco frutas que sí podés darle a tu perro”",
       "description": "La especialista explicó cuáles son las opciones más recomendables y qué beneficios aporta cada una a los animales",
       "url": "https://www.lanacion.com.ar/lifestyle/mascotas/maria-veterinaria-estas-son-las-cinco-frutas-que-si-podes-darle-a-tu-perro-nid22082026/",
@@ -92,7 +119,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "es-10",
+      "id": "es-13",
       "title": "¿Un perro realmente puede morir de pena? Las verdades y mitos sobre su corazón",
       "description": "Separamos el mito de la verdad: ¿un perro puede morir de pena o es solo una creencia? Un especialista desgana el funcionamiento del corazón de nuestras mascotas.",
       "url": "https://www.antena3.com/novamas/vida/perro-realmente-puede-morir-pena-verdades-mitos-corazon_202608226a896af971b42a0b5dfe43f6.html",
@@ -101,7 +128,7 @@
       "sourceName": "antena3"
     },
     {
-      "id": "es-11",
+      "id": "es-14",
       "title": "Alex Elvira, adiestrador canino: “El pitbull es uno de los perros más fáciles de adiestrar, aunque mucha gente piense lo contrario”",
       "description": "Elegir un perro no debería depender únicamente del aspecto o el tamaño que se asocie a una determinada raza. A la hora de educarlo, entran en juego factores fundamentales como su capacidad de aprendizaje, su motivacio",
       "url": "https://expertoanimal.elperiodico.com/alex-elvira-adiestrador-canino-el-pitbull-es-uno-de-los-perros-mas-faciles-de-adiestrar-aunque-mucha-gente-piense-lo-contrario-28676.html",
@@ -110,7 +137,7 @@
       "sourceName": "elperiodicomediterraneo"
     },
     {
-      "id": "es-12",
+      "id": "es-15",
       "title": "Alquilar un perro por horas: el fenómeno japonés que divide opiniones",
       "description": "Algunos centros utilizan estos paseos por horas para fomentar la adopción de animales que buscan un hogar definitivo.",
       "url": "https://www.20minutos.es/animaleros/perros/alquilar-un-perro-por-horas-fenomeno-japones-que-divide-opiniones_7014314_0.html",
@@ -119,7 +146,7 @@
       "sourceName": "minutos20"
     },
     {
-      "id": "es-13",
+      "id": "es-16",
       "title": "Un estudio genético podría cambiar la forma en que Australia protege y gestiona a sus perros salvajes",
       "description": "Investigadores identificaron 8 poblaciones diferenciadas de dingos, dos de ellas nunca antes descritas. La denominación que se usa para clasificarlos oculta diferencias biológicas que ahora obligan a replantear décadas d",
       "url": "https://www.infobae.com/america/mundo/2026/08/21/un-estudio-genetico-podria-cambiar-la-forma-en-que-australia-protege-y-gestiona-a-sus-perros-salvajes/",
@@ -128,7 +155,7 @@
       "sourceName": "Agustina Herreria"
     },
     {
-      "id": "es-14",
+      "id": "es-17",
       "title": "El Salvador: Agente canino detecta droga oculta en aire acondicionado durante operativo",
       "description": "Un perro entrenado de la Policía Nacional Civil permitió descubrir marihuana escondida en un aparato de aire acondicionado durante una intervención en Chalatenango",
       "url": "https://www.infobae.com/el-salvador/2026/08/21/el-salvador-agente-canino-detecta-droga-oculta-en-aire-acondicionado-durante-operativo/",
@@ -137,7 +164,7 @@
       "sourceName": "José Cerón"
     },
     {
-      "id": "es-15",
+      "id": "es-18",
       "title": "Madrid tiene, cómo no, el maratón de perros más grande de Europa",
       "description": "Por Madrid están apareciendo marquesinas empapeladas con la imagen que encabeza el artículo. ¿Qué es?. \"El mayor evento doglover de España y Europa\". Es una...",
       "url": "https://www.xataka.com/magnet/madrid-tiene-como-no-maraton-perros-grande-europa",
@@ -146,7 +173,7 @@
       "sourceName": "Isra Fdez"
     },
     {
-      "id": "es-16",
+      "id": "es-19",
       "title": "Qué pasó con Snuppy, el primer perro clonado que revolucionó la ciencia y no se libró del escándalo",
       "description": "El animal nació el 24 de abril de 2005 en un laboratorio de Corea del Sur a partir de células adultas de otro perro",
       "url": "https://www.eldiario.es/spin/mundo-animal/paso-snuppy-primer-perro-clonado-revoluciono-ciencia-no-libro-escandalo-pm_1_13376549.html",
@@ -155,7 +182,7 @@
       "sourceName": "Laura Cuesta"
     },
     {
-      "id": "es-17",
+      "id": "es-20",
       "title": "Sinaloa refuerza vigilancia tras detectar gusano barrenador en un perro",
       "description": "El monitoreo oficial indica que solo dos estados se mantienen libres de la plaga que afecta principalmente al ganado",
       "url": "https://www.infobae.com/mexico/2026/08/21/sinaloa-refuerza-vigilancia-tras-detectar-gusano-barrenador-en-un-perro/",
@@ -164,7 +191,7 @@
       "sourceName": "Jaqueline Viedma"
     },
     {
-      "id": "es-18",
+      "id": "es-21",
       "title": "Así localizaron las fosas del ayuntamiento de Altepexi donde terminaban los perros recogidos de la calle",
       "description": "Peritos de la Fiscalía de Puebla determinaron que los perros recogidos por la estancia canina de Altepexi murieron por traumatismo craneoencefálico",
       "url": "https://www.infobae.com/mexico/2026/08/20/asi-localizaron-las-fosas-del-ayuntamiento-de-altepexi-donde-terminaban-los-perros-recogidos-de-la-calle/",
@@ -173,7 +200,7 @@
       "sourceName": "Ingrid Scarlet Rubi Resendiz"
     },
     {
-      "id": "es-19",
+      "id": "es-22",
       "title": "Rescatan a dos perros atrapados en canal de aguas pluviales en Tlajomulco",
       "description": "El incidente fue atendido por el Escuadrón Motorizado Jaguares de la Comisaría de la Policía Preventiva Municipal",
       "url": "https://www.informador.mx/jalisco/rescatan-a-dos-perros-atrapados-en-canal-de-aguas-pluviales-en-tlajomulco-20260818-0096.html",
@@ -182,7 +209,7 @@
       "sourceName": "Marck Hernández"
     },
     {
-      "id": "es-20",
+      "id": "es-23",
       "title": "“La socialización no es que tu perro sea el alma de todos los pipicanes”: 4 claves para ayudarlo a estar con otros compañeros",
       "description": "Dos educadores y divulgadores caninos en redes sociales muestran la importancia de este tipo de interacciones y la actitud de de los dueños que las acompañan",
       "url": "https://www.infobae.com/espana/2026/08/17/la-socializacion-no-es-que-tu-perro-sea-el-alma-de-todos-los-pipicanes-4-claves-para-ayudarlo-a-estar-con-otros-companeros/",
@@ -205,6 +232,28 @@
     },
     {
       "id": "en-1",
+      "title": "Retired Police Dogs In Maharashtra To Get Lifelong Care From Force",
+      "description": "In Maharashtra, retired police dogs will now stay with the police force for life rather than being placed in adoptive homes. This change follows concerns about the dogs' well-being after a decade of service.",
+      "url": "https://www.timesnownews.com/mumbai/retired-police-dogs-in-maharashtra-to-get-lifelong-care-from-force-article-155971827",
+      "urlToImage": "https://images.timesnownews.com/thumb/msid-155971863,thumbsize-1742902,width-1280,height-720,resizemode-75/155971863.jpg",
+      "publishedAt": "2026-08-23 09:15:22",
+      "sourceName": "timesnownews",
+      "title_es": "Perros policías jubilados en Maharashtra para recibir cuidados de por vida",
+      "description_es": "En Maharashtra, los perros policías jubilados ahora se quedarán con la policía de por vida en lugar de ser colocados en hogares adoptivos. Este cambio se debe a las preocupaciones sobre el bienestar de los perros después de una década de servicio."
+    },
+    {
+      "id": "en-2",
+      "title": "US dog food brands issue urgent recall over salmonella and metal contamination",
+      "description": "",
+      "url": "https://www.independent.co.uk/bulletin/lifestyle/fromm-and-omas-pride-recalls-b3037703.html",
+      "urlToImage": "https://static.independent.co.uk/2021/01/14/12/Dog%20bowl.jpg?width=1200&auto=webp&crop=3%3A2",
+      "publishedAt": "2026-08-23 08:54:42",
+      "sourceName": "independentuk",
+      "title_es": "Las marcas de alimentos para perros de EE. UU. emiten un retiro urgente por salmonela y contaminación metálica",
+      "description_es": ""
+    },
+    {
+      "id": "en-3",
       "title": "ABP LIVE Pet First | Dog Scratching Your Bed Sheets? Know What Your Pet May Be Trying To Tell You",
       "description": "Dogs are known for their playful and sometimes puzzling habits, and scratching the bed is one behaviour many pet parents notice. Your dog may scratch, circle, or dig at the sheets before settling down, leaving you wonder",
       "url": "https://news.abplive.com/lifestyle/abp-live-pet-first-dog-scratching-your-bed-sheets-know-what-your-pet-may-be-trying-to-tell-you-1863462",
@@ -215,7 +264,7 @@
       "description_es": "Los perros son conocidos por sus hábitos juguetones y, a veces, desconcertantes, y rascar la cama es un comportamiento que muchos padres de mascotas notan. Su perro puede arañar, rodear o cavar en las sábanas antes de establecerse, lo que le hace preguntarse"
     },
     {
-      "id": "en-2",
+      "id": "en-4",
       "title": "Maharashtra police dogs to spend retirement with their handlers",
       "description": "Retired police dogs in Maharashtra will now be allowed to stay with the security force for life rather than being sent to adoptive homes, following a directive by Chief Minister Devendra Fadnavis, officials said on Sunda",
       "url": "https://www.rediff.com/news/report/maharashtra-police-dogs-to-spend-retirement-with-their-handlers/20260823.htm",
@@ -226,7 +275,7 @@
       "description_es": "Los perros policías jubilados en Maharashtra ahora podrán permanecer con la fuerza de seguridad de por vida en lugar de ser enviados a hogares adoptivos, siguiendo una directiva del Ministro Principal Devendra Fadnavis, dijeron las autoridades en Sunda"
     },
     {
-      "id": "en-3",
+      "id": "en-5",
       "title": "Inside S. Korea’s growing canine blood donation network",
       "description": "Cappu is 7 years old, weighs 31 kilograms and, by most measures, lives an ordinary golden retriever’s life. But over the past four years, he has quietly built up an unusual record: 10 blood donations. His latest and fina",
       "url": "https://globalnation.inquirer.net/335631/inside-s-koreas-growing-canine-blood-donation-network",
@@ -237,7 +286,7 @@
       "description_es": "Cappu tiene 7 años, pesa 31 kilogramos y, según la mayoría de las medidas, vive la vida de un golden retriever común. Pero en los últimos cuatro años, ha acumulado silenciosamente un registro inusual: 10 donaciones de sangre. Su última y fina"
     },
     {
-      "id": "en-4",
+      "id": "en-6",
       "title": "Two US brands issue dog food recalls over Salmonella, metal contamination risks",
       "description": "Two dog food manufacturers in the United States have issued recalls over potential contamination risks, with one product linked to... The post Two US brands issue dog food recalls over Salmonella, metal contamination ris",
       "url": "https://tribuneonlineng.com/two-us-brands-issue-dog-food-recalls-over-salmonella-metal-contamination-risks/",
@@ -248,7 +297,7 @@
       "description_es": "Dos fabricantes de alimentos para perros en los Estados Unidos han emitido retiros por posibles riesgos de contaminación, con un producto vinculado a... The post Dos marcas estadounidenses emiten retiros de alimentos para perros por Salmonella, riesgo de contaminación de metales"
     },
     {
-      "id": "en-5",
+      "id": "en-7",
       "title": "I’m a dog expert and these are the 3 breeds I would never own - 1 is more cat than dog",
       "description": "The animal lover shared his experience with the breeds and why he couldn't have one in his own home.",
       "url": "https://www.express.co.uk/life-style/life/2239765/dog-expert-breeds-never-own",
@@ -259,7 +308,7 @@
       "description_es": "El amante de los animales compartió su experiencia con las razas y por qué no podía tener una en su propia casa."
     },
     {
-      "id": "en-6",
+      "id": "en-8",
       "title": "Dog Day returns to North Yorkshire attraction with fun for pets and owners",
       "description": "Dog Day will return to the Himalayan Garden and Sculpture Park near Ripon on September 6, with Positively Canine hosting a dog-friendly event featuring activities for owners and their pets.",
       "url": "https://www.thenorthernecho.co.uk/news/26485752.dog-day-returns-himalayan-garden-near-ripon/",
@@ -270,7 +319,7 @@
       "description_es": "Dog Day regresará al Himalayan Garden and Sculpture Park cerca de Ripon el 6 de septiembre, con Positively Canine organizando un evento apto para perros con actividades para propietarios y sus mascotas."
     },
     {
-      "id": "en-7",
+      "id": "en-9",
       "title": "No more adoption homes: Retired police dogs to remain with force in Maharashtra",
       "description": "Retired police dogs in Maharashtra will now remain with the security force. This directive follows a report highlighting the dogs' post-retirement hardships. The police department will now cover all their lifelong care n",
       "url": "https://economictimes.indiatimes.com/news/india/no-more-adoption-homes-retired-police-dogs-to-remain-with-force-in-maharashtra/articleshow/133435419.cms",
@@ -281,7 +330,7 @@
       "description_es": "Los perros policías jubilados en Maharashtra ahora permanecerán con la fuerza de seguridad. Esta directiva sigue a un informe que destaca las dificultades posteriores a la jubilación de los perros. El departamento de policía ahora cubrirá todos sus cuidados de por vida n"
     },
     {
-      "id": "en-8",
+      "id": "en-10",
       "title": "Optimism ‘essential’ in Ridley Scott’s sci-fi movie comeback The Dog Stars",
       "description": "Jacob Elordi plays a mechanic who survived a pandemic that wiped out most of humanity, including his wife.",
       "url": "https://www.straitstimes.com/life/entertainment/optimism-essential-in-ridley-scotts-sci-fi-movie-comeback-the-dog-stars",
@@ -292,7 +341,7 @@
       "description_es": "Jacob Elordi interpreta a un mecánico que sobrevivió a una pandemia que acabó con la mayor parte de la humanidad, incluida su esposa."
     },
     {
-      "id": "en-9",
+      "id": "en-11",
       "title": "Officials Halt Sale Of ‘Electric Wands’ As Dog Sticks In Kashmir, Launch Arms Act Probe",
       "description": "The Housing & Urban Development Department said it has taken serious note of the advertisement and sale of a device marketed as dog stick.",
       "url": "https://www.etvbharat.com/en/state/officials-halt-sale-of-electric-wands-marketed-as-dog-sticks-in-kashmir-launch-arms-act-probe-enn26082300740",
@@ -303,7 +352,7 @@
       "description_es": "El Departamento de Vivienda y Desarrollo Urbano dijo que ha tomado nota de la publicidad y venta de un dispositivo comercializado como palo de perro."
     },
     {
-      "id": "en-10",
+      "id": "en-12",
       "title": "London Waterloo Introduces Dog Patrols As Railway Station Strengthens Passenger Safety Measures",
       "description": "London Waterloo adds trained dog patrols as SWR and Network Rail Wessex expand railway safety measures for passengers. Read More Source: Travel And Tour World TTW-1974012-1787460473",
       "url": "https://www.travelandtourworld.com/news/article/k639n7v907n6/",
@@ -314,7 +363,7 @@
       "description_es": "London Waterloo añade patrullas caninas entrenadas a medida que SWR y Network Rail Wessex amplían las medidas de seguridad ferroviaria para los pasajeros. Leer más Fuente: Travel And Tour World TTW-1974012-1787460473"
     },
     {
-      "id": "en-11",
+      "id": "en-13",
       "title": "St Giles column: Meet the Somerset woman who rescues troubled dogs",
       "description": "Angela Curtis of Rottie Friends Rescue, featured on Apple FM’s Community Matters, supports St Giles in Somerset, helping to rehabilitate and rehome dogs.",
       "url": "https://www.somersetcountygazette.co.uk/news/26472806.st-giles-column-learn-rottie-friends-rescue/",
@@ -325,7 +374,7 @@
       "description_es": "Angela Curtis de Rottie Friends Rescue, que aparece en Community Matters de Apple FM, apoya a St Giles en Somerset, ayudando a rehabilitar y realojar a los perros."
     },
     {
-      "id": "en-12",
+      "id": "en-14",
       "title": "Two dog food manufacturers recall products within days over metal and salmonella contamination risks: Everything pet owners need to know",
       "description": "Two dog food companies issued recalls in August 2026 for contamination concerns. Fromm Family Foods recalled canned dog food over potential metal fragments. Oma's Pride recalled raw dog food due to Salmonella contaminati",
       "url": "https://economictimes.indiatimes.com/news/international/us/two-dog-food-manufacturers-recall-products-within-days-over-metal-and-salmonella-contamination-risks-everything-pet-owners-need-to-know/articleshow/133433263.cms",
@@ -336,29 +385,16 @@
       "description_es": "Dos compañías de alimentos para perros emitieron retiros en agosto de 2026 por problemas de contaminación. Fromm Family Foods retiró del mercado comida enlatada para perros por posibles fragmentos de metal. Oma's Pride retira comida cruda para perros por Salmonella contaminati"
     },
     {
-      "id": "en-13",
+      "id": "en-15",
       "title": "🐶 Friendly Hamilton Dogs Ready Now for Loving Adoption",
       "description": "Looking for a canine friend in Hamilton, OH? These adoptable dogs are waiting at Animal Friends Humane Society for someone just like you. Breed: Terrier mi",
       "url": "https://www.newsbreak.com/hamilton-oh-daily-brief-375419171/4844380403272-friendly-hamilton-dogs-ready-now-for-loving-adoption",
       "urlToImage": "https://img.particlenews.com/img/id/4JE29s_1EUIuKP400",
       "publishedAt": "2026-08-23 00:00:00",
-      "sourceName": "newsbreak",
-      "title_es": "🐶 Friendly Hamilton Dogs Ready Now for Loving Adoption",
-      "description_es": "¿Buscas un amigo canino en Hamilton, OH? Estos perros adoptables están esperando en Animal Friends Humane Society a alguien como tú. Raza: Terrier mi"
+      "sourceName": "newsbreak"
     },
     {
-      "id": "en-14",
-      "title": "US dog food brands issue urgent recall over salmonella and metal contamination",
-      "description": "Two US dog food brands have issued product recalls due to contamination, with owners advised to stop feeding the products to their dogs and return them to stores. Fromm Family Foods has recalled two types of its wet cann",
-      "url": "https://www.inkl.com/news/us-dog-food-brands-issue-urgent-recall-over-salmonella-and-metal-contamination",
-      "urlToImage": "https://images.inkl.com/s3/article/lead_image/23741227/Dog%20bowl.jpg",
-      "publishedAt": "2026-08-23 00:00:00",
-      "sourceName": "inkl",
-      "title_es": "Las marcas de alimentos para perros de EE. UU. emiten un retiro urgente por salmonela y contaminación metálica",
-      "description_es": "Dos marcas de alimentos para perros de EE. UU. han emitido retiros de productos debido a la contaminación, y se recomienda a los propietarios que dejen de alimentar a sus perros con los productos y los devuelvan a las tiendas. Fromm Family Foods ha retirado dos tipos de sus cañones húmedos"
-    },
-    {
-      "id": "en-15",
+      "id": "en-16",
       "title": "Best joint supplements for dogs, with veterinarian-recommended ingredients",
       "description": "Veterinarians explain which joint supplement ingredients may help dogs with arthritis and joint pain, including marine-based omega-3 fatty acids.",
       "url": "https://www.businessinsider.com/guides/pets/best-joint-supplements-for-dogs",
@@ -367,7 +403,7 @@
       "sourceName": "insider"
     },
     {
-      "id": "en-16",
+      "id": "en-17",
       "title": "Navi Mumbai Dog Handlers Praise State’s Decision For Lifetime Care Of Retired Service Dogs",
       "description": "The dog handlers of the Navi Mumbai police force have expressed considerable relief and joy following the State government’s recent decision. This new policy states that retired police dogs will no longer be offered for ",
       "url": "https://thecsrjournal.in/navi-mumbai-dog-handlers-praise-state-decision-lifetime-care-retired-service-dogs",
@@ -376,7 +412,7 @@
       "sourceName": "thecsrjournal"
     },
     {
-      "id": "en-17",
+      "id": "en-18",
       "title": "From a chuckling horse to an unwalkable dog – your pet queries answered",
       "description": "HE is on a mission to help our pets . . . and is here to answer YOUR questions. Sean, who is the head vet at tailored pet food firm tails.com, has helped with owners’ queries for ten years. He says: “If your pet is actin",
       "url": "https://www.thesun.co.uk/money/40135376/pet-queries-answered-chuckling-horse-dogs-cats/",
@@ -385,7 +421,7 @@
       "sourceName": "thesun"
     },
     {
-      "id": "en-18",
+      "id": "en-19",
       "title": "Dog-friendly Wanwan Liner bus to begin operations between Tokyo and Osaka this fall",
       "description": "For many, the worst part of traveling long distance has nothing to do with the journey itself, but the sadness of leaving your beloved furry friends behind. Though...",
       "url": "https://japantoday.com/category/features/lifestyle/dog-friendly-wanwan-liner-bus-to-begin-operations-between-tokyo-and-osaka-this-fall",
@@ -394,22 +430,13 @@
       "sourceName": "japantoday"
     },
     {
-      "id": "en-19",
-      "title": "What getting a puppy has taught me about the true cost of pet parenting",
-      "description": "It can be an exhausting experience, emotionally and financially, but the trade-offs aren’t all negative.",
-      "url": "https://www.straitstimes.com/business/what-getting-a-puppy-has-taught-me-about-the-true-cost-of-pet-parenting",
-      "urlToImage": null,
-      "publishedAt": "2026-08-22 21:00:00",
-      "sourceName": "straitstimes"
-    },
-    {
       "id": "en-20",
-      "title": "Divya Dutta tells people to be kind to stray dogs after an incident at film set",
-      "description": "Divya took to Instagram to share a picture of herself with a stray dog that had come onto the film sets and recounted the incident that took place.",
-      "url": "https://www.thehansindia.com/featured/women/divya-dutta-tells-people-to-be-kind-to-stray-dogs-after-an-incident-at-film-set-1112770",
-      "urlToImage": "https://assets.thehansindia.com/h-upload/2026/08/22/1692863-w1.webp",
-      "publishedAt": "2026-08-22 20:46:25",
-      "sourceName": "thehansindia"
+      "title": "The true cost of pet parenting: What having a puppy taught me",
+      "description": "Discover the true financial and lifestyle costs of dog ownership, including unexpected expenses and daily routine changes every pet parent should consider. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/what-getting-a-puppy-has-taught-me-about-the-true-cost-of-pet-parenting",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/82a77001825803e8ec7ef06254677de51166beab81963524bb9934edafff3ba3",
+      "publishedAt": "2026-08-22 21:00:00 +0000",
+      "sourceName": "Sheila Chiang"
     },
     {
       "id": "en-21",
