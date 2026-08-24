@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T10:34:10.149Z",
+  "generatedAt": "2026-08-24T11:24:15.704Z",
   "es": [
     {
       "id": "es-0",
@@ -316,13 +316,13 @@
     {
       "id": "en-2",
       "title": "Dog food recalled across US and Canada after complaints of metal contamination",
-      "description": "Nearly 5,800 cases of Fromm Turkey Pâté and Diner Classics Milo’s Meatloaf Pâté are being recalled over potential metal contamination. No illnesses or injuries have been reported.",
+      "description": "Nearly 5,800 cases of Fromm Turkey Pâté and Diner Classics Milo’s Meatloaf Pâté are being recalled over potential metal contamination. No illnesses or injuries have been reported.",
       "url": "https://www.foxbusiness.com/lifestyle/dog-food-recalled-across-us-canada-after-complaints-metal-contamination",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/dog-eating-from-bowl-stock-image.jpg?ve=1&tl=1",
-      "publishedAt": "2026-08-23 22:33:55 +0000",
-      "sourceName": "Brittany Miller",
+      "urlToImage": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/dog-eating-from-bowl-stock-image.jpg",
+      "publishedAt": "2026-08-23 22:33:55",
+      "sourceName": "foxbusiness",
       "title_es": "Alimentos para perros retirados del mercado en EE. UU. y Canadá después de quejas de contaminación con metales",
-      "description_es": "Se están retirando casi 5.800 casos de paté Fromm Turkey y paté Diner Classics Milo's Meatloaf por posible contaminación con metales. No se han reportado enfermedades o lesiones."
+      "description_es": "Se están retirando casi 5,800 casos de Fromm Turkey Päte ́ y Diner Classics Milo's Meatloaf Päte ́ por posible contaminación con metales. No se han reportado enfermedades o lesiones."
     },
     {
       "id": "en-3",
@@ -503,15 +503,6 @@
     },
     {
       "id": "en-20",
-      "title": "Inside Topanga’s ‘Disneyland for dogs,’ a luxury canine retreat like no other",
-      "description": "Almost three decades ago, Joe Timko and Randy Neece were wandering through Disneyland, saw Goofy trailing around the gardens and made the connection. This, but for dogs? A Disneyland-inspired wonderland for their canine ",
-      "url": "https://newspub.live/lifestyle/inside-topangas-disneyland-for-dogs-a-luxury-canine-retreat-like-no-other/",
-      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/1c4b967/2147483647/strip/true/crop/4021x2111+0+285/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3a%2Ff2%2Fcbcca45d49d48117219d01e70e2a%2F1562805-wk-disneyland-of-dogs-canyon-view-ranch-11-mjc.jpg",
-      "publishedAt": "2026-08-23 10:03:14",
-      "sourceName": "newspub_live"
-    },
-    {
-      "id": "en-21",
       "title": "US dog food brands issue urgent recall over salmonella and metal contamination",
       "description": "",
       "url": "https://www.independent.co.uk/bulletin/lifestyle/fromm-and-omas-pride-recalls-b3037703.html",
@@ -520,7 +511,7 @@
       "sourceName": "Anna Loren"
     },
     {
-      "id": "en-22",
+      "id": "en-21",
       "title": "The true cost of pet parenting: What having a puppy taught me",
       "description": "Discover the true financial and lifestyle costs of dog ownership, including unexpected expenses and daily routine changes every pet parent should consider. Read more at straitstimes.com. Read more at straitstimes.com.",
       "url": "https://www.straitstimes.com/business/what-getting-a-puppy-has-taught-me-about-the-true-cost-of-pet-parenting",
@@ -529,7 +520,7 @@
       "sourceName": "Sheila Chiang"
     },
     {
-      "id": "en-23",
+      "id": "en-22",
       "title": "Scientists gene-edited a dog. It likely won't stop there",
       "description": "The study's lead author told Newsweek that gene editing could become another tool for addressing health problems in dogs.",
       "url": "https://www.newsweek.com/scientists-gene-edited-dog-it-likely-wont-stop-there-12293516",
@@ -538,7 +529,7 @@
       "sourceName": "Liz O'Connell"
     },
     {
-      "id": "en-24",
+      "id": "en-23",
       "title": "Reviewers Are Obsessed With This Electric Nail File For Their Anxious Pets",
       "description": "Yes, even you and your very anxious dog can handle this almost-silent trimmer that won't cut too short.",
       "url": "https://www.buzzfeed.com/tessaflores/reviewers-obsessed-with-this-electric-nail-file",
@@ -547,7 +538,7 @@
       "sourceName": "Tessa Flores"
     },
     {
-      "id": "en-25",
+      "id": "en-24",
       "title": "Food truck in Rio Rancho caters to dogs",
       "description": "RIO RANCHO, N.M. (KRQE) – It's a one-of-a-kind food truck with all kinds of treats, but none are for people. Instead, a new food truck in Rio Rancho is focused on canine customers. It's called Bark Bar, and the owners be",
       "url": "https://www.aol.com/articles/food-truck-rio-rancho-caters-041941000.html",
@@ -556,7 +547,7 @@
       "sourceName": "Bianca Hoops"
     },
     {
-      "id": "en-26",
+      "id": "en-25",
       "title": "The Best Movies to Watch on Netflix Right Now (Aug. 21-28, 2026)",
       "description": "It's the dog days of summer! Enjoy these four movies about canine companionship.",
       "url": "https://www.pcmag.com/news/best-movies-to-watch-on-netflix-right-now-aug-21-28-2026",
@@ -565,7 +556,7 @@
       "sourceName": "K Thor Jensen"
     },
     {
-      "id": "en-27",
+      "id": "en-26",
       "title": "The 12 Dog Breeds Are So Intuitive They Can Sense All Of Their Owners' Emotions - Doggodigest",
       "description": "Ever noticed how your dog just seems to know when you’re having a rough day? Dogs possess something truly remarkable, an almost magical ability to read our emotions as ... Read more",
       "url": "https://doggodigest.com/the-12-dog-breeds-are-so-intuitive-they-can-sense-all-of-their-owners-emotions-2-376713/",
@@ -574,7 +565,7 @@
       "sourceName": "Andrew Alpin"
     },
     {
-      "id": "en-28",
+      "id": "en-27",
       "title": "California Cop Bust Car's Window to Save 5 Dogs From Heat Stroke",
       "description": "A Newport Beach police officer wasn't going to waste any time when he saw a group of dogs baking in a car ... and he quickly busted out a window to save the pooches.",
       "url": "https://www.tmz.com/2026/08/21/california-officer-rescues-dogs-from-hot-car/",
@@ -583,7 +574,7 @@
       "sourceName": "TMZ Staff"
     },
     {
-      "id": "en-29",
+      "id": "en-28",
       "title": "Jacob Elordi just bought a literal dog to the world premiere of 'The Dog Stars'",
       "description": "Method dressing takes a new turn",
       "url": "https://www.harpersbazaar.com/uk/culture/a73495384/jacob-elordi-attends-the-dog-stars-world-premiere-with-dog-photos/",
@@ -592,7 +583,7 @@
       "sourceName": "Joel Calfee"
     },
     {
-      "id": "en-30",
+      "id": "en-29",
       "title": "‘Such adept cover stars’: why dogs are taking over fashion in the ‘AI face’ era",
       "description": "Cute, egoless canines offer a break from a world that feels dominated by ‘nepo babies’ and ‘Maga lady aesthetic’",
       "url": "https://www.theguardian.com/fashion/2026/aug/21/adept-cover-stars-dogs-fashion-ai-face-era-vogue-dogue",
@@ -601,7 +592,7 @@
       "sourceName": "Ellie Violet Bramley"
     },
     {
-      "id": "en-31",
+      "id": "en-30",
       "title": "UVA football player Solomon Beebe faces animal cruelty charges after witness alleges he punched dog: report",
       "description": "University of Virginia's expected kick returner Solomon Marshall Beebe faces three animal cruelty charges after a housekeeper saw him punch his dog.",
       "url": "https://www.foxnews.com/outkick-sports/uva-football-player-solomon-beebe-faces-animal-cruelty-charges-witness-alleges-punched-dog-report",
@@ -610,13 +601,22 @@
       "sourceName": "Chantz Martin"
     },
     {
-      "id": "en-32",
+      "id": "en-31",
       "title": "Jacob Elordi Doesn’t Mind Being Mogged by His Co-Star, Rak the Dog",
       "description": "Oh, to be a Dogue, posing alongside Jacob Elordi—the co-stars appeared together on the red carpet for the world premiere of Ridley Scott’s “The Dog Stars.”",
       "url": "https://www.vogue.com/article/jacob-elordi-rak-the-dog-the-dog-stars-premiere-london",
       "urlToImage": "https://assets.vogue.com/photos/6a882841e4610ce3d33a2210/16:9/w_1280,c_limit/2291323110",
       "publishedAt": "2026-08-21 10:40:59 +0000",
       "sourceName": "Anna Cafolla"
+    },
+    {
+      "id": "en-32",
+      "title": "Inside Topanga’s ‘Disneyland for dogs,’ a luxury canine retreat like no other",
+      "description": "With bone-shaped pools, a chauffeured shuttle service and sprawling fantasy playgrounds, this canine retreat is like no other.",
+      "url": "https://www.latimes.com/travel/story/2026-08-21/topanga-canyon-view-ranch-disneyland-for-dogs",
+      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/1c4b967/2147483647/strip/true/crop/4021x2111+0+285/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3a%2Ff2%2Fcbcca45d49d48117219d01e70e2a%2F1562805-wk-disneyland-of-dogs-canyon-view-ranch-11-mjc.jpg",
+      "publishedAt": "2026-08-21 10:00:00 +0000",
+      "sourceName": "Emma Madden"
     },
     {
       "id": "en-33",
