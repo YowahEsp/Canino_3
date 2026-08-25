@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-25T14:41:01.810Z",
+  "generatedAt": "2026-08-25T15:38:40.418Z",
   "es": [
     {
       "id": "es-0",
-      "title": "De analista de datos a educador canino, la historia de Guillermo y sus consejos sobre la adopción: “Un error habitual es infravalorar el compromiso que requiere un perro”",
-      "description": "El especialista cuenta a ‘Infobae’ su giro profesional, los fallos más habituales al acoger a un animal y la historia de Brexina, la perra que encontró hogar tras siete años viviendo en un refugio",
+      "title": "De analista de datos a educador canino, la historia de Guillermo y sus consejos sobre la adopción: “Un error habitual es infravalorar el compromiso que requiere un perro”",
+      "description": "El especialista cuenta a ‘Infobae’ su giro profesional, los fallos más habituales al acoger a un animal y la historia de Brexina, la perra que encontró hogar tras siete años viviendo en un refugio",
       "url": "https://www.infobae.com/espana/2026/08/25/de-analista-de-datos-a-educador-canino-la-historia-de-guillermo-y-sus-consejos-sobre-la-adopcion-un-error-habitual-es-infravalorar-el-compromiso-que-requiere-un-perro/",
-      "urlToImage": "https://www.infobae.com/resizer/v2/Z7KHCH3W2NCIVBATMQEMPUDYDA.png?auth=c64e5a89fa3940f80a1c5578e070291cfd6c444db837ac888779159f597f27fa&smart=true&width=1200&height=630&quality=85",
-      "publishedAt": "2026-08-25 03:30:00 +0000",
-      "sourceName": "Irene Herrero Alonso"
+      "urlToImage": "https://www.infobae.com/resizer/v2/Z7KHCH3W2NCIVBATMQEMPUDYDA.png?auth=c64e5a89fa3940f80a1c5578e070291cfd6c444db837ac888779159f597f27fa&smart=true&width=1920&height=1080",
+      "publishedAt": "2026-08-25 03:30:00",
+      "sourceName": "infobae"
     },
     {
       "id": "es-1",
@@ -299,6 +299,28 @@
     },
     {
       "id": "en-3",
+      "title": "Meet Proud Mary, Rascal, Dakota, Gina and Joey: East Bay pets of the week",
+      "description": "Area shelters’ dogs and cats need their “forever” homes.",
+      "url": "https://us.headtopics.com/news/meet-proud-mary-rascal-dakota-gina-and-joey-east-bay-86987347",
+      "urlToImage": "https://i.headtopics.com/images/2026/8/25/oaktribnews/meet-proud-mary-rascal-dakota-gina-and-joey-east-b-meet-proud-mary-rascal-dakota-gina-and-joey-east-b-3766F283A943EA0A7E109AD4D432485B-16x9.webp",
+      "publishedAt": "2026-08-25 03:36:39",
+      "sourceName": "headtopics",
+      "title_es": "Conoce a Proud Mary, Rascal, Dakota, Gina y Joey: las mascotas de la semana en East Bay",
+      "description_es": "Los perros y gatos de los refugios de la zona necesitan un hogar para siempre."
+    },
+    {
+      "id": "en-4",
+      "title": "UC Berkeley grad behind a multi-cancer screening tool harnessing a dog's superpower: its sense of smell",
+      "description": "A UC Berkeley graduate is behind a new early detection, multi-cancer screening tool that pairs the incredible scent-tracking ability of dogs with artificial intelligence.",
+      "url": "https://us.headtopics.com/news/uc-berkeley-grad-behind-a-multi-cancer-screening-tool-86987735",
+      "urlToImage": "https://i.headtopics.com/images/2026/8/25/ktvu/uc-berkeley-grad-behind-a-multi-cancer-screening-t-uc-berkeley-grad-behind-a-multi-cancer-screening-t-81AC225945AA2AFEFB4E802CB78AD4DE-16x9.webp",
+      "publishedAt": "2026-08-25 03:36:39",
+      "sourceName": "headtopics",
+      "title_es": "Graduado de UC Berkeley detrás de una herramienta de detección de cáncer múltiple que aprovecha el superpoder de un perro: su sentido del olfato",
+      "description_es": "Un graduado de UC Berkeley está detrás de una nueva herramienta de detección de cáncer múltiple de detección temprana que combina la increíble capacidad de rastreo de olores de los perros con inteligencia artificial."
+    },
+    {
+      "id": "en-5",
       "title": "Dog Myths: 12 Things You've Been Taught Wrong About Dogs - Doggodigest",
       "description": "Believing in the common dog myths may not be as harmless as you think and can actually contribute to poorer bond between you and your dog.",
       "url": "https://doggodigest.com/dog-myths-12-things-youve-been-taught-wrong-about-dogs-3-346314/",
@@ -309,7 +331,7 @@
       "description_es": "Creer en los mitos comunes de los perros puede no ser tan inofensivo como crees y, de hecho, puede contribuir a un vínculo más pobre entre tú y tu perro."
     },
     {
-      "id": "en-4",
+      "id": "en-6",
       "title": "Jacob Elordi and Ridley Scott on working with a star dog",
       "description": "Jacob Elordi and Ridley Scott on the canine star of the new apocalyptic film The Dog Stars.",
       "url": "https://www.watoday.com.au/culture/jacob-elordi-and-ridley-scott-on-working-with-a-star-dog-20260825-p60rdb.html",
@@ -320,7 +342,7 @@
       "description_es": "Jacob Elordi y Ridley Scott en la estrella canina de la nueva película apocalíptica The Dog Stars."
     },
     {
-      "id": "en-5",
+      "id": "en-7",
       "title": "Want to keep a big dog in Hong Kong? Experts share what you should know",
       "description": "Heat, humidity and crowded living spaces could pose challenges for Hongkongers hoping to keep large or aggressive dogs as pets, experts have said, urging potential owners to consider the needs of such animals before deci",
       "url": "https://www.scmp.com/news/hong-kong/society/article/3365106/want-keep-big-dog-hong-kong-experts-share-what-you-should-know",
@@ -331,7 +353,7 @@
       "description_es": "El calor, la humedad y los espacios habitables abarrotados podrían plantear desafíos para los hongkoneses que esperan tener perros grandes o agresivos como mascotas, han dicho los expertos, instando a los posibles propietarios a considerar las necesidades de dichos animales antes de decidir"
     },
     {
-      "id": "en-6",
+      "id": "en-8",
       "title": "Good Samaritan and His Dog Rescue Injured Driver and Canine From Sinking Vehicle in Pudding Creek",
       "description": "",
       "url": "https://www.newsbreak.com/news/4847821002708-good-samaritan-and-his-dog-rescue-injured-driver-and-canine-from-sinking-vehicle-in-pudding-creek",
@@ -342,7 +364,7 @@
       "description_es": ""
     },
     {
-      "id": "en-7",
+      "id": "en-9",
       "title": "Dogs may read your emotions better than you think as brain scans reveal how canines distinguish happiness, fear and sadness in humans",
       "description": "New research reveals dogs' brains process human emotions distinctly. Happy faces activate specific brain regions associated with reward processing. Dogs can differentiate between fear and anger or sadness in human expres",
       "url": "https://www.inkl.com/news/dogs-may-read-your-emotions-better-than-you-think-as-brain-scans-reveal-how-canines-distinguish-happiness-fear-and-sadness-in-humans",
@@ -353,7 +375,7 @@
       "description_es": "Una nueva investigación revela que los cerebros de los perros procesan claramente las emociones humanas. Las caras felices activan regiones específicas del cerebro asociadas con el procesamiento de recompensas. Los perros pueden diferenciar entre el miedo y la ira o la tristeza en la expresión humana"
     },
     {
-      "id": "en-8",
+      "id": "en-10",
       "title": "Vernon Police Canine Team Earns Top Finish At Dream Ride Competition",
       "description": "A Vernon police dog team was at it again at a major competition.",
       "url": "https://patch.com/connecticut/vernon/vernon-police-canine-team-earns-top-finish-dream-ride-competition",
@@ -364,7 +386,7 @@
       "description_es": "Un equipo de perros de la policía de Vernon volvió a participar en una competencia importante."
     },
     {
-      "id": "en-9",
+      "id": "en-11",
       "title": "Wisconsin Pet Food Maker Recalls Nearly 5,800 Cases of Canned Dog Food Over Possible Metal Fragments",
       "description": "Fromm recalled two wet dog food varieties over possible metal contamination, nine days after a separate raw dog food recall for Salmonella.",
       "url": "https://www.medicaldaily.com/fromm-dog-food-recall-metal-contamination-2026-477673",
@@ -375,7 +397,7 @@
       "description_es": "Fromm retiró del mercado dos variedades de alimentos húmedos para perros por posible contaminación metálica, nueve días después de un retiro por separado de alimentos crudos para perros por Salmonella."
     },
     {
-      "id": "en-10",
+      "id": "en-12",
       "title": "Optimism ‘essential’ in Ridley Scott’s sci-fi thriller ‘The Dog Stars’",
       "description": "LONDON — Ridley Scott returns to science fiction films after nearly a decade with a dystopian thriller the prolific director-producer and his starry cast say carries a message of hope. The “Alien”, “Gladiator” and “The M",
       "url": "https://interaksyon.philstar.com/hobbies-interests/2026/08/25/318207/optimism-essential-in-ridley-scotts-sci-fi-thriller-the-dog-stars/",
@@ -386,7 +408,7 @@
       "description_es": "LONDRES — Ridley Scott regresa a las películas de ciencia ficción después de casi una década con un thriller distópico que el prolífico director-productor y su elenco estelar dicen que lleva un mensaje de esperanza. The \"Alien\", \"Gladiator\" y \"The M"
     },
     {
-      "id": "en-11",
+      "id": "en-13",
       "title": "Meet Groot, the detection dog tracking koalas",
       "description": "",
       "url": "https://www.hawkesburygazette.com/meet-groot-the-detection-dog-helping-find-hawkesbury-blue-mountains-hidden-koalas/",
@@ -397,7 +419,7 @@
       "description_es": ""
     },
     {
-      "id": "en-12",
+      "id": "en-14",
       "title": "Warren County Sheriff’s Office adds vapor wake firearm detection dog to schools",
       "description": "Rocky, a 16-month-old Labrador, is trained to detect firearms and ammunition in crowds",
       "url": "https://www.wbko.com/2026/08/24/warren-county-sheriffs-office-adds-vapor-wake-firearm-detection-dog-schools/",
@@ -408,29 +430,25 @@
       "description_es": "Rocky, un labrador de 16 meses, está entrenado para detectar armas de fuego y municiones en las multitudes"
     },
     {
-      "id": "en-13",
+      "id": "en-15",
       "title": "Warrior Canine Connection continues partnership with Tee It Up for the Troops",
       "description": "Warrior Canine Connection continues partnership with Tee It Up for the Troops a local golf tournament to raise money for veterans and their families.",
       "url": "https://abc7.com/post/warrior-canine-connection-continues-partnership-tee-troops-golf-tournament-huntington-beach/19729450/",
       "urlToImage": "https://cdn.abcotvs.com/dip/images/19716155_082126-kabc-6pm-salutes-warrior-canine-connection-vid.jpg",
       "publishedAt": "2026-08-24 21:57:56",
-      "sourceName": "abc7",
-      "title_es": "Warrior Canine Connection continúa su asociación con Tee It Up for the Troops",
-      "description_es": "Warrior Canine Connection continúa su asociación con Tee It Up for the Troops, un torneo de golf local para recaudar dinero para los veteranos y sus familias."
+      "sourceName": "abc7"
     },
     {
-      "id": "en-14",
+      "id": "en-16",
       "title": "Dog food, pet medicine sold in California recalled. What owners should know",
       "description": "One pet product was pulled from store shelves due to “possible metal contamination,” according to the FDA advisory.",
       "url": "https://www.mercedsunstar.com/news/california/article316994395.html",
       "urlToImage": null,
       "publishedAt": "2026-08-24 21:16:20",
-      "sourceName": "mercedsunstar",
-      "title_es": "Retiro de alimentos para perros y medicamentos para mascotas vendidos en California. Lo que los propietarios deben saber",
-      "description_es": "Un producto para mascotas fue retirado de los estantes de las tiendas debido a una \"posible contaminación por metales\", según el aviso de la FDA."
+      "sourceName": "mercedsunstar"
     },
     {
-      "id": "en-15",
+      "id": "en-17",
       "title": "Pet-Friendly Independent Living: A Guide to Policies and Finding the Right Fit",
       "description": "If you’re looking to relocate to a pet-friendly independent senior living community, you should be aware of each community’s pet...",
       "url": "https://wtop.com/news/2026/08/pet-friendly-independent-living-a-guide-to-policies-and-finding-the-right-fit/",
@@ -439,7 +457,7 @@
       "sourceName": "wtop"
     },
     {
-      "id": "en-16",
+      "id": "en-18",
       "title": "Dog food, pet medicine sold in WA recalled. What owners should know",
       "description": "One product was pulled from store shelves due to “possible metal contamination.”",
       "url": "https://www.theolympian.com/news/state/washington/article316990675.html",
@@ -448,7 +466,7 @@
       "sourceName": "theolympian"
     },
     {
-      "id": "en-17",
+      "id": "en-19",
       "title": "A Decade of Scientific Collaboration: DNA My Dog and Lakehead University’s Paleo-DNA Laboratory Celebrate Longstanding Partnership",
       "description": "NEW YORK, Aug. 24, 2026 (GLOBE NEWSWIRE) -- For more than a decade, DNA My Dog has collaborated with the Paleo-DNA Laboratory at Lakehead University, reflecting the company’s ongoing commitment to scientific integrity an",
       "url": "https://www.manilatimes.net/2026/08/25/tmt-newswire/globenewswire/a-decade-of-scientific-collaboration-dna-my-dog-andlakeheaduniversitys-paleo-dna-laboratory-celebrate-longstanding-partnership/2411268",
@@ -457,7 +475,7 @@
       "sourceName": "manilatimes"
     },
     {
-      "id": "en-18",
+      "id": "en-20",
       "title": "Talarico hounds Paxton as ‘anti-puppy’ as Dems hunt for scandals that stick in Texas",
       "description": "State Rep. James Talarico campaigned with dogs and puppies late last week in a bid to throw shade at his rival, Texas Attorney General Ken Paxton’s (R) track record on canines, as Democrats l…",
       "url": "https://nypost.com/2026/08/24/us-news/james-talarico-brands-ken-paxton-anti-puppy-as-dems-hunt-for-attack-lines-that-stick/",
@@ -466,7 +484,7 @@
       "sourceName": "Ryan King"
     },
     {
-      "id": "en-19",
+      "id": "en-21",
       "title": "Zach Cregger’s ‘Resident Evil’ TV Spot Gives Us Our First Look at a Mutated Zombie Dog",
       "description": "Zach Cregger has stated that his upcoming Resident Evil movie is “much more focused on the weird creature stuff than the zombies,” but the trailers up to this point have only given us brief glimpses of those creatures. I",
       "url": "https://bloody-disgusting.com/movie/3965031/zach-creggers-resident-evil-tv-spot-gives-us-our-first-look-at-a-mutated-zombie-dog/",
@@ -475,7 +493,7 @@
       "sourceName": "bloodydisgusting"
     },
     {
-      "id": "en-20",
+      "id": "en-22",
       "title": "Quincy Dunkin’ Opens Dog-Only Drive-Thru Lane for National Dog Day",
       "description": "Dunkin’ and BARK open a dog-only drive-thru lane in Quincy on National Dog Day, with proceeds benefiting hospitalized kids nationwide.",
       "url": "https://hoodline.com/2026/08/quincy-dunkin-opens-dog-only-drive-thru-lane-for-national-dog-day/",
@@ -484,16 +502,7 @@
       "sourceName": "hoodline"
     },
     {
-      "id": "en-21",
-      "title": "10 things that happen to your sleep when you get a dog",
-      "description": "Getting a dog changes your sleep in ways most new owners don't expect, from puppy bathroom breaks to what happens as your dog ages",
-      "url": "https://qz.com/reasons-getting-dog-changes-your-sleep",
-      "urlToImage": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/woman%2520cuddling%2520dog%2520in%2520bed.png",
-      "publishedAt": "2026-08-24 18:10:26",
-      "sourceName": "quartz"
-    },
-    {
-      "id": "en-22",
+      "id": "en-23",
       "title": "It’s Everyone’s Favorite Employee Perk. It’s Also Some People’s Worst Nightmare.",
       "description": "Sometimes, the dogs in an office don’t belong to anyone at all. They’re just there to bark.",
       "url": "https://slate.com/life/2026/08/dogs-office-jobs-workplace-pet-policy.html",
@@ -502,7 +511,7 @@
       "sourceName": "Alison Green"
     },
     {
-      "id": "en-23",
+      "id": "en-24",
       "title": "TSA’s Cutest Canine Contest Heads Toward Its August 26 Winner",
       "description": "Behind the playful competition are explosives-detection dogs that spend their working days helping screen the nation’s transportation system. The …",
       "url": "https://travelhost.com/news/tsas-cutest-canine-contest-heads-toward-its-august-26-winner",
@@ -511,7 +520,7 @@
       "sourceName": "Al Chumba"
     },
     {
-      "id": "en-24",
+      "id": "en-25",
       "title": "8 Reasons Dogs Scratch the Ground After Toileting Even When They Are Not Trying to Bury Anything - Doggodigest",
       "description": "You watch your dog finish their business, then suddenly they launch into an enthusiastic backward scratch, flinging grass, dirt, and sometimes half the flowerbed into the air. They are clearly ... Read more",
       "url": "https://doggodigest.com/8-reasons-dogs-scratch-the-ground-after-toileting-even-when-they-are-not-trying-to-bury-anything-1-407140/",
@@ -520,7 +529,7 @@
       "sourceName": "Gargi Chakravorty"
     },
     {
-      "id": "en-25",
+      "id": "en-26",
       "title": "Hong Kong urged to adopt trait-based dog tiers, DNA checks after fatal attacks",
       "description": "Proposal calls for risk tiers, certified handlers, muzzles or possible confiscation of highest-risk dogs as authorities review fighting-dog rules.",
       "url": "https://www.scmp.com/news/hong-kong/society/article/3365023/hong-kong-urged-adopt-trait-based-dog-tiers-dna-checks-after-fatal-attacks",
@@ -529,22 +538,13 @@
       "sourceName": "Leopold Chen"
     },
     {
-      "id": "en-26",
+      "id": "en-27",
       "title": "Paws on patrol at London Waterloo for first time",
       "description": "Canine colleagues Riley, Buster and Flo have been introduced to deter crime and keep customers safe.",
       "url": "https://www.bbc.co.uk/news/articles/cjrvejxqv20o",
       "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b1bb/live/dffafcc0-9d6d-11f1-bdcc-8926c4a74c43.jpg",
       "publishedAt": "2026-08-24 04:41:25 +0000",
       "sourceName": "Currents"
-    },
-    {
-      "id": "en-27",
-      "title": "Meet Proud Mary, Rascal, Dakota, Gina and Joey: East Bay pets of the week",
-      "description": "Area shelters’ dogs and cats need their “forever” homes.",
-      "url": "https://www.eastbaytimes.com/2026/08/24/meet-proud-mary-rascal-dakota-gina-and-joey-east-bay-pets-of-the-week/",
-      "urlToImage": "https://www.eastbaytimes.com/wp-content/uploads/2026/08/BRN-L-PETS-LIST-0828-1-rotated.jpeg?w=640&h=480",
-      "publishedAt": "2026-08-24 04:01:29 +0000",
-      "sourceName": "East Bay Times"
     },
     {
       "id": "en-28",
