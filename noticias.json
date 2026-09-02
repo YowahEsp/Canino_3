@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T02:43:12.525Z",
+  "generatedAt": "2026-09-02T07:35:48.360Z",
   "es": [
     {
       "id": "es-0",
@@ -12,6 +12,42 @@
     },
     {
       "id": "es-1",
+      "title": "Hombre castra a perro por entrar a su casa en Tlalixcoyan, Veracruz; exigen castigo por crueldad animal",
+      "description": "Indignación en Veracruz: hombre castra a un perro en Tlalixcoyan; el animal fue operado y exigen sanción legal.",
+      "url": "https://www.milenio.com/policia/hombre-mutila-perro-veracruz-maltrato-animal-tlalixcoyan",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2026/05/14/actualidad-suman-mil-delitos-maltrato.jpg",
+      "publishedAt": "2026-09-01 18:47:20",
+      "sourceName": "milenio"
+    },
+    {
+      "id": "es-2",
+      "title": "Víctor Padilla, entrenador canino: “La decisión de que nuestros perros suban al sofá o a la cama es una de las más controvertidas”",
+      "description": "El especialista explicó que no existe una única respuesta correcta y que la clave está en establecer normas claras que toda la familia pueda sostener.",
+      "url": "https://tn.com.ar/sociedad/2026/09/01/victor-padilla-entrenador-canino-la-decision-de-que-nuestros-perros-suban-al-sofa-o-a-la-cama-es-una-de-las-mas-controvertidas/",
+      "urlToImage": "https://tn.com.ar/resizer/v2/QMBPWK6SLVDHTE7YTXNEHV4ZHM.png?auth=ed96d49ff4e482babf9bf29d927bb3c4eaef567b874248bf64698d7f08095ecb",
+      "publishedAt": "2026-09-01 15:53:03",
+      "sourceName": "tn"
+    },
+    {
+      "id": "es-3",
+      "title": "Torrejón obligará a registrar el ADN de los perros: multas de hasta 750 euros y último mes para hacerlo gratis",
+      "description": "El Ayuntamiento de Torrejón de Ardoz pondrá en marcha de forma obligatoria el Censo Genético Canino , un sistema que permitirá identificar a los perros a través de una muestra de ADN y localizar a sus propietarios c",
+      "url": "https://www.epe.es/es/madrid/20260901/torrejon-obligara-registrar-adn-perros-multas-ultimo-mes-gratis-dv-133845500",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/3c6c3996-d2ee-4f72-9e85-27295ddb7140_16-9-aspect-ratio_default_0.jpg",
+      "publishedAt": "2026-09-01 15:22:14",
+      "sourceName": "epe_es"
+    },
+    {
+      "id": "es-4",
+      "title": "El capo que desestresa a los jagua’i",
+      "description": "Perdió su laburo en la pandemia y hoy la rompe como adiestrador y paseador de mascotas en Ypacaraí.",
+      "url": "https://www.cronica.com.py/2026/09/01/el-capo-que-desestresa-a-los-jaguai/",
+      "urlToImage": "https://www.cronica.com.py/resizer/v2/WAXTDLTZQZHRLBOTX3TCRBYY6Q.png?auth=8f30b29d48b92be2786eef46283076686c767fecf1febf4b391fd4f3acc42c32&smart=true&width=1200&height=900",
+      "publishedAt": "2026-09-01 15:16:30",
+      "sourceName": "cronica"
+    },
+    {
+      "id": "es-5",
       "title": "Municipio de Quito responde a denuncias por perro atrapado en brea en la Ruta Viva",
       "description": "Las autoridades municipales mantienen investigaciones y revisiones técnicas para esclarecer las circunstancias del rescate del animal.",
       "url": "https://www.elcomercio.com/actualidad/quito/municipio-quito-responde-denuncias-perro-atrapado-en-brea-ruta-viva/",
@@ -20,7 +56,7 @@
       "sourceName": "elcomercio_com"
     },
     {
-      "id": "es-2",
+      "id": "es-6",
       "title": "Miller, el perro que perdió los dos ojos y casi muere: solo necesitó dos semanas para volver a correr y jugar",
       "description": "Aunque corre y juega en su hogar de acogida, el refugio Border Tails Rescue advierte que la cicatrización falló y el canino requerirá una nueva cirugía.",
       "url": "https://www.losandes.com.ar/mundo/miller-el-perro-que-perdio-los-dos-ojos-y-casi-muere-solo-necesito-dos-semanas-volver-correr-y-jugar-n6004440",
@@ -29,7 +65,7 @@
       "sourceName": "losandes"
     },
     {
-      "id": "es-3",
+      "id": "es-7",
       "title": "Polémica por el 'perro en brea' en Quito: Municipio desmiente denuncia y muestra pruebas",
       "description": "Autoridades aseguran que las fotos virales muestran maquinaria falsa con inscripciones en idioma extranjero. Conoce más detalles",
       "url": "https://www.extra.ec/noticia/quito/polemica-perro-brea-quito-municipio-desmiente-denuncia-muestra-pruebas-161733.html",
@@ -38,7 +74,7 @@
       "sourceName": "extra"
     },
     {
-      "id": "es-4",
+      "id": "es-8",
       "title": "Un adiestrador canino advierte cuáles son las razas de perro que necesitan más de 30 minutos de paseo: \"Con todo lo que hay que trabajar con ellos...\"",
       "description": "La duración de cada salida debe adaptarse a la energía, la condición física y las características del animal, ya que alargarla innecesariamente no siempre aporta mayores beneficios",
       "url": "https://www.elconfidencial.com/alma-corazon-vida/2026-09-01/1qrt-adiestrador-canino-advierte-razas-perro-mas-30-minutos-pasear_4413898/",
@@ -47,7 +83,16 @@
       "sourceName": "elconfidencial"
     },
     {
-      "id": "es-5",
+      "id": "es-9",
+      "title": "Torrejón multará con 750 euros por no registrar el ADN del perro",
+      "description": "El Ayuntamiento implanta sistema de identificación genética de perros para localizar propietarios de excrementos abandonados. Registro gratuito hasta 30 de septiembre, después costará 36,30 euros. Leer más...",
+      "url": "https://www.madridactual.es/municipios/torrejon-de-ardoz/torrejon-ayuntamiento-obliga-registrar-adn-perros-sancionara-20260901-8116917.html",
+      "urlToImage": "https://www.madridactual.es/images/stories/noticias/agencias/ep/2026/09/torrejon-ayuntamiento-obliga-registrar-adn-perros-sancionara.jpg",
+      "publishedAt": "2026-09-01 12:14:01",
+      "sourceName": "madridactual_es"
+    },
+    {
+      "id": "es-10",
       "title": "Vuelta a la rutina con tu perro después del verano. Estas son las recomendaciones de Ángel Osuna para esa transición",
       "description": "En 'Más de uno' Vega Baja, escucha cada martes 'Tu mascota en la onda', con el adiestrador canino Ángel Osuna y el patrocinio de Clínicas Veterinarias VeterPet, en Guardamar del Segura, Ciudad Quesada (Rojales), Almor",
       "url": "https://www.ondacero.es/emisoras/comunidad-valenciana/vega-baja/noticias/vuelta-rutina-perro-despues-verano-adiestrador-angel-osuna-ofrece-consejos-practicos-esa-transicion_202609016a96b5a12d7d3022177a6205.html",
@@ -56,7 +101,7 @@
       "sourceName": "ondacero"
     },
     {
-      "id": "es-6",
+      "id": "es-11",
       "title": "Presentamos el champú para perros Jo Malone London × WildWash",
       "description": "/PRNewswire/ -- Regálale a tu mejor amigo un producto esencial para su aseo: el champú para perros de naranja y cedro, creado por Jo Malone London en...",
       "url": "https://www.prnewswire.com/news-releases/presentamos-el-champu-para-perros-jo-malone-london-O-wildwash-302865980.html",
@@ -65,7 +110,7 @@
       "sourceName": "Jo Malone London"
     },
     {
-      "id": "es-7",
+      "id": "es-12",
       "title": "Fran Estévez, experto en adiestramiento de perros: «Muchas veces los animales generan una dependencia excesiva hacia sus propietarios»",
       "description": "Vivir con un perro implica mucho más que proporcionarle comida, cariño y un lugar donde dormir. También es necesario conocer sus necesidades físicas y emocionales y entender que no siempre lo que hacemos por afecto b",
       "url": "https://okdiario.com/mascotas/fran-estevez-experto-adiestramiento-perros-muchas-veces-animales-generan-dependencia-excesiva-hacia-sus-propietarios-20160348",
@@ -74,7 +119,7 @@
       "sourceName": "okdiario"
     },
     {
-      "id": "es-8",
+      "id": "es-13",
       "title": "Un colegio en Ponferrada donde los alumnos tienen cuatro patas",
       "description": "Dos emprendedoras bercianas ponen en marcha la tercera edición de un proyecto que combina educación, socialización y bienestar para perros durante la jornada laboral de sus dueños",
       "url": "https://www.lanuevacronica.com/el-bierzo/colegio-en-ponferrada-donde-alumnos-tienen-cuatro-patas_202169_102.html",
@@ -83,7 +128,7 @@
       "sourceName": "lanuevacronica"
     },
     {
-      "id": "es-9",
+      "id": "es-14",
       "title": "Fran Estévez, adiestrador canino: \"Los animales generanuna dependencia excesiva hacia sus propietarios\"",
       "description": "Tener un perro implica mucho más que darle comida, sacarlo a pasear y ofrecerle cariño. La educación durante los primeros meses puede marcar buena parte de su comportamiento futuro y evitar problemas que, una vez asen",
       "url": "https://www.elperiodico.com/es/vida-y-estilo/20260901/fran-estevez-adiestrador-canino-errores-senales-comportamiento-inadecuado-familiares-dv-et-133683288",
@@ -92,7 +137,7 @@
       "sourceName": "elperiodico_es"
     },
     {
-      "id": "es-10",
+      "id": "es-15",
       "title": "Luis Vallbona, experto en comportamiento de perros: “Que dos cachorros corran y salten juntos no significa que estén jugando; pueden estar gestionando una incomodidad”",
       "description": "El veterinario y educador de 'El Perro Limón' apunta a que muchos dueños confunden interacciones de estrés con juego y pasan por alto señales de alerta de sus perros.",
       "url": "https://www.clarin.com/internacional/luis-vallbona-experto-comportamiento-perros-cachorros-corran-salten-juntos-significa-jugando-pueden-gestionando-incomodidad_0_FbXoO9W1iT.html",
@@ -101,7 +146,7 @@
       "sourceName": "clarin"
     },
     {
-      "id": "es-11",
+      "id": "es-16",
       "title": "Indagan caso de un perro atrapado en brea en la Ruta Viva durante las obras",
       "description": "Entidades municipales investigan el reporte de un perro atrapado en brea en la Ruta Viva.",
       "url": "https://www.elcomercio.com/actualidad/quito/indagan-caso-de-un-perro-atrapado-en-brea-en-la-ruta-viva-durante-las-obras/",
@@ -110,7 +155,7 @@
       "sourceName": "elcomercio_com"
     },
     {
-      "id": "es-12",
+      "id": "es-17",
       "title": "Horror: denuncian que colgó a un perro de un árbol y lo mató a hachazos",
       "description": "Un hombre de 52 años fue detenido este lunes en la localidad de San Javier, departamento Banda, acusado de un brutal episodio de maltrato animal en perjuicio de un perro. Según la denuncia, habría colgado al animal de",
       "url": "https://www.elliberal.com.ar/nota/90244/2026/08/horror--denuncian-que-colgo-a-un-perro-de-un-arbol-y-lo-mato-a-hachazos",
@@ -119,7 +164,7 @@
       "sourceName": "elliberal"
     },
     {
-      "id": "es-13",
+      "id": "es-18",
       "title": "Independientes, pero no indiferentes: ¿tu gato realmente te extraña cuando estás ausente?",
       "description": "Durante décadas ha prevalecido la creencia popular de que los felinos carecen de interés afectivo por las personas con las que conviven. Sin embargo, la ciencia y la observación clínica veterinaria demuestran una rea",
       "url": "https://vanguardia.com.mx/vida/independientes-pero-no-indiferentes-tu-gato-realmente-te-extrana-cuando-estas-ausente-DI23183527",
@@ -128,7 +173,7 @@
       "sourceName": "vanguardia"
     },
     {
-      "id": "es-14",
+      "id": "es-19",
       "title": "Indignación en Tlalixcoyan por mutilación de canino",
       "description": "Un caso de presunta crueldad animal ocurrido en la comunidad de La Gloria, municipio de Tlalixcoyan, provocó indignación entre habitantes y colectivos...",
       "url": "https://www.meganoticias.mx/veracruz/noticia/indignaci%C3%B3n-en-tlalixcoyan-por-mutilaci%C3%B3n-de-canino/765491",
@@ -137,7 +182,7 @@
       "sourceName": "meganoticias_mx"
     },
     {
-      "id": "es-15",
+      "id": "es-20",
       "title": "Independientes, pero no indiferentes; ¿tu gato te extraña?",
       "description": "Mientras un perro suele manifestar entusiasmo efusivo, el gato utiliza demostraciones sutiles de vulnerabilidad.",
       "url": "https://www.elporvenir.mx/cultural/independientes-pero-no-indiferentes-tu-gato-te-extrana/1021041",
@@ -146,7 +191,7 @@
       "sourceName": "elporvenir_mx"
     },
     {
-      "id": "es-16",
+      "id": "es-21",
       "title": "El perro Nevado: la leal leyenda andina que transformó el amor por los caninos",
       "description": "La Misión Nevado rinde tributo al epónimo canino, elevando el respeto hacia el perro mestizo o de calle, erradicando el maltrato y reconociéndolos como seres sensibles y con derechos CIUDAD MCY .- La figura heroica de",
       "url": "https://ciudadmcy.info.ve/el-perro-nevado-la-leal-leyenda-andina-que-transformo-el-amor-por-los-caninos",
@@ -155,7 +200,7 @@
       "sourceName": "ciudadmcy"
     },
     {
-      "id": "es-17",
+      "id": "es-22",
       "title": "¿Cuánto cuesta ese perro modificado genéticamente que está en el escaparate?",
       "description": "Tecnologías como CRISPR nos brindan nuevas formas de crear los perros de nuestros sueños, y también una razón para reflexionar sobre nuestros errores del pasado",
       "url": "https://diario.mx/escaparate/2026/aug/31/cuanto-cuesta-ese-perro-modificado-geneticamente-que-esta-en-el-escaparate-1135977.html",
@@ -164,7 +209,7 @@
       "sourceName": "diario"
     },
     {
-      "id": "es-18",
+      "id": "es-23",
       "title": "Día del Mucuchíes: El perro por el que lloró El Libertador",
       "description": "El hito histórico de la raza se selló el 10 de junio de 1813 en San Rafael de Mucuchíes, durante la Campaña Admirable. Al arribar a la zona, la caballería patriota fue embestida por un imponente ejemplar blanco y ne",
       "url": "https://noticialdia.com/zulia/dia-del-mucuchies-el-perro-por-el-que-lloro-el-libertador/",
@@ -173,7 +218,7 @@
       "sourceName": "noticialdia"
     },
     {
-      "id": "es-19",
+      "id": "es-24",
       "title": "10 cosas que tu perro intenta decirte con sus ojos",
       "description": "Lo que los ojos de tu perro te están diciendo se reduce a señales como ojo de ballena, parpadeos lentos y tamaño de las pupilas que revelan estrés, confianza o emoción.",
       "url": "https://es.qz.com/lo-que-te-dicen-los-ojos-de-tu-perro",
@@ -182,7 +227,7 @@
       "sourceName": "qz_es"
     },
     {
-      "id": "es-20",
+      "id": "es-25",
       "title": "Un grupo de personas lucha por recuperar RD$1,500 que un perro encontró, mordió y no quería soltar",
       "description": "Este artículo fue publicado originalmente en El Día . Lo que parecía ser una situación cotidiana terminó convirtiéndose en una peculiar batalla entre varios comunitarios y un perrito que, al parecer, tenía muy cla",
       "url": "https://eldia.com.do/un-grupo-de-personas-lucha-por-recuperar-rd1500-que-un-perro-encontro-mordio-y-no-queria-soltar/",
@@ -191,7 +236,7 @@
       "sourceName": "eldia"
     },
     {
-      "id": "es-21",
+      "id": "es-26",
       "title": "Hashi se convierte en el primer canino en abordar el Metro de Bogotá tras anunciarse la política pet friendly",
       "description": "El Metro de Bogotá será pet friendly. Hashi se convirtió en el primer canino en abordar un tren de pruebas de la Línea 1 de la capital. La entrada Hashi se convierte en el primer canino en abordar el Metro de Bogotá",
       "url": "https://www.hsbnoticias.com/hashi-se-convierte-en-el-primer-canino-en-abordar-el-metro-de-bogota-tras-anunciarse-la-politica-pet-friendly/",
@@ -200,7 +245,7 @@
       "sourceName": "hsbnoticias"
     },
     {
-      "id": "es-22",
+      "id": "es-27",
       "title": "Juan Manuel Liquindoli, educador canino: “Los perros no se vengan ni sienten culpa; detrás puede haber frustración o estrés”",
       "description": "Para muchas personas, los perros que rompen algo o se orinan cuando pasan muchas horas solos en casa lo hacen por venganza. Del mismo modo, aseguran que, una vez regresan, ponen cara de culpabilidad. Sin embargo, el educ",
       "url": "https://expertoanimal.elperiodico.com/juan-manuel-liquindoli-educador-canino-los-perros-no-se-vengan-ni-sienten-culpa-detras-puede-haber-frustracion-o-estres-28712.html",
@@ -209,7 +254,7 @@
       "sourceName": "elperiodicomediterraneo"
     },
     {
-      "id": "es-23",
+      "id": "es-28",
       "title": "Víctor Padilla, educador: \"Hay que preguntar a los perros porque nos entienden mucho más de lo que creemos\"",
       "description": "La mayoría de los dueños de perro cree que su mascota se comunica sobre todo ladrando. El educador canino Víctor Padilla , cofundador del proyecto Olfateando el Mundo junto a Alba Fernández, defiende justo lo contrar",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260831/1004221642/victor-padilla-educador-canino-preguntar-perros-entienden-creemos-pjm-dct.html",
@@ -218,7 +263,7 @@
       "sourceName": "mundodeportivo"
     },
     {
-      "id": "es-24",
+      "id": "es-29",
       "title": "Perros de raza de lujo: el coleccionismo canino que gana terreno al arte contemporáneo",
       "description": "El coleccionismo canino de lujo gana peso como activo emocional de baja correlación para grandes patrimonios que aceptan iliquidez y control de acceso. La entrada Perros de raza de lujo: el coleccionismo canino que gana",
       "url": "https://www.merca2.es/2026/08/31/perros-raza-lujo-coleccionismo-inversion-2445620/",
@@ -227,34 +272,16 @@
       "sourceName": "merca2"
     },
     {
-      "id": "es-25",
-      "title": "¿Tu cachorro lo muerde todo? Cuándo es un comportamiento normal y cuándo conviene pedir ayuda",
-      "description": "La mayoría de los cachorros exploran con la boca, pero algunas señales pueden indicar estrés, ansiedad o problemas que requieren atención veterinaria.",
-      "url": "https://www.20minutos.es/animaleros/perros/tu-cachorro-muerde-todo-cuando-es-un-comportamiento-normal-cuando-conviene-pedir-ayuda_7014898_0.html",
-      "urlToImage": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/15/6a575f401a5019-64460215.jpeg",
-      "publishedAt": "2026-08-31 05:19:23",
-      "sourceName": "minutos20"
-    },
-    {
-      "id": "es-26",
-      "title": "Juan Cervantes, adiestrador canino: \"El error que cometéis el 90% de las personas es darle de tu comida a tu perro, estás creando un chantajista nato\"",
-      "description": "El refuerzo positivo consiste en eliminar el castigo y premiar la conducta que queremos que se repita",
-      "url": "https://www.vozpopuli.com/mascotas/juan-cervantes-adiestrador-canino-el-error-que-cometeis-el-90-de-las-personas-es-darle-de-tu-comida-a-tu-perro-estas-creando-un-chantajista-nato.html",
-      "urlToImage": "https://cdn.vozpopuli.com/cdn/posts/4234215/mujer-come-mientras-su-perro-mira-con-cara-pena-2889269-1200-700.jpg",
-      "publishedAt": "2026-08-31 05:00:00",
-      "sourceName": "vozpopuli"
-    },
-    {
-      "id": "es-27",
-      "title": "Guillermo Lapuente, educador canino, sobre cómo combatir el calor: “A los perros hay que mojarlos siempre en la parte de abajo del cuello y la tripa, nunca por el lomo”",
-      "description": "El especialista cuenta a ‘Infobae’ las claves para proteger a las mascotas del asfalto caliente y cómo preparar los viajes en coche sin estrés",
+      "id": "es-30",
+      "title": "Guillermo Lapuente, educador canino, sobre cómo combatir el calor: “A los perros hay que mojarlos siempre en la parte de abajo del cuello y la tripa, nunca por el lomo”",
+      "description": "El especialista cuenta a ‘Infobae’ las claves para proteger a las mascotas del asfalto caliente y cómo preparar los viajes en coche sin estrés",
       "url": "https://www.infobae.com/espana/2026/08/31/guillermo-lapuente-educador-canino-sobre-como-combatir-el-calor-a-los-perros-hay-que-mojarlos-siempre-en-la-parte-de-abajo-del-cuello-y-la-tripa-nunca-por-el-lomo/",
-      "urlToImage": "https://www.infobae.com/resizer/v2/NHVY7NFOORF6DN47HJSYFMWVGM.png?auth=5cad4b1f8a76e21ffd6d0d212b84f95315b50c9d864db391d925cb2845359acb&smart=true&width=1920&height=1080",
-      "publishedAt": "2026-08-31 03:00:00",
-      "sourceName": "infobae"
+      "urlToImage": "https://www.infobae.com/resizer/v2/NHVY7NFOORF6DN47HJSYFMWVGM.png?auth=5cad4b1f8a76e21ffd6d0d212b84f95315b50c9d864db391d925cb2845359acb&smart=true&width=1200&height=630&quality=85",
+      "publishedAt": "2026-08-31 03:00:00 +0000",
+      "sourceName": "Irene Herrero Alonso"
     },
     {
-      "id": "es-28",
+      "id": "es-31",
       "title": "La Policía de la Ciudad abrió su primer centro de crianza y adiestramiento canino en Palermo",
       "description": "Con la inauguración del Centro de Crianza, Entrenamiento y Habituación de Cachorros 8 de julio en el barrio de Palermo, la fuerza de seguridad porteña dio un paso clave en su soberanía operativa. La nueva dependencia per",
       "url": "https://www.perfil.com/noticias/sociedad/la-policia-de-la-ciudad-abrio-su-primer-centro-de-crianza-y-adiestramiento-canino-en-palermo.phtml",
@@ -263,7 +290,7 @@
       "sourceName": "Claudio Corsalini"
     },
     {
-      "id": "es-29",
+      "id": "es-32",
       "title": "Perros contra el crimen, un trabajo 'pata a mano' que frena la delincuencia en Granada",
       "description": "El Servicio Cinológico de la Guardia Civil en Granada usa canes adiestrados para detectar droga, explosivos o personas, en un trabajo que lleva más allá la relación entre animal y agente",
       "url": "https://www.granadahoy.com/granada/perros-crimen-trabajo-pata-mano-frena-delincuencia-granada-guardia-civil-servicio-cinologico_0_2007787669.html",
@@ -272,7 +299,7 @@
       "sourceName": "Salva Rodríguez"
     },
     {
-      "id": "es-30",
+      "id": "es-33",
       "title": "¿Cómo detectar el Alzheimer canino a tiempo?",
       "description": "Especialistas veterinarios detallan los síntomas del deterioro cognitivo en mascotas geriátricas, una condición similar al Alzheimer que afecta al 60 por ciento de los canes mayores de ocho años.",
       "url": "https://www.informador.mx/estilo/como-detectar-el-alzheimer-canino-a-tiempo-20260827-0124.html",
@@ -281,7 +308,7 @@
       "sourceName": "Oscar Eduardo Bravo Gutiérrez"
     },
     {
-      "id": "es-31",
+      "id": "es-34",
       "title": "Dos hombres viajaban en una moto, fueron sorprendidos por un perro y cayeron violentamente",
       "description": "El hecho tuvo lugar en la avenida Soriano en el departamento de Paysandú. El conductor de la motocicleta debió ser trasladado de urgencia.",
       "url": "https://www.montevideo.com.uy/Noticias/Dos-hombres-viajaban-en-una-moto-fueron-sorprendidos-por-un-perro-y-cayeron-violentamente-uc973460",
@@ -290,7 +317,7 @@
       "sourceName": "Mateo Aguerre"
     },
     {
-      "id": "es-32",
+      "id": "es-35",
       "title": "Los perros pueden ser diestros, zurdos o ambidiestros: ¿cómo sé qué es mi mascota?",
       "description": "Investigadores italianos crearon una herramienta estandarizada para medir la lateralidad motora en canes; el sistema permite clasificar a las mascotas en cinco niveles según su uso de patas",
       "url": "https://www.lanacion.com.ar/lifestyle/mascotas/los-perros-pueden-ser-diestros-zurdos-o-ambidiestros-como-se-que-es-mi-mascota-nid28082026/",
@@ -299,7 +326,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "es-33",
+      "id": "es-36",
       "title": "Furgón que transportaba mascotas chocó con una ruta escolar en el norte de Bogotá: al menos una docena de perros habrían sido afectados",
       "description": "El siniestro ocurrió durante la madrugada del viernes 28 de agosto en el sector de Cedritos y existe preocupación por el estado de los cerca de 12 caninos que eran trasladados en el vehículo que quedó sobre la vía",
       "url": "https://www.infobae.com/colombia/2026/08/28/furgon-que-transportaba-mascotas-choco-con-una-ruta-escolar-en-el-norte-de-bogota-al-menos-una-docena-de-perros-habrian-sido-afectados/",
@@ -308,7 +335,7 @@
       "sourceName": "Natalia Perilla"
     },
     {
-      "id": "es-34",
+      "id": "es-37",
       "title": "Extranjeros mandan a mexicana a “vivir a una cueva” tras discusión por ataque de perros en Bosque de Chapultepec",
       "description": "El enfrentamiento habría comenzado después de un incidente entre perros y terminó con insultos que desataron indignación entre usuarios de redes sociales",
       "url": "https://www.infobae.com/mexico/2026/08/27/extranjeros-mandan-a-mexicana-a-vivir-a-una-cueva-tras-discusion-por-ataque-de-perros-en-bosque-de-chapultepec/",
@@ -317,7 +344,7 @@
       "sourceName": "Jesús F Beltrán"
     },
     {
-      "id": "es-35",
+      "id": "es-38",
       "title": "Qué significa que un perro parpadee cuando su tutor lo hace y cómo este gesto revela la importancia del vínculo social, según la ciencia",
       "description": "Un estudio detectó una mayor respuesta visual ante los humanos con los que conviven y sugiere que ese comportamiento podría estar ligado a la conexión interpersonal",
       "url": "https://www.infobae.com/perros-y-gatos/2026/08/27/que-significa-que-un-perro-parpadee-cuando-su-tutor-lo-hace-y-como-este-gesto-revela-la-importancia-del-vinculo-social-segun-la-ciencia/",
@@ -326,7 +353,7 @@
       "sourceName": "Pilar Alvarez"
     },
     {
-      "id": "es-36",
+      "id": "es-39",
       "title": "Víctor, adiestrador canino: “Saludar al perro inmediatamente cuando llegás de la calle es la semilla de la mala educación”",
       "description": "El especialista advierte que la euforia excesiva al entrar en el hogar refuerza conductas ansiosas en la mascota; esta práctica habitual deriva en problemas emocionales severos para el animal",
       "url": "https://www.lanacion.com.ar/lifestyle/mascotas/victor-adiestrador-canino-saludar-al-perro-inmediatamente-cuando-llegas-de-la-calle-es-la-semilla-de-nid26082026/",
@@ -335,7 +362,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "es-37",
+      "id": "es-40",
       "title": "Insólita escena durante una oración: en video quedó la reacción de un perro con el sacerdote",
       "description": "Simón, un perro rescatado, protagonizó un curioso momento durante una oración de intercesión al permanecer sentado junto a una mujer y acercarle una de sus patas al sacerdote. El gesto despertó ternura entre los usuarios",
       "url": "https://www.infobae.com/colombia/2026/08/26/insolita-escena-durante-una-oracion-en-video-quedo-la-reaccion-de-un-perro-con-el-sacerdote/",
@@ -344,7 +371,7 @@
       "sourceName": "Seguir"
     },
     {
-      "id": "es-38",
+      "id": "es-41",
       "title": "Enrique Molina, adiestrador canino: \"El gran error es humanizar al perro. Muchas personas los tratan como si fueran una persona\"",
       "description": "Enrique Molina es un conocido adiestrador canino que ayuda a dueños de perros a saber cómo educar a su mascota para que sepa comportarse en casa, entre otras ...",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260531/1004189877/enrique-molina-adiestrador-canino-gran-error-humanizar-perro-muchas-personas-tratan-fueran-persona-dct.html",
@@ -353,7 +380,7 @@
       "sourceName": "mundodeportivo.com"
     },
     {
-      "id": "es-39",
+      "id": "es-42",
       "title": "Enrique Molina, adiestrador canino: \"No debemos dormir con nuestro perro, porque invade un espacio muy personal del dueño\"",
       "description": "Enrique Molina es un conocido adiestrador canino que ayuda a dueños de perros a saber cómo educar a su mascota para que sepa comportarse en casa, entre otras ...",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260510/1004181518/enrique-molina-adiestrador-canino-no-debemos-dormir-nuestro-perro-invade-espacio-personal-dueno-dct.html",
@@ -362,7 +389,7 @@
       "sourceName": "mundodeportivo.com"
     },
     {
-      "id": "es-40",
+      "id": "es-43",
       "title": "Alan Peiró, adiestrador canino: “Cuando un perro se muestra agresivo, lo hace por miedo”",
       "description": "El experto en comportamiento animal brindó consejos para tratar las reacciones violentas de las mascotas.",
       "url": "https://tn.com.ar/mascotas/2026/03/27/alan-peiro-adiestrador-canino-cuando-un-perro-se-muestra-agresivo-lo-hace-por-miedo/",
@@ -371,7 +398,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-41",
+      "id": "es-44",
       "title": "Juan Cervantes, adiestrador canino: “Al volver a tu casa debés ignorar al perro por 5 minutos”",
       "description": "Un experto en mascotas explicó por qué no saludar a tu mascota al regresar al hogar y las consecuencias que eso genera.",
       "url": "https://tn.com.ar/sociedad/2026/03/20/juan-cervantes-adiestrador-canino-al-volver-a-tu-casa-debes-ignorar-al-perro-por-5-minutos/",
@@ -380,7 +407,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-42",
+      "id": "es-45",
       "title": "Juan Cervantes, adiestrador canino: “Cuanto más llames a tu perro por su nombre, menos caso te hace”",
       "description": "El experto influencer explicó el motivo por el que utilizar esta técnica no es la mejor forma para llamar la atención de tu mascota.",
       "url": "https://tn.com.ar/sociedad/2026/03/19/juan-cervantes-adiestrador-canino-cuanto-mas-llames-a-tu-perro-por-su-nombre-menos-caso-te-hace/",
@@ -389,7 +416,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-43",
+      "id": "es-46",
       "title": "Qué significa que tu perro te muestre los dientes cuando jugás, según expertos en comportamiento canino",
       "description": "Este gesto puede formar parte del juego normal y la comunicación canina, pero su significado depende del contexto, la postura corporal y el nivel de relajació...",
       "url": "https://tn.com.ar/sociedad/2026/03/03/que-significa-que-tu-perro-te-muestre-los-dientes-cuando-jugas-segun-expertos-en-comportamiento-canino/",
@@ -398,7 +425,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-44",
+      "id": "es-47",
       "title": "Por qué no hay que saludar al perro al llegar a casa, según un entrenador canino",
       "description": "Víctor Mañero, reconocido adiestrador canino, reveló el motivo por el cual esta acción puede generarles a los animales gran estrés y ansiedad; qué dijo - ...",
       "url": "https://www.lanacion.com.ar/lifestyle/mascotas/por-que-no-hay-que-saludar-al-perro-al-llegar-a-casa-segun-un-entrenador-canino-nid02052025/",
@@ -407,7 +434,7 @@
       "sourceName": "lanacion.com.ar"
     },
     {
-      "id": "es-45",
+      "id": "es-48",
       "title": "“Perro gay”: ovacionan a un canino en marcha LGBT+ de Guadalajara",
       "description": "El divertido y controversial momento sucedió cuando su cuidadora lo alzó y todos los asistentes no dudaron en gritar y aclamarlo mientras él sacaba su lengua...",
       "url": "https://www.infobae.com/america/entretenimiento/2022/06/19/perro-gay-ovacionan-a-un-canino-en-marcha-lgbt-de-guadalajara/",
@@ -422,14 +449,25 @@
       "title": "Allergic to Dogs? These Gene-Edited Beagles Could Pave the Way to Your Dream Canine Companion That Won't Trigger Sniffles",
       "description": "Geneticists altered Alfie and Bailey’s DNA so that they don't produce a major allergen. However, canines like them are not currently commercially available, and some experts express ethical concerns about altering the an",
       "url": "https://www.smithsonianmag.com/smart-news/allergic-to-dogs-these-gene-edited-beagles-could-pave-the-way-to-your-dream-canine-companion-that-wont-trigger-sniffles-180989303/",
-      "urlToImage": "None",
-      "publishedAt": "2026-09-01 19:12:02 +0000",
-      "sourceName": "Currents",
+      "urlToImage": "https://th-thumbnailer.cdn-si-edu.com/vqpPl0gCM7S9jhpio55sQheYg8Y=/420x240/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b8/5e/b85ec0c4-468f-4a60-9021-4a6d41a63e39/alfie-bailey.png",
+      "publishedAt": "2026-09-01 19:12:02",
+      "sourceName": "smithsonianmag",
       "title_es": "¿Alérgico a los perros? Estos beagles editados genéticamente podrían allanar el camino para tu compañero canino de ensueño que no provocará resfriados",
       "description_es": "Los genetistas alteraron el ADN de Alfie y Bailey para que no produzcan un alérgeno importante. Sin embargo, los caninos como ellos no están actualmente disponibles comercialmente, y algunos expertos expresan preocupaciones éticas sobre la alteración de la"
     },
     {
       "id": "en-1",
+      "title": "How to entertain a puppy in a crate",
+      "description": "Bringing a young canine into your home is an exciting adventure, but it also brings unique challenges. One of the most common hurdles for new pet parents is teaching their furry friend to love their enclosure. When left ",
+      "url": "https://flefllynews.com/how-to-entertain-a-puppy-in-a-crate/",
+      "urlToImage": "https://flefllynews.com/wp-content/uploads/2026/09/639238968825381179.webp",
+      "publishedAt": "2026-09-01 19:01:28",
+      "sourceName": "flefllynews",
+      "title_es": "Cómo entretener a un cachorro en una jaula",
+      "description_es": "Llevar a un canino joven a tu casa es una aventura emocionante, pero también conlleva desafíos únicos. Uno de los obstáculos más comunes para los nuevos padres de mascotas es enseñar a su amigo peludo a amar su recinto. Cuando se va"
+    },
+    {
+      "id": "en-2",
       "title": "Travis Kelce stars in ad with his and Taylor Swift's dog: 'Very special cameo'",
       "description": "Travis Kelce stars alongside his dog in an ad campaign for Tommy Hilfiger.",
       "url": "https://abcnews.com/GMA/Culture/travis-kelce-stars-ad-taylor-swifts-dog-special/story?id=136114144",
@@ -440,267 +478,265 @@
       "description_es": "Travis Kelce protagoniza junto a su perro una campaña publicitaria para Tommy Hilfiger."
     },
     {
-      "id": "en-2",
+      "id": "en-3",
+      "title": "Dog handlers promote animal welfare as classic dog show captivates Kumasi",
+      "description": "At night, they stand guard like silent soldiers, protecting homes and keeping watch. By day, however, they are more than faithful companions. They are trusted partners, cherished friends and, for many owners, part of the",
+      "url": "https://www.myjoyonline.com/dog-handlers-promote-animal-welfare-as-classic-dog-show-captivates-kumasi/",
+      "urlToImage": "https://www.myjoyonline.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-01-at-19.41.35-1024x576.jpeg",
+      "publishedAt": "2026-09-01 18:47:06",
+      "sourceName": "myjoyonline",
+      "title_es": "Los adiestradores de perros promueven el bienestar animal, ya que el espectáculo canino clásico cautiva a Kumasi",
+      "description_es": "Por la noche, montan guardia como soldados silenciosos, protegiendo los hogares y vigilando. Durante el día, sin embargo, son más que compañeros fieles. Son socios de confianza, amigos queridos y, para muchos propietarios, parte de la"
+    },
+    {
+      "id": "en-4",
+      "title": "Taylor Swift May Have Teased Her Dog's Name In 'Folklore' & 'TTPD' Lyrics",
+      "description": "Travis Kelce is finally showing off the dog he and wife Taylor Swift adopted together, and the pooch's name will sound very familiar to diehard Swifties.",
+      "url": "https://www.elitedaily.com/entertainment/taylor-swift-dog-name-wendy-folklore-tortured-poets-lyrics",
+      "urlToImage": "https://imgix.bustle.com/uploads/shutterstock/2026/9/1/fc2af122/shutterstock-14690925oi.jpg?w=1200&fit=max",
+      "publishedAt": "2026-09-01 18:44:27",
+      "sourceName": "elitedaily",
+      "title_es": "Taylor Swift puede haberse burlado del nombre de su perro en las letras de 'Folklore' y 'TTPD'",
+      "description_es": "Travis Kelce finalmente está mostrando al perro que él y su esposa Taylor Swift adoptaron juntos, y el nombre del perro sonará muy familiar para los acérrimos Swifties."
+    },
+    {
+      "id": "en-5",
+      "title": "West Jordan Arena Hosts K9 Trials Honoring Sandy Officer Who Died at 35",
+      "description": "Police K9 teams from across Utah compete Sept. 13 at West Jordan Arena, honoring Sandy Officer Bradley Taylor and funding canine units statewide.",
+      "url": "https://hoodline.com/2026/09/west-jordan-arena-hosts-k9-trials-honoring-sandy-officer-who-died-at-35/",
+      "urlToImage": "https://img.hoodline.com/2026/9/west-jordan-arena-hosts-k9-trials-honoring-sandy-officer-who-died-at-35.webp",
+      "publishedAt": "2026-09-01 17:55:41",
+      "sourceName": "hoodline",
+      "title_es": "El West Jordan Arena acoge pruebas caninas en homenaje al oficial de Sandy que falleció a los 35 años",
+      "description_es": "Equipos caninos de la policía de todo Utah compiten el 13 de septiembre en el West Jordan Arena, en homenaje al oficial de Sandy Bradley Taylor y para recaudar fondos para unidades caninas en todo el estado."
+    },
+    {
+      "id": "en-6",
+      "title": "Phoenix Zoo Lets 500 Dogs Loose on Its Trails This November",
+      "description": "Phoenix Zoo will let leashed dogs join Tails on the Trails on Nov. 14, with a parade, cooling pools and a $35 ticket per dog.",
+      "url": "https://hoodline.com/2026/09/phoenix-zoo-lets-500-dogs-loose-on-its-trails-this-november/",
+      "urlToImage": "https://img.hoodline.com/2026/9/phoenix-zoo-lets-500-dogs-loose-on-its-trails-this-november-18.webp",
+      "publishedAt": "2026-09-01 17:47:56",
+      "sourceName": "hoodline",
+      "title_es": "El zoológico de Phoenix permite que 500 perros anden sueltos por sus senderos este noviembre",
+      "description_es": "El zoológico de Phoenix permitirá que los perros con correa se unan a Tails on the Trails el 14 de noviembre, con un desfile, piscinas refrescantes y un boleto de $ 35 por perro."
+    },
+    {
+      "id": "en-7",
+      "title": "Rise & Research",
+      "description": "Paola Prada-Tiedemann on dogs, chemistry and national security.",
+      "url": "https://www.ttu.edu/now/posts/2026/09/rise-research-paola-prada-tiedemann.php",
+      "urlToImage": "https://www.ttu.edu/now/posts/Media/_HeroImages/Canine-Graduates-m.jpg",
+      "publishedAt": "2026-09-01 17:34:43",
+      "sourceName": "ttu_edunow",
+      "title_es": "Rise & Research",
+      "description_es": "Paola Prada-Tiedemann sobre perros, química y seguridad nacional."
+    },
+    {
+      "id": "en-8",
+      "title": "If Dolly Parton had a ‘god-dog, she was a fairy godmother to many more",
+      "description": "Dolly Parton’s lifelong love of dogs and animals shaped her legacy, from her beloved Boston Terrier Popeye to her “god-dog” Billy the Kid, children’s books and animal advocacy.",
+      "url": "https://tribune.net.ph/2026/09/01/if-dolly-parton-had-a-god-dog-she-was-a-fairy-godmother-to-many-more",
+      "urlToImage": "https://images.assettype.com/tribune/2026-09-01/w2xkg4b6/Billlythe-sid.jpg?w=1200&auto=format",
+      "publishedAt": "2026-09-01 17:17:36",
+      "sourceName": "tribune",
+      "title_es": "Si Dolly Parton tenía un \"dios-perro\", era un hada madrina de muchos más",
+      "description_es": "El amor de toda la vida de Dolly Parton por los perros y los animales dio forma a su legado, desde su amado Boston Terrier Popeye hasta su \"dios-perro\" Billy the Kid, libros infantiles y defensa de los animales."
+    },
+    {
+      "id": "en-9",
+      "title": "Let the Aspin games begin",
+      "description": "National Aspin Day celebrates Filipino dogs through Palarong Pang-Aspin, promoting animal welfare, adoption, and appreciation for the unique talents of the country’s beloved Aspins.",
+      "url": "https://tribune.net.ph/2026/09/01/let-the-aspin-games-begin",
+      "urlToImage": "https://images.assettype.com/tribune/2026-09-01/xyyujpj9/8COLORED.jpg?w=1200&auto=format&mode=crop&crop=focalpoint&ar=16%3A10&fp-x=0.500&fp-y=0.500&fp-z=1",
+      "publishedAt": "2026-09-01 17:15:25",
+      "sourceName": "tribune",
+      "title_es": "Que comiencen los juegos de Aspin",
+      "description_es": "El Día Nacional de la Aspin celebra a los perros filipinos a través de Palarong Pang-Aspin, promoviendo el bienestar animal, la adopción y el aprecio por los talentos únicos de los queridos Aspin del país."
+    },
+    {
+      "id": "en-10",
+      "title": "\"We’re Less Alone in The World Because of Our Dogs”: Brad Pitt Talks About The Heart of The Beast | Filmfare.com",
+      "description": "Actor Brad Pitt opens up about Heart of the Beast’s powerful human-dog bond. Read the full story below.",
+      "url": "https://www.filmfare.com/news/hollywood/were-less-alone-in-the-world-because-of-our-dogs-brad-pitt-talks-about-the-heart-of-the-beast-85686.html",
+      "urlToImage": "https://filmfare.wwmindia.com/thumb/content/2026/sep/bradpitt21788273637.jpg?width=1280&height=720",
+      "publishedAt": "2026-09-01 17:15:02",
+      "sourceName": "filmfare",
+      "title_es": "\"Estamos menos solos en el mundo debido a nuestros perros\": Brad Pitt habla sobre el corazón de la bestia | Filmfare.com",
+      "description_es": "El actor Brad Pitt habla sobre el poderoso vínculo humano-perro de Heart of the Beast. Lea la historia completa a continuación."
+    },
+    {
+      "id": "en-11",
+      "title": "Sharon Police Dog Cleo Graduates Ahead Of School Year",
+      "description": "Cleo is entering the new school year with a new credential.",
+      "url": "https://patch.com/massachusetts/sharon/sharon-police-dog-cleo-graduates-ahead-school-year",
+      "urlToImage": "https://patch.com/img/cdn20/users/27157682/20260901/113804/styles/patch_image/public/sharon-pd-dog-1___01113655481.jpg",
+      "publishedAt": "2026-09-01 17:02:38",
+      "sourceName": "patch",
+      "title_es": "Sharon Police Dog Cleo se gradúa antes del año escolar",
+      "description_es": "Cleo está entrando en el nuevo año escolar con una nueva credencial."
+    },
+    {
+      "id": "en-12",
+      "title": "Travis Kelce’s dog stars in Tommy Hilfiger ads. Why is her name (reportedly) Wendy?",
+      "description": "Chiefs tight end Travis Kelce and his dog in a new campaign for Tommy Hilfiger.",
+      "url": "https://www.kansascity.com/news/local/article317086858.html",
+      "urlToImage": "https://www.kansascity.com/public/sports/spt-columns-blogs/for-petes-sake/4kj85h/picture317085684/alternates/FREE_1140/dogandTRAV.jpg",
+      "publishedAt": "2026-09-01 16:53:47",
+      "sourceName": "kansascity",
+      "title_es": "El perro de Travis Kelce protagoniza los anuncios de Tommy Hilfiger. ¿Por qué se llama (supuestamente) Wendy?",
+      "description_es": "El ala cerrada de los Chiefs Travis Kelce y su perro en una nueva campaña para Tommy Hilfiger."
+    },
+    {
+      "id": "en-13",
+      "title": "Assassin's Creed Black Flag Resynced now lets you save the stranded dog, as Ubisoft fixes the greatest crime in the whole game",
+      "description": "",
+      "url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-black-flag-resynced-now-lets-you-save-the-stranded-dog-as-ubisoft-fixes-the-greatest-crime-in-the-whole-game/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eMEJgiQvpyqkHzCTZPUrJS-1280-80.jpg",
+      "publishedAt": "2026-09-01 16:48:13",
+      "sourceName": "gamesradar",
+      "title_es": "Assassin's Creed Black Flag Resynced ahora te permite salvar al perro varado, ya que Ubisoft corrige el mayor crimen de todo el juego",
+      "description_es": ""
+    },
+    {
+      "id": "en-14",
+      "title": "Beloved Berlin Police Canine Calls It A Career",
+      "description": "The popular police dog has retired after more than nine years at the Berlin PD and appearances at schools and community events.",
+      "url": "https://patch.com/connecticut/berlin/beloved-berlin-police-canine-calls-it-career",
+      "urlToImage": "https://patch.com/img/cdn20/users/25990360/20260901/124556/styles/patch_image/public/berlin-police-dog-casner-retires-image___01124307774.jpg",
+      "publishedAt": "2026-09-01 16:45:57",
+      "sourceName": "patch",
+      "title_es": "Beloved Berlin Police Canine Calls It A Career",
+      "description_es": "El popular perro policía se ha retirado después de más de nueve años en el Departamento de Policía de Berlín y apariciones en escuelas y eventos comunitarios."
+    },
+    {
+      "id": "en-15",
+      "title": "Two injured, dog dies in vehicle-pedestrian collision Tuesday in Ottawa",
+      "description": "",
+      "url": "https://www.wibw.com/2026/09/01/two-injured-dog-dies-vehicle-pedestrian-collision-tuesday-ottawa/",
+      "urlToImage": "https://gray-wibw-prod.gtv-cdn.com/resizer/v2/JSMD2PV5JNANPJUEPQQ3KFHDEA.jpg?auth=fad42920c699114987765bb74ce590cfc306e6569ff4c5aaec3ec94a156e9221&width=1200&height=600&smart=true",
+      "publishedAt": "2026-09-01 16:40:17",
+      "sourceName": "wibw"
+    },
+    {
+      "id": "en-16",
+      "title": "Area K-9 officers gather for ice cream",
+      "description": "Mohawk Valley K-9 officers, handlers honored Aug. 31, Police Dog Day Eve, with ice cream social at Kookie's Q & Creamery, Utica.",
+      "url": "https://www.uticaod.com/story/news/good-news/2026/09/01/new-york-passes-resolution-making-sept-1-police-dog-day/91560918007/",
+      "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2026/09/01/NOBD/91561713007-k-9-ice-cream-social-k-9-offices-and-handlers-gather-at-kookies-q-and-creamery-utica-for-ice-cream-social-courtesy-mb-aug-31.png?auto=webp&crop=894,503,x0,y0&format=pjpg&width=1200",
+      "publishedAt": "2026-09-01 16:39:50",
+      "sourceName": "uticaod"
+    },
+    {
+      "id": "en-17",
+      "title": "(VIDEO) Travis Kelce Reveals Wendy, His and Taylor Swifts New Dog, in Tommy Hilfiger Fashion Campaign",
+      "description": "Travis Kelce and Taylor Swift introduce their Samoyed, Wendy, in a Tommy Hilfiger campaign, marking the dog's public debut and adding to their pet-filled household.",
+      "url": "https://www.ibtimes.com.au/travis-kelce-taylor-swift-samoyed-wendy-tommy-hilfiger-campaign-1874851",
+      "urlToImage": "https://d.ibtimes.com.au/en/full/1846521/us-singer-songwriter-taylor-swift-kansas-city-chiefs-tight-end-travis-kelce-embrace-after-super.jpg?w=1600&h=900&q=88&f=c0e549b65ecd9772e75c7a6c5e140562",
+      "publishedAt": "2026-09-01 15:05:43",
+      "sourceName": "ibtimes"
+    },
+    {
+      "id": "en-18",
+      "title": "Travis Kelce New Dog: Taylor Swift's New Samoyed Named Wendy Makes Fashion Debut",
+      "description": "Travis Kelce and Taylor Swift's white Samoyed puppy, whose existence had been the subject of speculation for months, made her public debut and had her name confirmed in a new Tommy Hilfiger fall campaign starring Kelce.",
+      "url": "https://www.ibtimes.sg/travis-kelce-new-dog-taylor-swifts-new-samoyed-named-wendy-makes-fashion-debut-93197",
+      "urlToImage": "https://data.ibtimes.sg/en/full/96419/travis-kelce.jpg?w=1200&h=630?q=60",
+      "publishedAt": "2026-09-01 15:01:01",
+      "sourceName": "ibtimes"
+    },
+    {
+      "id": "en-19",
+      "title": "Czech news in brief for September 1: Tuesday's top afternoon headlines recap",
+      "description": "Draft state budget for next year faces early criticism, Czech football team chooses Adidas over Puma, and some dog news.",
+      "url": "https://www.expats.cz/czech-news/article/czech-news-in-brief-for-september-1-2026-tuesday-top-afternoon-headlines",
+      "urlToImage": "https://www.expats.cz/images/publishing/articles/2026/08/1280_650/the-5-spot-edgic.webp",
+      "publishedAt": "2026-09-01 15:00:00",
+      "sourceName": "expats_cz"
+    },
+    {
+      "id": "en-20",
+      "title": "The dog made its grand debut in an ad for Tommy Hilfiger.",
+      "description": "The pup made its debut in Kelce's ad for Tommy Hilfiger.",
+      "url": "https://www.si.com/pop-culture/travis-kelce-taylor-swift-dog",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_8187,h_4605,x_0,y_392/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01m1epe96296qthsj1rp.jpg",
+      "publishedAt": "2026-09-01 14:55:08",
+      "sourceName": "si"
+    },
+    {
+      "id": "en-21",
+      "title": "Travis Kelce’s Mystery Dog Revealed: Meet The Fluffy White Samoyed Making Her Public Debut",
+      "description": "Travis Kelce has officially introduced his fluffy white dog in Tommy Hilfiger’s Fall 2026 campaign. Here’s what we know about his female Samoyed and the fan speculation surrounding her. The post Travis Kelce’s Mystery Do",
+      "url": "https://sundayguardianlive.com/entertainment-news/travis-kelces-mystery-dog-revealed-meet-the-fluffy-white-samoyed-making-her-public-debut-274945/",
+      "urlToImage": "https://sundayguardianlive.com/wp-content/uploads/2026/09/travis-kelce.png",
+      "publishedAt": "2026-09-01 14:51:13",
+      "sourceName": "thesundayguardian"
+    },
+    {
+      "id": "en-22",
       "title": "Heart of the Beast tickets on sale as Paramount rolls out new behind the scenes featurette and TV spot",
       "description": "Paramount announces ticket sales for David Ayer's survival thriller Heart of the Beast, unveiling fresh promotional material that highlights the bond between Brad Pitt's character and his dog Odin in the Alaskan wilderne",
       "url": "https://headtopics.com/news/heart-of-the-beast-tickets-on-sale-as-paramount-rolls-out-87277417",
       "urlToImage": "https://i.headtopics.com/images/2026/9/1/bleedingcool/heart-of-the-beast-tickets-on-sale-as-paramount-ro-heart-of-the-beast-tickets-on-sale-as-paramount-ro-B4E93C21E357A98524B6F9C346886B83.webp",
       "publishedAt": "2026-09-01 14:38:49",
-      "sourceName": "headtopics",
-      "title_es": "Las entradas para El corazón de la bestia están a la venta mientras Paramount lanza un nuevo reportaje detrás de cámaras y un anuncio de televisión",
-      "description_es": "Paramount anuncia la venta de entradas para el thriller de supervivencia de David Ayer El corazón de la bestia, presentando nuevo material promocional que destaca el vínculo entre el personaje de Brad Pitt y su perro Odín en el desierto de Alaska"
+      "sourceName": "headtopics"
     },
     {
-      "id": "en-3",
+      "id": "en-23",
       "title": "VCA Charities Releases 2025 Impact Report Celebrating Nearly $4.2 Million Granted To Help Pets Find And Remain In Loving Homes",
       "description": "Report Highlights Nearly 1,100 Grants Awarded to Help Support Access to Veterinary Care for Owned Pets and Adoption Readiness Efforts for Nearly 350,000...",
       "url": "https://www.globenewswire.com/news-release/2026/09/01/3354386/0/en/vca-charities-releases-2025-impact-report-celebrating-nearly-4-2-million-granted-to-help-pets-find-and-remain-in-loving-homes.html",
       "urlToImage": "https://ml.globenewswire.com/Resource/Download/5cd797e7-0db3-4037-8e8e-bd7ac1c67423",
       "publishedAt": "2026-09-01 14:30:00 +0000",
-      "sourceName": "VCA Charities",
-      "title_es": "VCA Charities publica un informe de impacto de 2025 que celebra casi $ 4.2 millones otorgados para ayudar a las mascotas a encontrar y permanecer en hogares amorosos",
-      "description_es": "El informe destaca casi 1,100 subvenciones otorgadas para ayudar a apoyar el acceso a la atención veterinaria para mascotas propias y los esfuerzos de preparación para la adopción para casi 350,000..."
+      "sourceName": "VCA Charities"
     },
     {
-      "id": "en-4",
+      "id": "en-24",
       "title": "Yvonne De Carlo’s Love for Animals",
       "description": "Yvonne De Carlo deep affection for animals, particularly dogs, was a central part of her private life away from the Hollywood cameras. While she was globally recognized as the “Queen of Technicolor” and the iconic Lily M",
       "url": "http://www.vintag.es/2026/09/yvonne-de-carlos-love-for-animals.html",
       "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-r6vhFLLShQPrOd75rCAUoCso0cqISh8rB2NnxZtLVoc-v8uLYZOCLjFRMgGq5P-4piYOuoUKs5bv1hhPJo5vsodYs3hvd6FO3JVV8yq6FzcrVPnWJLZyc62i7zGyoLYCVtdz-Ujk3npYYE2Es4qOMHyarThN6_jES_mwSkFMkWDB4fXmhdr27ohgzQbf/s72-w640-h496-c/yvonne-de-carlo-with-animals-1.jpg",
       "publishedAt": "2026-09-01 14:23:59",
-      "sourceName": "vintag",
-      "title_es": "El amor por los animales de Yvonne De Carlo",
-      "description_es": "El profundo afecto de Yvonne De Carlo por los animales, especialmente los perros, fue una parte central de su vida privada lejos de las cámaras de Hollywood. Si bien fue reconocida mundialmente como la \"Reina del Technicolor\" y la icónica Lily M"
+      "sourceName": "vintag"
     },
     {
-      "id": "en-5",
+      "id": "en-25",
       "title": "Did Travis Kelce just reveal the cutest addition to his life? Chiefs star’s surprise co-star steals the show",
       "description": "Travis Kelce brought his dog Wendy into Tommy Hilfiger’s Fall 2026 campaign after the brand’s creative team discussed casting a canine. The Kansas City Chiefs tight end volunteered his Samoyed, who then appeared beside h",
       "url": "https://timesofindia.indiatimes.com/sports/nfl/news/did-travis-kelce-just-reveal-the-cutest-addition-to-his-life-chiefs-stars-surprise-co-star-steals-the-show/articleshow/133684026.cms",
       "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-133684375/133684375.jpg",
       "publishedAt": "2026-09-01 14:15:33",
-      "sourceName": "toi",
-      "title_es": "¿Travis Kelce acaba de revelar la adición más linda a su vida? El coprotagonista sorpresa de la estrella de los Chiefs se roba el espectáculo",
-      "description_es": "Travis Kelce trajo a su perra Wendy a la campaña de otoño de 2026 de Tommy Hilfiger después de que el equipo creativo de la marca discutiera la elección de un canino. El ala cerrada de los Kansas City Chiefs ofreció su Samoyedo, que luego apareció al lado de h"
+      "sourceName": "toi"
     },
     {
-      "id": "en-6",
+      "id": "en-26",
       "title": "Pet of the Week: Meet Silas",
       "description": "Silas 8-year-old Shih Tzu Male Ladies and gentlemen, allow us to introduce Silas, an 8-year-old Shih Tzu — Professional Treat Inspector, and Full-Time Good Boy with a heart of gold, and absolutely no intention of skippin",
       "url": "https://kingsvilletimes.ca/2026/09/pet-of-the-week-meet-silas/",
       "urlToImage": "https://kingsvilletimes.ca/wp-content/uploads/2026/08/hs-silas-canva-700x371-1.png",
       "publishedAt": "2026-09-01 14:04:46",
-      "sourceName": "kingsvilletimes",
-      "title_es": "Mascota de la semana: Conoce a Silas",
-      "description_es": "Silas, de 8 años, Shih Tzu, hombre Damas y caballeros, permítannos presentarles a Silas, un Shih Tzu de 8 años, inspector profesional de golosinas, y buen chico de tiempo completo con un corazón de oro, y absolutamente sin intención de saltar"
-    },
-    {
-      "id": "en-7",
-      "title": "Brave cat rubs dog wrong way",
-      "description": "We live out in the country. As long as we have been here, for some reason, Egg and Butter Road has always been a place where people dump unwanted animals. [...]",
-      "url": "https://timesenterprise.com/2026/09/01/brave-cat-rubs-dog-wrong-way/",
-      "urlToImage": "https://timesenterprise.com/wp-content/themes/2024-thomasville-child/media/img/brand/default-logo.png",
-      "publishedAt": "2026-09-01 13:21:40",
-      "sourceName": "timesenterprise",
-      "title_es": "El gato valiente frota al perro de manera incorrecta",
-      "description_es": "Vivimos en el campo. Desde que estamos aquí, por alguna razón, Egg and Butter Road siempre ha sido un lugar donde la gente tira animales no deseados. [...]"
-    },
-    {
-      "id": "en-8",
-      "title": "Travis Kelce Debuts New Dog Wendy in Tommy Hilfiger Campaign Filmed at the Plaza Hotel",
-      "description": "Kansas City Chiefs star Travis Kelce introduces his and his wife's newly adopted Samoyed, Wendy, in a star-studded Tommy Hilfiger fall campaign filmed at the Plaza Hotel in New York City. The ad features cameos from Gigi",
-      "url": "https://headtopics.com/news/travis-kelce-debuts-new-dog-wendy-in-tommy-hilfiger-87273141",
-      "urlToImage": "https://i.headtopics.com/images/2026/9/1/billboard/travis-kelce-debuts-new-dog-wendy-in-tommy-hilfige-travis-kelce-debuts-new-dog-wendy-in-tommy-hilfige-5FBE1B8D979E49275F8C6F03CD1D3F07.webp",
-      "publishedAt": "2026-09-01 13:07:49",
-      "sourceName": "headtopics",
-      "title_es": "Travis Kelce estrena a la nueva perra Wendy en la campaña de Tommy Hilfiger filmada en el Plaza Hotel",
-      "description_es": "La estrella de los Kansas City Chiefs, Travis Kelce, presenta a Wendy, la samoyeda recién adoptada de él y su esposa, en una campaña de otoño de Tommy Hilfiger repleta de estrellas filmada en el Plaza Hotel de la ciudad de Nueva York. El anuncio presenta cameos de Gigi"
-    },
-    {
-      "id": "en-9",
-      "title": "Travis Kelce stars in Tommy Hilfiger campaign with dog he got with Taylor Swift",
-      "description": "Travis Kelce and Taylor Swift’s dog is already making a fashion debut, starring in Tommy Hilfiger's Fall '26 campaign with NFL player.A video posted to the fashion designer's YouTube channel, Kelce stops by one of New Yo",
-      "url": "https://www.indy100.com/celebrities/travis-kelce-tommy-hilfiger-dog-taylor-swift",
-      "urlToImage": "https://www.indy100.com/media-library/travis-kelce-refers-to-taylor-swift-as-wife-for-first-time-since.jpg?id=67706467&width=1200",
-      "publishedAt": "2026-09-01 13:03:30",
-      "sourceName": "indy100",
-      "title_es": "Travis Kelce protagoniza la campaña de Tommy Hilfiger con el perro que consiguió con Taylor Swift",
-      "description_es": "El perro de Travis Kelce y Taylor Swift ya está haciendo su debut en la moda, protagonizando la campaña Fall '26 de Tommy Hilfiger con el jugador de la NFL. Un video publicado en el canal de YouTube del diseñador de moda, Kelce, pasa por uno de New Yo"
-    },
-    {
-      "id": "en-10",
-      "title": "Travis Kelce Explains How His Dog Ended Up in Tommy Hilfiger Campaign as the Samoyed’s Name Is Reportedly Revealed",
-      "description": "Travis Kelce had a very special guest star in his Tommy Hilfiger campaign: his beloved dog! Fans had wondered for [...] The post Travis Kelce Explains How His Dog Ended Up in Tommy Hilfiger Campaign as the Samoyed’s Name",
-      "url": "https://www.justjared.com/2026/09/01/travis-kelce-explains-how-his-dog-ended-up-in-tommy-hilfiger-campaign-as-the-samoyeds-name-is-reportedly-revealed/",
-      "urlToImage": "https://www.justjared.com/wp-content/uploads/2026/09/travis-kelce-dog.jpg",
-      "publishedAt": "2026-09-01 12:53:54",
-      "sourceName": "justjared",
-      "title_es": "Travis Kelce explica cómo su perro terminó en la campaña de Tommy Hilfiger cuando se reveló el nombre del samoyedo",
-      "description_es": "Travis Kelce tuvo una estrella invitada muy especial en su campaña de Tommy Hilfiger: ¡su amado perro! Los fanáticos se habían preguntado por [...] La publicación Travis Kelce explica cómo su perro terminó en la campaña de Tommy Hilfiger como el nombre del samoyedo"
-    },
-    {
-      "id": "en-11",
-      "title": "Travis Kelce finally reveals adorable name of new dog with Taylor Swift... as pup makes public debut alongside NFL star",
-      "description": "Now, amid their newlywed bliss, Travis Kelce revealed that he and his A-list wife Taylor Swift have become proud owners of an adorable dog.",
-      "url": "https://www.dailymail.com/sport/nfl/article-16095677/travis-kelce-taylor-swift-dog-wendy.html",
-      "urlToImage": "https://i.dailymail.com/1s/2026/09/01/13/110974715-0-image-a-8_1788265999258.jpg",
-      "publishedAt": "2026-09-01 12:36:36",
-      "sourceName": "dailymailuk",
-      "title_es": "Travis Kelce finalmente revela el adorable nombre del nuevo perro con Taylor Swift... mientras PUP hace su debut público junto a la estrella de la NFL",
-      "description_es": "Ahora, en medio de su felicidad de recién casados, Travis Kelce reveló que él y su esposa Taylor Swift se han convertido en orgullosos dueños de un adorable perro."
-    },
-    {
-      "id": "en-12",
-      "title": "Travis Kelce and Taylor Swift’s Adorable, Fluffy New Dog Makes a Red Carpet-Worthy Debut in Fashion Campaign: Watch",
-      "description": "Travis Kelce and Taylor Swift's adorable, fluffy new Samoyed puppy, Wendy, makes her public debut in a new star-studded Tommy Hilfiger fall ad.",
-      "url": "https://www.billboard.com/culture/lifestyle/travis-kelce-taylor-swift-dog-wendy-debut-fashion-ad-watch-1236329801/",
-      "urlToImage": "https://www.billboard.com/wp-content/uploads/2026/09/P1055GLC-e1788263961729.jpg",
-      "publishedAt": "2026-09-01 12:35:52",
-      "sourceName": "billboard",
-      "title_es": "El adorable y esponjoso nuevo perro de Travis Kelce y Taylor Swift hace un debut digno de una alfombra roja en la campaña de moda: mira",
-      "description_es": "El adorable y esponjoso nuevo cachorro de Samoyedo de Travis Kelce y Taylor Swift, Wendy, hace su debut público en un nuevo anuncio de otoño de Tommy Hilfiger repleto de estrellas."
-    },
-    {
-      "id": "en-13",
-      "title": "Brad Pitt reveals how ‘Heart of the Beast’ cemented his belief about canine friends",
-      "description": "Mumbai, September 1 (IANS) Hollywood actor Brad Pitt, has spoken about the depth in the narrative of his upcoming film ‘Heart of the Beast’. The actor said that the bond between human and dog in the film really moved him",
-      "url": "https://morungexpress.com/brad-pitt-reveals-how-heart-of-the-beast-cemented-his-belief-about-canine-friends",
-      "urlToImage": "https://morungexpress.com/uploads/2026/09/28001888_1788265986_thumb_57809631_1788265986_202609013926072.jpg",
-      "publishedAt": "2026-09-01 12:33:06",
-      "sourceName": "morungexpress",
-      "title_es": "Brad Pitt revela cómo ‘Heart of the Beast’ cimentó su creencia sobre los amigos caninos",
-      "description_es": "Mumbai, 1 de septiembre (IANS) El actor de Hollywood Brad Pitt, ha hablado sobre la profundidad en la narrativa de su próxima película ‘Heart of the Beast’. El actor dijo que el vínculo entre el humano y el perro en la película realmente lo conmovió"
-    },
-    {
-      "id": "en-14",
-      "title": "Taylor Swift's new pet pooch takes centre stage in Travis Kelce's Tommy Hilfiger campaign",
-      "description": "Taylor Swift's husband Travis Kelce was joined by a slew of fellow stars in his new modelling campaign - as well as his pet pooch.",
-      "url": "https://www.dailymail.com/tvshowbiz/article-16095563/Taylor-Swifts-new-pet-pooch-takes-centre-stage-Travis-Kelces-Tommy-Hilfiger-campaign.html",
-      "urlToImage": "https://i.dailymail.com/1s/2026/09/01/13/110974257-0-image-a-7_1788265889031.jpg",
-      "publishedAt": "2026-09-01 12:32:17",
-      "sourceName": "dailymailuk",
-      "title_es": "El nuevo perro mascota de Taylor Swift ocupa un lugar central en la campaña Tommy Hilfiger de Travis Kelce",
-      "description_es": "El esposo de Taylor Swift, Travis Kelce, se unió a una gran cantidad de estrellas en su nueva campaña de modelaje, así como a su perro mascota."
-    },
-    {
-      "id": "en-15",
-      "title": "Local Entrepreneur Opens Leading Dog Daycare in Dallas-Inwood, TX",
-      "description": "Offering the Best Care for Your Furry Best Friend, Dogtopia of Dallas-Inwood Is Now Open DALLAS-INWOOD, Texas, Sept. 1, 2026 /PRNewswire/ -- Dogtopia, the nation's leading dog wellness franchise, opened a new location in",
-      "url": "https://www.prnewswire.com/news-releases/local-entrepreneur-opens-leading-dog-daycare-in-dallas-inwood-tx-302865608.html",
-      "urlToImage": "https://mmx.prnewswire.com/media/MS1451105/Dogtopia-Logo-Logo-v2.jpg?id=OA2921327&p=original",
-      "publishedAt": "2026-09-01 12:27:00",
-      "sourceName": "cision"
-    },
-    {
-      "id": "en-16",
-      "title": "Travis Kelce Breaks Silence on New Family Member With Taylor Swift",
-      "description": "Travis Kelce broke his silence on his newest family member, who he shares with wife Taylor Swift: a white Samoyed dog, rumored to be named Wendy. The pup was first seen with newlyweds Swift and Kelce on July 12, just day",
-      "url": "https://www.instyle.com/travis-kelce-introduces-new-family-member-taylor-swift-12075065",
-      "urlToImage": "https://www.instyle.com/thmb/m90OQBclITFy_H8LzocMrfDO2o4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2277904889-d82ed70e47b54c59bb0490c919a5c75a.jpg",
-      "publishedAt": "2026-09-01 12:19:23",
-      "sourceName": "instyle"
-    },
-    {
-      "id": "en-17",
-      "title": "5 Signs Your Dog Might Need a Joint Supplement",
-      "description": "Most dogs do not announce joint pain with obvious limping or crying. Joint deterioration is a gradual process, and dogs are instinctively wired to mask discomfort. By the time most pet parents notice something is wrong, ",
-      "url": "https://techbullion.com/5-signs-your-dog-might-need-a-joint-supplement/",
-      "urlToImage": "https://techbullion.com/wp-content/uploads/2026/09/joint-suppliment-1024x576.jpg",
-      "publishedAt": "2026-09-01 12:18:51",
-      "sourceName": "techbullion"
-    },
-    {
-      "id": "en-18",
-      "title": "Things to do include dog surf event, festivals, benefits, concerts and more",
-      "description": "21st annual Surf Dog Surf-A-Thon Approximately 50 four-legged surfing contenders will hit the waves at Del Mar Dog Beach on Sunday, Sept. 13, as Helen Woodward Animal Center celebrates the 21st annual Surf Dog Surf-A-Tho",
-      "url": "https://www.sandiegouniontribune.com/2026/09/01/things-to-do-include-dog-surf-event-festivals-benefits-concerts-and-more/",
-      "urlToImage": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/09/RSF-L-WOODWARD-SURF2-0903.jpg?w=1600&resize=1600,900",
-      "publishedAt": "2026-09-01 11:13:57",
-      "sourceName": "sandiegouniontribune"
-    },
-    {
-      "id": "en-19",
-      "title": "Taylor Swift & Travis Kelce’s Dog Has a Name — Report",
-      "description": "Taylor Swift and Travis Kelce‘s dog’s name has been revealed. The NFL star recently treated his fans with his appearance in a Tommy Hilfiger ad. But the highlight of the commercial was not just Kelce or the goal stars — ",
-      "url": "https://www.mandatory.com/news/1841120-taylor-swift-travis-kelce-dog-wendy-tommy-hilfiger-campaign-2",
-      "urlToImage": "https://www.mandatory.com/wp-content/uploads/sites/10/2026/09/Untitled-design-12.jpg",
-      "publishedAt": "2026-09-01 11:09:38",
-      "sourceName": "mandatory"
-    },
-    {
-      "id": "en-20",
-      "title": "Brad Pitt says Heart of the Beast is more than just a survival story",
-      "description": "Brad Pitt opens up about the emotional core of Heart of the Beast, calling it more than a survival film. The actor says the story of Special Forces officer James Belmont and his combat dog Odin explores loyalty, love and",
-      "url": "https://www.mid-day.com/entertainment/hollywood-news/article/brad-pitt-says-heart-of-the-beast-is-more-than-just-a-survival-story-23647809",
-      "urlToImage": "https://images.mid-day.com/images/images/2026/sep/fdgyrt6eu65eu-1788259075039_d.png",
-      "publishedAt": "2026-09-01 11:04:37",
-      "sourceName": "mid_day"
-    },
-    {
-      "id": "en-21",
-      "title": "Meet Chardonnay, the dog who set a Guinness World Record with 56 jumps in 60 seconds — Know the science behind her agility",
-      "description": "Canadian dog Chardonnay completed 56 jumps between people in one minute to set a Guinness World Records title. Here’s the science behind her remarkable agility.",
-      "url": "https://www.moneycontrol.com/science/meet-chardonnay-the-dog-who-set-a-guinness-world-record-with-56-jumps-in-60-seconds-know-the-science-behind-her-agility-article-14020000.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/09/20260901110218_Dog-with.png",
-      "publishedAt": "2026-09-01 11:04:30",
-      "sourceName": "moneycontrol"
-    },
-    {
-      "id": "en-22",
-      "title": "The Korean cafe serving shaved ice desserts where dogs and humans can share together",
-      "description": "Next door to her mum's Korean restaurant in Goldhurst Terrace, Amy Son has opened Cafe ,Comma that welcomes dogs with a special menu including bingsoo.",
-      "url": "https://www.hamhigh.co.uk/news/26510605.cafe-comma-london-korean-dog-friendly-cafe-opens-west-hampstead/",
-      "urlToImage": "https://www.hamhigh.co.uk/resources/images/21395081/",
-      "publishedAt": "2026-09-01 11:00:00",
-      "sourceName": "hamhigh_uk"
-    },
-    {
-      "id": "en-23",
-      "title": "New adventure story inspired by dogs in Norfolk village published",
-      "description": "Rowley, Loki and Wilf, Cavalier King Charles spaniels from Bradwell, are the inspiration behind The Gate Escape: Adventures with the River Dogs.",
-      "url": "https://www.edp24.co.uk/news/26507535.new-adventure-story-inspired-three-bradwell-dogs-released/",
-      "urlToImage": null,
-      "publishedAt": "2026-09-01 10:45:00",
-      "sourceName": "edp24_co_uk"
-    },
-    {
-      "id": "en-24",
-      "title": "Penang council revokes licence for dog that attacked stray in Pearl Hill",
-      "description": "Mayor Rajendran Anthony says the dog remains impounded, while its owner has yet to pay a RM250 compound issued by the council.",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/09/01/penang-council-revokes-licence-for-dog-that-attacked-stray-in-pearl-hill",
-      "urlToImage": "https://media.freemalaysiatoday.com/v3/2026/09/4a2f4f4b-207c-47d9-9fb9-a26f0fad19ad-Rajendran-Anthony-fb-010926.jpg",
-      "publishedAt": "2026-09-01 10:22:00",
-      "sourceName": "freemalaysiatoday"
-    },
-    {
-      "id": "en-25",
-      "title": "PEDIGREE taps KL Rahul to talk about dogs’ digestive health",
-      "description": "PEDIGREE has launched Healthy Belly, a complete and balanced food for adult dogs, with a new campaign featuring cricketer KL Rahul and his dog. The campaign uses a dog’s bowel habits as an entry point to encourage pet pa",
-      "url": "https://www.afaqs.com/news/advertising/pedigree-taps-kl-rahul-to-talk-about-dogs-digestive-health-12480035",
-      "urlToImage": "https://img-cdn.publive.online/fit-in/1280x960/afaqs/media/media_files/2026/09/01/pedigree-2026-09-01-15-42-22.jpg",
-      "publishedAt": "2026-09-01 10:15:17",
-      "sourceName": "afaqs"
-    },
-    {
-      "id": "en-26",
-      "title": "KaDAUGyaONE 2026: Top canine athletes, handlers shine in Pulong’s Cup",
-      "description": "Davao City hosts the 4th Pulong's Cup National Dog Agility Competition, featuring speed, precision, and top canine athletes.",
-      "url": "https://www.sunstar.com.ph/davao/kadaugyaone-2026-top-canine-athletes-handlers-shine-in-pulongs-cup",
-      "urlToImage": "https://cf-images.assettype.com/sunstar/2026-09-01/lg3coyyh/Untitled-1.jpg",
-      "publishedAt": "2026-09-01 10:05:33",
-      "sourceName": "sunstar"
+      "sourceName": "kingsvilletimes"
     },
     {
       "id": "en-27",
-      "title": "If Your Dog Is Blinking at You, It May Be Trying to Tell You Something, Science Suggests",
-      "description": "They recognize their person. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
-      "url": "https://www.sciencealert.com/if-your-dog-is-blinking-at-you-it-may-be-trying-to-tell-you-something-science-suggests",
-      "urlToImage": "https://www.sciencealert.com/images/2026/04/dog-brain.jpg",
-      "publishedAt": "2026-09-01 10:00:00",
-      "sourceName": "sciencealert"
+      "title": "Travis Kelce reveals adorable name of new dog with Taylor Swift",
+      "description": "Now, amid their newlywed bliss, Travis Kelce revealed that he and his A-list wife Taylor Swift have become proud owners of an adorable dog.",
+      "url": "https://www.dailymail.com/sport/nfl/article-16095677/travis-kelce-taylor-swift-dog-wendy.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/01/13/110974595-0-image-a-14_1788267586890.jpg",
+      "publishedAt": "2026-09-01 13:28:02 +0000",
+      "sourceName": "Isabel Baldwin"
     },
     {
       "id": "en-28",
+      "title": "Travis Kelce confirms he and Taylor Swift got a dog together",
+      "description": "Travis Kelce and Taylor Swift’s dog is already making a fashion debut, starring in Tommy Hilfiger's Fall '26 campaign with NFL player.A video posted to the fashion designer's YouTube channel, Kelce stops by one of New Yo",
+      "url": "https://www.indy100.com/celebrities/travis-kelce-tommy-hilfiger-dog-taylor-swift",
+      "urlToImage": "https://www.indy100.com/media-library/image.png?id=67706487&width=1200&height=600&coordinates=0%2C165%2C0%2C459",
+      "publishedAt": "2026-09-01 13:03:30 +0000",
+      "sourceName": "Sinead Butler"
+    },
+    {
+      "id": "en-29",
       "title": "Travis Kelce Breaks Silence on Getting a Dog With Wife Taylor Swift: ‘She Lights Up My Day’",
       "description": "Travis Kelce confirmed he and wife Taylor Swift are dog parents and their fluffy white Samoyed even stars in a new Tommy Hilfiger campaign with him",
       "url": "https://www.usmagazine.com/celebrity-news/news/travis-kelce-breaks-silence-on-getting-dog-with-taylor-swift/",
@@ -709,7 +745,7 @@
       "sourceName": "Tufayel Ahmed"
     },
     {
-      "id": "en-29",
+      "id": "en-30",
       "title": "Travis Kelce and Taylor Swift’s dog makes fashion debut alongside tight end in Tommy Hilfiger campaign",
       "description": "The Kansas City Chiefs player poses with his pooch in The Plaza Hotel.",
       "url": "https://pagesix.com/2026/09/01/style/travis-kelce-and-taylor-swifts-dog-makes-fashion-debut-alongside-tight-end-in-tommy-hilfiger-campaign/",
@@ -718,7 +754,7 @@
       "sourceName": "Melissa Minton"
     },
     {
-      "id": "en-30",
+      "id": "en-31",
       "title": "Frontiers | Glycogen storage disease type VII (Tarui disease): a case report presenting a PFKM variant previously described only in canine models",
       "description": "Glycogen storage disease type VII (GSD-VII), or Tarui disease, is a rare autosomal recessive disorder caused by biallelic loss-of-function variants in the PF...",
       "url": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2026.1925751/full",
@@ -727,7 +763,7 @@
       "sourceName": "Griffo; Mariapia; Molitierno; Nicola; Napoli; Laura; Ripolone; Michela; Zanotti; Simona; Fortunato; Francesco; Tumminello; Gabriele; Moggio; Maurizio; Locatelli; Marco; Corti; Stefania Paola; Comi; Giacomo Pietro; Ronchi; Dario"
     },
     {
-      "id": "en-31",
+      "id": "en-32",
       "title": "Travis Kelce: Football Star, Fashion Ambassador, and Dog Dad",
       "description": "The football superstar chats with Vogue about his new partnership with Tommy Hilfiger—plus Taylor, golf, and his hopes for the Chiefs’ coming season.",
       "url": "https://www.vogue.com/article/travis-kelce-tommy-hilfiger-campaign",
@@ -736,7 +772,7 @@
       "sourceName": "Nick Remsen"
     },
     {
-      "id": "en-32",
+      "id": "en-33",
       "title": "Which is the smartest dog in the world? - AOL",
       "description": "Finnish scientists tested over a thousand dogs across 13 breeds using a cognitive battery that goes far beyond sit and stay, and the results toppled one of the most stubbornly held assumptions in the dog world.",
       "url": "https://www.aol.com/articles/smartest-dog-world-220000000.html",
@@ -745,7 +781,7 @@
       "sourceName": "Ashley Driggs"
     },
     {
-      "id": "en-33",
+      "id": "en-34",
       "title": "Managing chronic conditions together may be key to longer lifespan, canine study finds",
       "description": "As dogs age, many develop more than one chronic health condition. New research from Texas A&M College of Veterinary Medicine and Biomedical Sciences (VMBS) shows those conditions can dramatically shorten a dog's lifespan",
       "url": "https://phys.org/news/2026-08-chronic-conditions-key-longer-lifespan.html",
@@ -754,7 +790,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-34",
+      "id": "en-35",
       "title": "New York is the No. 1 state with highest dog bite risk — here’s how to keep your canine in check",
       "description": "Dog bites are common in New York — here are the best products to curb your pet.",
       "url": "https://nypost.com/2026/08/31/shopping/new-york-has-the-highest-dog-bite-risk-how-to-keep-your-canine-in-check/",
@@ -763,7 +799,7 @@
       "sourceName": "Carrie Berk"
     },
     {
-      "id": "en-35",
+      "id": "en-36",
       "title": "The Mutant Wolves of Chernobyl Have Evolved to Survive Cancer",
       "description": "In the shadow of nuclear disaster, these canines show remarkable resilience to the deadly disease.",
       "url": "https://www.popularmechanics.com/science/animals/a73570880/mutant-wolves-of-chernobyl-have-evolved/",
@@ -772,7 +808,7 @@
       "sourceName": "Darren Orf"
     },
     {
-      "id": "en-36",
+      "id": "en-37",
       "title": "Brad Pitt’s Dog Movie Heart of the Beast Gets Intense New Video With Major Announcement",
       "description": "Brad Pitt's new film, Heart of the Beast, has a trailer showcasing the dog Odin's capabilities, along with an exciting announcement.",
       "url": "https://www.comingsoon.net/movies/news/2183903-brad-pitt-heart-of-the-beast-dog-action-hero",
@@ -781,7 +817,7 @@
       "sourceName": "Rahul Majumdar"
     },
     {
-      "id": "en-37",
+      "id": "en-38",
       "title": "33 Humorous One-Panel Dog Comics By The New Yorker Magazine Cartoonist Harry Bliss (New Comics)",
       "description": "Harry Bliss has a talent for finding humor in the everyday quirks, habits, and personalities that make dogs such entertaining companions. His one-panel cartoons imagine what our four-legged friends might be thinking, giv",
       "url": "https://www.boredpanda.com/funny-wholesome-one-panel-dog-comics-harry-bliss-part-2/",
@@ -790,7 +826,7 @@
       "sourceName": "Hidrėlėy"
     },
     {
-      "id": "en-38",
+      "id": "en-39",
       "title": "The Dog Stars is just as tired of post-apocalyptic stories as we are",
       "description": "An underexplored theme of Ridley Scott's The Dog Stars advocates for letting the survivalist blowhards of pop culture wear themselves out.",
       "url": "https://www.avclub.com/the-dog-stars-tired-of-post-apocalypse-stories-spoilers",
@@ -799,7 +835,7 @@
       "sourceName": "Joshua Rivera; August"
     },
     {
-      "id": "en-39",
+      "id": "en-40",
       "title": "How Much Is That Gene-Edited Dog in the Window?",
       "description": "For thousands of years, we have been trying to craft our ideal canine companions. We have honed their abilities to perform an array of specific tasks, from fetching waterfowl to staring down wayward sheep. We have reshap",
       "url": "https://www.nytimes.com/2026/08/31/science/dog-breeding-gene-editing-crispr.html",
@@ -808,7 +844,7 @@
       "sourceName": "Emily Anthes"
     },
     {
-      "id": "en-40",
+      "id": "en-41",
       "title": "Demand for dog genetic testing surges after Hong Kong clampdown over attacks",
       "description": "Animal welfare groups also warn government’s response to string of dog attacks could lead to wave of pet abandonments.",
       "url": "https://www.scmp.com/news/hong-kong/society/article/3365809/demand-dog-genetic-testing-surges-after-hong-kong-clampdown-over-attacks",
@@ -817,7 +853,7 @@
       "sourceName": "Matthew Cheng"
     },
     {
-      "id": "en-41",
+      "id": "en-42",
       "title": "Exmouth dog owners set to unleash on more beaches and parks",
       "description": "Local dog owners in Exmouth are set to gain greater access to beaches and parks, signalling the first major changes to canine rules in more than a decade.",
       "url": "https://thewest.com.au/news/pilbara/more-room-to-roam-shire-of-exmouth-proposes-changes-to-previously-off-limit-places-for-dog-owners-c-22790226",
@@ -826,7 +862,7 @@
       "sourceName": "Joshua Dowdall Pilbara News Premium"
     },
     {
-      "id": "en-42",
+      "id": "en-43",
       "title": "10 Most Popular Dog Breeds in Louisiana",
       "description": "Explore Louisiana's top 10 dog breeds, celebrated for their loyalty, energy, and family-friendly charm, favored by the residents.",
       "url": "https://doggodigest.com/10-most-popular-dog-breeds-in-louisiana-6-263998/",
@@ -835,7 +871,7 @@
       "sourceName": "Esther Evangeline; Editor"
     },
     {
-      "id": "en-43",
+      "id": "en-44",
       "title": "AFCD conducts control checks after dog attacks",
       "description": "The Agriculture, Fisheries and Conservation Department (AFCD) conducted spot checks across the city on Sunday, following...",
       "url": "https://news.rthk.hk/rthk/en/component/k2/1868142-20260830.htm",
@@ -844,7 +880,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-44",
+      "id": "en-45",
       "title": "Police dog Xiao Bao melts hearts at Malaysia’s national day rehearsal",
       "description": "The dog was seen lying on his back with all four paws in the air as people rubbed his belly. Read more at straitstimes.com. Read more at straitstimes.com.",
       "url": "https://www.straitstimes.com/asia/se-asia/police-dog-xiao-bao-melts-hearts-at-malaysias-national-day-rehearsal",
@@ -853,7 +889,7 @@
       "sourceName": "The Straits Times"
     },
     {
-      "id": "en-45",
+      "id": "en-46",
       "title": "Letters | Focusing on ‘bad’ dogs will not do Hong Kong any good",
       "description": "Readers discuss the state of Hong Kong’s animal laws, and whether a ‘no-kill’ mandate for animals is the most humane approach.",
       "url": "https://www.scmp.com/opinion/letters/article/3365460/focusing-bad-dogs-will-not-do-hong-kong-any-good",
@@ -862,7 +898,7 @@
       "sourceName": "Letters"
     },
     {
-      "id": "en-46",
+      "id": "en-47",
       "title": "What Type Of Creature Was Spot, The Munsters' Fire-Breathing Pet? - TVLine",
       "description": "Most fans agree that Spot from The Munsters was some kind of dragon, but the prop used for his head actually came from a '50s dinosaur movie.",
       "url": "https://www.tvline.com/2246119/what-creature-spot-the-munsters-fire-breathing-pet/",
@@ -871,7 +907,7 @@
       "sourceName": "Gil Macias"
     },
     {
-      "id": "en-47",
+      "id": "en-48",
       "title": "Purdue's IDEAS Lab Secures Funding for Smarter Robotic Dogs",
       "description": "",
       "url": "https://www.cs.purdue.edu/news/articles/2024/purdues-ideas-lab-secures-funding-for-smarter-robotic-dogs.html",
@@ -880,7 +916,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-48",
+      "id": "en-49",
       "title": "US immigration agency ICE to deploy robot dogs",
       "description": "ICE plans to deploy dog-like robots when investigating incidents \"involving dangerous, confined, unstable, or difficult-to-access areas\", authorities say.",
       "url": "https://www.perthnow.com.au/news/crime/us-immigration-agency-ice-to-deploy-robot-dogs-c-22795688",
@@ -889,7 +925,7 @@
       "sourceName": "Staff Writers Deutsche Presse Agentur"
     },
     {
-      "id": "en-49",
+      "id": "en-50",
       "title": "Senior Shelter Dog Abandoned by Family Meets New Dad in a 'Magical Moment'",
       "description": "Some dogs are surrendered to shelters after living their entire lives with one family. The sense of abandonment these canines experience from this …",
       "url": "https://paradepets.com/pet-news/senior-shelter-dog-abandoned-by-family-meets-new-dad",
@@ -898,7 +934,7 @@
       "sourceName": "Melissa Mitas"
     },
     {
-      "id": "en-50",
+      "id": "en-51",
       "title": "Dog Breeds That Remember Every Time You Wronged Them - Animals Around The Globe",
       "description": "Animals Around The Globe is a travel platform focused on wildlife and unique destinations, where you can discover all your favourite animal encounters.",
       "url": "https://www.animalsaroundtheglobe.com/dog-breeds-that-remember-every-time-you-wronged-them-2-391428/",
@@ -907,7 +943,7 @@
       "sourceName": "Gargi Chakravorty"
     },
     {
-      "id": "en-51",
+      "id": "en-52",
       "title": "Studies Confirm That Slow Blinking or Partial Eye Closure in Dogs Is a Recognized Calming Signal That Functions to Reduce Perceived Threat - Similar to How Cats Use the Slow Blink to Signal Trust - Doggodigest",
       "description": "Have you ever caught your dog looking at you, eyes soft, lids drooping or blinking slowly, and wondered if they were trying to say something? For years, dog people swapped stories about “soft eyes” and “slow blinks,” whi",
       "url": "https://doggodigest.com/studies-confirm-that-slow-blinking-or-partial-eye-closure-in-dogs-is-a-recognized-calming-signal-that-functions-to-reduce-perceived-threat-similar-to-how-cats-use-the-slow-blink-to-signal-trust-1-4078/",
@@ -916,7 +952,7 @@
       "sourceName": "Gargi Chakravorty"
     },
     {
-      "id": "en-52",
+      "id": "en-53",
       "title": "TSA's Cutest Canine Contest Named A Winner On National Dog Day (August 26)",
       "description": "Four working dogs from four major airports reached the semifinals of the Transportation Security Administration's annual Cutest Canine Contest. Now, the",
       "url": "https://www.backyardgardenlover.com/tsas-cutest-canine-contest-named-a-winner-on-national-dog-day-august-26/",
@@ -925,7 +961,7 @@
       "sourceName": "Lauren Novak"
     },
     {
-      "id": "en-53",
+      "id": "en-54",
       "title": "Bryan Johnson tackled human longevity. Now he wants dogs to live forever.",
       "description": "Tech entrepreneur Bryan Johnson has become famous for his mission to help humans live forever. Now he wants to do the same thing for dogs.",
       "url": "https://www.businessinsider.com/bryan-johnson-wants-dogs-to-live-forever-2026-8",
@@ -934,7 +970,7 @@
       "sourceName": "Ben Bergman"
     },
     {
-      "id": "en-54",
+      "id": "en-55",
       "title": "Looks like a dog, flies like a bat: Meet nature’s unusual mammal",
       "description": "This unusual bat looks remarkably like a dog. But its funny face hides a fascinating story of speed, echolocation and species discovery!",
       "url": "https://indianexpress.com/article/lifestyle/pets-animals/looks-like-a-dog-flies-like-a-bat-meet-natures-unusual-mammal-10844993/",
@@ -943,7 +979,7 @@
       "sourceName": "Vaibhavi Mishra"
     },
     {
-      "id": "en-55",
+      "id": "en-56",
       "title": "Fox News Anchor Literally Cries Laughing On-Air Over 'Cutest' Dog Report",
       "description": "An Atlanta news anchor could not keep it together during a story about the TSA naming its cutest canine of the year.",
       "url": "https://www.thewrap.com/culture-lifestyle/culture/fox-news-anchor-cries-laughing-cutest-dog/",
@@ -952,7 +988,7 @@
       "sourceName": "Jacob Bryant"
     },
     {
-      "id": "en-56",
+      "id": "en-57",
       "title": "Fox 5 Anchor Literally Cries Laughing On-Air Over 'Cutest' Dog Report",
       "description": "An Atlanta news anchor could not keep it together during a story about the TSA naming its cutest canine of the year.",
       "url": "https://www.thewrap.com/culture-lifestyle/culture/fox-5-anchor-cries-laughing-cutest-dog/",
@@ -961,7 +997,7 @@
       "sourceName": "Jacob Bryant"
     },
     {
-      "id": "en-57",
+      "id": "en-58",
       "title": "Spencer Jones: Dogs review – barking comic sniffs out community through canines",
       "description": "Behind this grab-bag of papier-mache heads and walkies banter lies a celebration of simply talking to one another",
       "url": "https://www.theguardian.com/stage/2026/aug/28/spencer-jones-dogs-review-pleasance-dome-edinburgh",
@@ -970,7 +1006,7 @@
       "sourceName": "Brian Logan"
     },
     {
-      "id": "en-58",
+      "id": "en-59",
       "title": "Say hello to the TSA's Cutest Canine of 2026",
       "description": "Let’s have a round of ‘apaws’ for Bolt the German shorthaired pointer.",
       "url": "https://www.popsci.com/environment/2026-tsa-cutest-canine-contest-winner-bolt/",
@@ -979,7 +1015,7 @@
       "sourceName": "Popular Science Team"
     },
     {
-      "id": "en-59",
+      "id": "en-60",
       "title": "World War I dogs had jobs that could save a soldier’s life — from finding wounded troops to warning of mustard gas",
       "description": "During World War I, military dogs displayed unwavering bravery in the trenches. Tasked with lifesaving duties, they rescued injured soldiers and delivered crucial messages across perilous grounds. Their acute senses prov",
       "url": "https://economictimes.indiatimes.com/news/international/global-trends/world-war-i-dogs-had-jobs-that-could-save-a-soldiers-life-from-finding-wounded-troops-to-warning-of-mustard-gas/articleshow/133596921.cms",
@@ -988,7 +1024,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-60",
+      "id": "en-61",
       "title": "News Anchor Breaks Down in Tears Over Prize-Winning Dog in Hilarious On-Air Moment",
       "description": "One prize-winning pup left a local Atlanta news anchor in tears during a live broadcast on Thursday, Aug. 27. Fox 5 anchor Alex Whittler and meteorologist Marquise Meda’s report on the TSA naming its cutest canine of 202",
       "url": "https://people.com/news-anchor-breaks-down-in-tears-over-prize-winning-dog-in-hilarious-moment-12071546",
@@ -997,7 +1033,7 @@
       "sourceName": "Rachel McRady"
     },
     {
-      "id": "en-61",
+      "id": "en-62",
       "title": "Canine Behaviorists Have Documented That When a Dog Suddenly Sniffs the Ground During an Interaction They Are Often Performing a Calming Signal - Redirecting Attention Away From a Stressor - Doggodigest",
       "description": "You know that slightly awkward moment when a dog looks like they’re about to engage, then suddenly drops their nose to the floor and starts sniffing absolutely nothing? It can feel a bit random, almost like they’ve forgo",
       "url": "https://doggodigest.com/canine-behaviorists-have-documented-that-when-a-dog-suddenly-sniffs-the-ground-during-an-interaction-they-are-often-performing-a-calming-signal-redirecting-attention-away-from-a-stressor-1-407708/",
@@ -1006,7 +1042,7 @@
       "sourceName": "Gargi Chakravorty"
     },
     {
-      "id": "en-62",
+      "id": "en-63",
       "title": "2026 Hummer EV Pickup Truck: The Dog Review",
       "description": "Dogs love trucks—but what about trucks that are also electric Hummers?",
       "url": "https://www.thedrive.com/car-reviews/2026-hummer-ev-pickup-truck-dog-review",
@@ -1015,7 +1051,7 @@
       "sourceName": "Andrew P Collins"
     },
     {
-      "id": "en-63",
+      "id": "en-64",
       "title": "Dogtopia Marks Record First Half of 2026 with National Recognition for Innovation and Growth",
       "description": "/PRNewswire/ -- Following a record first half of 2026, Dogtopia, the nation's leading pet wellness franchise, has earned two new national honors: a...",
       "url": "https://www.prnewswire.com/news-releases/dogtopia-marks-record-first-half-of-2026-with-national-recognition-for-innovation-and-growth-302862422.html",
@@ -1024,7 +1060,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-64",
+      "id": "en-65",
       "title": "Hong Kong to get tough on careless dog owners during special operations",
       "description": "Agriculture, Fisheries and Conservation Department also says it seized fighting dog in Stanley earlier this week and may prosecute owner.",
       "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3365651/hong-kong-authorities-get-tough-careless-dog-owners-during-special-operations",
@@ -1033,7 +1069,7 @@
       "sourceName": "Edith Lin"
     },
     {
-      "id": "en-65",
+      "id": "en-66",
       "title": "Africa’s Wild Dogs Are the Most Hated Carnivores on the Continent. Here’s Why Some Conservationists Are Saving Them Anyway - Longreads",
       "description": "\"Meet the team that closely monitors the playful canines, which need help to form diverse packs and stop their numbers from dwindling.\"",
       "url": "https://longreads.com/2026/08/28/conservation-africa-wild-dogs-genetics/",
@@ -1042,7 +1078,7 @@
       "sourceName": "Carolyn Wells"
     },
     {
-      "id": "en-66",
+      "id": "en-67",
       "title": "62 New Comics That Imagine What Cats And Dogs Are Really Thinking By Scott Metzger",
       "description": "Scott Metzger’s comics turn the everyday behavior of cats, dogs, and other animals into conversations that feel strangely believable. His humor plays on everything from feline attitude and canine enthusiasm to the small ",
       "url": "https://www.boredpanda.com/cat-comics-scott-metzger-part-8/",
@@ -1051,7 +1087,7 @@
       "sourceName": "Hidrėlėy"
     },
     {
-      "id": "en-67",
+      "id": "en-68",
       "title": "Texas airport dog ‘Bolt’ declared TSA’s ‘cutest canine’ — as viral pooch steals internet’s hearts",
       "description": "Everything’s cuter down in Texas.",
       "url": "https://nypost.com/2026/08/28/us-news/texas-airport-dog-bolt-declared-tsas-cutest-canine/",
@@ -1060,7 +1096,7 @@
       "sourceName": "Nicholas McEntyre"
     },
     {
-      "id": "en-68",
+      "id": "en-69",
       "title": "10 Things Dogs Do Only for the Humans They Love Most - Doggodigest",
       "description": "Have you ever watched your dog’s face light up when you walk through the door? Or noticed how they always seem to know when you need a little extra comfort? The bond between dogs and humans is something truly remarkable,",
       "url": "https://doggodigest.com/10-things-dogs-do-only-for-the-humans-they-love-most-2-377027/",
@@ -1069,7 +1105,7 @@
       "sourceName": "Andrew Alpin"
     },
     {
-      "id": "en-69",
+      "id": "en-70",
       "title": "Film review: A tender love story with postapocalyptic teeth",
       "description": "It says something about us that dogs are critical when it comes to postapocalyptic movies. Tom Hanks had an adorable terrier in Finch and Will Smith had a heroic German shepherd in I Am Legend. Another German shepherd is",
       "url": "https://www.taipeitimes.com/News/feat/archives/2026/08/28/2003863261",
@@ -1078,7 +1114,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-70",
+      "id": "en-71",
       "title": "I was terrified of them for 37 years but now I'm a committed dog lover",
       "description": "I am now a dog person - and no one is more surprised than me. A devoted dog mum to a rescue called Lucy. It's quite the about-turn considering I used to have a crippling phobia of dogs.",
       "url": "https://www.dailymail.com/lifestyle/article-16084899/How-you-conquer-fear-dogs-terrified-37-years-Im-committed-dog-lover-hopelessly-devoted-rescue-Lucy-exactly-transformed-you-too.html",
@@ -1087,7 +1123,7 @@
       "sourceName": "Alice Snape"
     },
     {
-      "id": "en-71",
+      "id": "en-72",
       "title": "Canine cardio? How a mobile dog gym keeps your pup healthy",
       "description": "Waggin' Wheels is a mobile dog gym in Halifax that comes right to your door. The business helps dogs exercise safely in the heat of summer or in the dead of win...",
       "url": "https://www.cbc.ca/player/play/video/9.6888463?cmp=rss",
@@ -1096,7 +1132,7 @@
       "sourceName": "cbc.ca"
     },
     {
-      "id": "en-72",
+      "id": "en-73",
       "title": "Truck Swerves To Hit Dog, Misses, Then Crushes Pregnant Canine In 2nd Try",
       "description": "A heart-wrenching video from Jaipur shows a pickup truck swerving to allegedly try and run over a dog and then crushing another pregnant canine to death.",
       "url": "https://www.ndtv.com/india-news/jaipur-truck-swerves-to-hit-dog-crushes-pregnant-canine-when-1st-attempt-fails-8181842",
@@ -1105,7 +1141,7 @@
       "sourceName": "ndtv.com"
     },
     {
-      "id": "en-73",
+      "id": "en-74",
       "title": "Madras Canine Club’s dog shows draw to a close",
       "description": "All Breeds Championship dog shows by Madras Canine Club conclude with German Shepherds and Doberman winning top prizes.",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-dog-shows-draw-to-a-close/article69116790.ece",
@@ -1114,7 +1150,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-74",
+      "id": "en-75",
       "title": "Is dog perfume necessary for your canine companion?",
       "description": "Luxury fashion house Dolce & Gabbana has unveiled a new dog perfume named \"Fefé.\"",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/is-dog-perfume-necessary-for-your-canine-companion/",
@@ -1123,7 +1159,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-75",
+      "id": "en-76",
       "title": "Recognising signs of canine asthma in your Dog",
       "description": "Asthma in dogs is an allergic disease characterised by inflammation and constriction of the small airways in the lungs...",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/recognising-signs-of-canine-asthma-in-your-dog/",
@@ -1132,7 +1168,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-76",
+      "id": "en-77",
       "title": "Taiwan to soon welcome its first indigenous dog as a police canine",
       "description": "",
       "url": "https://focustaiwan.tw/society/202404200004",
@@ -1141,7 +1177,7 @@
       "sourceName": "focustaiwan.tw"
     },
     {
-      "id": "en-77",
+      "id": "en-78",
       "title": "Detroit TSA canine handler suspended over video of him pulling dog",
       "description": "A TSA canine handler was suspended from his duties after a viral video captured him aggressively yanking a bomb-detecting dog in a busy airport.",
       "url": "https://nypost.com/2023/05/08/detroit-tsa-worker-suspended-over-video-of-him-pulling-dog/",
@@ -1150,21 +1186,12 @@
       "sourceName": "nypost.com"
     },
     {
-      "id": "en-78",
+      "id": "en-79",
       "title": "Curtains come down on Madras Canine Club’s dog shows",
       "description": "570 dogs belonging to 69 breeds participated in the two-day event",
       "url": "https://www.thehindu.com/news/cities/chennai/curtains-come-down-on-madras-canine-clubs-dog-shows/article65880058.ece",
       "urlToImage": "https://th-i.thgim.com/public/incoming/eip0pn/article65880138.ece/alternates/LANDSCAPE_615/1693_11_9_2022_20_6_1_4_THE_MADRAS_CANINE_CLUB_DOG_SHOW_03.JPG",
       "publishedAt": "2022-09-11T16:11:04.000000Z",
-      "sourceName": "thehindu.com"
-    },
-    {
-      "id": "en-79",
-      "title": "Madras Canine Club’s All Breeds Championship Dog Shows begin",
-      "description": "Over 570 canines from 69 different breeds have registered this year",
-      "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-all-breeds-championship-dog-shows-begin/article65875162.ece",
-      "urlToImage": "https://th-i.thgim.com/public/incoming/238or7/article65875626.ece/alternates/LANDSCAPE_615/Madras%20Canine%20club%20show%205.jpg",
-      "publishedAt": "2022-09-10T14:38:41.000000Z",
       "sourceName": "thehindu.com"
     }
   ]
