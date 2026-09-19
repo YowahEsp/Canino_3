@@ -36,7 +36,29 @@ a { color: inherit; }
 img { max-width: 100%; }
 
 /* ---------- Masthead ---------- */
-.masthead { max-width: 1100px; margin: 0 auto; padding: 48px 24px 0; text-align: center; }
+.masthead { max-width: 1100px; margin: 0 auto; padding: 24px 24px 0; position: relative; }
+.masthead-img {
+  display: block; width: 100%; height: auto;
+  /* Desvanecido en las cuatro orillas: sin corte visible entre la
+     ilustración y el papel de la página. */
+  -webkit-mask-image:
+    linear-gradient(to right, transparent 0, #000 12%, #000 88%, transparent 100%),
+    linear-gradient(to bottom, transparent 0, #000 14%, #000 82%, transparent 100%);
+  -webkit-mask-composite: source-in;
+  mask-image:
+    linear-gradient(to right, transparent 0, #000 12%, #000 88%, transparent 100%),
+    linear-gradient(to bottom, transparent 0, #000 14%, #000 82%, transparent 100%);
+  mask-composite: intersect;
+}
+/* El título se superpone sobre el tercio izquierdo, que la ilustración
+   deja despejado a propósito. En móvil pasa debajo, donde sí hay sitio. */
+.masthead-text { text-align: center; padding: 18px 0 0; }
+@media (min-width: 820px) {
+  .masthead-text {
+    position: absolute; left: 24px; top: 50%; transform: translateY(-50%);
+    width: 38%; padding: 0;
+  }
+}
 .masthead-eyebrow {
   font-family: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace;
   font-size: 0.72rem; letter-spacing: 0.16em; text-transform: uppercase;
@@ -153,10 +175,12 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--forest); outlin
 <body>
 
 <header class="masthead">
-  <p class="masthead-eyebrow">Edición digital · perros, razas y cuidado</p>
-  <h1 class="masthead-title">El Mundo Canino</h1>
-  <p class="masthead-tagline">Las últimas noticias sobre perros, razas, cuidados y entrenamiento</p>
-  <div class="masthead-rules"><div class="thick"></div><div class="thin"></div></div>
+  <img class="masthead-img" src="img/cabecera.jpg" width="1800" height="600" alt="" aria-hidden="true">
+  <div class="masthead-text">
+    <p class="masthead-eyebrow">Edición digital · perros, razas y cuidado</p>
+    <h1 class="masthead-title">El Mundo Canino</h1>
+    <p class="masthead-tagline">Las últimas noticias sobre perros, razas, cuidados y entrenamiento</p>
+  </div>
 </header>
 
 <nav class="edition-bar" aria-label="Elegir edición">
