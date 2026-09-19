@@ -10,11 +10,12 @@
 const fs = require('fs');
 const path = require('path');
 
+const PROXY = 'https://noticias-proxy.esperance.workers.dev';
+
 const KEYS = {
   NEWSDATA:   process.env.NEWSDATA_KEY,
   THENEWS:    process.env.THENEWSAPI_KEY,
   CURRENTS:   process.env.CURRENTS_KEY,
-  MEDIASTACK: process.env.MEDIASTACK_KEY,
 };
 
 // Email opcional para MyMemory: sube el límite diario de traducción de
@@ -170,9 +171,11 @@ function mediastackWindow() {
   return now.getUTCHours() === 6 && now.getUTCMinutes() < 30;
 }
 async function fetchMediastack(lang) {
-  if (!KEYS.MEDIASTACK || !mediastackWindow()) return [];
+  if (!mediastackWindow()) return [];
   const q = lang === 'es' ? 'perro,canino' : 'dog,canine';
-  const url = `http://api.mediastack.com/v1/news?access_key=${KEYS.MEDIASTACK}&keywords=${encodeURIComponent(q)}&languages=${lang}&limit=10`;
+  // Vía Worker propio: Mediastack no ofrece HTTPS en el plan gratuito, así que
+  // la clave vive en Cloudflare y la llamada en claro sale desde allí.
+  const url = `${PROXY}/mediastack?q=${encodeURIComponent(q)}&lang=${lang}`;
   const data = await safeFetchJson(url, 'Mediastack');
   if (!data || data.error || !Array.isArray(data.data)) return [];
   return data.data.map(a => norm(a.title, a.description, a.url, a.image, a.published_at, a.source));

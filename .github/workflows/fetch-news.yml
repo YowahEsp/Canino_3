@@ -36,7 +36,6 @@ jobs:
           NEWSDATA_KEY:   ${{ secrets.NEWSDATA_KEY }}
           THENEWSAPI_KEY: ${{ secrets.THENEWSAPI_KEY }}
           CURRENTS_KEY:   ${{ secrets.CURRENTS_KEY }}
-          MEDIASTACK_KEY: ${{ secrets.MEDIASTACK_KEY }}
           # Opcional: sube el cupo diario de traducción de MyMemory.
           # Si no defines el secret, se traduce igual con el cupo anónimo.
           MYMEMORY_EMAIL: ${{ secrets.MYMEMORY_EMAIL }}
