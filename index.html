@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <title>El Mundo Canino — edición digital</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="no-referrer">
 <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2032%2032'%3E%3Cg%20fill%3D'%232E4A38'%3E%3Cellipse%20cx%3D'16'%20cy%3D'20.5'%20rx%3D'7'%20ry%3D'5.5'%2F%3E%3Cellipse%20cx%3D'8.5'%20cy%3D'13'%20rx%3D'2.8'%20ry%3D'3.7'%2F%3E%3Cellipse%20cx%3D'13.2'%20cy%3D'9.3'%20rx%3D'2.8'%20ry%3D'3.7'%2F%3E%3Cellipse%20cx%3D'18.8'%20cy%3D'9.3'%20rx%3D'2.8'%20ry%3D'3.7'%2F%3E%3Cellipse%20cx%3D'23.5'%20cy%3D'13'%20rx%3D'2.8'%20ry%3D'3.7'%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E">
 <!-- Sin dependencias externas: tipografías del sistema (Georgia / mono) con
      degradación elegante. Si tienes Fraunces / Newsreader / IBM Plex Mono
@@ -228,10 +229,18 @@ const loadMoreBtn = document.getElementById('load-more');
 const editionDateEl = document.getElementById('edition-date');
 
 function escapeHtml(s) {
-  return (s || '').replace(/[&<>]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
+  return (s || '').replace(/[&<>"']/g, c => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+  }[c]));
 }
-function escapeAttr(s) {
-  return escapeHtml(s).replace(/"/g, '&quot;');
+const escapeAttr = escapeHtml;
+// Los feeds son de terceros: un url con esquema javascript: sería ejecutable
+// al pulsar el enlace. Solo se admite http/https; lo demás se descarta.
+function safeUrl(u) {
+  try {
+    const x = new URL(u, location.href);
+    return (x.protocol === 'http:' || x.protocol === 'https:') ? x.href : '';
+  } catch { return ''; }
 }
 function formatDate(iso, lang) {
   try { return new Date(iso).toLocaleDateString(lang === 'es' ? 'es-ES' : 'en-US', { dateStyle: 'long' }); }
@@ -250,7 +259,7 @@ function translateBtnHtml(art, lang) {
 
 function heroTemplate(art, lang) {
   const fallback = dogImg();
-  const img = art.urlToImage || fallback;
+  const img = safeUrl(art.urlToImage) || fallback;
   const translateBtn = translateBtnHtml(art, lang);
   return `
     <article class="hero" data-id="${escapeAttr(art.id)}">
@@ -265,7 +274,7 @@ function heroTemplate(art, lang) {
           <span>${escapeHtml(art.sourceName)}</span>
           <span>${formatDate(art.publishedAt, lang)}</span>
           ${translateBtn}
-          <a href="${escapeAttr(art.url)}" target="_blank" rel="noopener noreferrer">Leer más →</a>
+          ${safeUrl(art.url) ? `<a href="${escapeAttr(safeUrl(art.url))}" target="_blank" rel="noopener noreferrer">Leer más →</a>` : ''}
         </div>
       </div>
     </article>`;
@@ -273,7 +282,7 @@ function heroTemplate(art, lang) {
 
 function briefTemplate(art, lang) {
   const fallback = dogImg();
-  const img = art.urlToImage || fallback;
+  const img = safeUrl(art.urlToImage) || fallback;
   const translateBtn = translateBtnHtml(art, lang);
   return `
     <div class="brief" data-id="${escapeAttr(art.id)}">
@@ -285,7 +294,7 @@ function briefTemplate(art, lang) {
         <div class="brief-byline">
           <span>${escapeHtml(art.sourceName)}</span>
           ${translateBtn}
-          <a href="${escapeAttr(art.url)}" target="_blank" rel="noopener noreferrer">Leer más</a>
+          ${safeUrl(art.url) ? `<a href="${escapeAttr(safeUrl(art.url))}" target="_blank" rel="noopener noreferrer">Leer más</a>` : ''}
         </div>
       </div>
     </div>`;
