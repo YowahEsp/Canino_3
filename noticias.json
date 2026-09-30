@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T02:16:04.763Z",
+  "generatedAt": "2026-09-30T08:50:32.684Z",
   "es": [
     {
       "id": "es-0",
@@ -12,6 +12,51 @@
     },
     {
       "id": "es-1",
+      "title": "Scottsdale encabeza las 10 ciudades más amigables con las mascotas en EE. UU. en 2026.",
+      "description": "Scottsdale, Tampa y Las Vegas son las principales ciudades de EE. UU. donde tener una mascota cuesta menos y la vida es más fácil.",
+      "url": "https://es.qz.com/ciudades-ms-amigables-con-las-mascotas-2026-wallethub",
+      "urlToImage": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/ethan-walsweer-v03i4UlH5-w-unsplash.jpg",
+      "publishedAt": "2026-09-29 20:23:21",
+      "sourceName": "qz_es"
+    },
+    {
+      "id": "es-2",
+      "title": "Estas son las cinco razas preferidas de los ladrones de perros",
+      "description": "Las mascotas pueden acabar en redes de tráfico e incluso en criaderos ilegales para ser vendidos y explotados, lo que se considera un delito",
+      "url": "https://heraldodemexico.com.mx/estilo-de-vida/2026/9/29/estas-son-las-cinco-razas-preferidas-de-los-ladrones-de-perros-897855.html",
+      "urlToImage": "https://heraldodemexico.com.mx/u/fotografias/m/2026/9/29/f1280x720-1334865_1466540_5050.png",
+      "publishedAt": "2026-09-29 19:39:18",
+      "sourceName": "heraldodemexico"
+    },
+    {
+      "id": "es-3",
+      "title": "Regalarán a Brownie, pitbull que le arrancó la oreja a una menor en SPS",
+      "description": "Los propietarios del perro pitbull que atacó brutalmente a una niña tomaron la determinación de regalar a la mascota.",
+      "url": "https://tiempo.hn/san-pedro-sula/2026/09/29/regalaran-brownie-pitbull-ataco-menor-sps/",
+      "urlToImage": "https://d3dr34vkycigpz.cloudfront.net/wp-content/uploads/2026/09/pitbull-3.webp",
+      "publishedAt": "2026-09-29 19:00:41",
+      "sourceName": "tiempo"
+    },
+    {
+      "id": "es-4",
+      "title": "Hugo Fernández, educador canino: \"Un perro puede tener una vida plena en un piso, pero hay que dedicarle tiempo\"",
+      "description": "Tomar la decisión de adoptar un perro no es algo baladí, es algo que hay que hay que valorar mucho, porque un perro o cualquier otro animal, tiene sus necesidades y hay que cubrirlas todas. Quienes tenemos animales, dese",
+      "url": "https://decoracion.trendencias.com/varios/hugo-fernandez-educador-canino-perro-puede-tener-vida-plena-piso-hay-que-dedicarle-tiempo",
+      "urlToImage": "https://i.blogs.es/b472ee/untitled-design-28-/1200_900.jpeg",
+      "publishedAt": "2026-09-29 18:00:27",
+      "sourceName": "decoracion_trendencias"
+    },
+    {
+      "id": "es-5",
+      "title": "Bomberos rescataron a un perro del arroyo Santo Domingo en Bernal Oeste",
+      "description": "Los Bomberos Voluntarios de Bernal y el personal de Defensa Civil rescataron a un perro que cayó al arroyo Santo Domingo durante la tarde del lunes en Bernal Oeste. Los rescatistas desplegaron una escalera desde la calle",
+      "url": "https://www.eldia.com/quilmes/bomberos-rescataron-a-un-perro-del-arroyo-santo-domingo-en-bernal-oeste-quilmes_1790701920",
+      "urlToImage": "https://cdn1.eldia.com/092026/1790703517110.jpg",
+      "publishedAt": "2026-09-29 17:43:09",
+      "sourceName": "eldia_ar"
+    },
+    {
+      "id": "es-6",
       "title": "¿Por qué una buena nutrición es fundamental para la salud urinaria de nuestras mascotas?",
       "description": "Un reciente informe elaborado por especialistas de Royal Canin afirma que las afecciones urinarias están entre las 10 causas más frecuentes de consulta y que, ante tasas de reincidencia que rozan el 65%, la nutrición a l",
       "url": "https://weekend.perfil.com/noticias/perros/por-que-una-buena-nutricion-es-fundamental-para-la-salud-urinaria-de-nuestras-mascotas.phtml",
@@ -20,7 +65,61 @@
       "sourceName": "Luis Rodriguez"
     },
     {
-      "id": "es-2",
+      "id": "es-7",
+      "title": "Federico Negro, médico veterinario: “Que tu perro tenga la nariz seca no significa que esté enfermo o con fiebre”",
+      "description": "El especialista desmitifica una creencia popular muy extendida sobre la salud canina. Cuáles son las razones normales de la sequedad y los síntomas a controlar.",
+      "url": "https://viapais.com.ar/vida/federico-negro-medico-veterinario-perro-nariz-seca-significa-enfermo-fiebre_0_51jFaToRN1.html",
+      "urlToImage": "https://viapais.com.ar/images/2026/09/21/leTcIrCEQf_1200x675.jpg",
+      "publishedAt": "2026-09-29 16:13:14",
+      "sourceName": "viapais_ar"
+    },
+    {
+      "id": "es-8",
+      "title": "Enzo Roubaud, veterinario: \"Los perros que muerden la correa no desobedecen, canalizan su activación emocional\"",
+      "description": "El etólogo explica por qué muerden o sacudan la tira antes del paseo. La diferencia entre entusiasmo, ansiedad o frustración y la forma correcta de reaccionar.",
+      "url": "https://viapais.com.ar/vida/enzo-roubaud-veterinario-perros-muerden-correa-desobedecen-canalizan-activacion-emocional_0_tMUtxS8GPu.html",
+      "urlToImage": "https://viapais.com.ar/images/2026/09/21/WFQxpIPBiZ_1200x675.jpg",
+      "publishedAt": "2026-09-29 16:10:34",
+      "sourceName": "viapais_ar"
+    },
+    {
+      "id": "es-9",
+      "title": "“Ya no tenía la orejita”: madre pide ayuda para su hija tras ataque de pitbull en SPS",
+      "description": "San Pedro Sula, Honduras. Una niña de 11 años perdió su oreja derecha luego de que un perro pitbull la atacara cuando regresaba de su centro educativo en la colonia Lomas de San Juan, en esta ciudad. El hecho, por el que",
+      "url": "https://www.laprensa.hn/sucesos/madre-pide-ayuda-hija-ataque-perro-pitbul-colonia-lomas-san-juan-san-pedro-sula-LI32188300",
+      "urlToImage": "https://www.laprensa.hn/binrepository/diseno-sin-titulo-4_15725129_20260929094220.jpg",
+      "publishedAt": "2026-09-29 15:49:59",
+      "sourceName": "laprensa_hn"
+    },
+    {
+      "id": "es-10",
+      "title": "La Feria de Adopciones de Albacete reúne a 32 protectoras en octubre",
+      "description": "Un total de 32 protectoras de animales participarán en la II Feria Nacional de Adopciones 'Pet Friendly', que se celebrará el 24 y 25 de octubre en el recinto ferial de la IFAB, en Albacete. La primera edición reunió en ",
+      "url": "https://www.clm24.es/articulo/albacete/feria-adopciones-albacete-reune-32-protectoras-octubre/20260929172632483379.html",
+      "urlToImage": "https://www.clm24.es/media/clm24/images/2026/09/29/2026092917185791236.jpg",
+      "publishedAt": "2026-09-29 15:26:32",
+      "sourceName": "clm24_es"
+    },
+    {
+      "id": "es-11",
+      "title": "Presidenta Delcy Rodríguez lamentó fallecimiento del perro rescatista Quino",
+      "description": "CIUDAD MCY.-La presidenta de la República, Delcy Rodríguez, expresó este lunes su pesar por el fallecimiento de Quino, un perro rescatista de raza labrador perteneciente a una brigada de España que participó en las opera",
+      "url": "https://ciudadmcy.info.ve/presidenta-delcy-rodriguez-lamento-fallecimiento-del-perro-rescatista-quino",
+      "urlToImage": "https://ciudadmcy.info.ve/wp-content/uploads/2026/09/quino.jpeg",
+      "publishedAt": "2026-09-29 14:51:04",
+      "sourceName": "ciudadmcy"
+    },
+    {
+      "id": "es-12",
+      "title": "Tarragona analiza los excrementos de perro para identificar a sus dueños y empezar a sancionar el incivismo",
+      "description": "El Ayuntamiento de Tarragona ha iniciado esta semana la recogida de excrementos de perros en la calle para comparar las muestras con los perfiles del censo genético canino y poder empezar a sancionar a sus propietarios p",
+      "url": "https://www.elperiodico.com/es/tarragona/20260929/tarragona-recoge-excrementos-perros-calle-sancionar-propietarios-134806734",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/4a98f933-f76a-48ec-a3a9-bf066394de91_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2026-09-29 14:34:18",
+      "sourceName": "elperiodico_es"
+    },
+    {
+      "id": "es-13",
       "title": "Los educadores caninos hablan claro sobre el Pastor Alemán: «No es sólo un perro, es una máquina de trabajo, obediencia e instinto»",
       "description": "Desde hace décadas, el Pastor Alemán ha sido un perro ampliamente utilizado en actividades que requieren disciplina, capacidad de aprendizaje y un elevado nivel de actividad. Sin embargo, según Manuel Balibrea, psicólogo",
       "url": "https://okdiario.com/mascotas/educadores-caninos-hablan-claro-sobre-pastor-aleman-no-solo-perro-maquina-trabajo-obediencia-instinto-20427020",
@@ -29,7 +128,7 @@
       "sourceName": "okdiario"
     },
     {
-      "id": "es-3",
+      "id": "es-14",
       "title": "Los veterinarios coinciden sobre el Bulldog Francés: “Puede cansarse más rápido que otras razas durante el ejercicio”",
       "description": "Los expertos aseguran que por su hocico chato y su estructura facial, necesita actividad física adaptada y atención especial en días de calor.",
       "url": "https://tn.com.ar/sociedad/2026/09/29/los-veterinarios-coinciden-sobre-el-bulldog-frances-puede-cansarse-mas-rapido-que-otras-razas-durante-el-ejercicio/",
@@ -38,7 +137,7 @@
       "sourceName": "tn"
     },
     {
-      "id": "es-4",
+      "id": "es-15",
       "title": "Tarragona recoge excrementos de perros en la calle para sancionar a sus propietarios",
       "description": "Tarragona recoge excrementos de perros en la calle para sancionar a sus propietarios",
       "url": "https://www.infobae.com/espana/agencias/2026/09/29/tarragona-recoge-excrementos-de-perros-en-la-calle-para-sancionar-a-sus-propietarios/",
@@ -47,7 +146,7 @@
       "sourceName": "infobae"
     },
     {
-      "id": "es-5",
+      "id": "es-16",
       "title": "Hasta 32 protectoras de animales van a participar en la II Feria Nacional de Adopciones 'Pet Friendly' de Albacete",
       "description": "En la pasada edición se recaudaron 15.000 euros para las protectoras participantes, una importante aportación teniendo en cuenta que, además de las adopciones, estas entidades afrontan importantes gastos, especialmente d",
       "url": "https://www.larazon.es/castilla-la-mancha/32-protectoras-animales-van-participar-feria-nacional-adopciones-pet-friendly-albacete_202609296abbaf5af8fc5f73abbd07d4.html",
@@ -56,7 +155,7 @@
       "sourceName": "larazon_es"
     },
     {
-      "id": "es-6",
+      "id": "es-17",
       "title": "Los adistradores coinciden: el hábito durante el paseo que puede reforzar los tirones de tu perro",
       "description": "La excitación, el miedo y los hábitos aprendidos pueden explicar los tirones en cada recorrido y orientar la enseñanza con premios para mejorar el paseo usual.",
       "url": "https://www.mdzol.com/tendencias/los-adistradores-coinciden-el-habito-el-paseo-que-puede-reforzar-los-tirones-tu-perro-n1616634",
@@ -65,7 +164,7 @@
       "sourceName": "mdzol"
     },
     {
-      "id": "es-7",
+      "id": "es-18",
       "title": "Unificar la vacunación de la rabia en España es la mejor herramienta de prevención para mantener erradicada la enfermedad",
       "description": "En 'Más de uno' Vega Baja, escucha cada martes 'Tu mascota en la onda', con el adiestrador canino Ángel Osuna y el patrocinio de Clínicas Veterinarias VeterPet, en Guardamar del Segura, Ciudad Quesada (Rojales), Almoradí",
       "url": "https://www.ondacero.es/emisoras/comunidad-valenciana/vega-baja/noticias/unificar-vacunacion-rabia-espana-mejor-herramienta-prevencion-mantener-erradicada-enfermedad_202609296abba7f05e0dc70596ae858e.html",
@@ -74,7 +173,7 @@
       "sourceName": "ondacero"
     },
     {
-      "id": "es-8",
+      "id": "es-19",
       "title": "No es que los perros entiendan el idioma: el habla les afina el cerebro para detectar fronteras entre sonidos",
       "description": "Perros y habla: un estudio muestra cómo su cerebro detecta fronteras entre sonidos. Descubre por qué este hallazgo no equivale a entender palabras.",
       "url": "https://muyinteresante.okdiario.com/ciencia/perros-y-habla-sonidos.html",
@@ -83,7 +182,7 @@
       "sourceName": "muyinteresante"
     },
     {
-      "id": "es-9",
+      "id": "es-20",
       "title": "El novedoso spa donde puedes bañar a tu perro por 10 euros en Zaragoza: “Está todo pensado para tener comodidad”",
       "description": "El ambiente cálido, la música relajante y sus tres bañeras para perros, equipadas con todas las comodidades, invitan a entrar al local en el Arrabal",
       "url": "https://www.aragondigital.es/articulo/zaragoza/novedoso-spa-puedes-banar-perro-10-euros-zaragoza-todo-pensado-tener-comodidad/202608290901001004417.html",
@@ -92,7 +191,7 @@
       "sourceName": "aragaondigital"
     },
     {
-      "id": "es-10",
+      "id": "es-21",
       "title": "Si ves un perro con un lazo amarillo, hay algo que tenés que saber: es una señal que se usa desde hace años para advertir a dueños y desconocidos",
       "description": "Las campañas fueron impulsadas con el objetivo de facilitar la identificación de cierto tipo de perros. Cuál es el código de colores propuesto por las marcas.",
       "url": "https://www.clarin.com/internacional/ves-perro-lazo-amarillo-tenes-saber-senal-usa-hace-anos-advertir-duenos-desconocidos_0_WHkRr7MB9R.html",
@@ -101,7 +200,7 @@
       "sourceName": "clarin"
     },
     {
-      "id": "es-11",
+      "id": "es-22",
       "title": "Alan Peiró, experto en adiestramiento canino: «Los perros no salen a pasear como nosotros, salen a recoger información de su entorno y la encuentran en los olores»",
       "description": "Muchos dueños de perros se desesperan cuando su mascota se detiene varios minutos a oler la misma farola o el mismo árbol, todos los días, durante el paseo. Para el animal, ese punto de olor nunca repite la misma informa",
       "url": "https://okdiario.com/mascotas/alan-peiro-experto-adiestramiento-canino-perros-no-salen-pasear-como-nosotros-salen-recoger-informacion-entorno-encuentran-olores-20384941",
@@ -110,7 +209,7 @@
       "sourceName": "okdiario"
     },
     {
-      "id": "es-12",
+      "id": "es-23",
       "title": "Juan Liquindoli, entrenador canino: “No vamos a buscar darle un premio a tu perro si se porta bien y si se porta mal sacárselo”",
       "description": "El especialista explicó por qué dar una recompensa no siempre significa que el perro haya aprendido qué hizo bien y diferenció dos mecanismos de aprendizaje.",
       "url": "https://tn.com.ar/sociedad/2026/09/28/juan-liquindoli-entrenador-canino-no-vamos-a-buscar-darle-un-premio-a-tu-perro-si-se-porta-bien-y-si-se-porta-mal-sacarselo/",
@@ -119,7 +218,7 @@
       "sourceName": "tn"
     },
     {
-      "id": "es-13",
+      "id": "es-24",
       "title": "Brad Pitt: Uber, el perro rescatista que cambió las montañas por Hollywood",
       "description": "La producción incorporó experiencia de rescate real a una historia concebida para el cine.",
       "url": "https://www.tvn-2.com/entretenimiento/cine-y-tv/brad-pitt-uber-perro-rescatista-cambio-montanas-hollywood_1_2263121.html",
@@ -128,7 +227,7 @@
       "sourceName": "tvn2"
     },
     {
-      "id": "es-14",
+      "id": "es-25",
       "title": "¡INSÓLITO! Perro interrumpe partido de la Liga MX",
       "description": "El Perro se apareció en los minutos finales e interrumpió el partido de la Liga Femenil MX",
       "url": "https://www.tvazteca.com/aztecadeportes/perro-interrumpe-partido-atlante-vs-pumas-la-liga-femenil-mx/",
@@ -137,7 +236,7 @@
       "sourceName": "tvazteca"
     },
     {
-      "id": "es-15",
+      "id": "es-26",
       "title": "Video del momento exacto cuando ladrones en motocicleta escapan con un perro que robaron en Bogotá: 'El perrito salió volando'",
       "description": "Cámaras de seguridad del sector mostraron los instantes en que raptaron a la mascota. Familiares de la víctima exigen que lo devuelvan.",
       "url": "https://www.eltiempo.com/bogota/video-del-momento-exacto-cuando-ladrones-en-motocicleta-escapan-con-un-perro-que-robaron-en-bogota-el-perrito-salio-volando-3589606",
@@ -146,7 +245,7 @@
       "sourceName": "eltiempocl"
     },
     {
-      "id": "es-16",
+      "id": "es-27",
       "title": "Condenan a falso veterinario que enterró vivo a un perro después de aplicarle varsol y cianuro en Tolima",
       "description": "El sujeto tendrá que ir a prisión, pagar una millonaria multa y además se le prohibirá tener animales cuando recupere la libertad.",
       "url": "https://www.publimetro.co/noticias/2026/09/28/condenan-a-falso-veterinario-que-enterro-vivo-a-un-perro-despues-de-aplicarle-varsol-y-cianuro-en-tolima/",
@@ -155,7 +254,7 @@
       "sourceName": "publimetro_co"
     },
     {
-      "id": "es-17",
+      "id": "es-28",
       "title": "Ladrones en moto no pudieron hurtar celulares y terminaron robando a la mascota de una pareja en Bogotá",
       "description": "Los afectados buscan a Polo, una mascota de raza pomerania, que fue raptada en Suba.",
       "url": "https://www.eltiempo.com/bogota/ladrones-en-moto-no-pudieron-hurtar-celulares-y-terminaron-robando-a-la-mascota-de-una-pareja-en-bogota-3589559",
@@ -164,7 +263,7 @@
       "sourceName": "eltiempocl"
     },
     {
-      "id": "es-18",
+      "id": "es-29",
       "title": "Policías estaban grabando contenido para redes durante patrullaje y terminaron atropellando a un perro",
       "description": "Un video que circula en redes sociales muestra a dos uniformados de la Policía Nacional durante un recorrido en motocicleta.",
       "url": "https://www.publimetro.co/noticias/2026/09/28/policias-estaban-grabando-contenido-para-redes-durante-patrullaje-y-terminaron-atropellando-a-un-perro/",
@@ -173,7 +272,7 @@
       "sourceName": "publimetro_co"
     },
     {
-      "id": "es-19",
+      "id": "es-30",
       "title": "“Cuando miré a la niña, ya no tenía la oreja\": Perro pitbull atacó a menor de 11 años en SPS",
       "description": "San Pedro Sula, Honduras.- Una menor de 11 años de edad, identificada como Alison Murillo, fue atacada por un perro de raza pitbull en la colonia Lomas de San Juan, en San Pedro Sula. Tras el ataque, la menor sufrió grav",
       "url": "https://www.elheraldo.hn/portada/cuando-mire-a-la-nina-ya-no-tenia-la-oreja-perro-pitbull-ataco-a-menor-11-anos-en-sps-NI32180951",
@@ -182,70 +281,7 @@
       "sourceName": "elheraldo_hn"
     },
     {
-      "id": "es-20",
-      "title": "Los expertos caninos coinciden: \"El Pastor Alemán no es solo un perro, es una máquina de trabajo, obediencia e instinto\"",
-      "description": "No importa el perro que se tenga, todos necesitan de sus buenos cuidados y atenciones . El paseo es una parte esencial para los perros, por eso hay que hacerlo prestando atención; al igual que es súper importante saber l",
-      "url": "https://decoracion.trendencias.com/varios/expertos-caninos-coinciden-pastor-aleman-no-solo-perro-maquina-trabajo-obediencia-e-instinto",
-      "urlToImage": "https://i.blogs.es/4b4171/untitled-design-26-/1200_900.jpeg",
-      "publishedAt": "2026-09-28 18:00:27",
-      "sourceName": "decoracion_trendencias"
-    },
-    {
-      "id": "es-21",
-      "title": "Bomberos forestales y PNB rescatan un perro que cayó a un río de Acosta",
-      "description": "En un acto de heroísmo y compromiso con la vida, bomberos forestales… La entrada Bomberos forestales y PNB rescatan un perro que cayó a un río de Acosta se publicó primero en El Periódico de Monagas Noticias de Maturín M",
-      "url": "https://elperiodicodemonagas.com.ve/sucesos/bomberos-forestales-y-pnb-rescatan-un-perro-que-cayo-a-un-rio-de-acosta/",
-      "urlToImage": "https://elperiodicodemonagas.com.ve/wp-content/uploads/2026/09/perro.jpg",
-      "publishedAt": "2026-09-28 17:50:26",
-      "sourceName": "elorientaldemonagas"
-    },
-    {
-      "id": "es-22",
-      "title": "Manuel Balibrea, educador canino, sobre el Akita Inu: “Es un compañero excepcional para quienes comprenden y respetan su carácter”",
-      "description": "La raza japonesa es reconocida por el profundo vínculo que puede desarrollar con su familia, aunque su personalidad independiente y su instinto protector hacen que su educación sea fundamental.",
-      "url": "https://tn.com.ar/sociedad/2026/09/28/manuel-balibrea-educador-canino-sobre-el-akita-inu-es-un-companero-excepcional-para-quienes-comprenden-y-respetan-su-caracter/",
-      "urlToImage": "https://tn.com.ar/resizer/v2/7QTPVXOWCVEHDHBTC3ZGLRWVMM.png?auth=6e3638bc88e8a7a07d31689f3d4b65d088cefa3c7ab3546930fb4fe2ff383ea6",
-      "publishedAt": "2026-09-28 17:44:07",
-      "sourceName": "tn"
-    },
-    {
-      "id": "es-23",
-      "title": "15 meses de cárcel para sujeto que cometió abusos contra un perro pitbull en Quimbaya",
-      "description": "Quimbaya, Quindío. En un fallo judicial que sienta un precedente contra la crueldad animal en el eje cafetero, la justicia colombiana dictó condena contra un hombre hallado culpable de cometer actos deplorables de maltra",
-      "url": "https://www.diariodelsur.com.co/15-meses-de-carcel-para-sujeto-que-cometio-abusos-contra-un-perro-pitbull-en-quimbaya/",
-      "urlToImage": "https://www.diariodelsur.com.co/wp-content/uploads/2026/09/images-82.jpg",
-      "publishedAt": "2026-09-28 16:39:55",
-      "sourceName": "diariodelsur"
-    },
-    {
-      "id": "es-24",
-      "title": "El IDPYBA descarta maltrato animal tras inspeccionar la vivienda de un canino geriátrico en Kennedy",
-      "description": "El IDPYBA atendió una denuncia por presunto maltrato animal en el barrio Catalina II de Kennedy y descartó lesiones en un canino de 21 años. La entrada El IDPYBA descarta maltrato animal tras inspeccionar la vivienda de ",
-      "url": "https://www.diariodelsur.com.co/el-idpyba-descarta-maltrato-animal-tras-inspeccionar-la-vivienda-de-un-canino-geriatrico-en-kennedy/",
-      "urlToImage": "https://www.diariodelsur.com.co/wp-content/uploads/2026/09/El-IDPYBA-descarta-maltrato-animal-tras-inspeccionar-la-vivienda-de-un-canino-geriatrico-en-Kennedy.jpg",
-      "publishedAt": "2026-09-28 15:30:24",
-      "sourceName": "diariodelsur"
-    },
-    {
-      "id": "es-25",
-      "title": "Final explicado de “El corazón de la bestia”, la nueva película de Brad Pitt: ¿qué pasa con el perro?",
-      "description": "La película de supervivencia dirigida por David Ayer tiene un desenlace tan emotivo como inesperado para James y su fiel compañero de cuatro patas.",
-      "url": "https://viapais.com.ar/streaming/elcorazondelabestia-bradpitt-finalexplicado-odin-peliculas_0_LDZlImA8pS.html",
-      "urlToImage": "https://viapais.com.ar/images/2026/09/28/h8kB8ricDF_1200x675.jpg",
-      "publishedAt": "2026-09-28 14:01:11",
-      "sourceName": "viapais_ar"
-    },
-    {
-      "id": "es-26",
-      "title": "Hace 50 años pocos dejaban dormir al perro dentro de casa: hoy comparte nuestra cama, sofá y forma parte de la familia",
-      "description": "Hace apenas unas décadas atrás, en muchos hogares de nuestro país resultaban impensables ciertas cosas, como que el perro de la familia acompañara a sus tutores dentro de casa, que durmiera subido al sofá o a la cama o q",
-      "url": "https://expertoanimal.elperiodico.com/hace-50-anos-pocos-dejaban-dormir-al-perro-dentro-de-casa-hoy-comparte-nuestra-cama-sofa-y-forma-parte-de-la-familia-28748.html",
-      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/0421e992-bf25-4793-be2e-4ee327da95d8_16-9-aspect-ratio_default_0_x600y225.jpg",
-      "publishedAt": "2026-09-28 14:00:00",
-      "sourceName": "elperiodicodearagon"
-    },
-    {
-      "id": "es-27",
+      "id": "es-31",
       "title": "Más allá de 'En el corazón de la bestia': la película de Prime Video que te hará enamorarte de los perros",
       "description": "Estrenada en 2015, esta película cuenta la historia de amistad y fidelidad entre un perro y su dueño, un militar caído en acto de servicio.",
       "url": "https://www.20minutos.es/cinemania/noticias/max-corazon-bestia-brad-pitt-perro-prime-video_7040830_0.html",
@@ -254,7 +290,7 @@
       "sourceName": "Julio Mármol; Julio MÃ¡rmol"
     },
     {
-      "id": "es-28",
+      "id": "es-32",
       "title": "Falso veterinario usó varsol y cianuro para aplicarle una supuesta eutanasia a un perro y después lo enterró vivo",
       "description": "Ernesto López Medina fue sentenciado a 12 meses de prisión por la muerte de Negro, un canino al que le habría suministrado medicamentos para bovinos en hechos ocurridos durante varios meses en 2020 en Flandes, Tolima",
       "url": "https://www.infobae.com/colombia/2026/09/28/falso-veterinario-uso-varsol-y-cianuro-para-aplicarle-una-supuesta-eutanasia-a-un-perro-y-despues-lo-enterro-vivo/",
@@ -263,7 +299,7 @@
       "sourceName": "Lina Muñoz Medina"
     },
     {
-      "id": "es-29",
+      "id": "es-33",
       "title": "Veterinarios explican la razón por la que tu perro voltea a mirarte cuando salen de paseo: no es por casualidad",
       "description": "Cuando enfrentan un estímulo nuevo, los animales observan las reacciones emocionales de sus dueños para decidir cómo actuar",
       "url": "https://www.infobae.com/mexico/2026/09/28/veterinarios-explican-la-razon-por-la-que-tu-perro-voltea-a-mirarte-cuando-salen-de-paseo-no-es-por-casualidad/",
@@ -272,7 +308,7 @@
       "sourceName": "Abigail Gómez"
     },
     {
-      "id": "es-30",
+      "id": "es-34",
       "title": "Jaime Maussan conoce a Comando Chihuahua y redes lo bautizan como un perro ‘fuera de este mundo’",
       "description": "Una fotografía difundida en Instagram reúne al comunicador con uno de los integrantes caninos más populares de la Guardia Nacional y provoca una oleada de bromas",
       "url": "https://www.infobae.com/mexico/2026/09/26/jaime-maussan-conoce-a-comando-chihuahua-y-redes-lo-bautizan-como-un-perro-fuera-de-este-mundo/",
@@ -281,7 +317,7 @@
       "sourceName": "Zurisaddai González"
     },
     {
-      "id": "es-31",
+      "id": "es-35",
       "title": "Llega el 'DNI Canino' para perros sin raza: qué es, para qué sirve y cómo funciona",
       "description": "La Real Sociedad Canina de España crea un registro específico que permitirá reunir información sobre la salud, actividad, cuidados y convivencia de estos animales",
       "url": "https://www.eldiario.es/spin/mundo-animal/llega-dni-canino-perros-raza-sirve-funciona-pm_1_13529222.html",
@@ -290,7 +326,7 @@
       "sourceName": "Àlex Gonzàlez"
     },
     {
-      "id": "es-32",
+      "id": "es-36",
       "title": "Los caninos Tony, Paris y Azab detectaron una caja con de 14 kilogramos de marihuana enviados desde Cali hacia Bogotá",
       "description": "El decomiso se produjo en una bodega de mensajería terrestre cercana al aeropuerto El Dorado, donde una encomienda fue sometida a controles antes de llegar a la capital colombiana como destino final",
       "url": "https://www.infobae.com/colombia/2026/09/24/los-caninos-tony-paris-y-azab-detectaron-una-caja-con-de-14-kilogramos-de-marihuana-enviados-desde-cali-hacia-bogota/",
@@ -299,7 +335,7 @@
       "sourceName": "Daniela BeltrÃ¡n"
     },
     {
-      "id": "es-33",
+      "id": "es-37",
       "title": "Motociclista registró en video el momento en que lanzaron dos perros desde un puente en Bogotá: uno de ellos murió y el motero adoptó al que sobrevivió",
       "description": "El usuario mostró cómo está ahora el canino luego de que decidió ayudarlo, en un caso que se hizo viral en redes sociales luego de la denuncia que se hizo desde la Alcaldía local de Kennedy, en el suroccidente de la capi",
       "url": "https://www.infobae.com/colombia/2026/09/24/motociclista-registro-en-video-el-momento-en-que-lanzaron-dos-perros-desde-un-puente-en-bogota-uno-de-ellos-murio-y-el-motero-adopto-al-que-sobrevivio/",
@@ -308,7 +344,7 @@
       "sourceName": "Sebastián Vargas Rueda"
     },
     {
-      "id": "es-34",
+      "id": "es-38",
       "title": "Tremendo: niño fue atacado por varios perros y su familia pide ayuda para su recuperación",
       "description": "Sucedió en el departamento de Tacuarembó. El menor convalece en el hospital local.",
       "url": "https://www.montevideo.com.uy/Noticias/Tremendo-nino-fue-atacado-por-varios-perros-y-su-familia-pide-ayuda-para-su-recuperacion-uc976349",
@@ -317,7 +353,7 @@
       "sourceName": "Gerardo Carrasco"
     },
     {
-      "id": "es-35",
+      "id": "es-39",
       "title": "Ya ha entrado en vigor: estos son los 90 ayuntamientos que solicitan un registro del ADN obligatorio de las mascotas en España",
       "description": "Aunque la mayoría de los propietarios de perros recogen los excrementos de sus mascotas de la vía pública, lo cierto es que en todas las ciudades hay personas insolidarias que...",
       "url": "https://www.elmundo.es/economia/2026/09/24/6ab4d210fdddff425a8b45b1.html",
@@ -326,7 +362,7 @@
       "sourceName": "TRESB"
     },
     {
-      "id": "es-36",
+      "id": "es-40",
       "title": "¿Por qué los perros necesitan morder cosas? La ciencia detrás del ‘simple’ acto de roer",
       "description": "Cuando un perro roe algo, no es un simple acto de destrucción sin sentido. Es una de las formas más antiguas y profundas que tienen de relacionarse con el mundo, de calmarse, de explorar, en definitiva, de ser perros.",
       "url": "https://theconversation.com/por-que-los-perros-necesitan-morder-cosas-la-ciencia-detras-del-simple-acto-de-roer-283314",
@@ -335,7 +371,7 @@
       "sourceName": "Gabriela Barrera"
     },
     {
-      "id": "es-37",
+      "id": "es-41",
       "title": "El corazón de la bestia: una historia emotiva, con Brad Pitt y un perro como protagonistas",
       "description": "La película de David Ayer pierde en ciertas decisiones de puesta en escena, que le quitan sutileza a la narración",
       "url": "https://www.lanacion.com.ar/espectaculos/el-corazon-de-la-bestia-una-historia-emotiva-con-brad-pitt-y-un-perro-como-protagonistas-nid24092026/",
@@ -344,16 +380,7 @@
       "sourceName": "María Fernanda Mugica"
     },
     {
-      "id": "es-38",
-      "title": "AcuPet Health lleva su innovadora propuesta para monitorizar la salud de mascotas al Madrid Dog Fest",
-      "description": "AcuPet Health lleva su innovadora propuesta para monitorizar la salud de mascotas al Madrid Dog Fest",
-      "url": "https://www.infobae.com/espana/agencias/2026/09/23/acupet-health-lleva-su-innovadora-propuesta-para-monitorizar-la-salud-de-mascotas-al-madrid-dog-fest/",
-      "urlToImage": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-      "publishedAt": "2026-09-23 08:19:05 +0000",
-      "sourceName": "Newsroom Infobae"
-    },
-    {
-      "id": "es-39",
+      "id": "es-42",
       "title": "Enrique Molina, adiestrador canino: \"El gran error es humanizar al perro. Muchas personas los tratan como si fueran una persona\"",
       "description": "Enrique Molina es un conocido adiestrador canino que ayuda a dueños de perros a saber cómo educar a su mascota para que sepa comportarse en casa, entre otras ...",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260531/1004189877/enrique-molina-adiestrador-canino-gran-error-humanizar-perro-muchas-personas-tratan-fueran-persona-dct.html",
@@ -362,7 +389,7 @@
       "sourceName": "mundodeportivo.com"
     },
     {
-      "id": "es-40",
+      "id": "es-43",
       "title": "Enrique Molina, adiestrador canino: \"No debemos dormir con nuestro perro, porque invade un espacio muy personal del dueño\"",
       "description": "Enrique Molina es un conocido adiestrador canino que ayuda a dueños de perros a saber cómo educar a su mascota para que sepa comportarse en casa, entre otras ...",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260510/1004181518/enrique-molina-adiestrador-canino-no-debemos-dormir-nuestro-perro-invade-espacio-personal-dueno-dct.html",
@@ -371,7 +398,7 @@
       "sourceName": "mundodeportivo.com"
     },
     {
-      "id": "es-41",
+      "id": "es-44",
       "title": "Alan Peiró, adiestrador canino: “Cuando un perro se muestra agresivo, lo hace por miedo”",
       "description": "El experto en comportamiento animal brindó consejos para tratar las reacciones violentas de las mascotas.",
       "url": "https://tn.com.ar/mascotas/2026/03/27/alan-peiro-adiestrador-canino-cuando-un-perro-se-muestra-agresivo-lo-hace-por-miedo/",
@@ -380,7 +407,7 @@
       "sourceName": "tn.com.ar"
     },
     {
-      "id": "es-42",
+      "id": "es-45",
       "title": "Por qué no hay que saludar al perro al llegar a casa, según un entrenador canino",
       "description": "Víctor Mañero, reconocido adiestrador canino, reveló el motivo por el cual esta acción puede generarles a los animales gran estrés y ansiedad; qué dijo - ...",
       "url": "https://www.lanacion.com.ar/lifestyle/mascotas/por-que-no-hay-que-saludar-al-perro-al-llegar-a-casa-segun-un-entrenador-canino-nid02052025/",
@@ -389,7 +416,7 @@
       "sourceName": "lanacion.com.ar"
     },
     {
-      "id": "es-43",
+      "id": "es-46",
       "title": "¿Dónde llevar a pasear a mi perro en CDMX? Conoce el Parque Canino del Bosque de Aragón",
       "description": "Te decimos qué hacer en la Ciudad de México: comida, antros, bares, música, cine, cartelera teatral y todas las noticias importantes.",
       "url": "https://www.chilango.com/que-hacer/parques/donde-llevar-a-pasear-a-mi-perro-en-cdmx-conoce-el-parque-canino-del-bosque-de-aragon/",
@@ -398,7 +425,7 @@
       "sourceName": "chilango.com"
     },
     {
-      "id": "es-44",
+      "id": "es-47",
       "title": "Wilson: el Ejército confirmó que el perro encontrado no es el héroe canino",
       "description": "Pese a que tiene características similares al pastor belga, el Comando Conjunto de Operaciones Especiales confirmó que no se trata del héroe canino",
       "url": "https://www.infobae.com/colombia/2023/07/22/wilson-el-ejercito-confirmo-que-el-perro-encontrado-no-es-el-heroe-canino/",
@@ -407,7 +434,7 @@
       "sourceName": "infobae.com"
     },
     {
-      "id": "es-45",
+      "id": "es-48",
       "title": "¿Apareció Wilson? Video muestra un perro similar al héroe canino desaparecido tras búsqueda de los hermanitos en Caquetá",
       "description": "Una nueva esperanza de que el perro Wilson esté vivo surgió en las últimas horas por cuenta de un video que comenzó a circular en redes sociales. El c...",
       "url": "https://www.elcolombiano.com/colombia/video-de-perro-similar-a-wilson-el-perro-desaparecido-en-selva-de-caqueta-FC21982171",
@@ -416,7 +443,7 @@
       "sourceName": "elcolombiano.com"
     },
     {
-      "id": "es-46",
+      "id": "es-49",
       "title": "“Perro gay”: ovacionan a un canino en marcha LGBT+ de Guadalajara",
       "description": "El divertido y controversial momento sucedió cuando su cuidadora lo alzó y todos los asistentes no dudaron en gritar y aclamarlo mientras él sacaba su lengua...",
       "url": "https://www.infobae.com/america/entretenimiento/2022/06/19/perro-gay-ovacionan-a-un-canino-en-marcha-lgbt-de-guadalajara/",
@@ -428,234 +455,231 @@
   "en": [
     {
       "id": "en-0",
+      "title": "Fat Dogs of Delhi finale goes viral as Kebab faces Googoo in ruff election",
+      "description": "NEW DELHI, Sept 30 — India’s capital goes to the dogs on Wednesday, as voters choose which of the city’s chubbiest canines deserves to be crowned its fattest.The “Fat Dogs...",
+      "url": "https://www.malaymail.com/news/life/2026/09/30/fat-dogs-of-delhi-finale-goes-viral-as-kebab-faces-googoo-in-ruff-election/237139",
+      "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2026/09/30/365526.jpg",
+      "publishedAt": "2026-09-30 08:11:00 +0000",
+      "sourceName": "Malay Mail"
+    },
+    {
+      "id": "en-1",
+      "title": "‘Fat Dogs Of Delhi’: Meet the chubby canines competing for the crown of Delhi’s fattest dog",
+      "description": "In an amusing twist, voters in Delhi are now involved in the 'Fat Dogs of Delhi' contest, a quirky competition to find the city's chubbiest canine. Initially boasting 64 contestants, the event took a surprising turn when",
+      "url": "https://economictimes.indiatimes.com/news/india/fat-dogs-of-delhi-meet-the-chubby-canines-competing-to-be-crowned-delhis-fattest-dog/articleshow/134583021.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-134583059,width-1200,height-630,imgsize-197402,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-30 05:53:11 +0000",
+      "sourceName": "SECTIONS Meet the chubby canines competing"
+    },
+    {
+      "id": "en-2",
+      "title": "Chubby canines: India's fat dog vote goes viral",
+      "description": "",
+      "url": "https://today.rtl.lu/news/world/indias-fat-dog-vote-goes-viral-220668932",
+      "urlToImage": "https://static-prod.rtl.lu/dims4/default/97d7a3a/2147483647/strip/true/crop/768x432+0+40/resize/1224x689!/quality/90/?url=https%3A%2F%2Frtl-luxembourg-new-production-web.s3.eu-central-1.amazonaws.com%2Fbrightspot%2Ff0%2Fea%2F31d01056a68b1d5b52660073e7e9%2Fahr0chm6ly9hznatyxbpy29yzs1wcm9klmfmcc5jb20vb2jqzwn0cy9hcgkvbwvkawfzp2lkpwexa2tjuzbuu2haq1dguxnwmghhvuvwrefragvlalpdu2gwq2roadbdwhrxqxdnsmf3wjvhz2qlmkzhwhnvwwd0b2ngbfjxqulcquhczklpchbyrlfhszbjaur5qxnwz3h4qw1fvknrzdber1pzwm5fyun4medcefjgukz3te1tmufgmfzsstfjm0zyrndcz0zdtuzodkturmdurmrdqzfzz1rsnvpxvjlku1jawel6surxbdfayndwmufuvjfdd0lbrufsmgriwjbdmk1evwxjbuzfne5svkfkv1fzuu5ddepcr1jdtfz3vfdezdlgru5ms0zgoextmghvvjfjvui0z1fwmwrsmwrerufrqmzirwvdz1viy1faekjiwmpsbghksvvjmupdazjcqwdhrhdoeursz0zbqvldr3dbuuppnwvcrjlctfvnc1htwwhxmufxtjbba0lpvw9wz1jmvjfrmlhbdfhruthbqzbwu2visuxurvlky1jfmlnuntbbz0fdy0f3jtnelmpwzw.jpeg",
+      "publishedAt": "2026-09-30 05:12:22 +0000",
+      "sourceName": "AFP"
+    },
+    {
+      "id": "en-3",
       "title": "Fat dogs of Delhi, unite",
       "description": "Many a fat dog, like their overweight human counterparts, has health issues. Unlike their bipedal best friends, however, dogs do not judge, nor are they self-conscious",
       "url": "https://indianexpress.com/article/opinion/editorials/delhi-fattest-dog-election-10899697/",
       "urlToImage": "https://images.indianexpress.com/2026/09/Express-view-Copy-3-21.jpeg",
       "publishedAt": "2026-09-30 00:45:26 +0000",
-      "sourceName": "Editorial",
-      "title_es": "Perros gordos de Delhi, unidos",
-      "description_es": "Muchos perros gordos, al igual que sus homólogos humanos con sobrepeso, tienen problemas de salud. Sin embargo, a diferencia de sus mejores amigos bípedos, los perros no juzgan, ni son cohibidos"
+      "sourceName": "Editorial"
     },
     {
-      "id": "en-1",
+      "id": "en-4",
       "title": "Senior Shelter Dog Finds His Perfect Match When a Senior Man Drives 21 Hours to Adopt Him",
       "description": "Senior dogs in shelters have less chances of getting adopted than puppies or younger canines. Potential pet parents are often hesitant to bring home …",
       "url": "https://paradepets.com/pet-news/senior-shelter-dog-adopted-by-senior-man",
       "urlToImage": "None",
       "publishedAt": "2026-09-29 23:10:00 +0000",
-      "sourceName": "Melissa Mitas",
-      "title_es": "El perro mayor del refugio encuentra su pareja perfecta cuando un hombre mayor conduce 21 horas para adoptarlo",
-      "description_es": "Los perros mayores en los refugios tienen menos posibilidades de ser adoptados que los cachorros o los perros más jóvenes. Los posibles padres de mascotas a menudo dudan en llevarlos a casa ..."
+      "sourceName": "Melissa Mitas"
     },
     {
-      "id": "en-2",
+      "id": "en-5",
+      "title": "The 19 best dog-friendly restaurants in Miami right now",
+      "description": "From Greenstreet and Bayshore Club to Sawa and Frankie & Wally's, here are the 19 best dog-friendly restaurants in Miami.",
+      "url": "https://www.miaminewtimes.com/food-drink/the-best-dog-friendly-restaurants-in-miami-right-now-40587647/",
+      "urlToImage": "https://www.miaminewtimes.com/wp-content/uploads/sites/4/2026/09/IMG_0075.jpg",
+      "publishedAt": "2026-09-29 20:07:40",
+      "sourceName": "miaminewtimes"
+    },
+    {
+      "id": "en-6",
+      "title": "Puppy love! Statue honouring brave dog named Tsunami who helped rescue trapped victims after Venezuela earthquake is unveiled",
+      "description": "Tsunami, the nine-year-old Border Collie rescue dog, saved 26 people in La Guarria with his handler Jorge Beens by searching through the extensive rubble.",
+      "url": "https://www.dailymail.com/news/article-16170691/Statue-dog-Tsunami-Venezuela-earthquake.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/09/29/21/111549707-0-image-a-13_1790712097743.jpg",
+      "publishedAt": "2026-09-29 20:06:37",
+      "sourceName": "dailymailuk"
+    },
+    {
+      "id": "en-7",
+      "title": "Uganda: Hundreds Join Kampala Dog Walk to Promote Rabies Prevention",
+      "description": "[Nile Post] Hundreds of dog owners, animal welfare advocates and canine enthusiasts gathered at Dolphin Suites in Bugolobi on Sunday, September 27, 2026, for the annual Kampala Dog Walk, an event aimed at raising awarene",
+      "url": "https://allafrica.com/stories/202609290718.html",
+      "urlToImage": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2026-09-29 19:04:44",
+      "sourceName": "allafrica"
+    },
+    {
+      "id": "en-8",
+      "title": "8 Dog-Walking Mistakes Experts Say Too Many Owners Make",
+      "description": "A dog trainer and canine behaviorist weigh in on the most common dog walking mistakes they see well-intentioned owners making.",
+      "url": "https://www.goodhousekeeping.com/relationships/pets/a73928503/dog-walking-mistakes/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/35b13193-f8f9-4d3f-b2b3-397b22165fbc.jpeg?crop=0.666981132075xw:1xh;center,top&resize=1200:*",
+      "publishedAt": "2026-09-29 18:49:55",
+      "sourceName": "goodhousekeeping"
+    },
+    {
+      "id": "en-9",
       "title": "Corpulent canines compete in 'Fat Dogs of Delhi' contest - UPI.com",
       "description": "The most corpulent canines in India's capital have become social media stars thanks to an online competition to crown Delhi's most beloved fat dog.",
       "url": "https://www.upi.com/Odd_News/2026/09/29/india-fat-dogs-of-delhi-contest/1711790704060/",
       "urlToImage": "https://cdnph.upi.com/ph/st/th/1711790704060/2026/i/17907045022659/v1.5/Corpulent-canines-compete-in-Fat-Dogs-of-Delhi-contest.jpg?lg=5",
       "publishedAt": "2026-09-29 17:55:35 +0000",
-      "sourceName": "Ben Hooper",
-      "title_es": "Caninos corpulentos compiten en el concurso \"Perros gordos de Delhi\" - UPI.com",
-      "description_es": "Los caninos más corpulentos de la capital de la India se han convertido en estrellas de las redes sociales gracias a una competencia en línea para coronar al perro gordo más querido de Delhi."
+      "sourceName": "Ben Hooper"
     },
     {
-      "id": "en-3",
+      "id": "en-10",
+      "title": "Dog finds three children who wandered away from campground, sheriff’s office says",
+      "description": "A dog in Colorado is receiving praise for helping find three kids who were missing from a campground.",
+      "url": "https://www.kctv5.com/2026/09/29/dog-finds-three-children-who-wandered-away-campground-sheriffs-office-says/",
+      "urlToImage": "https://gray-kctv-prod.gtv-cdn.com/resizer/v2/UO47K3WRYVAPLO6PCDQTJYGDYE.png?auth=023d09a5f124000396deddb64f4211012c70f79ac4a13336050611875356a6fc&width=1200&height=600&smart=true",
+      "publishedAt": "2026-09-29 17:11:46",
+      "sourceName": "kctv5"
+    },
+    {
+      "id": "en-11",
+      "title": "929_arch_CCSO",
+      "description": "A dog in Colorado is receiving praise for helping find three kids who were missing from a campground.",
+      "url": "https://www.newschannel10.com/2026/09/29/dog-finds-three-children-who-wandered-away-campground-sheriffs-office-says/",
+      "urlToImage": "https://gray-kfda-prod.gtv-cdn.com/resizer/v2//UO47K3WRYVAPLO6PCDQTJYGDYE.png?auth=023d09a5f124000396deddb64f4211012c70f79ac4a13336050611875356a6fc&smart=true&width=1280&height=720",
+      "publishedAt": "2026-09-29 17:11:46",
+      "sourceName": "newschannel10"
+    },
+    {
+      "id": "en-12",
       "title": "Cyclist likely bitten by several dogs and died from throat injuries, source says",
       "description": "A young cyclist who died after a suspected canine attack in Hong Kong earlier this month was likely bitten on the neck by several dogs, but government forensic pathologists fear it may ultimately be impossible to determi",
       "url": "https://www.scmp.com/news/hong-kong/society/article/3369246/cyclist-likely-bitten-several-dogs-and-died-throat-injuries-source-says",
-      "urlToImage": "None",
-      "publishedAt": "2026-09-29 15:55:37 +0000",
-      "sourceName": "Danny Mok",
-      "title_es": "El ciclista probablemente fue mordido por varios perros y murió a causa de lesiones en la garganta, dice la fuente",
-      "description_es": "Un joven ciclista que murió después de un presunto ataque canino en Hong Kong a principios de este mes probablemente fue mordido en el cuello por varios perros, pero los patólogos forenses del gobierno temen que en última instancia sea imposible disuadirlo"
+      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/f2293f25-2fbc-42b6-9ec0-3f6c2dbe59cc_29d94bf6.jpg?itok=o_6hRUDS&v=1790697334",
+      "publishedAt": "2026-09-29 15:55:37",
+      "sourceName": "scmp"
     },
     {
-      "id": "en-4",
+      "id": "en-13",
+      "title": "Delhi’s Chonkiest Dog Is Up For A Very Serious Election",
+      "description": "The playful contest has been organised by the Instagram page Fat Dogs of Delhi, inspired by the annual Fat Bear Week",
+      "url": "https://www.etvbharat.com/en/state/delhi-chonkiest-dog-is-up-for-a-very-serious-election-enn26092906547",
+      "urlToImage": "https://imgs.etvbharat.com/etvbharat/prod-images/29-09-2026/1200-675-27748399-158-27748399-1790696964928.jpg",
+      "publishedAt": "2026-09-29 15:50:22",
+      "sourceName": "etvbharat"
+    },
+    {
+      "id": "en-14",
       "title": "Watch: Nearly 300 dogs attend pool party to break world record in Nevada - UPI.com",
       "description": "Nearly 300 canines descended on a Nevada water park for an event that broke Guinness World Record for the most dogs attending a dog pool party.",
       "url": "https://www.upi.com/Odd_News/2026/09/29/Guinness-World-Records-dog-pool-party-doodlepalooza/6881790694143/",
       "urlToImage": "https://cdnph.upi.com/ph/st/th/6881790694143/2026/i/17906944106453/v1.5/Nearly-300-dogs-attend-pool-party-to-break-world-record-in-Nevada.jpg?lg=5",
       "publishedAt": "2026-09-29 15:07:44 +0000",
-      "sourceName": "Ben Hooper",
-      "title_es": "Reloj: Casi 300 perros asisten a una fiesta en la piscina para romper el récord mundial en Nevada - UPI.com",
-      "description_es": "Casi 300 perros descendieron a un parque acuático de Nevada para un evento que rompió el récord mundial Guinness de la mayor cantidad de perros que asisten a una fiesta en la piscina para perros."
+      "sourceName": "Ben Hooper"
     },
     {
-      "id": "en-5",
+      "id": "en-15",
+      "title": "Fat Dogs of Delhi: ‘Chonkiest’ Dog Election Captivates Thousands As Online Knockout Contest Heads to Finale",
+      "description": "An online election organised by Instagram page Fat Dogs of Delhi has drawn thousands of votes to crown the city's 'chonkiest' canine. Featuring 64 community dogs with colourful names like Dahi Bhalli and Googoo, the tour",
+      "url": "https://www.latestly.com/india/news/fat-dogs-of-delhi-chonkiest-dog-election-captivates-thousands-as-online-knockout-contest-heads-to-finale-7625920.html",
+      "urlToImage": "https://st1.latestly.com/wp-content/uploads/2026/09/1-156064276-1.jpg",
+      "publishedAt": "2026-09-29 14:57:04",
+      "sourceName": "latestly"
+    },
+    {
+      "id": "en-16",
       "title": "Delhi Fat Dog Election: How 64 Street Dogs Became Election Candidates With Posters, Memes, Fan Campaigns and Thousands of Online Votes – Check Top Contenders, Result Date, Voting Process and More",
       "description": "Delhi's chonkiest dog contest has gone viral, with 64 dogs, Instagram campaigns and fan votes turning neighbourhood canines into celebrities as the capital prepares for its finale today. The post Delhi Fat Dog Election: ",
       "url": "https://sundayguardianlive.com/india/delhi-fat-dog-election-how-64-street-dogs-became-election-candidates-with-posters-memes-fan-campaigns-and-thousands-of-online-votes-check-top-contenders-result-date-voting-process-and-more-295293/",
       "urlToImage": "https://sundayguardianlive.com/wp-content/uploads/2026/09/bitcoin-price-today-29-september-3.png",
       "publishedAt": "2026-09-29 14:07:08",
-      "sourceName": "thesundayguardian",
-      "title_es": "Delhi Fat Dog Election: How 64 Street Dogs Became Election Candidates With Posters, Memes, Fan Campaigns and Thousands of Online Votes – Check Top Contenders, Result Date, Voting Process and More",
-      "description_es": "El concurso de perros más popular de Delhi se ha vuelto viral, con 64 perros, campañas de Instagram y votos de fans convirtiendo a los caninos del vecindario en celebridades mientras la capital se prepara para su final de hoy. The post Delhi Fat Dog Election:"
+      "sourceName": "thesundayguardian"
     },
     {
-      "id": "en-6",
+      "id": "en-17",
       "title": "Pet of the Week: Meet Valentino",
       "description": "Valentino Mixed breed Hi, I’m Valentino, and I would like to formally introduce myself as a puppy who accidentally grew into a very large dog. Honestly, I’m not sure how it happened. One minute I’m a tiny little guy boun",
       "url": "https://kingsvilletimes.ca/2026/09/pet-of-the-week-meet-valentino/",
       "urlToImage": "https://kingsvilletimes.ca/wp-content/uploads/2026/09/hs-valentino-canva-700x371-2.png",
       "publishedAt": "2026-09-29 14:02:55",
-      "sourceName": "kingsvilletimes",
-      "title_es": "Mascota de la semana: Conoce a Valentino",
-      "description_es": "Valentino De raza mixta Hola, soy Valentino, y me gustaría presentarme formalmente como un cachorro que accidentalmente se convirtió en un perro muy grande. Honestamente, no estoy seguro de cómo sucedió. En un minuto soy un pequeño chico boun"
+      "sourceName": "kingsvilletimes"
     },
     {
-      "id": "en-7",
+      "id": "en-18",
       "title": "Play as an Adorable Ghost with His Cute Dog Companion in KRAFTON's Upcoming Game",
       "description": "KRAFTON's Flyway Games made a whimsical adventure about a journey into the afterlife.",
       "url": "https://80.lv/articles/play-as-an-adorable-ghost-with-his-cute-dog-companion-in-krafton-s-upcoming-game/",
       "urlToImage": "https://cdn.80.lv/api/upload/post/41786/images/6abbb5eaa4971/cover_800x800.jpg",
       "publishedAt": "2026-09-29 13:14:00",
-      "sourceName": "a80_lv",
-      "title_es": "Juega como un adorable fantasma con su adorable perro compañero en el próximo juego de KRAFTON",
-      "description_es": "Los juegos de KRAFTON hicieron una aventura caprichosa sobre un viaje al más allá."
+      "sourceName": "a80_lv"
     },
     {
-      "id": "en-8",
+      "id": "en-19",
       "title": "Teddy bears, dog collars and garden gnomes: The strangest museums in the UK revealed",
       "description": "On this green and pleasant isle, we have a museum for almost anything.",
       "url": "https://www.countrylife.co.uk/culture/out-and-about/massive-pencils-sewing-machines-teddy-bears-dog-collars-and-garden-gnomes-the-strangest-museums-in-the-uk-revealed",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/iHhkb3Si82AVN9AYcvpLKU-1920-80.jpg",
       "publishedAt": "2026-09-29 13:05:00",
-      "sourceName": "countrylife",
-      "title_es": "Ositos de peluche, collares de perro y gnomos de jardín: los museos más extraños del Reino Unido revelados",
-      "description_es": "En esta isla verde y agradable, tenemos un museo para casi cualquier cosa."
+      "sourceName": "countrylife"
     },
     {
-      "id": "en-9",
+      "id": "en-20",
       "title": "Heartwarming moment as care home residents crown favourite four-legged friend",
       "description": "Mya, an 11-year-old Labradoodle, wins Best in Show at Milngavie Manor Care Home’s first dog show, delighting care home residents across Milngavie.",
       "url": "https://www.glasgowtimes.co.uk/news/26591233.labradoodle-mya-crowned-best-milngavie-care-homes-first-dog-show/",
       "urlToImage": "https://www.glasgowtimes.co.uk/resources/images/21515734/",
       "publishedAt": "2026-09-29 13:00:14",
-      "sourceName": "glasgowtimes",
-      "title_es": "Un momento conmovedor en el que los residentes de hogares de cuidados coronan a su amigo favorito de cuatro patas",
-      "description_es": "Mya, un Labradoodle de 11 años, gana el premio Best in Show en la primera exposición canina de Milngavie Manor Care Home, deleitando a los residentes de hogares de cuidados en todo Milngavie."
+      "sourceName": "glasgowtimes"
     },
     {
-      "id": "en-10",
-      "title": "A shelter dog was carried into a New York Starbucks in a backpack; one stranger met her and adopted her three days later",
-      "description": "A shelter dog was carried into a New York Starbucks in a backpack; one stranger met her and adopted her three days later",
-      "url": "https://timesofindia.indiatimes.com/world/us/a-shelter-dog-was-carried-into-a-new-york-starbucks-in-a-backpack-one-stranger-met-her-and-adopted-her-three-days-later/articleshow/134565783.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-134565901/134565901.jpg",
-      "publishedAt": "2026-09-29 12:18:41",
-      "sourceName": "toi",
-      "title_es": "Un perro del refugio fue llevado a un Starbucks de Nueva York en una mochila; un extraño la conoció y la adoptó tres días después",
-      "description_es": "Un perro del refugio fue llevado a un Starbucks de Nueva York en una mochila; un extraño la conoció y la adoptó tres días después"
-    },
-    {
-      "id": "en-11",
+      "id": "en-21",
       "title": "More assistance dogs allowed in Singapore eateries from Nov 1",
       "description": "SINGAPORE – Individuals with physical or hearing impairments will soon also be able to bring their assistance dogs into eateries, under updated regulations that expand permissions beyond guide dogs for the visually impai",
       "url": "https://www.asiaone.com/singapore/assistance-dogs-allowed-singapore-eateries",
       "urlToImage": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Sep2026/290926_assistancedogsingapore_st.jpg?itok=751ceH5z",
       "publishedAt": "2026-09-29 11:56:53 +0000",
-      "sourceName": "Currents",
-      "title_es": "Más perros de asistencia permitidos en los restaurantes de Singapur a partir del 1 de noviembre",
-      "description_es": "SINGAPUR – Las personas con discapacidades físicas o auditivas pronto también podrán llevar a sus perros de asistencia a los restaurantes, según las regulaciones actualizadas que amplían los permisos más allá de los perros guía para la discapacidad visual"
+      "sourceName": "Currents"
     },
     {
-      "id": "en-12",
-      "title": "Scipio Township Woman Faces 17 Charges After Dogs Maul Girl, 12, and Her Cousin",
-      "description": "Holley Krasnodemski of Scipio Township faces 17 misdemeanor counts after her dogs mauled a 12-year-old girl and her cousin in Hillsdale County.",
-      "url": "https://hoodline.com/2026/09/scipio-township-woman-faces-17-charges-after-dogs-maul-girl-12-and-her-cousin/",
-      "urlToImage": "https://img.hoodline.com/2026/9/scipio-township-woman-faces-17-charges-after-dogs-maul-girl-12-and-her-cousin.webp",
-      "publishedAt": "2026-09-29 11:53:23",
-      "sourceName": "hoodline",
-      "title_es": "Scipio Township Woman se enfrenta a 17 cargos después de que los perros Maul Girl, de 12 años, y su prima",
-      "description_es": "Holley Krasnodemski, de Scipio Township, se enfrenta a 17 cargos por delitos menores después de que sus perros mutilaran a una niña de 12 años y a su prima en el condado de Hillsdale."
-    },
-    {
-      "id": "en-13",
-      "title": "Five dogs looking for their forever homes in Norfolk right now",
-      "description": "Here are five dogs currently available for adoption in Norfolk from the Dogs Trust site at Snetterton.",
-      "url": "https://www.edp24.co.uk/news/26589981.five-dogs-snetterton-dogs-trust-looking-new-homes/",
-      "urlToImage": null,
-      "publishedAt": "2026-09-29 11:07:00",
-      "sourceName": "edp24_co_uk",
-      "title_es": "Cinco perros en busca de un hogar definitivo en Norfolk en este momento",
-      "description_es": "Aquí hay cinco perros actualmente disponibles para adopción en Norfolk desde el sitio de Dogs Trust en Snetterton."
-    },
-    {
-      "id": "en-14",
+      "id": "en-22",
       "title": "Fat dogs of Delhi: The unusual election gripping the Indian capital",
       "description": "The contest to crown the Indian capital's \"chonkiest\" dog has attracted thousands of votes.",
       "url": "https://www.bbc.co.uk/news/articles/cry4z98ew89wo",
       "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3762/live/3554f0a0-bbe5-11f1-bfea-9d5bb7e7d40b.jpg",
       "publishedAt": "2026-09-29 11:06:44 +0000",
-      "sourceName": "Zoya Mateen",
-      "title_es": "Perros gordos de Delhi: Las inusuales elecciones que se apoderan de la capital india",
-      "description_es": "El concurso para coronar al perro \"chonkiest\" de la capital india ha atraído miles de votos."
+      "sourceName": "Zoya Mateen"
     },
     {
-      "id": "en-15",
-      "title": "Lutz Woman Charged in 17-Count Case After Starved Puppies, Five Kids Found in Home",
-      "description": "Carla Sanchez Diaz faces 17 charges after Hillsborough deputies found neglected dogs and five children in her Lutz-area home, officials say.",
-      "url": "https://hoodline.com/2026/09/lutz-woman-charged-in-17-count-case-after-starved-puppies-five-kids-found-in-home/",
-      "urlToImage": "https://img.hoodline.com/2026/9/lutz-woman-charged-in-17-count-case-after-starved-puppies-five-kids-found-in-home.webp",
-      "publishedAt": "2026-09-29 10:13:08",
-      "sourceName": "hoodline"
-    },
-    {
-      "id": "en-16",
-      "title": "Canine Kidney Supportive Care Products Market to Reach USD 1.97 Billion by 2036, India - CAGR 9.2%, China - CAGR 9.0%, Germany - CAGR 7.1%",
-      "description": "Rockville, Maryland — September 29, 2026 — The global canine kidney supportive care products market is valued at USD 1.04 billion in 2026 and is projected to reach USD 1.97 billion by 2036, expanding at a 6.6% CAGR durin",
-      "url": "http://prsync.com/httpswwwfactmrcom/canine-kidney-supportive-care-products-market-to-reach-usd--billion-by--india---cagr--china---cagr--germany---cagr--5205498/",
-      "urlToImage": null,
-      "publishedAt": "2026-09-29 10:01:38",
-      "sourceName": "prsync"
-    },
-    {
-      "id": "en-17",
+      "id": "en-23",
       "title": "Death of Tenessee sheriff’s office canine leads to criminal investigation",
-      "description": "Patrol dog’s handler resigned after it emerged Bart had died of heatstroke due to severe dehydration in nearly 101F heat The recent death of a Tennessee sheriff’s office dog after being left in an outdoor kennel without ",
+      "description": "Patrol dog’s handler resigned after it emerged Bart had died of heatstroke due to severe dehydration in nearly 101F heat",
       "url": "https://www.theguardian.com/us-news/2026/sep/29/tenessee-sheriff-canine-death-criminal-investigation",
       "urlToImage": "https://i.guim.co.uk/img/media/6516d639801b4343259873ec99880364de5cbd99/381_0_1232_986/master/1232.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=83cb5ba49e9a61b822c90bc49ecdc4b8",
-      "publishedAt": "2026-09-29 09:01:01",
-      "sourceName": "theguardian"
+      "publishedAt": "2026-09-29 09:01:01 +0000",
+      "sourceName": "Ramon Antonio Vargas"
     },
     {
-      "id": "en-18",
-      "title": "Dog owner loses appeal over pet’s death during MBPP raid",
-      "description": "Penang High Court rules the city council was entitled to seize the unaccompanied 15-year-old dog.",
-      "url": "https://www.freemalaysiatoday.com/category/nation/2026/09/29/dog-owner-loses-appeal-over-pet-s-death-during-mbpp-raid",
-      "urlToImage": "https://media.freemalaysiatoday.com/v3/2026/09/753c191a-617c-4c12-88c9-353da5c35be5-Butcho-emel-pic-290926-1.jpg",
-      "publishedAt": "2026-09-29 08:46:00",
-      "sourceName": "freemalaysiatoday"
-    },
-    {
-      "id": "en-19",
-      "title": "Ohh My Dog OTT Release Date: When and where to watch Pankaj Tripathi starrer family comedy",
-      "description": "Pankaj Tripathi starrer Ohh My Dog is set to premiere on Netflix after its theatrical release in August. Here’s the OTT release date, plot, cast and streaming details of the comedy-drama.",
-      "url": "https://www.moneycontrol.com/entertainment/ott/ohh-my-dog-ott-release-date-when-and-where-to-watch-pankaj-tripathi-starrer-family-comedy-article-14040885.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2026/07/20260727050556_Ohh-My-Dog-new-release-date-announced.png",
-      "publishedAt": "2026-09-29 07:35:07",
-      "sourceName": "moneycontrol"
-    },
-    {
-      "id": "en-20",
-      "title": "Which dog is the cutest in New Jersey? How to vote in round 2",
-      "description": "NorthJersey.com is continuing its search for the cutest dog in the Garden State, and the second round of voting has begun!",
-      "url": "https://www.njherald.com/story/news/new-jersey/2026/09/29/north-jersey-cutest-dog-contest-round-2-vote/91983947007/",
-      "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2026/09/23/PNJM/91909410007-autumn-dog.JPEG?auto=webp&crop=3060,1721,x0,y848&format=pjpg&width=1200",
-      "publishedAt": "2026-09-29 05:56:00",
-      "sourceName": "njherald"
-    },
-    {
-      "id": "en-21",
-      "title": "Ohh My Dog OTT release date: Pankaj film hits streaming platform",
-      "description": "'Oh My Dog', Pankaj Tripathi's comedy-drama directed by Amir Rai, released in theatres on August 7, 2026, and will stream on Netflix from October 1, 2026. The film follows two timelines: Appu searching for her missing do",
+      "id": "en-24",
+      "title": "‘Ohh My Dog’ OTT release date: When and where to watch the Pankaj Tripathi starrer comedy-drama online after its theatrical release?",
+      "description": "Pankaj Tripathi is set to return to screens with 'Ohh My Dog', a family comedy-drama that arrived in theatres on August 7, 2026. Directed by Amit Rai, the film explores the bond between humans and dogs through two parall",
       "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ohh-my-dog-ott-release-date-when-and-where-to-watch-the-pankaj-tripathi-starrer-comedy-drama-online-after-its-theatrical-release/articleshow/134557453.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-134557474/134557474.jpg",
-      "publishedAt": "2026-09-29 05:36:43",
-      "sourceName": "toi"
+      "urlToImage": "https://static.toiimg.com/thumb/msid-134557474,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-29 05:36:43 +0000",
+      "sourceName": "TOI Entertainment Desk"
     },
     {
-      "id": "en-22",
+      "id": "en-25",
       "title": "New police sniffer dog team to detect drugs used in spiking",
       "description": "Thames Valley and Hampshire police forces team up in time for the start of the university year.",
       "url": "https://www.bbc.co.uk/news/articles/c8n5dvnl657no",
@@ -664,25 +688,7 @@
       "sourceName": "Lilah Parsons; Ethan Gudge"
     },
     {
-      "id": "en-23",
-      "title": "Ambattur Leads With 21,844 Shots: Here Is How Chennai's 75-Day Stray Dog Vaccination Campaign Is Progressing",
-      "description": "The Greater Chennai Corporation has vaccinated 1,00,378 stray dogs, past the halfway point of its 75-day anti-rabies campaign. Launched August 11, mobile teams also provide parasite treatment as they work toward a two-la",
-      "url": "https://www.latestly.com/india/news/ambattur-leads-with-21844-shots-here-is-how-chennais-75-day-stray-dog-vaccination-campaign-is-progressing-7624917.html",
-      "urlToImage": "https://st1.latestly.com/wp-content/uploads/2025/01/Stray-Dogs.jpg",
-      "publishedAt": "2026-09-29 04:29:21",
-      "sourceName": "latestly"
-    },
-    {
-      "id": "en-24",
-      "title": "Delhi's 'Fattest Dog' Final Is Today: Meet The City's Chonky Stars",
-      "description": "The idea was inspired by Alaska's annual Fat Bear Week, but Delhi has given the concept its own distinctly local flavour.",
-      "url": "https://www.ndtv.com/offbeat/delhis-fattest-dog-final-is-today-meet-the-citys-chonky-stars-12112550",
-      "urlToImage": "https://c.ndtvimg.com/2026-09/prkte92o_fattest-dogs-of-delhi_625x300_29_September_26.jpeg",
-      "publishedAt": "2026-09-29 04:20:54",
-      "sourceName": "ndtv"
-    },
-    {
-      "id": "en-25",
+      "id": "en-26",
       "title": "Dog finds 3 lost children who wandered away from Colorado campsite",
       "description": "Archie the canine deputy picked up a scent from the camp \"almost immediately\" and started leading searchers into the wilderness.",
       "url": "https://www.wltx.com/article/news/nation-world/dog-finds-lost-children-wandered-colorado-campsite/507-9b1b9ed2-ae8d-4bc5-b1d1-bd2e761ed267",
@@ -691,7 +697,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-26",
+      "id": "en-27",
       "title": "Common signs of canine urinary tract infections and bladder stones",
       "description": "Learn to identify red flags of canine urinary tract infections and stones, and discover preventative measures involving nutrition, hydration, and hygiene.",
       "url": "https://english.pravda.ru/news/animal/169308-dog-urinary-health/",
@@ -700,7 +706,7 @@
       "sourceName": "Marina Lebedeva"
     },
     {
-      "id": "en-27",
+      "id": "en-28",
       "title": "Brad Pitt Follows a Dog's Lead Through a Clichéd Wilderness | The New York Sun",
       "description": "If you like Purina dog food commercials, you will love “Heart of the Beast.” The new Brad Pitt film sends his character and his canine best friend ...",
       "url": "https://www.nysun.com/article/brad-pitt-follows-a-dogs-lead-through-a-cliched-wilderness",
@@ -709,7 +715,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-28",
+      "id": "en-29",
       "title": "47,000 Dogs Were Studied, and Here’s What Really Explains the Way Yours Behaves - AOL",
       "description": "Can a dog’s breed or size reveal hidden clues about its personality, health, or how it might behave as it grows older? A new study, tracking more than 47,000 pet dogs in the United States, offers the most comprehensive l",
       "url": "https://www.aol.com/articles/47-000-dogs-were-studied-130000000.html",
@@ -718,7 +724,7 @@
       "sourceName": "Ashley Driggs"
     },
     {
-      "id": "en-29",
+      "id": "en-30",
       "title": "Pet owners can feel safe during winter with event designed for dog walkers",
       "description": "MorePaws is a community that aims to bring local dog walkers together so they don't feel alone. But Ry and Diane have gone one step further and created an event to make people feel safe",
       "url": "https://www.mirror.co.uk/lifestyle/pet-owners-can-feel-safe-37643563",
@@ -727,7 +733,7 @@
       "sourceName": "Danielle Kate Wroe"
     },
     {
-      "id": "en-30",
+      "id": "en-31",
       "title": "Out in Print: 'Think Like a Dog: How Positive Psychology Can Help Your Dog Thrive'",
       "description": "Think Like a Dog” by Jen Golbeck uses positive psychology, science and stories to help dog owners better understand how their canine companions ...",
       "url": "https://qnotescarolinas.com/out-in-print-think-like-a-dog/",
@@ -736,7 +742,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-31",
+      "id": "en-32",
       "title": "Shelter Dog Finally Gets Adopted After 500+ Days — Then His ‘Army’ Shows Up for the Sweetest Sendoff",
       "description": "When any dog gets adopted from a shelter, it’s a cause for celebration. There are some canines that don’t get chosen for months or even years and …",
       "url": "https://paradepets.com/pet-news/shelter-dog-gets-adopted-after-500-days-gets-sweetest-sendoff",
@@ -745,7 +751,7 @@
       "sourceName": "Melissa Mitas"
     },
     {
-      "id": "en-32",
+      "id": "en-33",
       "title": "After Putting in a Massive Order for Electric Shock Gloves, ICE Is Now Buying Robot Dogs",
       "description": "Immigration and Customs Enforcement is seeking a new batch of robot dogs, likely the first of many to come.",
       "url": "https://futurism.com/robots-and-machines/immigration-ice-electric-shock-gloves-robot-dog-surveillance",
@@ -754,7 +760,7 @@
       "sourceName": "Joe Wilkins"
     },
     {
-      "id": "en-33",
+      "id": "en-34",
       "title": "Dogs Will Fight Bears. But Not Because of the Reason You Might Think.",
       "description": "Scientists analyzed hundreds of encounters between bears and canines. The results raise the suggestion that dogs may not always protect people in the wild.",
       "url": "https://www.nytimes.com/2026/09/27/science/dogs-chasing-bears.html",
@@ -763,7 +769,7 @@
       "sourceName": "Alexander Nazaryan"
     },
     {
-      "id": "en-34",
+      "id": "en-35",
       "title": "Golden retrievers take over Draper Park in event to raise awareness for therapy dogs",
       "description": "DRAPER, Utah (ABC4) — The Golden Gait Gathering was held at Draper Park this Saturday, bringing together community members, both human and canine, to raise awareness and funds for service dogs. Dozens of golden retriever",
       "url": "https://www.abc4.com/news/everything-utah/retrievers-draper-park-awareness-therapy-dogs/",
@@ -772,7 +778,7 @@
       "sourceName": "Tyler Moss"
     },
     {
-      "id": "en-35",
+      "id": "en-36",
       "title": "Paseo District hosts DogFest to celebrate National Service Dog Awareness Month",
       "description": "Paseo District hosts DogFest to celebrate National Service Dog Awareness Month Canine Companions held its annual DogFest in Oklahoma City’s Paseo …",
       "url": "https://www.koco.com/article/paseo-district-dogfest-celebrates-national-service-dog-awareness-month/73906002",
@@ -781,7 +787,7 @@
       "sourceName": "Tyler Tripodi"
     },
     {
-      "id": "en-36",
+      "id": "en-37",
       "title": "Deaf dog surrendered as puppy to now deploy with National Guard",
       "description": "Axel, a deaf 3-year-old Dogo Argentino who knows over 50 commands, is deploying with the Michigan National Guard as a ministry dog.",
       "url": "https://nypost.com/2026/09/26/us-news/deaf-dog-surrendered-as-puppy-to-now-deploy-with-national-guard/",
@@ -790,7 +796,7 @@
       "sourceName": "Angela Barbuti"
     },
     {
-      "id": "en-37",
+      "id": "en-38",
       "title": "Iowa company eyes OKC's former Bar K space for new dog park and bar",
       "description": "Bar K closed abruptly in 2025, but OKC dog lovers may have a new hope if conversations between an Iowa-based company and property owners pan out.",
       "url": "https://www.oklahoman.com/story/business/local/2026/09/26/dog-park-bar-may-return-to-okc-as-iowa-company-eyes-old-bar-k-space/91940149007/",
@@ -799,7 +805,7 @@
       "sourceName": "JaNae Williams; Steve Lackmeyer"
     },
     {
-      "id": "en-38",
+      "id": "en-39",
       "title": "Dogs learn words the same way babies do, new research suggests",
       "description": "In a brain activity study, dogs seemed to listen for consonants to figure out when one word ends and another begins, shedding light on how human speech may shape the canine brain.",
       "url": "https://www.washingtonpost.com/lifestyle/2026/09/26/dogs-learn-words-same-way-babies-do-new-research-suggests/",
@@ -808,7 +814,7 @@
       "sourceName": "Maggie Penman"
     },
     {
-      "id": "en-39",
+      "id": "en-40",
       "title": "Scientists reveal how dogs decode what humans are saying",
       "description": "Man’s best friends process speech in a human-like way, researchers in Hungary have discovered, demonstrating an ability unique for any animal",
       "url": "https://www.independent.ie/world-news/scientists-reveal-how-dogs-decode-what-humans-are-saying/a/162184634.html",
@@ -817,7 +823,7 @@
       "sourceName": "Maryam Zakir-Hussain"
     },
     {
-      "id": "en-40",
+      "id": "en-41",
       "title": "“I just silently wept”: Brad Pitt praises emotional script for new film about a soldier and his dog",
       "description": "Brad Pitt has always known his life is better with dogs. So when David Ayer sent him the script for Heart of the Beast, Pitt, 62, was immediately moved by the story of a man and his loyal canine companion struggling to s",
       "url": "https://nationalpost.com/entertainment/movies-brad-pitt",
@@ -826,7 +832,7 @@
       "sourceName": "Lindsey Ward"
     },
     {
-      "id": "en-41",
+      "id": "en-42",
       "title": "Inside the school where dogs learn to sniff out bed bugs and other pests",
       "description": "Any dog—even your own—can learn this valuable canine skill.",
       "url": "https://www.popsci.com/science/inside-the-school-where-dogs-learn-to-sniff-out-bed-bugs-and-other-pests/",
@@ -835,7 +841,7 @@
       "sourceName": "Clarissa Brincat"
     },
     {
-      "id": "en-42",
+      "id": "en-43",
       "title": "The National Police Association Supports the PEARL Act: A Second Chance for Shelter Dogs",
       "description": "/PRNewswire/ -- The National Police Association (NPA) endorses the Providing Emotional Assistance with Relief and Love (PEARL) Act (H.R. 9327 / S. 4079),...",
       "url": "https://www.prnewswire.com/news-releases/the-national-police-association-supports-the-pearl-act-a-second-chance-for-shelter-dogs-302889886.html",
@@ -844,7 +850,7 @@
       "sourceName": "National Police Association"
     },
     {
-      "id": "en-43",
+      "id": "en-44",
       "title": "DNA database of UK dogs could help police collar criminals",
       "description": "Experts working on database that could identify particular breeds involved in crimes, or rule out canine suspects",
       "url": "https://www.theguardian.com/science/2026/sep/25/dna-database-uk-dogs-vital-evidence-police-criminals",
@@ -853,7 +859,7 @@
       "sourceName": "Nicola Davis"
     },
     {
-      "id": "en-44",
+      "id": "en-45",
       "title": "Scientists reveal how dogs decode what humans are saying - AOL",
       "description": "The furry friends are able to process words in a similar method to babies learning language, new study finds",
       "url": "https://www.aol.com/articles/scientists-reveal-dogs-decode-humans-105700000.html",
@@ -862,7 +868,7 @@
       "sourceName": "Maryam Zakir-Hussain"
     },
     {
-      "id": "en-45",
+      "id": "en-46",
       "title": "Gov’t refutes animal activist’s claims over stray dog culling following fatal mauling",
       "description": "Hong Kong authorities have dismissed an animal rights activist’s claims that captured stray dogs will be subject to “convenience culling,” as eight unattended canines from Yuen Lo…",
       "url": "https://hongkongfp.com/2026/09/25/govt-refutes-animal-activists-claims-over-stray-dog-culling-following-fatal-mauling/",
@@ -871,7 +877,7 @@
       "sourceName": "Hans Tse"
     },
     {
-      "id": "en-46",
+      "id": "en-47",
       "title": "'Heart of the Beast' and 6 other survival films with very good boys - UPI.com",
       "description": "\"Heart of the Beast,\" a new thriller starring Brad Pitt, opens Friday. Here's 6 other movies about people surviving the odds with their dogs.",
       "url": "https://www.upi.com/Entertainment_News/Movies/2026/09/25/heart-of-beast-survival-dog-movies/2531790085215/",
@@ -880,7 +886,7 @@
       "sourceName": "Annie Martin"
     },
     {
-      "id": "en-47",
+      "id": "en-48",
       "title": "Canine conundrum: This N.L. biologist has ideas on what these animals could be",
       "description": "The animals were seen on Monday around Goose Arm, between Deer Lake and Corner Brook. Videos and photos of them have garnered more than a thousand shares online, and questions about what their make-up could be.",
       "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/canine-sightings-biologist-9.7356767",
@@ -889,7 +895,7 @@
       "sourceName": "Alex Kennedy"
     },
     {
-      "id": "en-48",
+      "id": "en-49",
       "title": "Kutta Singh vs Mahakutteshwar: Delhi’s ‘fat dog’ contest sparks online campaign wars",
       "description": "‘Fat Dogs of Delhi’, an Instagram page dedicated to the city’s chubby canines, has launched an online competition featuring 64 dogs.",
       "url": "https://indianexpress.com/article/trending/trending-in-india/fat-dogs-of-delhi-2026-competition-viral-10893437/",
@@ -898,7 +904,7 @@
       "sourceName": "Trends Desk"
     },
     {
-      "id": "en-49",
+      "id": "en-50",
       "title": "More than walkies: the rise of canine fitness",
       "description": "Walks are important, but structured exercise may help some dogs build strength, stay mobile and cope better with age.",
       "url": "https://www.freemalaysiatoday.com/category/leisure/2026/09/25/more-than-walkies-the-rise-of-canine-fitness",
@@ -907,7 +913,7 @@
       "sourceName": "FMT Reporters"
     },
     {
-      "id": "en-50",
+      "id": "en-51",
       "title": "Canucks Preview: Why Brock Boeser embraces dogs and roster rebuild challenge",
       "description": "Boeser's affection for dogs brings companionship and relief from difficult days, especially last season.",
       "url": "https://theprovince.com/sports/hockey/nhl/vancouver-canucks/canucks-preview-why-brock-boeser-embraces-dogs-and-roster-rebuild-challenge",
@@ -916,7 +922,7 @@
       "sourceName": "Ben Kuzma"
     },
     {
-      "id": "en-51",
+      "id": "en-52",
       "title": "Dog shot, 2 men arrested, K9 attacked during marijuana bust in Keyes",
       "description": "(FOX40.COM) — Two men were arrested and a dog was shot after it attacked a deputy's canine during a drug bust in Keyes on Thursday, deputies said. The Stanislaus County Sheriff's Office pulled over a vehicle Thursday mor",
       "url": "https://fox40.com/keyes/shooting-arrest-k9-attack-keyes/",
@@ -925,7 +931,7 @@
       "sourceName": "Katie Chavez"
     },
     {
-      "id": "en-52",
+      "id": "en-53",
       "title": "Tech billionaire’s wild mansion war with neighbors who battled him over dog poop takes new turn",
       "description": "Cloudflare CEO Matthew Prince’s bizarre Park City mansion feud with neighbors over their Bernese Mountain dogs has taken a new turn after a judge dismissed two lawsuits.",
       "url": "https://nypost.com/2026/09/24/real-estate/matthew-princes-park-city-mansion-feud-takes-new-turn/",
@@ -934,7 +940,7 @@
       "sourceName": "Emily Fu"
     },
     {
-      "id": "en-53",
+      "id": "en-54",
       "title": "Dogs do understand us! Pups process speech in the same way as humans",
       "description": "Whether it's 'walkies' or 'dinner' dogs seem to have a knack for picking out the words they want to hear. Now, scientists have found that canine brains process speech in a surprisingly human-like way.",
       "url": "https://www.dailymail.com/sciencetech/article-16157059/Dogs-understand-masters-voice-Study-confirms.html",
@@ -943,7 +949,7 @@
       "sourceName": "Xantha Leatham"
     },
     {
-      "id": "en-54",
+      "id": "en-55",
       "title": "Traumatic Nevada woman speaks out after nose ripped off in traumatic dog bite",
       "description": "From man’s best friend to worst nightmare.",
       "url": "https://nypost.com/2026/09/24/lifestyle/nevada-woman-breaks-silence-after-pet-dog-bites-off-part-of-nose/",
@@ -952,7 +958,7 @@
       "sourceName": "Bianca Zalben"
     },
     {
-      "id": "en-55",
+      "id": "en-56",
       "title": "I love seeing pooches in pubs. But not everyone, human or canine, understands the etiquette | Paul Daley",
       "description": "Soon the hounds of Victoria could be formally allowed into watering holes, but not everyone, human or canine, understands the etiquette",
       "url": "https://www.theguardian.com/commentisfree/2026/sep/25/dogs-in-pubs-victoria-not-everyone-understands-etiquette",
@@ -961,7 +967,7 @@
       "sourceName": "Paul Daley"
     },
     {
-      "id": "en-56",
+      "id": "en-57",
       "title": "AFCD catches eight dogs as joint-operation ends",
       "description": "The Agriculture, Fisheries and Conservation Department (AFCD) on Thursday said it caught eight unattended dogs during a...",
       "url": "https://news.rthk.hk/rthk/en/component/k2/1871458-20260924.htm",
@@ -970,7 +976,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-57",
+      "id": "en-58",
       "title": "Loved Heart of the Beast? 10 of the best dog movies where the canine takes the lead",
       "description": "Few cinematic stories are as life-affirming or tug as effectively at our heartstrings as those exploring the bond between humans and dogs. The unwavering loyalty and adoration of a faithful pup can melt even the hardest ",
       "url": "https://www.scmp.com/lifestyle/entertainment/article/3368251/loved-heart-beast-10-best-dog-movies-where-canine-takes-lead",
@@ -979,7 +985,7 @@
       "sourceName": "James Marsh"
     },
     {
-      "id": "en-58",
+      "id": "en-59",
       "title": "Man's best friend: Alberta animal trainer helped Brad Pitt bond with canine co-stars",
       "description": "Meet Uber, a New Zealand stud dog chosen by Calgary-area dog trainer to be Brad Pitt's co-star in Heart of the Beast.",
       "url": "https://calgaryherald.com/entertainment/movies/andrew-simpson",
@@ -988,7 +994,7 @@
       "sourceName": "Eric Volmers"
     },
     {
-      "id": "en-59",
+      "id": "en-60",
       "title": "Review: A dog steals 'Heart of the Beast' while Brad Pitt's charm is kept on leash",
       "description": "Man and canine crash-land in the wild, where survival will depend on their resourcefulness. What should have been a star vehicle is stolen by a pooch.",
       "url": "https://www.latimes.com/entertainment-arts/movies/story/2026-09-24/heart-of-beast-review-brad-pitt-uber-david-ayer-j-k-simmons",
@@ -997,7 +1003,7 @@
       "sourceName": "Katie Walsh"
     },
     {
-      "id": "en-60",
+      "id": "en-61",
       "title": "Jersey Shore town seeks NJ help to stop fake service dogs on boardwalk",
       "description": "How can you tell when a canine visitor to the borough's boardwalk is a service dog? It's become increasingly difficult to figure out.",
       "url": "https://pressofatlanticcity.com/news/local/article_38ac4519-90a5-595e-bc48-ccc5dd0733af.html",
@@ -1006,7 +1012,7 @@
       "sourceName": "USA Today Network; Usa Today Network"
     },
     {
-      "id": "en-61",
+      "id": "en-62",
       "title": "‘Heart of the Beast’ Review: Brad Pitt Goes Into the Wild",
       "description": "Starring as a veteran venturing into Alaska with his trusty dog by his side, Pitt manages to elevate this dude-canine tale.",
       "url": "https://www.nytimes.com/2026/09/24/movies/heart-of-the-beast-review.html",
@@ -1015,7 +1021,7 @@
       "sourceName": "Nicolas Rapold"
     },
     {
-      "id": "en-62",
+      "id": "en-63",
       "title": "Review: Dog steals ‘Heart of the Beast’ as Brad Pitt’s charm is kept on a leash",
       "description": "This is an Alaskan-set story about two retired combat veterans — one human, one canine — who set out for a camping trip and find themselves in a perilous situation after the human (Brad Pitt) gets them stranded deep in t",
       "url": "https://delivery.tribunecontentagency.com/preview/202609231356MCT_____NEWS_SVC_11310_kniga/",
@@ -1024,25 +1030,7 @@
       "sourceName": "Katie Walsh"
     },
     {
-      "id": "en-63",
-      "title": "The real star of Brad Pitt’s new movie? A German shepherd called Uber",
-      "description": "The Hollywood star said he was won over and outshone by his canine co-star – but working with an Alsatian “wasn’t without its complications”.",
-      "url": "https://www.smh.com.au/culture/movies/the-real-star-of-brad-pitt-s-new-movie-a-german-shepherd-called-uber-20260924-p61041.html",
-      "urlToImage": "https://static.ffx.io/images/$zoom_0.5082%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/1fa55193b0a25a0f865784e8c11b7a1f51503559",
-      "publishedAt": "2026-09-24 01:15:02 +0000",
-      "sourceName": "Stephanie Bunbury"
-    },
-    {
       "id": "en-64",
-      "title": "Editorial | Debate on dog ownership and control much needed in Hong Kong",
-      "description": "The death of a woman after she was chased by dogs has revived discussion on the regulatory regime for canines and pet owners’ responsibilities.",
-      "url": "https://www.scmp.com/opinion/comment/article/3368515/debate-dog-ownership-and-control-much-needed-hong-kong",
-      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_editorial/public/d8/images/canvas/2026/09/23/3a8d7688-90db-44ff-83a3-ea1efa505de6_49484393.jpg?itok=WSvRfuo3&v=1790155835",
-      "publishedAt": "2026-09-23 23:15:07 +0000",
-      "sourceName": "SCMP Editorial"
-    },
-    {
-      "id": "en-65",
       "title": "Canine cardio? How a mobile dog gym keeps your pup healthy",
       "description": "Waggin' Wheels is a mobile dog gym in Halifax that comes right to your door. The business helps dogs exercise safely in the heat of summer or in the dead of win...",
       "url": "https://www.cbc.ca/player/play/video/9.6888463?cmp=rss",
@@ -1051,7 +1039,7 @@
       "sourceName": "cbc.ca"
     },
     {
-      "id": "en-66",
+      "id": "en-65",
       "title": "Truck Swerves To Hit Dog, Misses, Then Crushes Pregnant Canine In 2nd Try",
       "description": "A heart-wrenching video from Jaipur shows a pickup truck swerving to allegedly try and run over a dog and then crushing another pregnant canine to death.",
       "url": "https://www.ndtv.com/india-news/jaipur-truck-swerves-to-hit-dog-crushes-pregnant-canine-when-1st-attempt-fails-8181842",
@@ -1060,7 +1048,7 @@
       "sourceName": "ndtv.com"
     },
     {
-      "id": "en-67",
+      "id": "en-66",
       "title": "Madras Canine Club’s dog shows draw to a close",
       "description": "All Breeds Championship dog shows by Madras Canine Club conclude with German Shepherds and Doberman winning top prizes.",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-dog-shows-draw-to-a-close/article69116790.ece",
@@ -1069,7 +1057,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-68",
+      "id": "en-67",
       "title": "Is dog perfume necessary for your canine companion?",
       "description": "Luxury fashion house Dolce & Gabbana has unveiled a new dog perfume named \"Fefé.\"",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/is-dog-perfume-necessary-for-your-canine-companion/",
@@ -1078,7 +1066,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-69",
+      "id": "en-68",
       "title": "Recognising signs of canine asthma in your Dog",
       "description": "Asthma in dogs is an allergic disease characterised by inflammation and constriction of the small airways in the lungs...",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/recognising-signs-of-canine-asthma-in-your-dog/",
@@ -1087,7 +1075,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-70",
+      "id": "en-69",
       "title": "Taiwan to soon welcome its first indigenous dog as a police canine",
       "description": "",
       "url": "https://focustaiwan.tw/society/202404200004",
@@ -1096,7 +1084,7 @@
       "sourceName": "focustaiwan.tw"
     },
     {
-      "id": "en-71",
+      "id": "en-70",
       "title": "Detroit TSA canine handler suspended over video of him pulling dog",
       "description": "A TSA canine handler was suspended from his duties after a viral video captured him aggressively yanking a bomb-detecting dog in a busy airport.",
       "url": "https://nypost.com/2023/05/08/detroit-tsa-worker-suspended-over-video-of-him-pulling-dog/",
@@ -1105,7 +1093,7 @@
       "sourceName": "nypost.com"
     },
     {
-      "id": "en-72",
+      "id": "en-71",
       "title": "Curtains come down on Madras Canine Club’s dog shows",
       "description": "570 dogs belonging to 69 breeds participated in the two-day event",
       "url": "https://www.thehindu.com/news/cities/chennai/curtains-come-down-on-madras-canine-clubs-dog-shows/article65880058.ece",
@@ -1114,7 +1102,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-73",
+      "id": "en-72",
       "title": "Madras Canine Club’s All Breeds Championship Dog Shows begin",
       "description": "Over 570 canines from 69 different breeds have registered this year",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-all-breeds-championship-dog-shows-begin/article65875162.ece",
