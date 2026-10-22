@@ -1,8 +1,53 @@
 {
-  "generatedAt": "2026-10-22T06:21:35.571Z",
+  "generatedAt": "2026-10-22T12:14:01.420Z",
   "es": [
     {
       "id": "es-0",
+      "title": "Un canino policial recibirá armadura especializada para él tras caso de apuñalamiento que ocurrió en enero",
+      "description": "COLORADO SPRINGS, Colo. (KTLO)-- Un perro policía de Colorado Springs tendrá pronto protección contra balas y cuchilladas, donada en nombre de su compañero que casi muere en servicio. El Departamento de Policía de Colora",
+      "url": "https://krdo.com/telemundo/noticias-locales/2026/10/21/un-canino-policial-recibira-armadura-especializada-para-el-tras-caso-de-apunalamiento-que-ocurrio-en-enero/",
+      "urlToImage": "https://krdo.b-cdn.net/2025/10/K9-OFFICER-ROAM-1.png",
+      "publishedAt": "2026-10-21 20:42:46",
+      "sourceName": "krdo"
+    },
+    {
+      "id": "es-1",
+      "title": "Por qué los perros duermen tanto: las horas saludables según cada etapa",
+      "description": "Un estudio de la Universidad Estatal de Carolina del Norte detalla el descanso canino y revela cuántas horas deben dormir cachorros, adultos y perros mayores.",
+      "url": "https://www.mdzol.com/tendencias/2026/10/21/por-que-los-perros-duermen-tanto-las-horas-saludables-segun-cada-etapa-1989774.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-21 19:16:00",
+      "sourceName": "mdzol"
+    },
+    {
+      "id": "es-2",
+      "title": "Colgó a su perro desde un balcón y ahora enfrenta a la justicia de El Salvador",
+      "description": "La Alcaldía de San Salvador Centro mantiene bajo resguardo al can.",
+      "url": "https://www.eltelegrafo.com.ec/noticias/internacionales/211/colgo-a-su-perro-desde-un-balcon-y-ahora-enfrenta-a-la-justicia-de-el-salvador",
+      "urlToImage": "https://www.eltelegrafo.com.ec/media/k2/items/cache/92adc5079314d71c40a51949a1cf4b42_L.jpg?t=c9c94432db72",
+      "publishedAt": "2026-10-21 19:09:05",
+      "sourceName": "eltelegrafoec"
+    },
+    {
+      "id": "es-3",
+      "title": "¿Cómo cortarle las uñas a un perro? Paso a paso",
+      "description": "Si no se siente con la confianza suficiente para cortarle las uñas a su perro en casa, lo mejor es acudir a un profesional.",
+      "url": "https://www.elespectador.com/la-red-zoocial/perros/como-cortarle-las-unas-a-un-perro-paso-a-paso/",
+      "urlToImage": "https://www.elespectador.com/wp-content/uploads/2026/10/pexels-goochie-poochie-19145872.jpg",
+      "publishedAt": "2026-10-21 19:00:00",
+      "sourceName": "elespectador"
+    },
+    {
+      "id": "es-4",
+      "title": "Alex Elvira, adiestrador canino: “El pitbull es uno de los perros más fáciles de adiestrar, aunque la gente piense lo contrario”",
+      "description": "El experto aseguró que el pensamiento general sobre esta raza se basa en mitos, pero es una de las mejores para trabajar.",
+      "url": "https://tn.com.ar/mascotas/2026/10/21/alex-elvira-adiestrador-canino-el-pitbull-es-uno-de-los-perros-mas-faciles-de-adiestrar-aunque-la-gente-piense-lo-contrario/",
+      "urlToImage": "https://tn.com.ar/resizer/v2/WFFAWE4U55HM3FRBJYGLBBRA2U.jpg?auth=110f105cecbccb909577f01166861a23e9c2df05c7eb988a8ace371e63788d14",
+      "publishedAt": "2026-10-21 18:47:32",
+      "sourceName": "tn"
+    },
+    {
+      "id": "es-5",
       "title": "Nuevos detalles de la muerte de dos militares en batallón militar de Boyacá: por qué un soldado profesional le disparó a un suboficial con su arma de dotación",
       "description": "El soldado se quitó la vida segundos después con la misma arma, y en el mismo hecho quedaron heridos uno de sus compañeros y un perro",
       "url": "https://www.infobae.com/colombia/2026/10/21/nuevos-detalles-de-la-muerte-de-dos-militares-en-batallon-militar-de-boyaca-por-que-un-soldado-profesional-le-disparo-a-un-suboficial-con-su-arma-de-dotacion/",
@@ -11,7 +56,7 @@
       "sourceName": "Sebastián Vargas Rueda"
     },
     {
-      "id": "es-1",
+      "id": "es-6",
       "title": "Tarragona detecta el primer positivo entre el ADN de un excremento de perro y el censo canino: \"Queremos una ciudad más limpia\"",
       "description": "Se han realizado tres batidas en Tarragona y se han analizado 35 muestras de heces de perro Las multas por no recoger los excrementos del perro aumentan con el uso de pruebas de ADN en varias ciudades",
       "url": "https://www.telecinco.es/noticias/catalunya/20261021/tarragona-primer-positivo-adn-excremento-perro-censo-canino_18_020481795.html",
@@ -20,7 +65,7 @@
       "sourceName": "telecinco_es"
     },
     {
-      "id": "es-2",
+      "id": "es-7",
       "title": "Buscan al dueño de un pitbull que protagonizó angustiante ataque contra una mascota: Todo quedó grabado",
       "description": "Una cámara de seguridad registró el momento en que un perro de gran tamaño atacó a una mascota pequeña y a su propietario. Un vecino los salvó.",
       "url": "https://www.publimetro.co/noticias/2026/10/21/buscan-al-dueno-de-un-pitbull-que-protagonizo-angustiante-ataque-contra-una-mascota-todo-quedo-grabado/",
@@ -29,7 +74,7 @@
       "sourceName": "publimetro_co"
     },
     {
-      "id": "es-3",
+      "id": "es-8",
       "title": "El sobrepeso en los perros puede afectar más que las articulaciones",
       "description": "Un análisis de datos de golden retrievers plantea que el exceso de peso puede estar asociado con cambios que van más allá de las articulaciones y el metabolismo. La investigación, presentada el mes pasado en la conferenc",
       "url": "https://elaragueno.com.ve/el-sobrepeso-en-los-perros-puede-afectar-mas-que-las-articulaciones/",
@@ -38,7 +83,7 @@
       "sourceName": "elaragueno"
     },
     {
-      "id": "es-4",
+      "id": "es-9",
       "title": "El día que un caniche cayó desde el piso 13, mató a una mujer y desencadenó una tragedia inesperada en Buenos Aires",
       "description": "A 38 años del insólito accidente en la avenida Rivadavia, la caída de una mascota desde un balcón desencadenó una irrepetible cadena de fatalidades en pleno mediodía porteño.",
       "url": "https://www.lagaceta.com.ar/nota/1158988/sociedad/dia-caniche-cayo-desde-piso-13-mato-mujer-desencadeno-tragedia-inesperada-buenos-aires.html",
@@ -47,7 +92,7 @@
       "sourceName": "lagaceta_ar"
     },
     {
-      "id": "es-5",
+      "id": "es-10",
       "title": "Un caniche cayó desde el piso 13, mató a una mujer y desencadenó una tragedia inesperada en Buenos Aires",
       "description": "A 38 años del insólito accidente en la avenida Rivadavia, la caída de una mascota desde un balcón desencadenó una irrepetible cadena de fatalidades en pleno mediodía porteño.",
       "url": "https://www.lagaceta.com.ar/nota/1158988/sociedad/caniche-cayo-desde-piso-13-mato-mujer-desencadeno-tragedia-inesperada-buenos-aires.html",
@@ -56,7 +101,7 @@
       "sourceName": "lagaceta"
     },
     {
-      "id": "es-6",
+      "id": "es-11",
       "title": "Él era el sargento asesinado durante riña en el Batallón Tarqui de Sogamoso, Boyacá, que terminó con dos muertos y un herido: Ejército se pronunció",
       "description": "Un soldado profesional y un sargento segundo murieron en el hecho. Otro militar y un canino resultaron heridos. Esto se sabe",
       "url": "https://www.eltiempo.com/colombia/otras-ciudades/el-era-el-sargento-asesinado-durante-rina-en-el-batallon-tarqui-de-sogamoso-boyaca-que-termino-con-dos-muertos-y-un-herido-ejercito-se-pronuncio-3595137",
@@ -65,7 +110,7 @@
       "sourceName": "eltiempocl"
     },
     {
-      "id": "es-7",
+      "id": "es-12",
       "title": "El ADN de las heces de perro permite identificar al primer dueño infractor en Tarragona",
       "description": "Gracias a esta iniciativa, el Ayuntamiento podrá sancionar con 100 euros al propietario del animal",
       "url": "https://www.lavanguardia.com/local/tarragona/20261021/11664587/adn-heces-perro-permite-identificar-primer-dueno-infractor-tarragona.html",
@@ -74,7 +119,7 @@
       "sourceName": "lavanguardia"
     },
     {
-      "id": "es-8",
+      "id": "es-13",
       "title": "Los veterinarios expertos coinciden: si tu perro escarba en la tierra y hace agujeros en el jardín no lo hace sólo porque se aburra, en realidad es una señal de problemas de comportamiento",
       "description": "Una de las conductas más habituales de los perros es escarbar la tierra del jardín de su casa, ir al parque y arañar la tierra o incluso, rascar compulsivamente una cama. En un primer momento parece una muestra de mala c",
       "url": "https://okdiario.com/mascotas/veterinarios-expertos-coinciden-si-tu-perro-escarba-tierra-hace-agujeros-jardin-no-lo-hace-solo-porque-aburra-realidad-senal-problemas-comportamiento-20188164",
@@ -83,7 +128,7 @@
       "sourceName": "okdiario"
     },
     {
-      "id": "es-9",
+      "id": "es-14",
       "title": "Pancho Cavero, veterinario: “Humanizar a un perro es pedirle que se comporte como una persona, no ponerle un abrigo si hace frío o dejarle dormir contigo”",
       "description": "Querer a un animal como parte de la familia no significa tratarlo como a un ser humano: la clave está en respetar sus necesidades, comprenderlo y permitirle desarrollar comportamientos propios de su especie",
       "url": "https://www.lavanguardia.com/mascotas/20261021/11664315/pancho-cavero-veterinario-humanizar-perro-pedirle-comporte-persona-ponerle-abrigo-frio-dejarle-dormir-contigo-epm.html",
@@ -92,7 +137,7 @@
       "sourceName": "lavanguardia"
     },
     {
-      "id": "es-10",
+      "id": "es-15",
       "title": "Captan a hombre colgando a un perrito de las patas desde la ventana de su departamento | VIDEO",
       "description": "La Policía Nacional Civil confirmó en sus cuentas de redes sociales que el sujeto que puso en riesgo la vida del canino ya fue detenido",
       "url": "https://heraldodemexico.com.mx/mundo/2026/10/21/captan-hombre-colgando-un-perrito-de-las-patas-desde-la-ventana-de-su-departamento-video-913070.html",
@@ -101,7 +146,7 @@
       "sourceName": "heraldodemexico"
     },
     {
-      "id": "es-11",
+      "id": "es-16",
       "title": "Sofía Rivera, veterinaria: “Para que tu border collie queme energía, puedes esconderle parte de su comida o enseñarle trucos”",
       "description": "Los paseos y el ejercicio físico no siempre bastan para satisfacer las necesidades de una raza criada para trabajar y tomar decisiones; los juegos de olfato y los retos mentales también ayudan a mejorar su bienestar",
       "url": "https://www.lavanguardia.com/mascotas/20261021/11664238/sofia-rivera-veterinaria-border-collie-queme-energia-puedes-esconderle-parte-comida-ensenarle-trucos-epm.html",
@@ -110,7 +155,7 @@
       "sourceName": "lavanguardia"
     },
     {
-      "id": "es-12",
+      "id": "es-17",
       "title": "Ejército se pronunció sobre tragedia que deja dos militares muertos en Batallón de Artillería en Boyacá",
       "description": "Un suboficial murió baleado por un soldado profesional, que se quitó la vida. Otro militar y un perro resultaron heridos.",
       "url": "https://www.semana.com/nacion/articulo/ejercito-se-pronuncio-sobre-tragedia-que-deja-dos-militares-muertos-en-batallon-de-artilleria-en-boyaca/202606/",
@@ -119,7 +164,7 @@
       "sourceName": "semana"
     },
     {
-      "id": "es-13",
+      "id": "es-18",
       "title": "El Salvador: detienen a hombre acusado de maltrato animal tras sostener a un perro por las patas desde un balcón",
       "description": "Agentes policiales arrestaron a un hombre de 64 años señalado por exponer a un canino desde la altura de un inmueble, según informó la institución de seguridad",
       "url": "https://www.infobae.com/el-salvador/2026/10/21/el-salvador-detienen-a-hombre-acusado-de-maltrato-animal-tras-sostener-a-un-perro-por-las-patas-desde-un-balcon/",
@@ -128,7 +173,7 @@
       "sourceName": "José Cerón"
     },
     {
-      "id": "es-14",
+      "id": "es-19",
       "title": "Los veterinarios expertos afirman: “Los perros pueden aburrirse de comer lo mismo, pero cambiar el alimento puede perjudicarlos”",
       "description": "Aunque parezca una buena idea variar el menú de las mascotas, hacerlo sin asesoramiento puede provocar problemas digestivos y desequilibrios nutricionales.",
       "url": "https://tn.com.ar/mascotas/2026/10/20/los-veterinarios-expertos-afirman-los-perros-pueden-aburrirse-de-comer-lo-mismo-pero-cambiar-el-alimento-puede-perjudicarlos/",
@@ -137,7 +182,7 @@
       "sourceName": "tn"
     },
     {
-      "id": "es-15",
+      "id": "es-20",
       "title": "De alebrijes a esqueletos: La tendencia de arte canino que llega para Halloween y Día de Muertos en Saltillo",
       "description": "La temporada más festiva y enigmática del año ha comenzado a sentirse con fuerza en las calles de Saltillo. Entre cempasúchil, altares, calaveritas de azúcar y preparativos para las noches de disfraces, la capital coahui",
       "url": "https://vanguardia.com.mx/vida/de-alebrijes-a-esqueletos-la-tendencia-de-arte-canino-que-llega-para-halloween-y-dia-de-muertos-en-saltillo-MD24270387",
@@ -146,7 +191,7 @@
       "sourceName": "vanguardia"
     },
     {
-      "id": "es-16",
+      "id": "es-21",
       "title": "Soldado asesinó a su superior en un batallón de Sogamoso y luego se suicidó",
       "description": "Authored by crojas Image Colprensa Martes, 20 de Octubre de 2026 Un soldado profesional asesinó a disparos por la espalda a su superior, hirió a un compañero y a un perro militar, y posteriormente se suicidó tras una dis",
       "url": "https://laopinion.co/sucesos/soldado-asesino-su-superior-en-un-batallon-de-sogamoso-y-luego-se-suicido",
@@ -155,7 +200,7 @@
       "sourceName": "laopinion_co"
     },
     {
-      "id": "es-17",
+      "id": "es-22",
       "title": "Carlos Carrasco, adiestrador canino, sobre el Pastor Alemán: “Es un perro para un dueño que sepa lo que tiene entre manos”",
       "description": "El español explicó por qué, pese a su inteligencia y capacidad de trabajo, esta raza no es ideal para cualquier persona y advirtió sobre los problemas de conducta que puede desarrollar sin una educación adecuada.",
       "url": "https://tn.com.ar/sociedad/2026/10/20/carlos-carrasco-adiestrador-canino-sobre-el-pastor-aleman-es-un-perro-para-un-dueno-que-sepa-lo-que-tiene-entre-manos/",
@@ -164,7 +209,7 @@
       "sourceName": "tn"
     },
     {
-      "id": "es-18",
+      "id": "es-23",
       "title": "Mounir, padre de Lamine Yamal, denuncia la falta de agua en una fuente para perros en Pedralbes y grita: «¡Abascal, que no vales para nada!»",
       "description": "Mounir Nasraoui, padre del futbolista del Barcelona Lamine Yamal, ha vuelto a protagonizar una polémica en redes sociales. Esta vez, por la falta de agua en una fuente para perros de Pedralbes , uno de los barrios más ex",
       "url": "https://www.abc.es/espana/cataluna/mounir-padre-lamine-yamal-denuncia-falta-agua-20261020181233-nt.html",
@@ -173,34 +218,7 @@
       "sourceName": "abc"
     },
     {
-      "id": "es-19",
-      "title": "Soldado profesional mató a un suboficial con su arma de dotación en un batallón militar en Boyacá: el Ejército se pronunció",
-      "description": "El militar acabó con su propia vida luego de dispararle a su superior. Por el mismo hecho también resultaron lesionados un soldado y un perro",
-      "url": "https://www.infobae.com/colombia/2026/10/20/soldado-profesional-mato-a-un-suboficial-con-su-arma-de-dotacion-en-un-batallon-militar-en-boyaca-el-ejercito-se-pronuncio/",
-      "urlToImage": "https://www.infobae.com/resizer/v2/AIAHQRBW3ZF3PD7QHJXBUJ7MG4.png?auth=cf90d8033e82982621feb87017e81a6b52a1775da34890a4ec9c0e9f6cc28700&smart=true&width=1890&height=1063",
-      "publishedAt": "2026-10-20 15:36:50",
-      "sourceName": "infobae"
-    },
-    {
-      "id": "es-20",
-      "title": "Conmoción en el Ejército: soldado habría disparado contra su superior y luego se quitó la vida en Sogamoso",
-      "description": "Un soldado habría disparado contra un suboficial en Sogamoso y luego se habría quitado la vida. Otro militar y un perro resultaron heridos.",
-      "url": "https://www.publimetro.co/noticias/2026/10/20/conmocion-en-el-ejercito-soldado-habria-disparado-contra-su-superior-y-luego-se-quito-la-vida-en-sogamoso/",
-      "urlToImage": "https://www.publimetro.co/resizer/v2/FYLLZJNWPJH3RKB4HAP26EIMHM.png?auth=681cfaf9ac90b83e2f93b99891fc41695a5da8f1304b770e6bbf97e9d111e743&smart=true&width=1920&height=1080",
-      "publishedAt": "2026-10-20 15:32:14",
-      "sourceName": "publimetro_co"
-    },
-    {
-      "id": "es-21",
-      "title": "Gastarán medio millón de euros en una playa para perros, pero los vecinos no tienen ni veredas",
-      "description": "La licitación pública ya está abierta para que las obras concluyan antes de la temporada turística, mientras los residentes denuncian la falta de aceras.",
-      "url": "https://www.losandes.com.ar/mundo/gastaran-medio-millon-euros-una-playa-perros-pero-los-vecinos-no-tienen-ni-veredas-n6010957",
-      "urlToImage": "https://media.losandes.com.ar/p/541e24ff2f12ce0b20038ffc9b49da7c/adjuntos/368/imagenes/100/758/0100758581/1200x675/542x434:562x454/gastaran-medio-millon-euros-una-playa-perros-pero-los-vecinos-no-tienen-ni-veredas.png",
-      "publishedAt": "2026-10-20 14:45:00",
-      "sourceName": "losandes"
-    },
-    {
-      "id": "es-22",
+      "id": "es-24",
       "title": "El perro de 15 años que dejó de caminar y volvió a correr con la ayuda del Pilates",
       "description": "Weasel, un golden retriever de Hawái, recuperó casi toda su capacidad motriz después de tres meses de rutinas adaptadas por su dueña, instructora de la disciplina",
       "url": "https://www.infobae.com/virales/2026/10/19/el-perro-de-15-anos-que-dejo-de-caminar-y-volvio-a-correr-con-la-ayuda-del-pilates/",
@@ -209,7 +227,7 @@
       "sourceName": "Ismael Yasnikowski"
     },
     {
-      "id": "es-23",
+      "id": "es-25",
       "title": "Chaku andino: Nueva raza de perro peruano es presentada de manera oficial en el Circuito Mágico del Agua",
       "description": "La presentación oficial incluirá evaluaciones, exhibiciones, registros y concursos caninos en el Circuito Mágico del Agua",
       "url": "https://www.infobae.com/peru/2026/10/18/chaku-andino-nueva-raza-de-perro-peruano-es-presentada-de-manera-oficial-en-el-circuito-magico-del-agua/",
@@ -218,7 +236,7 @@
       "sourceName": "Manuel Rojas Berríos"
     },
     {
-      "id": "es-24",
+      "id": "es-26",
       "title": "Las 7 razas de perro que aman el agua",
       "description": "Aunque no lo creas, hay lomitos que aman pasar las tardes en los charcos, la lluvia y los ríos; consulta las razas mejor adaptadas a estos ambientes",
       "url": "https://www.informador.mx/estilo/las-7-razas-de-perro-que-aman-el-agua-20261012-0055.html",
@@ -227,7 +245,7 @@
       "sourceName": "FabiÃ¡n Flores"
     },
     {
-      "id": "es-25",
+      "id": "es-27",
       "title": "Lidl presenta una marca para mascotas: así es Max&Mila’s World, su oferta para el cuidado de perros y gatos",
       "description": "La nueva gama ofrece todo lo necesario para el cuidado de los animales, desde productos de alimentación hasta accesorios de todo tipo.",
       "url": "https://as.com/tikitakas/estilo/lidl-presenta-una-marca-para-mascotas-asi-es-maxmilas-world-su-oferta-para-el-cuidado-de-perros-y-gatos-f202610-n/",
@@ -236,7 +254,7 @@
       "sourceName": "Marta Rodríguez Peleteiro"
     },
     {
-      "id": "es-26",
+      "id": "es-28",
       "title": "Perú ahora cuenta con tres razas de perros: ¿qué caracteriza a los canes viringo, chiribaya y chaku?",
       "description": "La historia de estos animales está vinculada a distintas regiones del país y a las actividades de las comunidades que los criaron durante generaciones.",
       "url": "https://www.infobae.com/peru/2026/10/17/peru-ahora-cuenta-con-tres-razas-de-perros-que-caracteriza-a-los-canes-viringo-chiribaya-y-chaku/",
@@ -245,7 +263,7 @@
       "sourceName": "Analí Espinoza"
     },
     {
-      "id": "es-27",
+      "id": "es-29",
       "title": "Manuel, adiestrador canino: “Si tu perro se estira cuando te ve no se está desperezando, esa pose es un mensaje emocional potentísimo”",
       "description": "El experto y creador de contenido ha revelado el secreto que se esconde detrás del clásico recibimiento que hacen los canes al ver llegar a casa a su dueño.",
       "url": "https://as.com/tikitakas/virales/manuel-adiestrador-canino-si-tu-perro-se-estira-cuando-te-ve-no-se-esta-desperezando-esa-pose-es-un-mensaje-emocional-potentisimo-f202610-n/",
@@ -254,7 +272,7 @@
       "sourceName": "Sergio Murillo"
     },
     {
-      "id": "es-28",
+      "id": "es-30",
       "title": "“Gracias a nuestro seguidor canino”: el enternecedor video de Lust con un caniche",
       "description": "El exdiputado agradeció a quienes lo “acompañan a diario” en redes con un clip de un perro que mueve la cola cada vez que lo ve en pantalla.",
       "url": "https://www.montevideo.com.uy/Pantallazo/-Gracias-a-nuestro-seguidor-canino--el-enternecedor-video-de-Lust-con-un-caniche-uc978881",
@@ -263,7 +281,7 @@
       "sourceName": "Ignacio Palumbo"
     },
     {
-      "id": "es-29",
+      "id": "es-31",
       "title": "Cuál es el origen del efecto Bouba-Kiki, el particular fenómeno que permite a humanos y perros vincular sonidos con formas",
       "description": "Un estudio publicado en Proceedings of the Royal Society B reveló que 70 ejemplares domésticos asocian espontáneamente ciertos ruidos inventados con aspectos visuales, una capacidad que durante casi un siglo se creyó exc",
       "url": "https://www.infobae.com/perros-y-gatos/2026/10/16/cual-es-el-origen-del-efecto-bouba-kiki-el-particular-fenomeno-que-permite-a-humanos-y-perros-vincular-sonidos-con-formas/",
@@ -272,7 +290,7 @@
       "sourceName": "Celeste Sawczuk"
     },
     {
-      "id": "es-30",
+      "id": "es-32",
       "title": "“Los mayores son los grandes olvidados”: un adiestrador explica qué valorar antes de adoptar un perro si vivimos con niños",
       "description": "El entrenador canino Jorge García analiza las claves para una adopción responsable en familia, más allá del flechazo en la protectora",
       "url": "https://www.eldiario.es/consumoclaro/mayores-son-grandes-olvidados-adiestrador-explica-valorar-adoptar-perro-si-vivimos-ninos-xp_1_13590058.html",
@@ -281,7 +299,7 @@
       "sourceName": "Paloma Martínez Varela"
     },
     {
-      "id": "es-31",
+      "id": "es-33",
       "title": "Sugar y Moss, los perros que buscan salvar a uno de los lagartos más amenazados de Australia",
       "description": "El dragón sin orejas de los pastizales de Victoria, redescubierto en 2023 tras más de medio siglo sin registros, tiene una única población conocida. Un equipo canino modificó su método de rastreo ante la rápida desaparic",
       "url": "https://www.infobae.com/america/medio-ambiente/2026/10/15/sugar-y-moss-los-perros-que-buscan-salvar-a-uno-de-los-lagartos-mas-amenazados-de-australia/",
@@ -290,7 +308,7 @@
       "sourceName": "Pilar Alvarez"
     },
     {
-      "id": "es-32",
+      "id": "es-34",
       "title": "Salinas vuelve a ser paraíso canino: «Esperamos todo el verano para soltar a nuestra perrita»",
       "description": "Algunos dueños de los canes solicitan que se instalen más espacios para sus mascotas durante la época estival",
       "url": "https://www.lne.es/aviles-y-comarca/castrillon/2026/10/15/salinas-vuelve-paraiso-canino-esperamos-135335287.html",
@@ -299,16 +317,7 @@
       "sourceName": "Lucía Hernández"
     },
     {
-      "id": "es-33",
-      "title": "WUF: Convocatoria abierta para sponsors: Sé parte de la 4ta edición de la Wufathon",
-      "description": "El evento canino y solidario más grande del país vuelve en su cuarta edición. Tu marca puede ser protagonista de una jornada masiva que une el deporte, la familia y el bienestar animal en favor de los perros rescatados d",
-      "url": "https://elcomercio.pe/wuf/wuf-convocatoria-abierta-para-sponsors-se-parte-de-la-4ta-edicion-de-la-wufathon-noticia/",
-      "urlToImage": "https://elcomercio.pe/resizer/v2/2YNWFJOJRZBVDEI2V3GEKFTGEA.png?auth=11d2452882d3e06860dd351d7af5360bc8c50afa75ad2384b387df9730534de3&smart=true&width=1920&height=1274",
-      "publishedAt": "2026-08-07T19:36:48+00:00",
-      "sourceName": "elcomercio"
-    },
-    {
-      "id": "es-34",
+      "id": "es-35",
       "title": "Enrique Molina, adiestrador canino: \"El gran error es humanizar al perro. Muchas personas los tratan como si fueran una persona\"",
       "description": "Enrique Molina es un conocido adiestrador canino que ayuda a dueños de perros a saber cómo educar a su mascota para que sepa comportarse en casa, entre otras ...",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260531/1004189877/enrique-molina-adiestrador-canino-gran-error-humanizar-perro-muchas-personas-tratan-fueran-persona-dct.html",
@@ -317,7 +326,7 @@
       "sourceName": "mundodeportivo.com"
     },
     {
-      "id": "es-35",
+      "id": "es-36",
       "title": "Enrique Molina, adiestrador canino: \"No debemos dormir con nuestro perro, porque invade un espacio muy personal del dueño\"",
       "description": "Enrique Molina es un conocido adiestrador canino que ayuda a dueños de perros a saber cómo educar a su mascota para que sepa comportarse en casa, entre otras ...",
       "url": "https://www.mundodeportivo.com/elotromundo/mascotas/20260510/1004181518/enrique-molina-adiestrador-canino-no-debemos-dormir-nuestro-perro-invade-espacio-personal-dueno-dct.html",
@@ -326,7 +335,7 @@
       "sourceName": "mundodeportivo.com"
     },
     {
-      "id": "es-36",
+      "id": "es-37",
       "title": "Por qué no hay que saludar al perro al llegar a casa, según un entrenador canino",
       "description": "Víctor Mañero, reconocido adiestrador canino, reveló el motivo por el cual esta acción puede generarles a los animales gran estrés y ansiedad; qué dijo - ...",
       "url": "https://www.lanacion.com.ar/lifestyle/mascotas/por-que-no-hay-que-saludar-al-perro-al-llegar-a-casa-segun-un-entrenador-canino-nid02052025/",
@@ -335,7 +344,7 @@
       "sourceName": "lanacion.com.ar"
     },
     {
-      "id": "es-37",
+      "id": "es-38",
       "title": "¿Dónde llevar a pasear a mi perro en CDMX? Conoce el Parque Canino del Bosque de Aragón",
       "description": "Te decimos qué hacer en la Ciudad de México: comida, antros, bares, música, cine, cartelera teatral y todas las noticias importantes.",
       "url": "https://www.chilango.com/que-hacer/parques/donde-llevar-a-pasear-a-mi-perro-en-cdmx-conoce-el-parque-canino-del-bosque-de-aragon/",
@@ -344,7 +353,7 @@
       "sourceName": "chilango.com"
     },
     {
-      "id": "es-38",
+      "id": "es-39",
       "title": "Wilson: el Ejército confirmó que el perro encontrado no es el héroe canino",
       "description": "Pese a que tiene características similares al pastor belga, el Comando Conjunto de Operaciones Especiales confirmó que no se trata del héroe canino",
       "url": "https://www.infobae.com/colombia/2023/07/22/wilson-el-ejercito-confirmo-que-el-perro-encontrado-no-es-el-heroe-canino/",
@@ -353,7 +362,7 @@
       "sourceName": "infobae.com"
     },
     {
-      "id": "es-39",
+      "id": "es-40",
       "title": "¿Apareció Wilson? Video muestra un perro similar al héroe canino desaparecido tras búsqueda de los hermanitos en Caquetá",
       "description": "Una nueva esperanza de que el perro Wilson esté vivo surgió en las últimas horas por cuenta de un video que comenzó a circular en redes sociales. El c...",
       "url": "https://www.elcolombiano.com/colombia/video-de-perro-similar-a-wilson-el-perro-desaparecido-en-selva-de-caqueta-FC21982171",
@@ -362,7 +371,7 @@
       "sourceName": "elcolombiano.com"
     },
     {
-      "id": "es-40",
+      "id": "es-41",
       "title": "Día del Perro: Rehabilitan parque canino tapatío Jardines del Country",
       "description": "Entregan obras por 303 mil pesos en parque para perros ubicado en la Colonia Jardines del Country",
       "url": "https://www.informador.mx/jalisco/Dia-del-Perro-Rehabilitan-parque-canino-tapatio-Jardines-del-Country--20220721-0144.html",
@@ -371,7 +380,7 @@
       "sourceName": "informador.mx"
     },
     {
-      "id": "es-41",
+      "id": "es-42",
       "title": "“Perro gay”: ovacionan a un canino en marcha LGBT+ de Guadalajara",
       "description": "El divertido y controversial momento sucedió cuando su cuidadora lo alzó y todos los asistentes no dudaron en gritar y aclamarlo mientras él sacaba su lengua...",
       "url": "https://www.infobae.com/america/entretenimiento/2022/06/19/perro-gay-ovacionan-a-un-canino-en-marcha-lgbt-de-guadalajara/",
@@ -394,6 +403,17 @@
     },
     {
       "id": "en-1",
+      "title": "Woman claims she was viciously attacked by dog in Grand Forks",
+      "description": "",
+      "url": "https://kimberleybulletin.com/2026/10/21/woman-claims-she-was-viciously-attacked-by-dog-in-grand-forks/",
+      "urlToImage": "https://kimberleybulletin.com/wp-content/uploads/sites/21/2026/10/dog20leash.jpg",
+      "publishedAt": "2026-10-22 00:12:44",
+      "sourceName": "kimberleybulletin",
+      "title_es": "Mujer afirma que fue brutalmente atacada por un perro en Grand Forks",
+      "description_es": ""
+    },
+    {
+      "id": "en-2",
       "title": "Mobile Bay National Estuary Program trains dog to detect sewage contamination in local waterways",
       "description": "FAIRHOPE, Ala. (WKRG) - A dog’s nose can detect things humans can’t. Now, researchers are putting that ability to work to protect our waterways. The Mobile Bay National Estuary Program is exploring canine detection as a ",
       "url": "https://www.wkrg.com/growing-the-gulf-coast/mobile-bay-national-estuary-program-trains-dog-to-detect-sewage-contamination-in-local-waterways/",
@@ -404,7 +424,7 @@
       "description_es": "FAIRHOPE, Ala. (WKRG) - La nariz de un perro puede detectar cosas que los humanos no pueden. Ahora, los investigadores están poniendo esa capacidad a trabajar para proteger nuestras vías fluviales. El Programa Nacional del Estuario de Mobile Bay está explorando la detección canina como"
     },
     {
-      "id": "en-2",
+      "id": "en-3",
       "title": "Louise Redknapp 'heartbroken' as her 'most gentle and loving' pet dies",
       "description": "Former Eternal singer Louise Redknapp has been left heartbroken following the death of her dog Rudi and has been inundated with support from her celebrity friends",
       "url": "https://www.mirror.co.uk/3am/celebrity-news/louise-redknapp-dog-death-instagram-37797588",
@@ -415,40 +435,7 @@
       "description_es": "La ex cantante de Eternal Louise Redknapp se ha quedado desconsolada tras la muerte de su perro Rudi y ha sido inundada con el apoyo de sus amigos famosos"
     },
     {
-      "id": "en-3",
-      "title": "InventionHome® Inventor Creates Multifunctional Dog Harness that Combines Recovery, Hygiene, and Mobility Support",
-      "description": "Heather M. of Three Rivers, CA is the creator of the Dog Armor, a canine harness designed to provide a single wearable system for managing several health,",
-      "url": "https://www.einpresswire.com/article/951293138/inventionhome-inventor-creates-multifunctional-dog-harness-that-combines-recovery-hygiene-and-mobility-support",
-      "urlToImage": "https://img.einnews.com/ampsize/550498/ih-logo.png",
-      "publishedAt": "2026-10-21 18:13:19",
-      "sourceName": "einpresswire",
-      "title_es": "InventionHome® Inventor Creates Multifunctional Dog Harness that Combines Recovery, Hygiene, and Mobility Support",
-      "description_es": "Heather M. of Three Rivers, CA es la creadora de Dog Armor, un arnés canino diseñado para proporcionar un único sistema portátil para gestionar varios problemas de salud,"
-    },
-    {
       "id": "en-4",
-      "title": "Elderly Man Who Went Missing at Night in National Park Is Rescued by Heroic Dog",
-      "description": "Saved in the nick of time. The post Elderly Man Who Went Missing at Night in National Park Is Rescued by Heroic Dog appeared first on Mandatory.",
-      "url": "https://www.mandatory.com/living/1875236-elderly-man-missing-night-national-park-rescue-dog-hawaii-volcanoes",
-      "urlToImage": "https://www.mandatory.com/wp-content/uploads/sites/10/2026/10/elderly-man-missing-night-national-park-rescue-dog-hawaii-volcanoes.jpg",
-      "publishedAt": "2026-10-21 17:20:10",
-      "sourceName": "mandatory",
-      "title_es": "Un anciano que desapareció por la noche en un parque nacional es rescatado por un perro heroico",
-      "description_es": "Salvado en el último momento. La publicación El anciano que desapareció por la noche en el Parque Nacional es rescatado por un perro heroico apareció primero en Mandatory."
-    },
-    {
-      "id": "en-5",
-      "title": "Thiruvananthapuram Corporation’s dog shelters face opposition from nearby panchayats",
-      "description": "Opposition from Kuttichal and Karumkulam panchayats hinders Thiruvananthapuram Corporation’s private dog shelter plans, amid concerns over cruelty and governance.",
-      "url": "https://www.thehindu.com/news/national/kerala/thiruvananthapuram-corporations-dog-shelters-face-opposition-from-nearby-panchayats/article71608022.ece",
-      "urlToImage": null,
-      "publishedAt": "2026-10-21 17:18:17",
-      "sourceName": "thehindu",
-      "title_es": "Los refugios para perros de Thiruvananthapuram Corporation se enfrentan a la oposición de los panchayats cercanos",
-      "description_es": "La oposición de los panchayats de Kuttichal y Karumkulam dificulta los planes privados de refugio para perros de Thiruvananthapuram Corporation, en medio de preocupaciones sobre la crueldad y la gobernanza."
-    },
-    {
-      "id": "en-6",
       "title": "Dog of the Week: Frick",
       "description": "Advertisement8-27-26, neutered terrier mx, FOUND w/Frack on Rhoric Rd, Athens. Need a concrete slab demolished? Looking for a parkour buddy? Or maybe a personal trainer with the stamina of a sugar-buzzed toddler who eats",
       "url": "https://athensindependent.com/dog-of-the-week-frick/",
@@ -459,18 +446,7 @@
       "description_es": "Advertisement8-27-26, terrier mx castrado, ENCONTRADO con Frack en Rhoric Rd, Atenas. ¿Necesita demoler una losa de hormigón? ¿Buscas un compañero de parkour? O tal vez un entrenador personal con la resistencia de un niño pequeño azucarado que come"
     },
     {
-      "id": "en-7",
-      "title": "Vamoosh and Support Dogs Issue Fireworks Safety Tips for Dogs This Bonfire Night",
-      "description": "The partners provide six tips to help owners keep their pets calm amid seasonal celebrations and highlight their ongoing work for canine welfare. The post Vamoosh and Support Dogs Issue Fireworks Safety Tips for Dogs Thi",
-      "url": "https://filmdaily.co/news/vamoosh-and-support-dogs-issue-fireworks-safety-tips-for-dogs-this-bonfire-night/",
-      "urlToImage": "https://filmdaily.co/wp-content/uploads/2020/11/bonfire-night-2-parliament.jpg",
-      "publishedAt": "2026-10-21 17:01:59",
-      "sourceName": "filmdaily",
-      "title_es": "Vamoosh y los perros de apoyo emiten consejos de seguridad sobre fuegos artificiales para perros esta noche de hoguera",
-      "description_es": "Los socios brindan seis consejos para ayudar a los propietarios a mantener a sus mascotas tranquilas en medio de las celebraciones estacionales y resaltar su trabajo continuo para el bienestar canino. La publicación Vamoosh y los perros de apoyo emiten consejos de seguridad sobre fuegos artificiales para perros Thi"
-    },
-    {
-      "id": "en-8",
+      "id": "en-5",
       "title": "These 10 Odd Dog Behaviours Make Total Sense — But Only If You Own One",
       "description": "Dogs are more than just pets; they’re companions, confidants, and sometimes even comic relief. Every dog has a distinct personality, and some of their behaviors can leave non-dog owners scratching their heads. For those ",
       "url": "https://thedogsnobs.com/these-10-odd-dog-behaviours-make-total-sense-but-only-if-you-own-one/",
@@ -481,18 +457,7 @@
       "description_es": "Los perros son más que solo mascotas; son compañeros, confidentes y, a veces, incluso un alivio cómico. Cada perro tiene una personalidad distinta, y algunos de sus comportamientos pueden dejar a los dueños que no son perros rascándose la cabeza. Para aquellos"
     },
     {
-      "id": "en-9",
-      "title": "VIDEO: A haunted house for dogs in Langley",
-      "description": "",
-      "url": "https://missioncityrecord.com/2026/10/21/video-a-haunted-house-for-dogs-in-langley/",
-      "urlToImage": "https://missioncityrecord.com/wp-content/uploads/sites/14/2026/10/20261017_114422CROP.jpg",
-      "publishedAt": "2026-10-21 15:40:26",
-      "sourceName": "missioncityrecord",
-      "title_es": "VIDEO: Una casa embrujada para perros en Langley",
-      "description_es": ""
-    },
-    {
-      "id": "en-10",
+      "id": "en-6",
       "title": "Uncharted Supply The Wolf Pack First Aid Dog Collar",
       "description": "Ensure your dog makes it through any outdoor adventure mishaps with this collar-enclosed aid kit.",
       "url": "https://shop.uncrate.com/de-de/products/the-wolf-pack",
@@ -503,40 +468,18 @@
       "description_es": "Asegúrate de que tu perro supere cualquier contratiempo de aventura al aire libre con este kit de ayuda con collar."
     },
     {
-      "id": "en-11",
-      "title": "Dallas traveler detained by Mexican authorities after dog detects over $360,000 USD hidden in luggage",
-      "description": "The post Dallas traveler detained by Mexican authorities after dog detects over $360,000 USD hidden in luggage appeared first on Riviera Maya News. Oaxaca City, Oaxaca — An alert issued by a canine sensor during the insp",
-      "url": "https://riviera-maya-news.com/dallas-traveler-detained-by-mexican-authorities-after-dog-detects-over-360000-usd-hidden-in-luggage/2026.html",
-      "urlToImage": "https://i0.wp.com/riviera-maya-news.com/wp-content/uploads/2026/10/udfigg.jpg?fit=1280%2C720&ssl=1",
-      "publishedAt": "2026-10-21 14:58:48",
-      "sourceName": "riviera_maya",
-      "title_es": "Viajero de Dallas detenido por las autoridades mexicanas después de que el perro detectara más de $ 360,000 USD escondidos en el equipaje",
-      "description_es": "El viajero de Dallas detenido por las autoridades mexicanas después de que el perro detectara más de $ 360,000 USD escondidos en el equipaje apareció por primera vez en Riviera Maya News. Ciudad de Oaxaca, Oaxaca — Una alerta emitida por un sensor canino durante la Insp."
-    },
-    {
-      "id": "en-12",
-      "title": "Britain's top dog and cat names, revealed - so, does your pet make the cut?",
+      "id": "en-7",
+      "title": "Britain's top dog and cat names - so, does your pet make the cut?",
       "description": "Forget classic names like Rover or Felix - when it comes to their furry friends, Brits are getting a lot more creative.",
       "url": "https://www.dailymail.com/sciencetech/article-16226451/Britain-dog-cat-names-revealed.html",
-      "urlToImage": "https://i.dailymail.com/1s/2026/10/21/15/112001945-0-image-a-194_1792592302820.jpg",
-      "publishedAt": "2026-10-21 14:31:26",
-      "sourceName": "dailymailuk",
-      "title_es": "Los mejores nombres de perros y gatos de Gran Bretaña, revelados: ¿tu mascota pasa el corte?",
+      "urlToImage": "https://i.dailymail.com/1s/2026/10/21/15/112001945-0-image-a-198_1792592311145.jpg",
+      "publishedAt": "2026-10-21 14:32:39 +0000",
+      "sourceName": "Shivali Best",
+      "title_es": "Los mejores nombres de perros y gatos de Gran Bretaña: ¿tu mascota hace el corte?",
       "description_es": "Olvídate de nombres clásicos como Rover o Felix: cuando se trata de sus amigos peludos, los británicos se están volviendo mucho más creativos."
     },
     {
-      "id": "en-13",
-      "title": "Reading Buddies Await Young Readers",
-      "description": "Rogue River- A good book can take a child almost anywhere. At the Rogue River Library, it can also bring a young reader together with a friendly dog. The library’s event calendar lists upcoming Paws to Read: K9 Reading B",
-      "url": "https://www.rogueriverpress.com/2026/10/21/reading-buddies-await-young-readers/",
-      "urlToImage": "https://www.rogueriverpress.com/wp-content/uploads/2024/02/JacksonCountyLibraryServicesLogo.jpg",
-      "publishedAt": "2026-10-21 14:22:16",
-      "sourceName": "rogueriverpress",
-      "title_es": "Reading Buddies Await Young Readers",
-      "description_es": "Rogue River: un buen libro puede llevar a un niño a casi cualquier lugar. En la Biblioteca Rogue River, también puede reunir a un joven lector con un perro amigable. El calendario de eventos de la biblioteca enumera las próximas Paws para leer: K9 Lectura B"
-    },
-    {
-      "id": "en-14",
+      "id": "en-8",
       "title": "Watch astounding BBC footage showing an adorable, totally unexpected friendship develop between baby chimps and puppies | Discover Wildlife",
       "description": "This heartwarming footage captures the delightful friendship between chimps and puppies at a sanctuary in Liberia",
       "url": "https://www.discoverwildlife.com/animal-facts/mammals/friendship-baby-chimps-puppies-footage",
@@ -547,88 +490,73 @@
       "description_es": "Estas conmovedoras imágenes capturan la encantadora amistad entre chimpancés y cachorros en un santuario en Liberia"
     },
     {
-      "id": "en-15",
-      "title": "ororo® Heated Apparel Announces Exciting Partnership Expansion as the Official Heated Apparel Partner of The Westminster Kennel Club",
-      "description": "Brand extends and expands partnership with 151st and 152nd Westminster Kennel Club Dog Shows LAS VEGAS, Oct. 21, 2026 /PRNewswire/ -- ororo®, the most trusted heated apparel brand on the market rooted in bringing premium",
-      "url": "https://www.prnewswire.com/news-releases/ororo-heated-apparel-announces-exciting-partnership-expansion-as-the-official-heated-apparel-partner-of-the-westminster-kennel-club-302914865.html",
-      "urlToImage": "https://mmx.prnewswire.com/media/MS1304703/ORORO-Heated-Apparel-Logo.jpg?id=OA3030420&p=original",
-      "publishedAt": "2026-10-21 13:00:00",
-      "sourceName": "cision"
-    },
-    {
-      "id": "en-16",
-      "title": "Bloat In Dogs (GDV): Warning Signs And Why Minutes Matter",
-      "description": "Bloat In Dogs (GDV): Warning Signs And Why Minutes Matter",
-      "url": "https://www.forbes.com/advisor/pet-insurance/pet-care/bloat-in-dogs-llm/",
-      "urlToImage": "https://www.forbes.com/advisor/wp-content/uploads/2026/10/bloat-in-dogs-1-900x510.jpg",
-      "publishedAt": "2026-10-21 12:01:41",
-      "sourceName": "forbes"
-    },
-    {
-      "id": "en-17",
-      "title": "In This Studio, “The Dog Is The Boss,” And Every Pup Is Welcome, No Matter Its Age, Eyesight Or Ability (37 Pics)",
-      "description": "After 15 years in fashion, Paul Croes discovered that his favorite models have four legs. His patient sessions and painterly lighting let each dog’s true character come through, whether it’s shy, goofy or wonderfully reg",
-      "url": "https://tvovermind.com/dog-studio-portraits-paul-croes/",
-      "urlToImage": "https://tvovermind.com/wp-content/uploads/2026/10/6ad89ec3aaae4-paulcroesphotography_1789074044_3983364251037325653_2194237052-6ad822120e559__700.jpg",
-      "publishedAt": "2026-10-21 11:15:15",
-      "sourceName": "tvovermind"
-    },
-    {
-      "id": "en-18",
+      "id": "en-9",
       "title": "A 1,200-Year-Old Hairless Dog Mummy Was So Well Preserved That Archaeologists Thought It Was Recent",
       "description": "A startling date reveals the strange, complicated lives of dogs in an empire before the Incas.",
       "url": "https://www.zmescience.com/science/archaeology/1200-year-old-hairless-dog-mummy-peru/",
       "urlToImage": "https://cdn.zmescience.com/wp-content/uploads/2026/10/mummified-dog-skull.webp",
       "publishedAt": "2026-10-21 10:00:49 +0000",
-      "sourceName": "Tudor Tarita"
+      "sourceName": "Tudor Tarita",
+      "title_es": "Una momia de perro sin pelo de 1.200 años estaba tan bien conservada que los arqueólogos pensaron que era reciente",
+      "description_es": "Una fecha sorprendente revela las extrañas y complicadas vidas de los perros en un imperio antes de los incas."
     },
     {
-      "id": "en-19",
+      "id": "en-10",
       "title": "KLIA deploys K9 sniffer dog units to tighten airport security and curb smuggling",
       "description": "SEPANG, Oct 21 — Trained sniffer dog units will begin patrolling passenger terminals and restricted baggage zones across KL International Airport (KLIA) from Oct 26, Malaysia...",
       "url": "https://www.malaymail.com/news/malaysia/2026/10/21/klia-deploys-k9-sniffer-dog-units-to-tighten-airport-security-and-curb-smuggling/240039",
       "urlToImage": "https://www.malaymail.com/malaymail/uploads/images/2026/10/21/369678.jpg",
       "publishedAt": "2026-10-21 07:56:30 +0000",
-      "sourceName": "Malay Mail"
+      "sourceName": "Malay Mail",
+      "title_es": "KLIA despliega unidades de perros rastreadores K9 para reforzar la seguridad del aeropuerto y frenar el contrabando",
+      "description_es": "SEPANG, 21 de octubre — Las unidades de perros rastreadores entrenados comenzarán a patrullar las terminales de pasajeros y las zonas de equipaje restringido en el Aeropuerto Internacional de KL (KLIA) a partir del 26 de octubre en Malasia..."
     },
     {
-      "id": "en-20",
+      "id": "en-11",
       "title": "City forced to postpone event due to dog virus",
       "description": "The City of Stirling has postponed its popular Paw-some Day out due to the detection of canine parvovirus in the community.",
       "url": "https://www.perthnow.com.au/community-news/western-suburbs-weekly/city-forced-to-postpone-one-of-their-most-anticipated-events-after-deadly-dog-virus-detected-in-perth--c-23051864",
       "urlToImage": "https://images.perthnow.com.au/publication/C-23051864/65a166d73684d2c8526729492a0496a7143906e0-16x9-x0y65w1280h720.jpg?imwidth=1200",
       "publishedAt": "2026-10-21 01:30:00 +0000",
-      "sourceName": "Sophie Gannon"
+      "sourceName": "Sophie Gannon",
+      "title_es": "Ciudad obligada a posponer el evento debido al virus del perro",
+      "description_es": "La ciudad de Stirling ha pospuesto su popular Paw-algún día debido a la detección de parvovirus canino en la comunidad."
     },
     {
-      "id": "en-21",
+      "id": "en-12",
       "title": "Police dog Trina finds missing elderly man in Hawaii Volcanoes National Park - Hawaii Tribune-Herald",
       "description": "Police dog Trina finds missing elderly man in Hawaii Volcanoes National Park - Hawaii News | Hawaii Tribune-Herald",
       "url": "https://www.hawaiitribune-herald.com/2026/10/20/hawaii-news/police-dog-trina-finds-missing-elderly-man-in-hawaii-volcanoes-national-park/",
       "urlToImage": "https://www.hawaiitribune-herald.com/wp-content/uploads/sites/6/2026/10/web1_Trina.jpg",
       "publishedAt": "2026-10-20 21:25:29 +0000",
-      "sourceName": "Hthnone"
+      "sourceName": "Hthnone",
+      "title_es": "La perra policía Trina encuentra a un anciano desaparecido en el Parque Nacional de los Volcanes de Hawái - Hawaii Tribune-Herald",
+      "description_es": "La perra policía Trina encuentra a un anciano desaparecido en el Parque Nacional de los Volcanes de Hawái - Hawaii News | Hawaii Tribune-Herald"
     },
     {
-      "id": "en-22",
+      "id": "en-13",
       "title": "Golden Retriever Puppy Sees Another Dog in the Drive-Thru and a Hilarious Pup Cup Showdown Begins - AOL",
       "description": "The pup cup competition is getting personal.",
       "url": "https://www.aol.com/articles/golden-retriever-puppy-sees-another-152400000.html",
       "urlToImage": "https://hermes.media.static.aol.com/media/2026/10/20/018bc742-8a98-3103-a367-f2d82a0f1422/11f73e0d-b186-42be-9228-6e8fcc6d7f52.jpg",
       "publishedAt": "2026-10-20 15:24:00 +0000",
-      "sourceName": "Abigail Bemer"
+      "sourceName": "Abigail Bemer",
+      "title_es": "El cachorro de Golden Retriever ve a otro perro en el drive-thru y comienza un hilarante enfrentamiento en la copa del cachorro - AOL",
+      "description_es": "La competición de la copa del cachorro se está volviendo personal."
     },
     {
-      "id": "en-23",
+      "id": "en-14",
       "title": "Dog Memory Relies on Motivation, Not Just Time",
       "description": "Explore how a dog's motivation and the value of a stimulus determine memory retention, challenging the idea that canine short-term memory lasts only 27 seconds.",
       "url": "https://english.pravda.ru/animal/170304-dog-memory-motivation-value/",
       "urlToImage": "https://english.pravda.ru/image/preview/article//3/0/4/170304_soc.jpeg",
       "publishedAt": "2026-10-20 15:00:00 +0000",
-      "sourceName": "Marina Lebedeva"
+      "sourceName": "Marina Lebedeva",
+      "title_es": "La memoria del perro se basa en la motivación, no solo en el tiempo",
+      "description_es": "Explora cómo la motivación de un perro y el valor de un estímulo determinan la retención de la memoria, desafiando la idea de que la memoria canina a corto plazo dura solo 27 segundos."
     },
     {
-      "id": "en-24",
+      "id": "en-15",
       "title": "Hope for rescued pups: Malaysian Dogs Deserve Better struggles to survive",
       "description": "When a few dog lovers started a canine welfare group Malaysian Dogs Deserve Better (MDDB) 18 years ago, little did they know that it would become one of their most difficult challenges in the future.",
       "url": "https://www.thestar.com.my/lifestyle/living/2026/10/20/hope-for-rescued-pups-malaysian-dogs-deserve-better-struggles-to-survive",
@@ -637,7 +565,7 @@
       "sourceName": "WANI MUTHIAH"
     },
     {
-      "id": "en-25",
+      "id": "en-16",
       "title": "Ariana Grande left devastated after her dog dies",
       "description": "Ariana Grande has been left devastated after her dog died.The 33-year-old singer and actress took to social media to pay tribute to her late pet pooch Coco, who was 17 years old.Ariana shared a carousel of images of her ",
       "url": "https://www.asiaone.com/entertainment/ariana-grande-left-devastated-after-her-dog-dies",
@@ -646,7 +574,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-26",
+      "id": "en-17",
       "title": "Dogs That Weren’t Rescued",
       "description": "People make a big deal about the hundred and one Dalmatians, and how they were saved from Cruella de Vil, but rarely do you hear about the hundred-and-second Dalmatian.",
       "url": "https://www.newyorker.com/humor/shouts-murmurs/dogs-that-werent-rescued",
@@ -655,7 +583,7 @@
       "sourceName": "Christopher Gangemi"
     },
     {
-      "id": "en-27",
+      "id": "en-18",
       "title": "Deadly dog virus detected in Perth suburbs",
       "description": "Dog owners are being urged to watch for signs of a potentially deadly virus after canine parvovirus was detected in Balcatta and surrounding suburbs.",
       "url": "https://thewest.com.au/news/wa/canine-parvovirus-warning-for-perth-dog-owners-after-cases-detected-in-balcatta-and-surrounding-suburbs-c-23046934",
@@ -664,7 +592,7 @@
       "sourceName": "Sophie Gannon Western Suburbs Weekly Comments"
     },
     {
-      "id": "en-28",
+      "id": "en-19",
       "title": "Outbreak of highly contagious canine virus detected in Perth",
       "description": "Dog owners are being urged to watch for signs of a potentially life-threatening virus after canine parvovirus was detected in Balcatta and surrounding suburbs.",
       "url": "https://www.perthnow.com.au/lifestyle/pets/life-threatening-dog-parvovirus-cases-confirmed-at-karrinyup-small-animal-hospital--c-23046934",
@@ -673,7 +601,7 @@
       "sourceName": "Sophie Gannon"
     },
     {
-      "id": "en-29",
+      "id": "en-20",
       "title": "Dog cognitive decline treatment: USF Health develops new gene therapy - AOL",
       "description": "Researchers at the University of South Florida are developing a gene therapy injection aimed at treating canine cognitive decline. The team hopes the one-time treatment will target the disease directly and give pets more",
       "url": "https://www.aol.com/articles/dog-cognitive-decline-treatment-usf-014838000.html",
@@ -682,7 +610,7 @@
       "sourceName": "Jennifer Kveglis"
     },
     {
-      "id": "en-30",
+      "id": "en-21",
       "title": "'The Pitt' star Noah Wyle, family mourn death of beloved dog",
       "description": "\"The Pitt\" star Noah Wyle and his family have bid a tearful farewell to one of their own.",
       "url": "https://www.miamiherald.com/entertainment/article317690613.html",
@@ -691,7 +619,7 @@
       "sourceName": "Amaris Encinas; USA TODAY"
     },
     {
-      "id": "en-31",
+      "id": "en-22",
       "title": "Dystopian video shows goons attacking police dog on Chicago subway",
       "description": "Footage showed a group of men kicking one of dogs deployed to the Chicago Transit Authority (CTA) on the Red Line, a train line connecting the Northside and the Southside of the city.",
       "url": "https://www.dailymail.com/news/article-16220581/Dystopian-video-shows-goons-attacking-police-dog-Chicago-subways-notorious-Red-Line.html",
@@ -700,7 +628,7 @@
       "sourceName": "Dariya Kozhasbay"
     },
     {
-      "id": "en-32",
+      "id": "en-23",
       "title": "News - Bones of 2,000-Year-Old Lap Dog Unearthed in Eastern England - Archaeology Magazine",
       "description": "SPILSBY, ENGLAND—Lincolnshire World reports that the remains of a small dog were discovered during an […]",
       "url": "https://archaeology.org/news/2026/10/19/bones-of-2000-year-old-lap-dog-unearthed-in-eastern-england/",
@@ -709,7 +637,7 @@
       "sourceName": "Jessica Esther Saraceni"
     },
     {
-      "id": "en-33",
+      "id": "en-24",
       "title": "Exclusive | Meet NYC’s ‘doctor dogs’ who are helping hospitalized kids heal",
       "description": "From easing procedure anxiety to helping kids open up, these canine companions offer more than cuddles.",
       "url": "https://nypost.com/2026/10/19/health/how-dogs-at-nyc-hospitals-are-helping-heal-sick-kids/",
@@ -718,7 +646,7 @@
       "sourceName": "Patrice Peck"
     },
     {
-      "id": "en-34",
+      "id": "en-25",
       "title": "1,200-year-old mummified hairless dogs unearthed in Peru",
       "description": "Remains offer first physical evidence of distinctive breed in region and clues about animals’ diets and treatment",
       "url": "https://www.independent.co.uk/news/science/archaeology/peru-hairless-dog-remains-hairless-castillo-de-huarmey-b3069073.html",
@@ -727,7 +655,7 @@
       "sourceName": "Vishwam Sankaran"
     },
     {
-      "id": "en-35",
+      "id": "en-26",
       "title": "Hilkka the dog gives birth to litter and world gets to watch pups grow",
       "description": "You might feel that reality TV has become tiresome, with b-list celebrity clashes and engineered arguments commonplace.",
       "url": "https://www.dailymail.com/news/article-16219413/Dog-named-Hilkka-brings-joy-millions-gives-birth-six-puppies-world-gets-watch-grow-24-7-livestream.html?ito=1490&ns_campaign=1490",
@@ -736,7 +664,7 @@
       "sourceName": "Jamie Boys"
     },
     {
-      "id": "en-36",
+      "id": "en-27",
       "title": "Happy Howl-o-ween! Dogs don their best fancy dress for street party",
       "description": "The dogs and their owners played dress-up as they marched as part of the 36th Annual Tompkins Square Halloween Dog Parade.",
       "url": "https://www.dailymail.com/news/article-16219337/Happy-Howl-Dogs-fancy-dress-spooky-street-party.html",
@@ -745,7 +673,7 @@
       "sourceName": "Caitlin Leng"
     },
     {
-      "id": "en-37",
+      "id": "en-28",
       "title": "Dog anxiety: How to spot triggers and help your dog",
       "description": "New Zealand animal behaviourist Mark Vette shares his tips for helping anxious pets.",
       "url": "https://www.nzherald.co.nz/lifestyle/dog-anxiety-treatment-mark-vettes-training-tips-for-fearful-dogs/CFLXN34XURHXJGJVDFJOWTTHRQ/",
@@ -754,7 +682,7 @@
       "sourceName": "Mark Vette"
     },
     {
-      "id": "en-38",
+      "id": "en-29",
       "title": "East Midlands fire dogs sniff out 580 years of custodial sentences",
       "description": "The canines and their handlers work across the East Midlands to help solve fire investigations.",
       "url": "https://www.bbc.co.uk/news/articles/cmly0newz5r5o",
@@ -763,7 +691,7 @@
       "sourceName": "Emma Petrie"
     },
     {
-      "id": "en-39",
+      "id": "en-30",
       "title": "Internet freaks out as Kristi Noem poses with new hunting dog: ‘Please don’t kill him’",
       "description": "“This poor dog is staring at the camera like he’s on death row.”",
       "url": "https://nypost.com/2026/10/18/us-news/internet-freaks-out-as-kristi-noem-poses-with-new-hunting-dog-please-dont-kill-him/",
@@ -772,7 +700,7 @@
       "sourceName": "Ally Goelz"
     },
     {
-      "id": "en-40",
+      "id": "en-31",
       "title": "5 Reasons You Should Think Twice Before Dressing Your Pet Up for Halloween",
       "description": "From overheating and skin irritation to choking hazards and stress, Halloween costumes can pose unexpected risks for dogs and cats.",
       "url": "https://www.vice.com/en/article/5-reasons-you-should-think-twice-before-dressing-your-pet-up-for-halloween/",
@@ -781,7 +709,7 @@
       "sourceName": "Jillian Drachman"
     },
     {
-      "id": "en-41",
+      "id": "en-32",
       "title": "The 4-Letter Word That Makes Dogs Happy, According to a Trainer",
       "description": "If you live with a canine companion, you already know that your voice carries immense weight in their everyday world. From the moment you wake up in …",
       "url": "https://paradepets.com/dogs/four-letter-word-that-makes-dogs-happy",
@@ -790,7 +718,7 @@
       "sourceName": "Parade Pets AI Desk, Morgan McMurrin"
     },
     {
-      "id": "en-42",
+      "id": "en-33",
       "title": "Archaeologists discover 1,200-year-old mummified hairless dog in Peru",
       "description": "Archaeologists have discovered 1,200-year-old remains of Peru’s famous hairless dogs at an ancient Wari Empire burial site, including remarkably preserved mummies and puppies buried alongside humans. Their unusual teeth,",
       "url": "https://www.sciencedaily.com/releases/2026/10/261016070644.htm",
@@ -799,7 +727,7 @@
       "sourceName": "Currents"
     },
     {
-      "id": "en-43",
+      "id": "en-34",
       "title": "Who's a good mayor? Kitimat adds 2 dogs to the ballot to boost voter turnout",
       "description": "With just 21 per cent of eligible voters casting ballots in the last municipal election, Kitimat is hoping two canine candidates can get more residents — including children — interested in voting.",
       "url": "https://www.cbc.ca/news/canada/british-columbia/kitimat-dog-mayor-race-9.7382752",
@@ -808,7 +736,7 @@
       "sourceName": "Catherine Garrett"
     },
     {
-      "id": "en-44",
+      "id": "en-35",
       "title": "The glitter freckles Taylor Swift made famous are now available for dogs",
       "description": "They’re billed as the “first makeup for fur.”",
       "url": "https://pagesix.com/2026/10/16/style/taylor-swift-fazit-glitter-freckles-are-now-available-for-dogs/",
@@ -817,7 +745,7 @@
       "sourceName": "Hannah Southwick"
     },
     {
-      "id": "en-45",
+      "id": "en-36",
       "title": "A cheapskate’s guide to NYC Halloween fun: Bat school, dog parades and ‘Thriller’ dances",
       "description": "From costumed canines to haunted stoops, these free NYC Halloween thrills are a real treat for your wallet.",
       "url": "https://nypost.com/2026/10/16/lifestyle/free-halloween-events-in-nyc-spooky-fun-on-a-budget/",
@@ -826,7 +754,7 @@
       "sourceName": "Marissa Matozzo"
     },
     {
-      "id": "en-46",
+      "id": "en-37",
       "title": "17 Rare Dog Breeds You Might Not Have Heard of Before - Animals Around The Globe",
       "description": "Animals Around The Globe is a travel platform focused on wildlife and unique destinations, where you can discover all your favourite animal encounters.",
       "url": "https://www.animalsaroundtheglobe.com/17-rare-dog-breeds-you-might-not-have-heard-of-before-fb-160-378190/",
@@ -835,7 +763,7 @@
       "sourceName": "Andrew Alpin"
     },
     {
-      "id": "en-47",
+      "id": "en-38",
       "title": "An abandoned dog's refusal to move and slow trust-building illustrate canine stress responses",
       "description": "Explore how an abandoned dog's decision to wait in one spot reflects acute stress and risk avoidance, offering insights into the gradual process of building trust",
       "url": "https://english.pravda.ru/news/animal/170093-abandoned-dog-stress-response-trust/",
@@ -844,7 +772,7 @@
       "sourceName": "Evgeniya Petrova"
     },
     {
-      "id": "en-48",
+      "id": "en-39",
       "title": "Seoul animal festival brings dogs, sports, live music to city parks - The Korea Times",
       "description": "Seoul is turning three weekends in October into a celebration of animals, bringing dog walks, canine sports competitions, live music and adoption e...",
       "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261016/seoul-animal-festival-brings-dogs-sports-live-music-to-city-parks",
@@ -853,7 +781,7 @@
       "sourceName": "Lee Kyung-min"
     },
     {
-      "id": "en-49",
+      "id": "en-40",
       "title": "Vienna dog owners will have to wash their pets' urine from trees",
       "description": "A Vienna neighbourhood has introduced new rules that tell dog owners to wash their pets' urine from trees.",
       "url": "https://www.dailymail.com/news/article-16213891/Dog-urine-trees-Vienna-new-rules.html",
@@ -862,7 +790,7 @@
       "sourceName": "Perkin Amalaraj"
     },
     {
-      "id": "en-50",
+      "id": "en-41",
       "title": "Audio-Visual Dog Identification and Tracking in Real-World Videos",
       "description": "Identifying individual dogs from barks in real-world videos remains challenging and largely unexplored. Solving this problem would enable long-term behavioral analysis, veterinary monitoring, and animal welfare monitorin",
       "url": "https://arxiv.org/abs/2610.21011v1",
@@ -871,7 +799,7 @@
       "sourceName": "Babu; Aryahvishwa; Jin; Kingsley; Wang; Lillian; Dang; Tuan M; Theron S; Joshi; Jeorge; Cao; Annie; Zhu; Kenny Q"
     },
     {
-      "id": "en-51",
+      "id": "en-42",
       "title": "Barks & Brews event in Easthampton raises $30,000 for Dakin Humane Society",
       "description": "EASTHAMPTON, Mass. (WWLP) - Dog owners enjoyed an afternoon of drinks, food, and canine-friendly activities while supporting animals in need at an upcoming fundraiser for Dakin Humane Society. The 11th annual Barks & Bre",
       "url": "https://www.wwlp.com/news/local-news/hampshire-county/barks-brews-event-in-easthampton-raises-30000-for-dakin-humane-society/",
@@ -880,7 +808,7 @@
       "sourceName": "Ashley Shook"
     },
     {
-      "id": "en-52",
+      "id": "en-43",
       "title": "DOGS PLAYING FOR LIFE To Host Milestone 450th Shelter Playgroup Seminar At Sevier County Animal Shelter!",
       "description": "/PRNewswire-PRWeb/ -- Dogs Playing for Life (DPFL), a national animal welfare nonprofit, is proud to announce its 450th \"Every Dog, Every Day!\" Playgroup...",
       "url": "https://www.prweb.com/releases/dogs-playing-for-life-to-host-milestone-450th-shelter-playgroup-seminar-at-sevier-county-animal-shelter-302910451.html",
@@ -889,7 +817,7 @@
       "sourceName": "Dogs Playing"
     },
     {
-      "id": "en-53",
+      "id": "en-44",
       "title": "THE CANINE PROJECT LAUNCHES FURVIVE - BRINGING LUXURY SKINCARE INGREDIENTS TO DOG BATH DAY",
       "description": "New all-in-one Shampoo + Conditioner + Body Wash pairs Brazilian Copaiba with premium skincare ingredients in a formula thoughtfully created for canine skin",
       "url": "https://www.manilatimes.net/2026/10/09/tmt-newswire/globenewswire/the-canine-project-launches-furvive-bringing-luxury-skincare-ingredients-to-dog-bath-day/2442318",
@@ -898,7 +826,7 @@
       "sourceName": "manilatimes.net"
     },
     {
-      "id": "en-54",
+      "id": "en-45",
       "title": "Canine cardio? How a mobile dog gym keeps your pup healthy",
       "description": "Waggin' Wheels is a mobile dog gym in Halifax that comes right to your door. The business helps dogs exercise safely in the heat of summer or in the dead of win...",
       "url": "https://www.cbc.ca/player/play/video/9.6888463?cmp=rss",
@@ -907,7 +835,7 @@
       "sourceName": "cbc.ca"
     },
     {
-      "id": "en-55",
+      "id": "en-46",
       "title": "Madras Canine Club’s dog shows draw to a close",
       "description": "All Breeds Championship dog shows by Madras Canine Club conclude with German Shepherds and Doberman winning top prizes.",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-dog-shows-draw-to-a-close/article69116790.ece",
@@ -916,7 +844,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-56",
+      "id": "en-47",
       "title": "Is dog perfume necessary for your canine companion?",
       "description": "Luxury fashion house Dolce & Gabbana has unveiled a new dog perfume named \"Fefé.\"",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/is-dog-perfume-necessary-for-your-canine-companion/",
@@ -925,7 +853,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-57",
+      "id": "en-48",
       "title": "Recognising signs of canine asthma in your Dog",
       "description": "Asthma in dogs is an allergic disease characterised by inflammation and constriction of the small airways in the lungs...",
       "url": "https://www.thesouthafrican.com/lifestyle/pets/recognising-signs-of-canine-asthma-in-your-dog/",
@@ -934,7 +862,7 @@
       "sourceName": "thesouthafrican.com"
     },
     {
-      "id": "en-58",
+      "id": "en-49",
       "title": "Taiwan to soon welcome its first indigenous dog as a police canine",
       "description": "",
       "url": "https://focustaiwan.tw/society/202404200004",
@@ -943,7 +871,7 @@
       "sourceName": "focustaiwan.tw"
     },
     {
-      "id": "en-59",
+      "id": "en-50",
       "title": "Detroit TSA canine handler suspended over video of him pulling dog",
       "description": "A TSA canine handler was suspended from his duties after a viral video captured him aggressively yanking a bomb-detecting dog in a busy airport.",
       "url": "https://nypost.com/2023/05/08/detroit-tsa-worker-suspended-over-video-of-him-pulling-dog/",
@@ -952,7 +880,7 @@
       "sourceName": "nypost.com"
     },
     {
-      "id": "en-60",
+      "id": "en-51",
       "title": "Curtains come down on Madras Canine Club’s dog shows",
       "description": "570 dogs belonging to 69 breeds participated in the two-day event",
       "url": "https://www.thehindu.com/news/cities/chennai/curtains-come-down-on-madras-canine-clubs-dog-shows/article65880058.ece",
@@ -961,7 +889,7 @@
       "sourceName": "thehindu.com"
     },
     {
-      "id": "en-61",
+      "id": "en-52",
       "title": "Madras Canine Club’s All Breeds Championship Dog Shows begin",
       "description": "Over 570 canines from 69 different breeds have registered this year",
       "url": "https://www.thehindu.com/news/cities/chennai/madras-canine-clubs-all-breeds-championship-dog-shows-begin/article65875162.ece",
